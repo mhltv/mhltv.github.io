@@ -12,6 +12,6 @@ features:
 - title: V榜
   details: 2022年第一
 - title: 猫眼热度
-  details: 第一
+  details: 在播期第一
 footer: Made by Hang with ❤️
 ---
