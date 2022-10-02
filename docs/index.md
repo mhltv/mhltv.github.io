@@ -5,13 +5,17 @@ tagline: 年少便知天仙好，东京一梦忘不了
 actionText: 进入 →
 actionLink: /线下/
 features:
+- title: 腾讯官方
+  details: 热播期播放量1.427亿，单日峰值超2亿，热度33520，年度TOP 1
+- title: 百度指数
+  details: 剧集峰值91.4万，年度TOP 2，刘亦菲个人峰值33.09万，年度TOP 1
 - title: 豆瓣评分
-  details: 评分人数历史第六，2022年第二。开分8.3,最高8.8
+  details: 评分人数历史第六，开分8.3，最高8.8，专组14万人，8.2万讨论帖
 - title: 德塔文
-  details: 均值峰值2022年第一
+  details: 峰值3.077，3次破3，均值2.674，年度TOP 1
 - title: V榜
-  details: 2022年第一
+  details: 剧集峰值95.61，9次破9，年度TOP 1，赵盼儿单人破9
 - title: 猫眼热度
-  details: 第一
+  details: 峰值9888.7，31次日冠，年度TOP 1
 footer: Made by Hang with ❤️
 ---
