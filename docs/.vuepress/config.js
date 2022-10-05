@@ -78,6 +78,7 @@ module.exports = {
           ]
         }
       ],
+      '/主创/': getSideBar("主创", "主创团队"),
       '/数据/': [
         {
           title: '数据',
@@ -131,7 +132,8 @@ module.exports = {
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
     '@vuepress/last-updated',
-    'reading-progress'
+    'reading-progress',
+    'vuepress-plugin-catalog-graph'
 
   ]
 }
