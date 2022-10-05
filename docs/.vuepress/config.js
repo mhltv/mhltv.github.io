@@ -131,7 +131,16 @@ module.exports = {
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
     '@vuepress/last-updated',
-    'reading-progress'
+    'reading-progress',
+    'social-share', {
+      networks: [
+        `weibo`,
+        `qq`,
+        `douban`,
+        `wechat`,
+        `twitter`,
+       ],
+    }
 
   ]
 }
