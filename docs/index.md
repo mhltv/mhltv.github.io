@@ -14,7 +14,7 @@ features:
 - title: 德塔文
   details: 峰值3.077，3次破3，28次破2.5，均值2.674，均为年度TOP 1
 - title: V榜
-  details: 剧集峰值95.61，9次破9，年度TOP 1，在播期间全程日冠，赵盼儿单人破9
+  details: 峰值95.61，9次破9，年度TOP 1，在播期间全程日冠，赵盼儿单人破9
 - title: 猫眼热度
   details: 峰值9888.7，31次日冠，年度TOP 1，持续在榜112天，破在榜天数历史纪录
 footer: Made by Hang with ❤️
