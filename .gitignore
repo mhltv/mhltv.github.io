@@ -1,3 +1,6 @@
 node_modules/
-.netlify/
 docs/.vuepress/secret.js
+
+# Local Netlify folder
+.netlify
+docs/.vuepress/dist/

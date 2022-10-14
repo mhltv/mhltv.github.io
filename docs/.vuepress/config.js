@@ -1,4 +1,5 @@
 const { description } = require('../../package')
+const secret = require("./secret.js");
 
 const fs = require("fs");
 const path = require("path");
@@ -122,7 +123,8 @@ module.exports = {
             '段子',
             '小黄花',
             '团建',
-            '网站相关'
+            '网站相关',
+            '意见反馈'
           ]
         }
       ],
@@ -165,7 +167,15 @@ module.exports = {
     '@vuepress/back-to-top',
     '@vuepress/last-updated',
     'reading-progress',
-    '@vuepress/active-header-links'
+    '@vuepress/active-header-links',
+    ['@vssue/vuepress-plugin-vssue', {
+      platform: 'github',
+      locale: 'zh',
+      owner: "mhltv",
+      repo: "comments",
+      clientId: secret.clientId,
+      clientSecret: secret.clientSecret,
+    }]
   ]
 }
 
