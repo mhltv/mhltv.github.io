@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /image/menghualu.jpg
+heroImage: /image/data/guanfanghaibao1015.jpg
 tagline: 倾盖如故，白头如新
 actionText: 进入 →
 actionLink: /出圈/
