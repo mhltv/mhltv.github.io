@@ -1,9 +1,9 @@
 ---
 home: true
-heroImage: /image/data/guanfanghaibao.jpg
-tagline: 年少便知天仙好，东京一梦忘不了
+heroImage: /image/menghualu.webp
+tagline: 倾盖如故，白头如新
 actionText: 进入 →
-actionLink: /线下/
+actionLink: /出圈/
 features:
 - title: 腾讯官方
   details: 热播期播放量1.427亿，单日峰值超2亿，热度33520，年度TOP 1
