@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "vuepress-plugin-reading-progress": "^1.0.10",
-    "vuepress-theme-book": "^0.0.9"
+    "vuepress-theme-book": "^0.0.9",
+    "vuepress-plugin-comment": "^0.7.3"
   }
 }
