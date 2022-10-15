@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /image/menghualu.webp
+heroImage: /image/menghualu.jpg
 tagline: 倾盖如故，白头如新
 actionText: 进入 →
 actionLink: /出圈/
@@ -21,5 +21,5 @@ features:
 
 
 ::: slot footer
-Made By 刘亦菲的影迷朋友们 ❤️ | Copyright ©2022 | [Feedback](https://www.douban.com/group/topic/276689884/?_i=5716003Rn8heGv)
+Made By 录人&刘亦菲的影迷朋友们 ❤️ | Copyright ©2022 | [Feedback](https://www.douban.com/group/topic/276689884/?_i=5716003Rn8heGv)
 :::
