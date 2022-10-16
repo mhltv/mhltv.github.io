@@ -6,7 +6,7 @@ actionText: 进入 →
 actionLink: /出圈/
 features:
 - title: 腾讯官方
-  details: 热播期播放量1.427亿，单日峰值超2亿，热度33520，年度TOP 1
+  details: 热播期集均播放量1.427亿，单日峰值超2亿，热度33520，年度TOP 1
 - title: 百度指数
   details: 剧集峰值91.4万，年度TOP 2，刘亦菲个人峰值33.09万，年度TOP 1
 - title: 豆瓣数据
