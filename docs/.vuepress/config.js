@@ -12,7 +12,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: '赵盼儿东京历险记',
+  description: '梦华录,赵盼儿,刘亦菲,电视剧',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -23,6 +23,7 @@ module.exports = {
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ['meta', { name: 'keywords', content: '刘亦菲,梦华录,天仙,电视剧,宋朝,古装剧,群像剧,赵盼儿,录人,出圈'}]
   ],
 
   /**
