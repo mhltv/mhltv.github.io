@@ -201,6 +201,7 @@ module.exports = {
    */
   plugins: [
     '@vuepress/back-to-top',
+    'vuepress-plugin-baidu-autopush',
     '@vuepress/last-updated',
     'reading-progress',
     '@vuepress/active-header-links'
