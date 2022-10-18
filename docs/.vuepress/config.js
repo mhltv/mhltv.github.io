@@ -205,7 +205,19 @@ module.exports = {
     'vuepress-plugin-baidu-autopush',
     '@vuepress/last-updated',
     'reading-progress',
-    '@vuepress/active-header-links'
+    '@vuepress/active-header-links',
+     [
+                'vuepress-plugin-comment',
+                      {
+                        choosen: 'valine',
+                        // options选项中的所有参数，会传给Valine的配置
+                        options: {
+                          el: '#valine-vuepress-comment',
+                          appId: 'tFaIhGENKSXYVi4HPXiyNu5Q-gzGzoHsz',// your appId
+                          appKey: 'GYiFAr8m9c2UdoCWn4p7F9Lz', // your appKey
+                        }
+                      }
+     ]
   ]
 }
 
