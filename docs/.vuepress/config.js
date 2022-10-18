@@ -12,7 +12,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: '赵盼儿东京历险记',
+  description: '《梦华录》（英语：A Dream of Splendor）,为据关汉卿原著《赵盼儿风月救风尘》改编的2022年中国大陆古装剧, 讲述了赵盼儿、宋引章、孙三娘经历各种困境，携手勇闯东京，并在皇城司指挥使顾千帆的帮助下，最终姐妹齐心，通过自己的努力将小茶坊变成东京最大酒楼的故事。由杨阳执导，张巍编剧，刘亦菲、陈晓、柳岩、林允、徐海乔、代旭 领衔主演。2021年2月开拍，同年于7月杀青。2022年6月2日在腾讯视频播出，海外地区则由WeTV、Netflix播出。香港于2022年6月9日起由MyTV Super首播，其后于9月5日起在翡翠台播映粤语配音版。',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -22,7 +22,8 @@ module.exports = {
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['meta', { name: 'keywords', content: '刘亦菲,梦华录,天仙,电视剧,宋朝,古装剧,群像剧,赵盼儿,录人,出圈, A Dream of Splendor,Crystal Liu'}]
   ],
 
   /**
@@ -44,6 +45,10 @@ module.exports = {
       {
         text: '线下',
         link: '/线下/',
+      },
+      {
+        text: '剧情',
+        link: '/剧情/',
       },
       {
         text: '二创',
@@ -84,6 +89,7 @@ module.exports = {
             '文化推广',
             '各类节目',
             '角色台词',
+            '音乐出圈'
           ]
         }
       ],
@@ -111,6 +117,7 @@ module.exports = {
             '精彩剧照',
             '片段赏析',
             '综合评价',
+            '再次合作',
             '后续影响',
             '粉丝致敬',
           ]
@@ -158,6 +165,19 @@ module.exports = {
           ]
         }
       ],
+      
+      '/剧情/': [
+        {
+          title: '剧情',
+          collapsable: false,
+          children: [
+            '分集解析',
+            '全剧解析',
+            '人物分析',
+            '延伸讨论',
+          ]
+        }
+      ],
 
       '/线下/': [
         {
@@ -182,6 +202,7 @@ module.exports = {
    */
   plugins: [
     '@vuepress/back-to-top',
+    'vuepress-plugin-baidu-autopush',
     '@vuepress/last-updated',
     'reading-progress',
     '@vuepress/active-header-links'
