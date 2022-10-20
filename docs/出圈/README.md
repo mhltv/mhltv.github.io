@@ -2,6 +2,6 @@
 
 《梦华录》播出后，引起了全网热烈的讨论，不仅是各大官方媒体予以充分的肯定，外媒也不断报道。同时，宋文化，国风，中国传统美学等领域也随着《梦华录》的热播而掀起来新的一股热潮。
 
-![](/image/discuss/chu.jpg)
+![](/image/discuss/education/chuquantu20.jpg)
 
 画手: [爱海鲜的粥](https://www.douban.com/people/223983129/)
