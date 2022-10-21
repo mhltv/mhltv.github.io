@@ -36,13 +36,7 @@
 地址: [Weibo](https://weibo.com//u/5507569981)
 
 
-### 小红书: A七鱼
 
-![](/image/erchuang/piant/a7y-1.jpg)
-
-简介: 绘画博主
-
-地址: [小红书](https://www.xiaohongshu.com/user/profile/5ce5f6b80000000016007353?xhsshare=CopyLink&appuid=566664665e87e768ada86b46&apptime=1664685742)
 
 
 ### 小红书: zhuzhu
