@@ -7,9 +7,14 @@
 ### 陈廉(管云鹏)
 * [时尚芭莎 | #管云鹏李沐宸芭莎七夕大片#](https://m.weibo.cn/status/4798334701668732)
 * [开封网专访 | 《梦华录》陈廉扮演者管云鹏：为了梦想而努力](https://weibo.com/ttarticle/p/show?id=2309404795221019067782)
+* [顶端新闻《梦华录》陈廉饰演者管云鹏：歪嘴龙王走红是意外，演员才是目标](https://static.dingxinwen.com/dd-sharepage/detail/index.html?id=2107314)
+* [五环「芒种故事」栏目组](https://m.weibo.cn/status/4785737070805321?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)
 * [惊蛰青年 | 从“歪嘴战神”到“爱情保安”，他终于靠《梦华录》火了！](https://mp.weixin.qq.com/s/ZxxnGAjfWXoHYzRIv7tckA)
 * [影视剧盘点 | 演员｜从“歪嘴战神”，到《梦华录》陈廉，他还是杨阳导演公司艺人！](https://mp.weixin.qq.com/s/DYttFEHxLLWpbE6_mh0ssg)
 * [荞凌 | 《梦华录》陈廉：被评为剧中最佳配角的他，背后也付出不为人知的努力](https://mp.weixin.qq.com/s/UnKZa5lmFbPBp8bF4sNwHQ)
+* [历史达杂谈 | 《梦华录》陈廉饰演者管云鹏：歪嘴龙王走红是意外，演员才是目标](https://mp.weixin.qq.com/s/CYqi75TZEVFIGIsy5pLjwA)
+* [影视独舌 | 管云鹏：“歪嘴战神”的逆行与逆袭](https://mp.weixin.qq.com/s/tTWZW-qWp9lFZa3DxedNsg)
+* [八卦女孩 | 凭借“赘婿系列”爆火的歪嘴龙王，在《梦华录》彻底转正了](https://mp.weixin.qq.com/s/M4EDpRzJlA3z5yexILTS-Q)
 
 ### 欧阳旭(徐海乔)
 * [新京报 | 徐海乔：我和《梦华录》中的欧阳旭一样，有股子不服输的劲](https://www.bjnews.com.cn/detail/1656074534169469.html)
@@ -19,6 +24,7 @@
 ### 杜长风(张晓谦)
 
 * [中国电影报道 | #张晓谦说不介意经常演配角](https://m.weibo.cn/status/4781062901466074)
+* [北京青年报《红me访》](https://m.weibo.cn/status/4779550666130075)
 * [苏心 | 《梦华录》大结局，这个男人藏不住了！](https://mp.weixin.qq.com/s/aCgEgKwAkUBGdv-RkaNIfA)
 * [BRTV文艺频道 | 还记得《琅琊榜》的穆青吗？《梦华录》他简直“胖”若两人](https://mp.weixin.qq.com/s/syPAmboQ57hdRPXh2duEMA)
 
@@ -29,10 +35,16 @@
 * [BRTV文艺频道 | 脸熟叫不出名字，来头却不小。《梦华录》代旭凭借“池衙内”成功出圈](https://mp.weixin.qq.com/s/j76ZPsTDsTBjU-ES0dTtzg)
 
 ### 张好好(加奈)
+* [人民日报文创 202208](https://m.weibo.cn/7092535646/4798666697085435)
 * [影视剧盘点 | 演员｜又一位新疆美女！在《梦华录》饰演花魁张好好，她还是赵今麦同学！](https://mp.weixin.qq.com/s/a0ZLFDX53s8UxQZgJyG4tA)
 * [紫音格 | 《梦华录》为影视圈发掘了一个00后好演员，她究竟是什么来头呢？](https://mp.weixin.qq.com/s/fpNMvFtAkDn0djNuWgjXWQ)
 * [云南大喇叭 | 起步就是《梦华录》，19岁就签约大公司，新人加奈不只是幸运](https://mp.weixin.qq.com/s/RJ68HJ92xKuapULcwzz0fg)
 * [电和影 | 冲着刘亦菲看《梦华录》，没想到却被花魁张好好圈粉了](https://mp.weixin.qq.com/s/o_xGE_Qg3ZKXqUb0meSlZQ)
+* [OnlyLady女人志](https://m.weibo.cn/status/4801291493311371?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)
+
+### 葛招娣(李沐宸)
+* [广西云影视](https://m.weibo.cn/status/4785267221202803?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)
+* [太平洋时尚网](https://m.weibo.cn/status/4785284237758030?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)
 
 ### 沈如琢(孙祖君)
 * [溜溜车薪 | 《梦华录》沈如琢是好人还是坏人：孙祖君因角色油腻上热搜](https://mp.weixin.qq.com/s/rDSp4FBcorWnmqukIpQdCA)
@@ -119,7 +131,6 @@
 * [品牌挚友 | 万事利丝绸202208](https://m.weibo.cn/6708435299/4797579723015910)
 * [拍摄 | K-MEDIA202208](https://m.weibo.cn/7097110603/4798702651183855)
 * [拍摄 | 旷势OnlyGenie 202208](https://m.weibo.cn/6182376050/4800965250909213)
-* [人民日报文创 202208](https://m.weibo.cn/7092535646/4798666697085435)
 * [综艺 | 京东方BOE解忧实验室202209](https://m.weibo.cn/6695350120/4808947070666514)
 * [推广 | YSL1971口红 202208](https://m.weibo.cn/6689120770/4798759907890290)
 * [线下活动 | LadyMarry婚纱东莞](http://xhslink.com/iXe7ek)
@@ -139,9 +150,8 @@
 
 录人们陪着《梦华录》一路走来，各位演员们收获了不少录人们的喜爱，那就一起关注演员们的新剧吧，期待《梦华录》所有演员们大放异彩！一切以官宣为准哦~
 
-> 刘亦菲 | 《去有风的地方》
-> 陈晓 | 《云襄传》
-> 柳岩 | 《家有姐妹》
+> 刘亦菲 | 《去有风的地方》     陈晓 | 《云襄传》     柳岩 | 《家有姐妹》      徐海乔《灼灼风流》
+
 * [李沐宸 |《招惹》 | 女主](https://m.weibo.cn/7193254211/4820234403319055)
 * [管云鹏 |《在下李佑》 | 男主](https://www.bilibili.com/video/BV1yB4y1s7aN?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c)`余梦寒（银瓶）、宿宇杰（老贾）参演`
 * [林允 管云鹏 | 《不完美受害人》主演](https://m.weibo.cn/status/4813947582286509)`张翔（周舍）、李圣佳（brown弟弟）、刘珂君（圣人）参演`
