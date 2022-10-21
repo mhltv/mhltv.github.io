@@ -18,6 +18,7 @@
 * [中国新闻网 | 为什么别人都说他“长得挺帅的，可惜长了张嘴”？](https://mp.weixin.qq.com/s/2_YhFn-X_SAkMhArB--lMQ)
 
 ### 商务
+
 * [推广 | 兰蔻菁纯七夕限量礼盒](https://m.weibo.cn/1295950295/4794847141829598)
 * [杂志封面 | 男人风尚九月刊](https://m.weibo.cn/status/4808194663385894)
 * [杂志封面 | 时装LOFFICIEL金九](https://m.weibo.cn/1232221900/4815456675826769)
@@ -38,6 +39,7 @@
 * [艺绽 | 《梦华录》中的孙三娘彪悍讨喜，柳岩这回不炫身材炫演技](https://mp.weixin.qq.com/s/rs_Uz6_cAP0sgPAAFWYxxw)
 * [新京报 | 专访 | 柳岩：每天醒来，都能体会到人生的紧迫感](https://www.bjnews.com.cn/detail/1655369203169133.html)
 * [中国新闻网 | 有聊｜柳岩：曾赤脚奔跑在北京街头的“拼命三娘”](https://www.chinanews.com.cn/cul/2022/07-07/9798072.shtml)
+* [柳岩 | #视相独家# | 专访演员 柳岩](https://m.weibo.cn/status/4785073889215469?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)
 
 ### 商务
 
