@@ -148,7 +148,9 @@ module.exports = {
             '',
             'drawing',
             'drawing-a7y',
+            'drawing-hu',
             'editing',
+            'music',
             "article",
             'song'
           ]

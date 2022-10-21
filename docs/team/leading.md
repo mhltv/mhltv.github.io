@@ -3,7 +3,7 @@
 
 ## 赵盼儿(刘亦菲)
 
-请参考: [刘亦菲](/亦菲/媒体报道.html)
+请参考: [刘亦菲](/cc/reports.html)
 
 
 ![](/image/team/pan-2.gif)
