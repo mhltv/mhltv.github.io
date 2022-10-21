@@ -20,6 +20,17 @@
 
 同日下午18点，公众号发文官宣，并对刘亦菲大为夸赞[链接](https://mp.weixin.qq.com/s/_mJCASrP6ZoNWCi0Q1w2rA)
 
+[@刘亦菲吧FM825 | 让我们以九张卡片讲述这个并肩向前的故事～](https://weibo.com/1765462132/Mbd3I9U9v)
+![](/image/cc/cw1.jpg)
+![](/image/cc/cw2.jpg)
+![](/image/cc/cw3.jpg)
+![](/image/cc/cw4.jpg)
+![](/image/cc/cw5.jpg)
+![](/image/cc/cw6.jpg)
+![](/image/cc/cw7.jpg)
+![](/image/cc/cw8.jpg)
+![](/image/cc/cw9.jpg)
+
 据悉，创维电视+公众号早在2022年6月9日就发文称赞刘亦菲主演的电视剧《梦华录》，直言“开始看《梦华录》，完全是冲着神仙姐姐的颜值去的”，并结合赵盼儿的台词，剧中的诗意场景，毫不吝啬地表达对《梦华录》的喜爱！[《梦华录》里的大宋风华，人间清醒的台词文案](https://mp.weixin.qq.com/s/Kalh6Av0sJJTD7Wgo8BU2w)
 
 至此，刘亦菲目前有且仅有的4个代言，皆是全球代言！祝贺演员刘亦菲！`“赵娘子 生意不错啊”`
