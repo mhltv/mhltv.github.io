@@ -147,6 +147,7 @@ module.exports = {
           children: [
             '',
             'drawing',
+            'drawing-a7y',
             'editing',
             "article",
             'song'
