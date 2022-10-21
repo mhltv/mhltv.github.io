@@ -1,6 +1,9 @@
 # 文化推广
 
 《梦华录》的热播让剧中人物们生活的宋代历史得到广泛关注，不仅吸引各大高校博物馆多方发文讨论，还催生出众多与《梦华录》相关的文化活动，备受观众喜爱。据@新知榜消息，《赵冬梅讲宋史》获得腾讯视频6月知识课程热度榜第一位！“《梦华录》中的饕餮宋宴”拿下新课榜榜首！清明上河园及茶百戏传承人等持续用《梦华录》作为文化推广媒介。
+> 相关报道
+* [@新知榜 | 腾讯视频6月知识课程榜单出炉 《赵冬梅讲宋史》登顶！](https://m.weibo.cn/6289279392/4794092666755440)
+* [综艺报 | 热剧“场外详解”，看《梦华录》如何“影知联动”](https://mp.weixin.qq.com/s/N8F4VDrI1bhDZSQfx0_IoQ)
 
 ## 高校及出版社
 
@@ -36,7 +39,11 @@
 * [人民文学出版社 | 关汉卿笔下的赵盼儿究竟什么样？](https://mp.weixin.qq.com/s/fz_nv2ITcuTNsnErRZMavA)
 * [广西师大出版社 | 《梦华录》火了，但其实你跟宋朝人的生活方式早就一样了！](https://mp.weixin.qq.com/s/55a-qvQJWLS2_b4kqAsfHA)
 * [安徽文艺出版社音乐微课堂  | 《梦华录》——宋风雅乐](https://mp.weixin.qq.com/s/62cgasWzyxYgkGhHFSGbhw)
-
+* [西安工业大学图书馆 | 一梦繁华](https://mp.weixin.qq.com/s/HHG7AoByIS0_aKCWxI8QdA)
+* [科院广播（河南科技学院广播电台） | 特别推送 | 梦华录](https://mp.weixin.qq.com/s/FPM6h79FD88CSfYfcePQaA)
+* [辽宁师范大学图书馆 | 博看荐读丨《梦华录》又掀宋朝热，宋朝的生活竟如此精彩](https://mp.weixin.qq.com/s/3kobxATSRBEkPAN3XYyu_w)
+* [青春川师SICNU | 在？看《梦华录》了吗？](https://mp.weixin.qq.com/s/Vupo6MX3T_iFIIbGLRrT0w)
+* [牛津大学出版社教育服务 | 《梦华录》大结局，tea culture 和 tea acrobatics 了解一下！](https://mp.weixin.qq.com/s/5lAhfiKNdEb23G-Bir1WIQ)
 
 ## 文联及文艺联合会
 
@@ -47,30 +54,65 @@
 
 ## 旅游
 
-* [嘉兴文旅发布 | 感受宋韵之美，来家门口的“大系”展看现实版《梦华录》！](https://mp.weixin.qq.com/s/HSY8Kn8lzuhMOXbr0IvT7g)
-* [南京文旅 | 悠悠夏日长 | 《梦华录》同款美景，南京也有！](https://mp.weixin.qq.com/s/kkCj1IyhCD_yxF55QAlmUw)
+多地文旅相关部门及旅游地发文，一起get《梦华录》同款！
+
+### 中国驻新加坡旅游办事处
+* [中国驻新加坡旅游办事处 | 《梦华录》中的文化传承——宋代点茶](https://mp.weixin.qq.com/s/48mFLoluuAuTm76sDNePNQ)
+
+### 浙江
+* [沪苏浙皖 | 《梦华录》美得像杭州旅游宣传片？这些取景地表示不服](https://mp.weixin.qq.com/s/61MqNVjkfPkEkeD6VTTtkQ)
+* [浙江宣传 | 从《梦华录》里“活”的宋韵想到的](https://mp.weixin.qq.com/s/w1x3_McLcfYVqpvsUGbm5w)
 * [诗画浙江文旅资讯 | 如果一不小心误入进《梦华录》，该如何游玩？这里是《梦华录》中限定的浙江!](https://mp.weixin.qq.com/s/sGot8pdgRG-uPs5OvUF3eQ)
 * [诗画浙江文旅资讯 | 又挖到6种新玩法！浙里过中秋，三天三夜不重样～](https://mp.weixin.qq.com/s/-09Aob-bwyMfAgW3R6R7yw)
-* [苏州姑苏发布 | 来，带你寻《梦华录》中的姑苏](http://mp.weixin.qq.com/s?__biz=MzAxNTQxNTMwMA==&mid=2651104640&idx=1&sn=68f6c57c52adc4e89831fca5cae9dfb0&chksm=807464ebb703edfdf3b92a7d1d6e0799da38e6b6d41aff4e8407a4d4929aa0215a2ff97c69ea&mpshare=1&scene=24&srcid=1003ep2BmWKWxiPmge5rtMQp&sharer_sharetime=1664755483272&sharer_shareid=c98decfaccd594d2e0861568e577e1ff#rd)
+* [嘉兴文旅发布 | 感受宋韵之美，来家门口的“大系”展看现实版《梦华录》！](https://mp.weixin.qq.com/s/HSY8Kn8lzuhMOXbr0IvT7g)
+
+### 江苏
+* [苏州姑苏发布 | 🤩未来范儿十足！记得早点来！](https://mp.weixin.qq.com/s/FLa0R17eZwhTUESuABGExA)
+* [苏州姑苏发布 | 来，带你寻《梦华录》中的姑苏](https://mp.weixin.qq.com/s/tWLGj1x8H80xqrAtlyZyEA)
 * [苏州园林官微 | 跟着《梦华录》，解锁虎丘的“宋代美学”](https://mp.weixin.qq.com/s/2YH7NocDexkZVoYRVaj1kg)
+* [吴江文体广旅 | 镜里千秋 | 跟着《梦华录》了解宋代铜镜](https://mp.weixin.qq.com/s/znYbUKlI0itrcf1pkDkNJw)
+* [南京日报 | 这个中秋，来一场“微度假”](https://mp.weixin.qq.com/s/enQI7SQ6Uedu_RQhSG_A5Q)
+* [南京文旅 | 悠悠夏日长 | 《梦华录》同款美景，南京也有！](https://mp.weixin.qq.com/s/kkCj1IyhCD_yxF55QAlmUw)
+* [无锡影视基地 | 顾盼生辉丨敬华梦一场，盼影城相见！](https://mp.weixin.qq.com/s/vrWawIT9E26XsqkS8koPdQ)
+* [无锡博报生活 | 跟着《梦华录》去追初夏无锡](https://mp.weixin.qq.com/s/xQlEkvBHwpA_dQeQGctmiw)
+* [无锡博报 | 无锡，一夜爆红！](https://mp.weixin.qq.com/s/kc_PZ516fmvLDJdJxd4aIg)
+
+### 河南
+* [河南文旅厅 | 热播剧《梦华录》掀起宋文化热潮](https://m.weibo.cn/2001424242/4780677796989577)
+* [洛阳日报 | 洛阳人穿越到《梦华录》，请带好这本指南！](https://m.weibo.cn/3579338572/4783951338281604)
+* [文旅开封 | 看看《梦华录》里的繁华，走一走赵盼儿来时的路](https://m.weibo.cn/1975419900/4778490567852063)
+* [开封日报 | 《梦华录》爆火！开封，这座低调的“八朝古都”藏不住了！](https://mp.weixin.qq.com/s/OVfl40UUbfMR1P2OL9Qxkw)
+* [开封日报 | 梦华录&开封城，牵手成功啦！](https://mp.weixin.qq.com/s/c6wpayw_1HPoXtydz9oq8w)
+* [开封市文广旅局 | 爆火！《梦华录》演绎北宋东京城——世界最繁华的都城](https://mp.weixin.qq.com/s/OH3SNmL4IOfBpJqPu5id8A)
+* [汴梁晚报 | 来一趟开封，看看《梦华录》里的繁华！](https://mp.weixin.qq.com/s/qf-j1GdclJDUktGwg-JZmQ)
+* [汴梁晚报 | 开封的风、开封的景，就是这么迷人！](https://mp.weixin.qq.com/s/SJZ14zA1tGtiOB62rce97w)
+
+### 湖北
+* [武汉市文化和旅游局 | 武汉伢刘亦菲时隔16年回归电视剧](https://m.weibo.cn/2140196951/4777364556354372)
+* [恩施电视台 | 《梦华录》里刘亦菲饰演的赵盼儿说：中原就是这样！中原的朋友来恩施避暑呀](https://mp.weixin.qq.com/s/rP_o4G08WDV0LImRQA_aeg)
+
+### 四川
+* [金温江（成都市温江区融媒体中心） | 藏不住了！《梦华录》同款宋韵美学，就在温江这些地方 →](https://mp.weixin.qq.com/s/mk4Mrt58vIvHuIBe84MMgA)
+* [天府发布 | 用《梦华录》的方式打开天府新区，适配度99.9%？](https://mp.weixin.qq.com/s/dc91AO-kUz-X800UWqIiXQ)
+* [泸州发布 | 仪式感不输东京临安，瞧瞧宋代泸州人的精致生活](https://m.weibo.cn/2815494720/4782817467173135)
+
+### 广东
+* [广州印象 | 广州第一批影视取景地公布！假如《梦华录》在广州拍摄...](https://mp.weixin.qq.com/s/R-fe3nddb3G4Uprw9nvipg)
+* [中山发布 | 《梦华录》同款，中山版美景来了！](https://mp.weixin.qq.com/s/ZFLkbLRor3DaIR6VoqTt6w)
+* [湛江发布 | 和大热网剧《梦华录》惊喜联动的雷州，原来是这样的存在……](https://mp.weixin.qq.com/s/tP1XnK_ZOh7-qg1txATtSA)
+
+### 江西
 * [微博/鹰潭文旅 | 电视剧《梦华录》里三娘的果子想必大家都垂涎已久了吧](https://m.weibo.cn/status/4782842506381636)
 * [鹰潭文旅 | 在龙虎山Get《梦华录》同款美景，就是这么简单！](https://m.weibo.cn/status/4786081473761544)
-* [河南文旅厅 | 热播剧《梦华录》掀起宋文化热潮](https://m.weibo.cn/2001424242/4780677796989577)
-* [天府发布 | 用《梦华录》的方式打开天府新区，适配度99.9%？](https://mp.weixin.qq.com/s/dc91AO-kUz-X800UWqIiXQ)
-* [文旅开封 | 看看《梦华录》里的繁华，走一走赵盼儿来时的路](https://m.weibo.cn/1975419900/4778490567852063)
-* [无锡影视基地 | 顾盼生辉丨敬华梦一场，盼影城相见！](https://mp.weixin.qq.com/s/vrWawIT9E26XsqkS8koPdQ)
-* [浙江宣传 | 从《梦华录》里“活”的宋韵想到的](https://mp.weixin.qq.com/s/w1x3_McLcfYVqpvsUGbm5w)
-* [中山发布 | 《梦华录》同款，中山版美景来了！](https://mp.weixin.qq.com/s/ZFLkbLRor3DaIR6VoqTt6w)
-* [今日闵行 | 小桥流水、渔舟唱晚……从《梦华录》里，我们挖到了闵行的旧时光](https://mp.weixin.qq.com/s/eK_qMkafuQmJIt-SlR_zSg)
-* [泸州发布 | 仪式感不输东京临安，瞧瞧宋代泸州人的精致生活](https://m.weibo.cn/2815494720/4782817467173135)
-* [武汉市文化和旅游局 | 武汉伢刘亦菲时隔16年回归电视剧](https://m.weibo.cn/2140196951/4777364556354372)
-* [吴江文体广旅 | 镜里千秋 | 跟着《梦华录》了解宋代铜镜](https://mp.weixin.qq.com/s/znYbUKlI0itrcf1pkDkNJw)
-* [金温江（成都市温江区融媒体中心） | 藏不住了！《梦华录》同款宋韵美学，就在温江这些地方 →](https://mp.weixin.qq.com/s/mk4Mrt58vIvHuIBe84MMgA)
+
+### 山东
 * [济南文旅发展集团 | 《梦华录》的同款唯美意境，济南也有！](https://mp.weixin.qq.com/s/YrGvwL8Q3datcImRYW-TcQ)
-* [广州印象 | 广州第一批影视取景地公布！假如《梦华录》在广州拍摄...](https://mp.weixin.qq.com/s/R-fe3nddb3G4Uprw9nvipg)
-* [沪苏浙皖 | 《梦华录》美得像杭州旅游宣传片？这些取景地表示不服](https://mp.weixin.qq.com/s/61MqNVjkfPkEkeD6VTTtkQ)
-* [洛阳日报 | 洛阳人穿越到《梦华录》，请带好这本指南！](https://m.weibo.cn/3579338572/4783951338281604)
-* [中国驻新加坡旅游办事处 | 《梦华录》中的文化传承——宋代点茶](https://mp.weixin.qq.com/s/owlrnR98FBrYH2MJF9cB-g)
+
+### 上海
+* [今日闵行 | 小桥流水、渔舟唱晚……从《梦华录》里，我们挖到了闵行的旧时光](https://mp.weixin.qq.com/s/eK_qMkafuQmJIt-SlR_zSg)
+
+### 重庆
+* [重庆旅游CQ | 《重庆旅游》2022年8月新刊｜重庆的宋朝那些事儿](https://mp.weixin.qq.com/s/SLmgoWAX7ZjH_5LizDgUAQ)
 
 
 ## 文化场馆
@@ -81,7 +123,20 @@
 * [宁波图书馆 | 《梦华录》爆红！离不开阿拉宁波人 | 明州往事](https://mp.weixin.qq.com/s/oLnW3E7YiIsQ-6McwqOTiA)
 * [南京图书馆 | 随《梦华录》，来南图品古韵文化，传中华风雅~](https://mp.weixin.qq.com/s/ZuKebP4bE3dC96Wj8vm_eQ)
 * [首都图书馆 | 开局即“出道”，这CP感绝了](https://mp.weixin.qq.com/s/6bJnnjLB5KQSI94_JZn08g)
+* [杭州图书馆 | 从《梦华录》中看大宋的繁华之美](https://mp.weixin.qq.com/s/5_BSueDms3Rav-viuyRNBg)
+* [常州市图书馆 | 《梦华录》——宋朝极致美学大赏](https://mp.weixin.qq.com/s/KaqbFSrkw7Ub_NjK2xsvog)
+* [盐城市图书馆 | 阅读推荐丨从《梦华录》中看大宋的繁华之美](https://mp.weixin.qq.com/s/DCs_2ZQCmR0obwoHT1ucVg)
+* [湖北省图书馆 | 随《梦华录》梦回宋朝在书中邂逅千年前的繁华](https://mp.weixin.qq.com/s/j2T2M1640x5oEu-4cqH7Bg)
+* [浦东图书馆 | 《梦华录》中的文化小知识有哪些？](https://mp.weixin.qq.com/s/IWXxEIaDAX8J36AtPGqDKA)
+* [太原市图书馆 | 书香雅集 ▏走进《梦华录》，体验宋代士民花生活](https://mp.weixin.qq.com/s/vSo4ll9HfZcr1_k_jIFSyA)
+* [长沙图书馆 | 《梦华录》爆火！一起来读惊艳众生的大宋风华吧！](https://mp.weixin.qq.com/s/8WFiSP1PTBLuJQSS3wxHRg)
+* [黄山市图书馆 | 云上图书馆|从《梦华录》中看大宋的繁华之美](https://mp.weixin.qq.com/s/Bz6GinX1wZc-YTPn8EuAxQ)
+* [唐山市图书馆 | 唐图虽闭馆 服务不打烊丨扫码读书：领略《梦华录》背后的古典风采](https://mp.weixin.qq.com/s/SVU70pXST283h15O2L52JA)
+* [忻州图书馆 | 【忻州市图书馆】 | 一起去看《梦华录》之外大宋朝的繁花似锦](https://mp.weixin.qq.com/s/9rg36ZTwOhDvf4YSOU6QaQ)
+* [苏州图书馆 | 书里书外 | 阅生活：《梦华录》热播！如果有一次穿越的机会，不如去大宋汴京看看](https://mp.weixin.qq.com/s/t_N_M5zxSelV7Lfzp-Xv-A)
 * [济南图书馆  | 追《梦华录》了？看到“网红济南”影子没](https://mp.weixin.qq.com/s/9AA_WCUTD4TJhChzwwchzg)
+* [香港商报网 | 来深博看《东京梦华录》吧！此时，脑海里是否立刻浮现@刘亦菲 和@陈晓 主演的#梦华录#呢？](https://m.weibo.cn/status/4796950727103816?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)
+* [大河报·豫视频 | 一眼穿越千年，用《梦华录》方式打开开封市博物馆](https://news.dahebao.cn/dahe/appcommunity/1746705?newsId=1746705)
 * [上海自然博物馆 | 一朵花开千叶红，折来为礼定真情](https://mp.weixin.qq.com/s/QvNo02SsbmTfggucx2gArg)
 * [北京自然博物馆 | 小暑 | 跟着池衙内了解一下“玉头陀”](https://mp.weixin.qq.com/s/Snb8ILR9gVuHGVFvIMA4WQ)
 * [上海玻璃博物馆 | 硬核科普 |《梦华录》中有bug？](https://mp.weixin.qq.com/s/8n6mLkUsffUpEfF4K6WXgA)
@@ -90,20 +145,17 @@
 * [北京大学百周年纪念讲堂 | 画家会像《梦华录》夜宴图那样在画中留下暗语吗？今晚郑岩教授直播系列收官！来一探究竟！](https://mp.weixin.qq.com/s/Fv4JPiI_GZ9-WqvOgahOQg)
 * [成都文殊院 | 你向往的“梦华录”生活，就藏在禅院茶文化里](https://mp.weixin.qq.com/s/K2HGKmFBbc6TCSSZZ238qQ)
 * [汉长安城未央宫 | 《梦华录》带火“点茶”！汉代茶文化你了解多少？](https://mp.weixin.qq.com/s/lfFzm_cAt0OGD_y4gKqzxQ)
-* [开封市文化馆  | 《梦华录》之“非遗那些事儿”——果子](https://mp.weixin.qq.com/s/9fOh0UNzRVz2oWKyur_Ofw)
 * [崑岫堂艺术馆  | 艺术情报站｜当《梦华录》遇见最美中国色](https://mp.weixin.qq.com/s/C0QWid-6D_jhLNvmV7uTxg)
+* [泉州大剧院 | 仕女图活了！《梦华录》花月宴“一宴成名”，这些从古画里走出来的舞蹈美绝了](https://mp.weixin.qq.com/s/5pOq34IZfUkn5GmSXBqadQ)
+* [看见文化馆（浙江省文化馆） | “浅尝”一杯《梦华录》同款径山茶 ](https://mp.weixin.qq.com/s/dGcJj1v9DihY8HZVrnan7A)
+* [开封市文化馆  | 《梦华录》之“非遗那些事儿”——果子](https://mp.weixin.qq.com/s/9fOh0UNzRVz2oWKyur_Ofw)
 * [国家大剧院 | 史上最强琵琶天团来袭，共赴国乐盛宴](https://mp.weixin.qq.com/s/HGd-Hq9PfzWJ76IyHQ2X6g)
 * [广州大剧院 | 赵盼儿学绿腰舞的教坊司是个什么地方？](https://mp.weixin.qq.com/s/EPs0JtRfpdZjNmfgF1Hnhw)
-* [泉州大剧院 | 仕女图活了！《梦华录》花月宴“一宴成名”，这些从古画里走出来的舞蹈美绝了](https://mp.weixin.qq.com/s/5pOq34IZfUkn5GmSXBqadQ)
-
-
-
 
 
 ## 文旅联动
 
 * [《赵冬梅讲宋史》 | 赵冬梅讲《梦华录》背后的宋史细节](https://m.v.qq.com/x/m/play?vid=f3340hkc2if&cid=mzc00200oiy8g7q&url_from=share&second_share=0&share_from=copy)
-* [@新知榜 | 腾讯视频6月知识课程榜单出炉 《赵冬梅讲宋史》登顶！](https://m.weibo.cn/6289279392/4794092666755440)
 * [章春来 | 从《梦华录》聊宋朝生活图鉴](https://v.qq.com/x/cover/mzc002002ci8mec/e3334n479xk.html)
 * [侯鸿斌 | 从《梦华录》看古今人情世故](https://m.v.qq.com/x/m/play?vid=q3342qw3dfh&cid=mzc002002m8gevm&url_from=share&second_share=0&share_from=copy)
 * [平西府文化 | 宋你一点小知识☝追梦华录秒懂大宋](https://v.qq.com/x/cover/mzc00100mv44igi/f0043kysy9e.html)
