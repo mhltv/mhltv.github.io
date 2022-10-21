@@ -8,7 +8,7 @@
 * [明报/即时娱乐 | 刘亦菲秒换表情 期盼变伤心 被赞“教科书式演技”](https://ol.mingpao.com/ldy/showbiz/latest/20220907/1662548828290/%E5%A4%A2%E8%8F%AF%E9%8C%84-%E5%8A%89%E4%BA%A6%E8%8F%B2%E7%A7%92%E6%8F%9B%E8%A1%A8%E6%83%85-%E6%9C%9F%E7%9B%BC%E8%AE%8A%E5%82%B7%E5%BF%83-%E6%9B%AC%E3%80%8C%E6%95%99%E7%A7%91%E6%9B%B8%E5%BC%8F%E6%BC%94%E6%8A%80%E3%80%8D)
 * [新浪网 | 刘亦菲是梦华录成功的关键，网友：不愧是神仙姐姐，演活了赵盼儿](https://k.sina.com.cn/article_6773195183_193b6c1af00102bv4a.html?from=ent&subch=star)
 * [凤凰新闻 | 梦华录热播，刘亦菲陈晓演技获好评，刘宇宁张靓颖的歌声受追捧](https://ishare.ifeng.com/c/s/v006xAG-_fdC55jENJKMLBHhpZPpdX1xP0rSQ3jhh4C8FD0rTfAJa4m4WEW-_LsVZGQmwu?spss=np&recallChannel=searchResult&channelId=&aman=bSf17g30b9147RebbIe48)
-* [新浪网 | 刘亦菲是梦华录成功的关键，网友：不愧是神仙姐姐，演活了赵盼儿](https://k.sina.com.cn/article_6773195183_193b6c1af00102bv4a.html?from=ent&subch=star)
+
 
 ## 相关采访
 

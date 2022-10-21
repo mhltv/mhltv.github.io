@@ -38,12 +38,12 @@
 * [安徽文艺出版社音乐微课堂  | 《梦华录》——宋风雅乐](https://mp.weixin.qq.com/s/62cgasWzyxYgkGhHFSGbhw)
 
 
-## 文联
+## 文联及文艺联合会
 
 * [上海文联 | 《梦华录》看了还不过瘾？快来认识他笔下更多“乘风破浪的姐姐”吧](https://mp.weixin.qq.com/s/Bi7_njkw_Rl36LZGKcm4pQ)
 * [上海文联 | 宋朝的文艺生活，你了解多少？](https://mp.weixin.qq.com/s/K9SEsomszxl-eeVAsDBpHg)
 * [湖南文联 | 艺评丨陈天佑：从《梦华录》看中国文学中的“双姝叙事”](https://mp.weixin.qq.com/s/DV_wQ89OAEvmktj-VvY4mw)
-
+* [福建文艺网 | “太上头”！藏在《梦华录》中的福文化……](https://mp.weixin.qq.com/s/CCkCDN9WEN9_6PZPbVylww)
 
 ## 旅游
 
@@ -74,8 +74,9 @@
 
 
 ## 文化场馆
-
+* [中国盲文图书馆 | 追梦华录的视障女孩](https://mp.weixin.qq.com/s/QSUvYh7RYAdJ_jEQ8tf8Dw)
 * [国家图书馆 | 文津好书 | 一起寻觅一朝风雅，宋朝梦华](https://mp.weixin.qq.com/s/MF9j-IO0MEyYyXzQrK14Fg)
+* [湖北省图书馆 | 随《梦华录》梦回宋朝在书中邂逅千年前的繁华](https://mp.weixin.qq.com/s/j2T2M1640x5oEu-4cqH7Bg): 其中 `随《梦华录》梦回宋朝，在书中邂逅千年前的繁华` 的主题活动，被国内多家图书馆转载，不再一一转载链接。
 * [上海图书馆 | 微阅读丨《梦华录》热播，有书在手，梦回汴京繁华！](https://mp.weixin.qq.com/s/w7qIkgR16FNelE16XrMZMg)
 * [宁波图书馆 | 《梦华录》爆红！离不开阿拉宁波人 | 明州往事](https://mp.weixin.qq.com/s/oLnW3E7YiIsQ-6McwqOTiA)
 * [南京图书馆 | 随《梦华录》，来南图品古韵文化，传中华风雅~](https://mp.weixin.qq.com/s/ZuKebP4bE3dC96Wj8vm_eQ)
@@ -90,11 +91,13 @@
 * [成都文殊院 | 你向往的“梦华录”生活，就藏在禅院茶文化里](https://mp.weixin.qq.com/s/K2HGKmFBbc6TCSSZZ238qQ)
 * [汉长安城未央宫 | 《梦华录》带火“点茶”！汉代茶文化你了解多少？](https://mp.weixin.qq.com/s/lfFzm_cAt0OGD_y4gKqzxQ)
 * [开封市文化馆  | 《梦华录》之“非遗那些事儿”——果子](https://mp.weixin.qq.com/s/9fOh0UNzRVz2oWKyur_Ofw)
-* [开封市文化馆  | 《梦华录》之“非遗那些事儿”——果子](https://mp.weixin.qq.com/s/9fOh0UNzRVz2oWKyur_Ofw)
 * [崑岫堂艺术馆  | 艺术情报站｜当《梦华录》遇见最美中国色](https://mp.weixin.qq.com/s/C0QWid-6D_jhLNvmV7uTxg)
 * [国家大剧院 | 史上最强琵琶天团来袭，共赴国乐盛宴](https://mp.weixin.qq.com/s/HGd-Hq9PfzWJ76IyHQ2X6g)
 * [广州大剧院 | 赵盼儿学绿腰舞的教坊司是个什么地方？](https://mp.weixin.qq.com/s/EPs0JtRfpdZjNmfgF1Hnhw)
 * [泉州大剧院 | 仕女图活了！《梦华录》花月宴“一宴成名”，这些从古画里走出来的舞蹈美绝了](https://mp.weixin.qq.com/s/5pOq34IZfUkn5GmSXBqadQ)
+
+
+
 
 
 ## 文旅联动

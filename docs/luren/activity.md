@@ -1,6 +1,12 @@
 # 团建活动
 
 
+部分活动主办账号:
+
+[录家村永安楼](https://space.bilibili.com/2011135605?spm_id_from=333.337.0.0)
+
+
+
 ## 统一头像
 
 ![](/image/lu/tuan-1.webp)

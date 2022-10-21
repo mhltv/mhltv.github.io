@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方/知名媒体 `81`个，文章/微博/公众号条目`141`篇。
+本文共收录 权威/官方/知名媒体 `81`个，文章/微博/公众号条目`142`篇。
 
 
 ### 新华社
@@ -153,6 +153,7 @@
 * [古代版“叫我大掌柜”：宋代女子要想开店，如何顺利“通关”](https://mp.weixin.qq.com/s/XaNi9RAe4bqaoDqMLwX54g)
 * [国历首发 | 刘云军×张向荣：她究竟是怎么从一名街头“花鼓女”成为权倾朝野的皇后的？](https://mp.weixin.qq.com/s/uqV_cxTTtRl_1eUAJa4H3Q)
 * [有工资，有打赏：《梦华录》里的乐工可以很有钱](https://mp.weixin.qq.com/s/t8LsKnY2JEJT1VLQrKGilA)
+* [填表时的籍贯，在古代有多重要？](https://mp.weixin.qq.com/s/a-LA29X1y88bs6__CyFX1w)
 
 ### 环球人物杂志
 * [微博: #点茶技艺传承人在茶盏上作画#](https://m.weibo.cn/1647688972/4778184412758873)

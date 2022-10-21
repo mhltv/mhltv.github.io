@@ -72,3 +72,8 @@
 
 ## 缺德弹幕大赏
 
+### 剪辑视频
+
+* [假如《梦华录》弹幕有声音](https://www.bilibili.com/video/BV1eW4y1k7xX?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c)
+* [《梦华录》的弹幕这么搞笑的么！笋还是你们录人最笋！](https://www.bilibili.com/video/BV1yr4y1x73K?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c)
+* [《梦华录》弹幕名场面集锦【上】录人的嘴笋到流泪，全剧演技最差的男人出现了！](https://www.bilibili.com/video/BV1st4y1H7jx?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c)
