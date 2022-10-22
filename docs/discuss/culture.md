@@ -23,6 +23,7 @@
 ## 高校及出版社
 
 众多高校及出版社齐发文！探讨《梦华录》中的文化、美术、艺术、建筑、音乐、色彩、服饰等美的感受！
+
 ### 高校
 * [北京大学 | 北大教授带你“追剧”！](https://mp.weixin.qq.com/s/bpgBUhN65bA7gsHBaGcLWA)
 * [THAD6 清华大学建筑设计六分院 | 梦华录之开封府——走进衙署园林](https://mp.weixin.qq.com/s/E3-R5xeK2hK7S3mXoPWrcw)
@@ -157,6 +158,9 @@
 ### 博物馆
 * [香港商报网 | 来深博看《东京梦华录》吧！此时，脑海里是否立刻浮现@刘亦菲 和@陈晓 主演的#梦华录#呢？](https://m.weibo.cn/status/4796950727103816?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)
 * [大河报·豫视频 | 一眼穿越千年，用《梦华录》方式打开开封市博物馆](https://news.dahebao.cn/dahe/appcommunity/1746705?newsId=1746705)
+* [南京市博物总馆 | 博物致知｜是的，《梦华录》的名场面来了。](https://mp.weixin.qq.com/s/rlSTq9nk1vN5KRB9hZAu6A) `含上下两篇，可自行查阅`
+* [南京市博物总馆 | 博物致知丨穿越时空的秘“镜”](https://mp.weixin.qq.com/s/i3XQ2pIlCNHG8aAOGkLCEg)
+* [南京市博物总馆 | 博物致知丨那是一个“男子簪花”也蔚然成风的时代…](https://mp.weixin.qq.com/s/GYZOHWKDnt-HTCZFislIIA) `此公众号多次发文科普，感兴趣可自行查阅`
 * [上海自然博物馆 | 一朵花开千叶红，折来为礼定真情](https://mp.weixin.qq.com/s/QvNo02SsbmTfggucx2gArg)
 * [北京自然博物馆 | 小暑 | 跟着池衙内了解一下“玉头陀”](https://mp.weixin.qq.com/s/Snb8ILR9gVuHGVFvIMA4WQ)
 * [上海玻璃博物馆 | 硬核科普 |《梦华录》中有bug？](https://mp.weixin.qq.com/s/8n6mLkUsffUpEfF4K6WXgA)
