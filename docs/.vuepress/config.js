@@ -104,6 +104,7 @@ module.exports = {
             'celebrity',
             'brand',
             'culture',
+            'tea',
             'tv-shows',
             'lines',
             'music'
