@@ -117,6 +117,16 @@
 
 链接: [第五百一十四期丨走进汉服小课堂，探索褙子的秘密](https://m.weibo.cn/6413529273/4826195277119845)
 
+### 武汉广播电视台 
+
+* [主播舜泽：拯救“剧荒”的古装剧](https://weibo.com/1774215272/LyKhE8tGn)
+
+### 武汉广播电视台经济频道WHTV-4《消费前沿》
+
+![](/image/discuss/cha/1whgbdst.png)
+
+* [《梦华录》刘亦菲点茶是如何做的？快跟主播攀攀一起学“点茶”吧！](https://mp.weixin.qq.com/s/Bo5Bgwg4HV6Aor2nHSL6wA)
+
 
 ## 财经节目
 
