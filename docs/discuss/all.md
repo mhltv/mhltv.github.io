@@ -123,7 +123,6 @@
 * [CYCA形体礼仪 | 茶桌礼仪 | 跟着《梦华录》一起，体验中国传统文化的饮茶之道](https://mp.weixin.qq.com/s/A3BEG8gUYTdVbCDx6TJTpg)
 * [成都高新科普e | 《梦华录》里的这一幕，学问非常大……](https://mp.weixin.qq.com/s/uChQMfNonysZ93socZ2NlQ)
 * [我们都爱宋朝（吴钩） | 梦华录：宋朝人是怎么斗茶的？](https://mp.weixin.qq.com/s/6H96CbOkwQE1P4AXA-qKpA)
-* [福建文艺网 | “太上头”！藏在《梦华录》中的福文化……](https://mp.weixin.qq.com/s/CCkCDN9WEN9_6PZPbVylww)
 * [锦观新闻 | 《梦华录》太上头，宋韵点茶现“锦观”](https://mp.weixin.qq.com/s/10y7y3jkJaefxeNVFvu3gQ)
 * [锦观新闻 | 只知道《梦华录》？成都早有茶百戏](https://mp.weixin.qq.com/s/_Ew0kyVSz_BoKfUlpMcFTA)
 * [科技日报 | 咖啡拉花，又是古人玩剩下的！《梦华录》里的这一幕，学问非常大……](https://mp.weixin.qq.com/s/Fya8T9OGEN2SLgAqhFo5mg)
