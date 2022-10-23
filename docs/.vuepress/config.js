@@ -107,7 +107,8 @@ module.exports = {
             'tea',
             'tv-shows',
             'lines',
-            'music'
+            'music',
+            'ordinary'
           ]
         }
       ],
