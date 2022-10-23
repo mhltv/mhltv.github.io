@@ -31,7 +31,7 @@
 
 ![](/image/discuss/other/youxi2.png)
 * [摩尔庄园 | 写实还原梦华录中的赵氏茶坊](http://xhslink.com/ftFRhk)
-* [原神 | 梦华录同款尘歌壶] (http://xhslink.com/zh8qkk)
+* [原神 | 梦华录同款尘歌壶](http://xhslink.com/zh8qkk)
 * [江南百景图 | @春雾绿橘酒 仿梦华录场景](https://m.weibo.cn/6558660872/4827462103993383)
 ![](/image/discuss/other/jiangnan2.jpg)
 
@@ -114,4 +114,7 @@
 * [《梦华录》同款汉服](http://xhslink.com/jimYhk)
 * [梦华录同款汉服婚纱照](http://xhslink.com/3dlYhk)
 
-`注： 各种同款实在数不胜数，就不一一收录啦！·
+`注： 各种同款实在数不胜数，就不一一收录啦！
+
+
+
