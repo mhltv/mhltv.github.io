@@ -4,7 +4,7 @@
 
 ## 反炸
 
-* [浙江常山公安 | 反炸短视频展播——#梦华录#之反炸风云]((https://m.weibo.cn/2234300122/4805270977119050) `瓦房店检察（辽宁省瓦房店市人民检察院）、东方红人民检察（黑龙江省东方红林区人民检察院）、抚顺检察、大连金州检察、亚布力人民检察、延安中院、正义蒙自（蒙自市人民检察院）、南宁西乡塘检察等单位均有转发`
+* [浙江常山公安 | 反炸短视频展播——#梦华录#之反炸风云](https://m.weibo.cn/2234300122/4805270977119050) `瓦房店检察（辽宁省瓦房店市人民检察院）、东方红人民检察（黑龙江省东方红林区人民检察院）、抚顺检察、大连金州检察、亚布力人民检察、延安中院、正义蒙自（蒙自市人民检察院）、南宁西乡塘检察等单位均有转发`
   
 * [平安江苏 | #《梦华录》反套路#](https://weibo.com/1935167034/LBY4qC7xT)
   
@@ -13,7 +13,7 @@
 
 ### 视频画面引用
 ![](/image/discuss/other/siwei2.png)
-[思维实验室 |  宋朝有多富裕？为什么又混的那么惨？](https://www.bilibili.com/video/BV1kt4y1J7LH/)	
+[思维实验室 |  宋朝有多富裕？为什么又混的那么惨？](https://www.bilibili.com/video/BV1kt4y1J7LH)	
 
 ### 公众号文章封面
 ![](/image/discuss/other/peitu2.png)
@@ -30,9 +30,9 @@
 ## 游戏
 
 ![](/image/discuss/other/youxi2.png)
-[摩尔庄园 | 写实还原梦华录中的赵氏茶坊](http://xhslink.com/ftFRhk)
-[原神 | 梦华录同款尘歌壶] (http://xhslink.com/zh8qkk)
-[江南百景图 | @春雾绿橘酒 仿梦华录场景](https://m.weibo.cn/6558660872/4827462103993383)
+* [摩尔庄园 | 写实还原梦华录中的赵氏茶坊](http://xhslink.com/ftFRhk)
+* [原神 | 梦华录同款尘歌壶] (http://xhslink.com/zh8qkk)
+* [江南百景图 | @春雾绿橘酒 仿梦华录场景](https://m.weibo.cn/6558660872/4827462103993383)
 ![](/image/discuss/other/jiangnan2.jpg)
 
 
@@ -40,11 +40,11 @@
 
 ### 各式宣传
 ![](/image/discuss/other/hangzhouyidong.png)
-[罗成老板 | 别说我欺负女孩子，我们家的茶点一定要赢！你们说呢？ ](https://video.weibo.com/show?fid=1034:4784588577505384)
-[中国联通 | 七夕微博](https://m.weibo.cn/2002148123/4798687404360990)
+* [罗成老板 | 别说我欺负女孩子，我们家的茶点一定要赢！你们说呢？ ](https://video.weibo.com/show?fid=1034:4784588577505384)
+* [中国联通 | 七夕微博](https://m.weibo.cn/2002148123/4798687404360990)
 ![](/image/discuss/other/liantong2.jpg)
 
-[粉丝头条粉条君 《梦华录》之粉条君的故事](https://m.weibo.cn/7404187888/4791072192466254)
+* [粉丝头条粉条君 《梦华录》之粉条君的故事](https://m.weibo.cn/7404187888/4791072192466254)
 ![](/image/discuss/other/fentiao.jpg)
 
 ![](/image/discuss/other/zhibo2.png)
@@ -73,8 +73,8 @@
 ## 餐饮
 ![](/image/discuss/other/canyin2.png)
 ![](/image/discuss/other/yinpin2.png)
-[美食博主 | 喵酱日食记 | 春水生](http://xhslink.com/df0Thk)
-[美食博主 | 万乡之宝寻味记 | 梦华录同款⚡6款体寒痛经姨妈茶](http://xhslink.com/ODVnkk)
+* [美食博主 | 喵酱日食记 | 春水生](http://xhslink.com/df0Thk)
+* [美食博主 | 万乡之宝寻味记 | 梦华录同款⚡6款体寒痛经姨妈茶](http://xhslink.com/ODVnkk)
 
 ## 采访
 [@LYFVietNamFans | 中国留学生在越南采访](https://m.weibo.cn/status/4791143873122171)
@@ -90,28 +90,28 @@
 ## 仿妆
 
 ### 赵盼儿
-[苌俊俊 | cos赵盼儿](https://v.douyin.com/YtLBuy4)
-[崔佳楠 | 赵盼儿仿妆	](https://v.douyin.com/YpQ2ET7)
-[皮卡秋 | 赵盼儿仿妆](https://v.douyin.com/MmgRYFQ)
-[【北川婠婠×楚淇】刘亦菲东京梦华录仿妆！](https://www.bilibili.com/video/BV1u34y127sp)
-[乔嘚嘚 | 梦华录刘亦菲赵盼儿同款古风盘发](https://www.bilibili.com/video/BV1KT41157D6)
+* [苌俊俊 | cos赵盼儿](https://v.douyin.com/YtLBuy4)
+* [崔佳楠 | 赵盼儿仿妆](https://v.douyin.com/YpQ2ET7)
+* [皮卡秋 | 赵盼儿仿妆](https://v.douyin.com/MmgRYFQ)
+* [【北川婠婠×楚淇】刘亦菲东京梦华录仿妆！](https://www.bilibili.com/video/BV1u34y127sp)
+* [乔嘚嘚 | 梦华录刘亦菲赵盼儿同款古风盘发](https://www.bilibili.com/video/BV1KT41157D6)
 ### 孙三娘
-[苏苏_suri | 孙三娘仿妆](https://www.douyin.com/video/7117441888621186307)
+* [苏苏_suri | 孙三娘仿妆](https://www.douyin.com/video/7117441888621186307)
 ### 张好好
-[南方都市报 | 张好好仿妆](https://mp.weixin.qq.com/s/zrU7Y7aZ8h4EK-POrAbYvQ)
-[洛丽塔大哥lolita | 张好好仿妆](https://www.bilibili.com/video/BV1zr4y1g7am)
+* [南方都市报 | 张好好仿妆](https://mp.weixin.qq.com/s/zrU7Y7aZ8h4EK-POrAbYvQ)
+* [洛丽塔大哥lolita | 张好好仿妆](https://www.bilibili.com/video/BV1zr4y1g7am)
 ### 宋引章
-[林允 | 宋引章仿妆](https://www.bilibili.com/video/BV1334y1s7Gc)
+* [林允 | 宋引章仿妆](https://www.bilibili.com/video/BV1334y1s7Gc)
 ### 簪花仕女图
-[我是扒皮呀 |1比1复原《簪花仕女图》！视觉盛宴！！](https://www.bilibili.com/video/BV1Pf4y1Z7we)
-[羁旅者lina | 花月宴簪花仕女妆发教程](https://m.weibo.cn/status/4817694514484658)
+* [我是扒皮呀 |1比1复原《簪花仕女图》！视觉盛宴！！](https://www.bilibili.com/video/BV1Pf4y1Z7we)
+* [羁旅者lina | 花月宴簪花仕女妆发教程](https://m.weibo.cn/status/4817694514484658)
 
 ## 摄影
 ![](/image/discuss/other/fangzhuang2.png)
-[成都临溪摄影](https://m.weibo.cn/1648616372/4815789314802897)
-[顾盼生辉同款摄影](http://xhslink.com/BoNYhk)
-[梦华录婚纱照](http://xhslink.com/VSnYhk)
-[《梦华录》同款汉服](http://xhslink.com/jimYhk)
-[梦华录同款汉服婚纱照](http://xhslink.com/3dlYhk)
+* [成都临溪摄影](https://m.weibo.cn/1648616372/4815789314802897)
+* [顾盼生辉同款摄影](http://xhslink.com/BoNYhk)
+* [梦华录婚纱照](http://xhslink.com/VSnYhk)
+* [《梦华录》同款汉服](http://xhslink.com/jimYhk)
+* [梦华录同款汉服婚纱照](http://xhslink.com/3dlYhk)
 
 `注： 各种同款实在数不胜数，就不一一收录啦！·
