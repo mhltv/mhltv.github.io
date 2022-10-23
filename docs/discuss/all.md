@@ -627,4 +627,4 @@
 * [OR香氛派 | 被粉丝催爆的《梦华录》同人香来了！](https://mp.weixin.qq.com/s/qmLvL8eyjP8hjUvhXGaKZg)
 * [昆明市青年志愿者协会 | 七步场社工站 | 这个建党节，在七步场体验一场红色梦华录的浪漫](https://mp.weixin.qq.com/s/TVXrjD3Qejv96ribPE2LmA)
 * [综艺报 | 《梦华录》走红，启发真人秀新创作思路](https://mp.weixin.qq.com/s/CTWeufMGHYkokmV1qjQfDw)
-* [匈牙利华文作家（薇丽） | 荐书 |《梦华录》再掀宋文化热之际，不妨看看这部荡气回肠的大宋前传《后周纪》](https://mp.weixin.qq.com/s/_3ddsYDMXGr5KpDJnDed2g)
+
