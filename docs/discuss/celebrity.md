@@ -50,6 +50,7 @@
 
 > 吸引我追《梦华录》的真的是因为刘亦菲的颜值，她太好看了，时而娇憨时而清冷时而顾盼生辉时而一颦一笑倾城。小表情都贼精致，真是赏心悦目。
 
+
 ## 财经
 
 ### 王石 - 万科集团创始人兼董事会名誉主席 [原文链接](https://m.weibo.cn/status/4803087271726550)
@@ -147,6 +148,11 @@
 
 > 赵盼儿的妆要学
 
+## 生物
+
+### 亿点点不一样 - 知名科学科普博主 [原文链接](https://www.bilibili.com/video/BV1m94y1S7ma/?is_story_h5=false&p=1&share_from=ugc&share_medium=android&share_plat=android&share_session_id=5f2695fa-0c9e-496a-9aaf-fa98381ea3b9&share_source=COPY&share_tag=s_i&timestamp=1664854658&unique_k=63RspVL&vd_source=5d40b7578e885b6360185d6577fa9d3e)
+
+> 耗时120天！潜入海底，拍下珊瑚5亿年的秘密！提到了《梦华录》中的红珊瑚发簪。
 
 
 ## 医学
@@ -209,6 +215,18 @@
 
 > 大热剧《梦华录》真的火出圈啊，电视剧里面的很多古代传统文化素材被文化学者称赞不已。我没想到不追星的国画老师崔老师说这幅小作品的创作原型就是我们盼儿！ 他称赞梦华录是一部非常不错的电视剧作品。
 
+## 书法
+
+### 小师父的瘦金体 - 知名人文艺术博主 [原文链接](https://weibo.com/6168380639/Lx3ub0G1O)
+
+> 以瘦金体书写“白头如新，倾盖如故”。
+
+### 叶根友书法 - 知名书法博主 [原文链接](https://weibo.com/2622414791/Mbu2OmWgK)
+
+> 前祀之夕阴雾风劲，不可以烛，及行事风顿停，天宇澄霁，烛焰凝然。——《梦华录》
+> 有恩还恩，有怨还怨，不记过往，只遵当时本心。——《梦华录》
+> 分享了一组电视剧《梦华录》里的经典台词语录书法作品。
+
 ## 游戏
 
 ### 梦泪 - AG超玩会王者荣耀项目选手 [原文链接](https://www.douyin.com/video/7116798582895758592)
@@ -227,6 +245,10 @@
 
 > 这波《梦华录》同款下午茶还行吗？
 
+### 南京Hero久竞 - 南京Hero久竞电子竞技俱乐部 [原文链接](https://weibo.com/6451712914/LFtqj3AoI)
+
+> 七夕视频引用盼儿与千帆片段。
+
 ### 小珠桃子一米七 - 知名游戏博主 [原文链接](https://m.weibo.cn/status/4778769006986111)
 
 > 看梦华录  
@@ -244,6 +266,26 @@
 > “要开始了！”  
 > 放弃追剧来直播的勤劳小马
 
+### 抓住一只呆橘 - 知名游戏博主 [原文链接](https://www.bilibili.com/video/BV1B3411w79u/?p=1&share_medium=android&share_plat=android&share_session_id=24ba6288-9e0b-4779-8c15-a18134a053bc&share_source=COPY&share_tag=s_i&timestamp=1656649086&unique_k=G3pCLfc&vd_source=5d40b7578e885b6360185d6577fa9d3e)
+
+> 离谱！《梦华录》这是小院？造的累死我
+
+### 阿果吃点啥 - 知名游戏博主 [原文链接](https://www.bilibili.com/video/BV13v4y137YZ/?p=1&share_medium=android&share_plat=android&share_session_id=14e2d335-9303-4fa1-9783-955a64bcaa76&share_source=COPY&share_tag=s_i&timestamp=1654559887&unique_k=y06ymbl&vd_source=5d40b7578e885b6360185d6577fa9d3e)
+
+> 仿建【梦华录-赵氏茶坊】组件，喜欢包子真的好多好多年，想用自己热爱的方式为她打cal追剧，于是连夜把盼儿的茶坊仿建了出来，送给大家一起做生意搞事业。
+
+### 一口波 - 知名游戏博主 [原文链接](https://www.bilibili.com/video/BV1qB4y1v7Af/?mid=25676051&p=1&share_from=ugc&share_medium=android&share_plat=android&share_session_id=7122ef18-3033-4ce3-8899-0b85df315674&share_source=COPY&share_tag=s_i&timestamp=1658963722&unique_k=k39vSYo&vd_source=5d40b7578e885b6360185d6577fa9d3e)
+
+> 模拟人生4 复刻《梦华录》中的东京小院
+
+## 摄影
+
+### 程诗然 - 摄影师 [原文链接](https://weibo.com/1410818932/Lx33zsK2P)
+
+> 河南开封，夜游清明上河园。
+> 最近电视剧《梦华录》火爆热播，较为出彩的地方除了演员的颜值，就是人与景的融合。小到宋画、盆景，大到场景布局，全力展现宋朝的简约、细腻与优雅，重现宋朝时期的开封和江南风韵。
+> 先去开封博物馆看了《清明上河图》再游清明上河园，趣味就更多了一些。千年前，北宋画家张择端把它从现实搬到了画卷，千年后，开封人又把它从画卷上搬到了现实。徜徉其中常令人有“一朝步入画卷，一日梦回千年”的时光倒流之感。
+
 ## 美食
 
 ### 林述巍 - 湖南卫视《中餐厅》第四季成员 [原文链接](https://m.weibo.cn/2025110773/4787886975877258)
@@ -253,6 +295,10 @@
 ### 少女爱丽丝 - 微博知名美食博主 [原文链接](https://weibo.com/5675449379/LwcVUEHyx)
 
 > 妈呀 真的好久没追剧了……强烈推荐你们去看！！ 我先磕cp了，太上头了。演技在线，服化OK ，原声剧情啥的男女主智商在线 ，太好磕了呜呜呜
+
+### 老崔说茶 - 微博知名美食博主 南京老崔茶馆馆长[原文链接](https://weibo.com/1644156437/M83dyybmw)
+
+> 梦华录播出后，喜欢宋代点茶的朋友越来越多，点茶已逐渐的走进我们的生活，老崔茶馆从2010年接触点茶和茶百戏，已有自己风格的展示。
 
 ### 江寻千 - B站美食UP主 [原文链接](https://www.bilibili.com/video/BV1RB4y1p7de/?spm_id_from=333.999.0.0&vd_source=5d40b7578e885b6360185d6577fa9d3e)
 
@@ -337,6 +383,10 @@
 ### 大王 - 主持人 演员 《奇葩说》 辩手 [原文链接](https://m.weibo.cn/status/4785087696864179?sourceType=weixin&from=10C9595060&wm=9006_2001&featurecode=newtitle)
 
 > 没有梦华录的第一天，想她。
+
+### 谢添 - 主持人 [原文链接](https://weibo.com/1728938294/M63PmtEly)
+
+> 体验梦华录同款。
 
 ### 刘宇 - INTO1成员 [原文链接](https://m.weibo.cn/status/4780703268996828?sourceType=weixin&from=10C9595060&wm=9006_2001&featurecode=newtitle)
 
