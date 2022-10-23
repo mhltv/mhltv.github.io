@@ -50,7 +50,7 @@
 
 * [@招商银行 | 抽奖](https://m.weibo.cn/1653150224/4781807008485876)
 
-![](/image/discuss/other/zhaohang2.jpg)
+![](/image/discuss/other/zhaohang2.png)
 
 
 * [粉丝头条粉条君 《梦华录》之粉条君的故事](https://m.weibo.cn/7404187888/4791072192466254)
