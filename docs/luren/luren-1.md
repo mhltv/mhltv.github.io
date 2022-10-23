@@ -71,6 +71,8 @@
 
 ## 缺德弹幕大赏
 
+弹幕词条云可查看: [弹幕爬虫](/data/other.html#弹幕爬虫)
+
 ### 剪辑视频
 
 * [假如《梦华录》弹幕有声音](https://www.bilibili.com/video/BV1eW4y1k7xX?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c)

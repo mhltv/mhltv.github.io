@@ -18,7 +18,8 @@
 ## 录人日常
 
 ![](/image/discuss/lr.jpg)
-
+![](/image/lu/meme/day.jpg)
+![](/image/lu/meme/day-2.jpg)
 
 ## 表情包
 
