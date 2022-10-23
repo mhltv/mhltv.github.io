@@ -7,6 +7,8 @@
 
 ## 文旅联动
 
+![](/image/discuss/other/wenlv.jpg)
+
 * [《赵冬梅讲宋史》 | 赵冬梅讲《梦华录》背后的宋史细节](https://m.v.qq.com/x/m/play?vid=f3340hkc2if&cid=mzc00200oiy8g7q&url_from=share&second_share=0&share_from=copy)
 * [章春来 | 从《梦华录》聊宋朝生活图鉴](https://v.qq.com/x/cover/mzc002002ci8mec/e3334n479xk.html)
 * [侯鸿斌 | 从《梦华录》看古今人情世故](https://m.v.qq.com/x/m/play?vid=q3342qw3dfh&cid=mzc002002m8gevm&url_from=share&second_share=0&share_from=copy)
