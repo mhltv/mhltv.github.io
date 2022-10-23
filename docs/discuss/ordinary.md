@@ -13,6 +13,7 @@
 
 ### 视频画面引用
 ![](/image/discuss/other/siwei2.png)
+
 [思维实验室 |  宋朝有多富裕？为什么又混的那么惨？](https://www.bilibili.com/video/BV1kt4y1J7LH)	
 
 ### 公众号文章封面
@@ -48,7 +49,7 @@
 
 * [粉丝头条粉条君 《梦华录》之粉条君的故事](https://m.weibo.cn/7404187888/4791072192466254)
 ![](/image/discuss/other/fentiao.jpg)
-
+> 直播
 ![](/image/discuss/other/zhibo2.png)
 ![](/image/discuss/other/guanggao2.png)
 
@@ -82,20 +83,25 @@
 [@LYFVietNamFans | 中国留学生在越南采访](https://m.weibo.cn/status/4791143873122171)
 
 ## 家装
-[幸福里原创 | 家装视频 提到梦华录] (https://b23.tv/p4QsrQM)
+[幸福里原创 | 家装视频 提到梦华录](https://b23.tv/p4QsrQM)
 
 ## PPT
-[旁门左道PPT | 《梦华录》的PPT这样处理美翻了](https://v.douyin.com/Yxxg2Rr)
-[芦苇课件 | 《梦华录》文化素材课件38页ppt](https://mp.weixin.qq.com/s/0FikPd8W3tT3d3DdX2T8tw)
+* [旁门左道PPT | 《梦华录》的PPT这样处理美翻了](https://v.douyin.com/Yxxg2Rr)
+* [芦苇课件 | 《梦华录》文化素材课件38页ppt](https://mp.weixin.qq.com/s/0FikPd8W3tT3d3DdX2T8tw)
+
  ## 课程
- > 水彩课
+ 
+ ### 水彩课
 ![](/image/discuss/other/shuicai.jpg)
- > 政治
+
+ ### 政治
 ![](/image/discuss/other/zhengzhi.jpg)
 
- [情商课](http://xhslink.com/1IXozj)
-
- [小学茶文化课堂](https://www.xiaohongshu.com/discovery/item/62c18baf0000000001026ecc?app_platform=android&app_version=7.59.1&share_from_user_hidden=true&type=normal&xhsshare=WeixinSession&appuid=5c3e9f750000000007020be4&apptime=1665909336)
+### 情商课
+ [起床了尧尧 | 跟着《梦华录》4步学会大女主情商课](http://xhslink.com/1IXozj)
+ 
+### 小学茶文化课堂
+ [语文备课｜老师爱上《梦华录》给学生讲讲茶文](https://www.xiaohongshu.com/discovery/item/62c18baf0000000001026ecc)
 ## 仿妆
 
 ### 赵盼儿
@@ -123,11 +129,11 @@
 * [《梦华录》同款汉服](http://xhslink.com/jimYhk)
 * [梦华录同款汉服婚纱照](http://xhslink.com/3dlYhk)
 
-`注： 各种同款实在数不胜数，就不一一收录啦！
+`注： 各种同款实在数不胜数，就不一一收录啦！`
 
 ## 猫咪
-![](/image/discuss/maomiqianfan.jpg)
+![](/image/discuss/other/maomiqianfan.jpg)
 [时尚猫帮 | 卷千帆](http://xhslink.com/XpHNHk)
-![](/image/discuss/miaomiao2.png)
-![](/image/discuss/lingyang.jpg)
+![](/image/discuss/other/miaomiao2.png)
+![](/image/discuss/other/lingyang.jpg)
 
