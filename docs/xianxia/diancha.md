@@ -117,7 +117,7 @@
 1. [梦华录专组: 奔驰组织客户参加点茶体验活动～格调优雅 ](https://www.douban.com/group/topic/270287755/?_i=4515765Rn8heGv)
 
 
-### 7. 建阳百人团与#梦华录刘亦菲在线斗茶
+### 7. 建阳百人团与梦华录刘亦菲在线斗茶
 
 1. [微博链接 #看见福建#](https://m.weibo.cn/status/4780544565448325?ua=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F81.0.4044.138+Safari%2F537.36+NetType%2FWIFI+MicroMessenger%2F7.0.20.1781%280x6700143B%29+WindowsWechat%280x6307062c%29)
 2. [微博链接 #梦华录再现壮美非遗文化# ](https://weibo.com/1740522895/LxNxe0BRS)
@@ -145,7 +145,7 @@
 
 ### 12. 成都日报锦观新闻 | 四川省川茶文化研究会 | 宋韵点茶雅集
 ![](/image/xianxi/sichuandiancha.jpg)
-
+[链接](https://mp.weixin.qq.com/s/_Ew0kyVSz_BoKfUlpMcFTA)
 
 ## 旅游景点
 
@@ -166,3 +166,6 @@
  ### 四川三苏祠再现《梦华录》中茶百戏
  
  [顶端新闻](https://m.thecover.cn/video_details.html?id=9427152)
+
+### 云南普洱
+[报道](https://mp.weixin.qq.com/s/eEbKtyMF7d4UIGAL_tLSCw)
