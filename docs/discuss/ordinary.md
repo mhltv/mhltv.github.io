@@ -62,6 +62,7 @@
 ### 内页
 ![](/image/discuss/other/app2.png)
 
+
 ## 体育
 [腾讯体育网页 | NB村梦华录！阿社去哪里精彩继续](https://new.qq.com/rain/a/20220706V0AJVH00)
 
@@ -74,13 +75,12 @@
 ![](/image/discuss/other/yinpin2.png)
 [美食博主 | 喵酱日食记 | 春水生](http://xhslink.com/df0Thk)
 [美食博主 | 万乡之宝寻味记 | 梦华录同款⚡6款体寒痛经姨妈茶](http://xhslink.com/ODVnkk)
+
 ## 采访
 [@LYFVietNamFans | 中国留学生在越南采访](https://m.weibo.cn/status/4791143873122171)
 
-
 ## 家装
 [幸福里原创 | 家装视频 提到梦华录] (https://b23.tv/p4QsrQM)
-
 
 ## PPT
 
@@ -88,12 +88,30 @@
 
 
 ## 仿妆
-温蛋羹	汉服妆娘	
-晓晓的妆台	汉服妆娘	
-乔嘚嘚	汉服妆娘	
-[苌俊俊 | cosplay赵盼儿](https://v.douyin.com/YtLBuy4)
-[赵盼儿仿妆	](https://v.douyin.com/YpQ2ET7)
+
+### 赵盼儿
+[苌俊俊 | cos赵盼儿](https://v.douyin.com/YtLBuy4)
+[崔佳楠 | 赵盼儿仿妆	](https://v.douyin.com/YpQ2ET7)
+[皮卡秋 | 赵盼儿仿妆](https://v.douyin.com/MmgRYFQ)
+[【北川婠婠×楚淇】刘亦菲东京梦华录仿妆！](https://www.bilibili.com/video/BV1u34y127sp)
+[乔嘚嘚 | 梦华录刘亦菲赵盼儿同款古风盘发](https://www.bilibili.com/video/BV1KT41157D6)
+### 孙三娘
+[苏苏_suri | 孙三娘仿妆](https://www.douyin.com/video/7117441888621186307)
+### 张好好
 [南方都市报 | 张好好仿妆](https://mp.weixin.qq.com/s/zrU7Y7aZ8h4EK-POrAbYvQ)
-[羁旅者lina | 花月宴簪花仕女妆发教程](https://m.weibo.cn/status/4817694514484658?sourceType=weixin&from=10C9595060&wm=9006_2001&featurecode=newtitle)
+[洛丽塔大哥lolita | 张好好仿妆](https://www.bilibili.com/video/BV1zr4y1g7am)
+### 宋引章
+[林允 | 宋引章仿妆](https://www.bilibili.com/video/BV1334y1s7Gc)
+### 簪花仕女图
+[我是扒皮呀 |1比1复原《簪花仕女图》！视觉盛宴！！](https://www.bilibili.com/video/BV1Pf4y1Z7we)
+[羁旅者lina | 花月宴簪花仕女妆发教程](https://m.weibo.cn/status/4817694514484658)
 
 ## 摄影
+![](/image/discuss/other/fangzhuang2.png)
+[成都临溪摄影](https://m.weibo.cn/1648616372/4815789314802897)
+[顾盼生辉同款摄影](http://xhslink.com/BoNYhk)
+[梦华录婚纱照](http://xhslink.com/VSnYhk)
+[《梦华录》同款汉服](http://xhslink.com/jimYhk)
+[梦华录同款汉服婚纱照](http://xhslink.com/3dlYhk)
+
+`注： 各种同款实在数不胜数，就不一一收录啦！·
