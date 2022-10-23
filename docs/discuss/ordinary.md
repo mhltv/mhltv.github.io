@@ -46,12 +46,11 @@
 * [罗成老板 | 别说我欺负女孩子，我们家的茶点一定要赢！你们说呢？ ](https://video.weibo.com/show?fid=1034:4784588577505384)
 * [中国联通 | 七夕微博](https://m.weibo.cn/2002148123/4798687404360990)
 
-![](/image/discuss/other/liantong2.jpg)
+![](/image/discuss/other/liantong3.jpg)
 
 * [@招商银行 | 抽奖](https://m.weibo.cn/1653150224/4781807008485876)
 
-![](/image/discuss/other/zhaohang2.png)
-
+![](/image/discuss/other/zhaohang3.png)
 
 * [粉丝头条粉条君 《梦华录》之粉条君的故事](https://m.weibo.cn/7404187888/4791072192466254)
 ![](/image/discuss/other/fentiao.jpg)
