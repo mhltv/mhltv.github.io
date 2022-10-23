@@ -10,20 +10,20 @@
 ## 配图
 
 ### 视频引用画面
-![](/image/discuss/other/siwei.png)
+![](/image/discuss/other/siwei2.png)
 [思维实验室 |  宋朝有多富裕？为什么又混的那么惨？](https://www.bilibili.com/video/BV1kt4y1J7LH/)	
 
 ### 公众号文章封面
 
-![](/image/discuss/other/peitu.png)
+![](/image/discuss/other/peitu2.png)
 
-app.png
+app2.png
 
 ## 设计
 [logo设计师-韩慕 | 半遮面logo设计](http://xhslink.com/UNxeCi)
 
 ## 游戏
-![](/image/discuss/other/youxi.png)
+![](/image/discuss/other/youxi2.png)
 [摩尔庄园 | 写实还原梦华录中的赵氏茶坊](http://xhslink.com/ftFRhk)
 [原神 | 梦华录同款尘歌壶] (http://xhslink.com/zh8qkk)
 [江南百景图]()
@@ -32,23 +32,23 @@ app.png
 ![](/image/discuss/other/hangzhouyidong.png)
 [罗成老板 | 别说我欺负女孩子，我们家的茶点一定要赢！你们说呢？ ](https://video.weibo.com/show?fid=1034:4784588577505384)
 [中国联通 | 七夕微博](https://m.weibo.cn/2002148123/4798687404360990)
-![](/image/discuss/other/liantong.jpg)
+![](/image/discuss/other/liantong2.jpg)
 
 [粉丝头条粉条君 《梦华录》之粉条君的故事](https://m.weibo.cn/7404187888/4791072192466254)
 ![](/image/discuss/other/fentiao.jpg)
 
-![](/image/discuss/other/zhibo.png)
+![](/image/discuss/other/zhibo2.png)
 
 ## 汽车--赵盼儿配色
-![](/image/discuss/other/qiche.png)
+![](/image/discuss/other/qiche2.png)
 
 ## 各样APP
 
 ### 开屏图
-![](/image/discuss/other/kaiping.png)
+![](/image/discuss/other/kaiping2.png)
 
 ### 内页
-![](/image/discuss/other/app.png)
+![](/image/discuss/other/app2.png)
 
 ## 体育
 [腾讯体育网页 | NB村梦华录！阿社去哪里精彩继续](https://new.qq.com/rain/a/20220706V0AJVH00)
@@ -58,8 +58,8 @@ app.png
 ## 壁纸
 
 ## 餐饮
-![](/image/discuss/other/canyin.png)
-![](/image/discuss/other/yinpin.png)
+![](/image/discuss/other/canyin2.png)
+![](/image/discuss/other/yinpin2.png)
 
 
 
