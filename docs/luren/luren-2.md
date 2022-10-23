@@ -88,3 +88,14 @@
 
 
 ![](/image/lu/gaogui/cc-2.jpg)
+
+
+
+## 显微镜看剧
+
+和 [缺德录人](/luren/luren-1.html#显微镜看剧)们不同，高贵录人们看剧更加关注让人感动的细节，譬如:
+
+* [又是一个显微镜大户](https://www.douban.com/group/topic/269901829/?_i=6512362Rn8heGv): 内容是关于剧中出现的围棋布局
+* [吴钩老师的显微镜看剧](https://www.douban.com/group/topic/269744395/?_i=6512449Rn8heGv)
+* [还有谁没看过这个up的视频！逐帧分析的！显微镜成精！我要吹爆！！！](https://www.douban.com/group/topic/268361248/?_i=6512497Rn8heGv): 顾盼感情线分析
+* [永远被这个剧的细腻感动，打架前后路人的反应都不一样](https://www.douban.com/group/topic/269011637/?_i=6512562Rn8heGv)

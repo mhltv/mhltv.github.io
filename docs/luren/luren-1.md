@@ -59,6 +59,19 @@
 
 
 
+## 显微镜看剧
+
+缺德录人们看剧，总是带着显微镜关注一些奇奇怪怪的地方,以下讨论选自豆瓣专组:
+
+* [显微镜看剧之抱着盼儿的周舍出戏](https://www.douban.com/group/topic/271290014/?_i=6511766Rn8heGv)
+* [显微镜看剧，这里是小顾被咯吱到了还是盼儿力气太大直接撸起来了 ](https://www.douban.com/group/topic/270673002/?_i=6511901Rn8heGv)
+* [显微镜看剧，我要被路人大哥笑死！](https://www.douban.com/group/topic/268936944/?_i=6511967Rn8heGv)
+* [进来显微镜磕糖，可能没注意到的顾盼拖手手](https://www.douban.com/group/topic/271171256/?_i=6512072Rn8heGv)
+* [显微镜看剧~哈哈吃瓜的顾千帆真的太搞笑了](https://www.douban.com/group/topic/269247859/?_i=6512599Rn8heGv)
+
+
+
+
 ## 赵盼儿形体美学赏析
 ![](/image/lu/pan.jpg)
 
@@ -83,6 +96,14 @@
 ### 部分截图
 
 ![](/image/lu/danmu/danmu-1.jpg)
+![](/image/lu/danmu/danmu-8.jpg)
 ![](/image/lu/danmu/danmu-2.jpg)
 ![](/image/lu/danmu/danmu-3.jpg)
 ![](/image/lu/danmu/danmu-4.jpg)
+![](/image/lu/danmu/danmu-7.webp)
+![](/image/lu/danmu/danmu-5.webp)
+![](/image/lu/danmu/danmu-6.webp)
+
+截图选自: [豆瓣讨论: 搞笑弹幕合集](https://www.douban.com/group/topic/277213439/?_i=6511216Rn8heGv,6511673Rn8heGv)
+
+
