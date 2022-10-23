@@ -57,10 +57,6 @@
 * [宸曦微凉 | 《梦华录》保剑锋：打酱油的皇帝，却是“顾盼生辉”最大的CP头儿](https://mp.weixin.qq.com/s/xJ7EGI6L-p6BniK4opmfWQ)
 * [BRTV文艺频道 | 《梦华录》保剑锋帅气不减当年，梦回《十八岁的天空》](https://mp.weixin.qq.com/s/MKMLR7xr8tGl2AJOOJzIWg)
 
-### 某群演(刘远帆)
-* [红星独家｜我们采访了《梦华录》“演技最差的人”他说：我是专业的 ](https://www.sohu.com/a/556848381_116237)
-* [娱理 | 《梦华录》演技最差的人，背后还有这样的群演心事](https://mp.weixin.qq.com/s/ICdzmHbfNXHrg9dT6r41GA)
-
 ### 萧谓(李圣佳)
 * [影视剧盘点 | 演员｜参加过快男，《梦华录》演顾千帆弟弟，他还是杨阳导演公司艺人！](https://mp.weixin.qq.com/s/_NJ6guYlfYJUIiAN5lYDZw)
 
@@ -74,14 +70,14 @@
 ### 高慧(嘉泽)
 * [宸曦微凉 | 《梦华录》嘉泽：也演过花魁，高慧一人千面反转最大成赵盼儿救命恩人](https://mp.weixin.qq.com/s/0oVaWe5xe28WxZK8Jy8UuA)
 
-### 萧府管家(曹明华)
-* [河南微生活队 | 接连出演很多火出圈的影视剧，《梦华录》中再次出现，却无人相识](https://mp.weixin.qq.com/s/fwHAoWsOOE31VvkEiBeYoQ)
-
 ### 高观察(尹铸胜)
 * [情感故事糖糖 | 《梦华录》：这位配角超级厉害，在播出的三部电视剧饰演重要角色](https://mp.weixin.qq.com/s/x8xAEvc7H95v34b6J0vmMQ)
 
 ### 齐牧(姚安濂)
 * [BRTV文艺频道 | 《梦华录》中的大反派！从活塞厂工人到获奖无数，你真的了解他吗？](https://mp.weixin.qq.com/s/F9ZpHmVDhmr9xr5TbC35IQ)
+
+### 萧府管家(曹明华)
+* [河南微生活队 | 接连出演很多火出圈的影视剧，《梦华录》中再次出现，却无人相识](https://mp.weixin.qq.com/s/fwHAoWsOOE31VvkEiBeYoQ)
 
 ### 高家家丁高福(辛逸泉)
 * [十堰晚报 | 电视剧《梦华录》热播，这个角色扮演者是十堰人](https://mp.weixin.qq.com/s/jyAu2RdTHpzciAkoA5tX2A)
@@ -92,7 +88,16 @@
 ### 斗茶老板(成国栋)
 * [开心西瓜 | 靠主角无法获胜，《梦华录》配角倒也出彩，成国栋曲线发展事业](https://mp.weixin.qq.com/s/hQobaTXTRl8Ncm_0uvxoLg)
 
+### 某群演(刘远帆)
+* [红星独家｜我们采访了《梦华录》“演技最差的人”他说：我是专业的 ](https://www.sohu.com/a/556848381_116237)
+* [娱理 | 《梦华录》演技最差的人，背后还有这样的群演心事](https://mp.weixin.qq.com/s/ICdzmHbfNXHrg9dT6r41GA)
 
+### 群演状元（王菁飞）
+[神神叨叔 | 梦华录男演员自曝剧组生活：“刘亦菲请我吃炸鸡耶！”](https://www.bilibili.com/video/BV1aa411H7z7)
+[神神叨叔 | 在梦华录跑龙套被导演看中，和天仙飙戏50场是什么体验？](https://www.bilibili.com/video/BV1WY4y1G7Do/)
+
+### 秀州知州许永(陈旭明) & 群演榜眼（常超禹）
+[上海电影艺术职业学院 | 《梦华录》热播！上电“师生同框”背后的精彩](https://www.shfilmart.com/2022/0608/c109a2160/page.htm?continueFlag=b2c0140d510a27953165cfa16c6e757d)
 
 
 
