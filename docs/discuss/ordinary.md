@@ -18,12 +18,14 @@
 ### 公众号文章封面
 ![](/image/discuss/other/peitu2.png)
 
-### 其他配图
+### 其他
 ![](/image/discuss/other/qit.jpg)
+
+> 中国蓝电信电视，音乐首页有个专题，热播剧C位大作战
+![](/image/discuss/other/cwei.jpg)
 
 
 ## 设计
-
 [logo设计师-韩慕 | 半遮面logo设计](http://xhslink.com/UNxeCi)
 
 
@@ -87,8 +89,12 @@
 [芦苇课件 | 《梦华录》文化素材课件38页ppt](https://mp.weixin.qq.com/s/0FikPd8W3tT3d3DdX2T8tw)
  ## 课程
  > 水彩课
- ![](/image/discuss/other/shuicai.jpg)
+![](/image/discuss/other/shuicai.jpg)
+ > 政治
+![](/image/discuss/other/zhengzhi.jpg)
+
  [情商课](http://xhslink.com/1IXozj)
+
  [小学茶文化课堂](https://www.xiaohongshu.com/discovery/item/62c18baf0000000001026ecc?app_platform=android&app_version=7.59.1&share_from_user_hidden=true&type=normal&xhsshare=WeixinSession&appuid=5c3e9f750000000007020be4&apptime=1665909336)
 ## 仿妆
 
@@ -119,5 +125,9 @@
 
 `注： 各种同款实在数不胜数，就不一一收录啦！
 
-
+## 猫咪
+![](/image/discuss/maomiqianfan.jpg)
+[时尚猫帮 | 卷千帆](http://xhslink.com/XpHNHk)
+![](/image/discuss/miaomiao2.png)
+![](/image/discuss/lingyang.jpg)
 
