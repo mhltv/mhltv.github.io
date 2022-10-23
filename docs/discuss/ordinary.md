@@ -72,19 +72,16 @@
 ## 餐饮
 ![](/image/discuss/other/canyin2.png)
 ![](/image/discuss/other/yinpin2.png)
-
-
-## 财务
-
+[美食博主 | 喵酱日食记 | 春水生](http://xhslink.com/df0Thk)
+[美食博主 | 万乡之宝寻味记 | 梦华录同款⚡6款体寒痛经姨妈茶](http://xhslink.com/ODVnkk)
 ## 采访
-[留学生在越南学越语采访一些越南学生学汉语，一位女生提到梦华录](https://m.weibo.cn/status/4791143873122171)
+[@LYFVietNamFans | 中国留学生在越南采访](https://m.weibo.cn/status/4791143873122171)
 
 
 ## 家装
-[B站家装视频 提到梦华录	] (https://b23.tv/p4QsrQM)
+[幸福里原创 | 家装视频 提到梦华录] (https://b23.tv/p4QsrQM)
 
-## 手工
-[ | 复刻梦华录茶楼半遮面](https://b23.tv/ECIFPIN)
+
 ## 摄影
 
 ## 仿妆
@@ -97,4 +94,4 @@
 [羁旅者lina | 花月宴簪花仕女妆发教程](https://m.weibo.cn/status/4817694514484658?sourceType=weixin&from=10C9595060&wm=9006_2001&featurecode=newtitle)
 ## PPT
 
-[旁门左道PPT](https://v.douyin.com/Yxxg2Rr)
+[旁门左道PPT | 《梦华录》的PPT这样处理美翻了](https://v.douyin.com/Yxxg2Rr)
