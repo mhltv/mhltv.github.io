@@ -3,8 +3,44 @@
 
 ## 报道
 
+### 欧阳旭(徐海乔)
+![](/image/team/zhuchuang/xuhaiqiao.jpg)
+
+* [新京报 | 徐海乔：我和《梦华录》中的欧阳旭一样，有股子不服输的劲](https://www.bjnews.com.cn/detail/1656074534169469.html)
+* [贵圈·腾讯新闻立春工作室  | 我在《梦华录》里演渣男，竟然还跟他共鸣了](http://m.cyol.com/gb/articles/2022-06/18/content_K7yaGSBAn.html)
+* [中国电影报道 | #徐海乔说演员要演技傍身#](https://share.api.weibo.cn/share/318232933%2C4787989152011626.html)
+
+
+### 池衙内(代旭)
+![](/image/team/zhuchuang/daixu.jpg)
+* [开封网 | 梦华录》爆火！池衙内扮演者代旭出圈](https://weibo.com/ttarticle/p/show?id=2309404783215364670111)
+* [澎湃新闻 | 专访｜代旭：我不敢说自己是职业演员](https://m.thepaper.cn/newsDetail_forward_19611390)
+* [90式青春 | 8岁登上春晚，16岁考入中戏，33岁终于凭《梦华录》火了](https://mp.weixin.qq.com/s/tP-rp5UTr2Kd1R4rTcLmcQ)
+* [BRTV文艺频道 | 脸熟叫不出名字，来头却不小。《梦华录》代旭凭借“池衙内”成功出圈](https://mp.weixin.qq.com/s/j76ZPsTDsTBjU-ES0dTtzg)
+
+
+### 萧钦言(王洛勇)
+![](/image/team/zhuchuang/wangluoyong.jpg)
+* [BRTV文艺频道 | 时隔16年，王洛勇再次阻挠刘亦菲的“恋情” ,这究竟是什么奇妙的缘分!](https://mp.weixin.qq.com/s/gYdHFRAWYbnO-xukGz3ADw)
+* [宸曦微凉 | 《梦华录》老戏骨王洛勇：盘过了顾千帆的爹，也演活了顾千帆的娘](https://mp.weixin.qq.com/s/90161I-TWTOgiQD1V-vhIQ)
+
+
+### 官家(保剑锋)
+![](/image/team/zhuchuang/baojianfeng.jpg)
+* [宸曦微凉 | 《梦华录》保剑锋：打酱油的皇帝，却是“顾盼生辉”最大的CP头儿](https://mp.weixin.qq.com/s/xJ7EGI6L-p6BniK4opmfWQ)
+* [BRTV文艺频道 | 《梦华录》保剑锋帅气不减当年，梦回《十八岁的天空》](https://mp.weixin.qq.com/s/MKMLR7xr8tGl2AJOOJzIWg)
+
+
+### 杜长风(张晓谦)
+![](/image/team/zhuchuang/zhangxiaoqian.jpg)
+* [中国电影报道 | #张晓谦说不介意经常演配角](https://m.weibo.cn/status/4781062901466074)
+* [北京青年报《红me访》](https://m.weibo.cn/status/4779550666130075)
+* [苏心 | 《梦华录》大结局，这个男人藏不住了！](https://mp.weixin.qq.com/s/aCgEgKwAkUBGdv-RkaNIfA)
+* [BRTV文艺频道 | 还记得《琅琊榜》的穆青吗？《梦华录》他简直“胖”若两人](https://mp.weixin.qq.com/s/syPAmboQ57hdRPXh2duEMA)
+
 
 ### 陈廉(管云鹏)
+![](/image/team/zhuchuang/guanyunpeng.jpg)
 * [时尚芭莎 | #管云鹏李沐宸芭莎七夕大片#](https://m.weibo.cn/status/4798334701668732)
 * [开封网专访 | 《梦华录》陈廉扮演者管云鹏：为了梦想而努力](https://weibo.com/ttarticle/p/show?id=2309404795221019067782)
 * [顶端新闻《梦华录》陈廉饰演者管云鹏：歪嘴龙王走红是意外，演员才是目标](https://static.dingxinwen.com/dd-sharepage/detail/index.html?id=2107314)
@@ -16,25 +52,26 @@
 * [影视独舌 | 管云鹏：“歪嘴战神”的逆行与逆袭](https://mp.weixin.qq.com/s/tTWZW-qWp9lFZa3DxedNsg)
 * [八卦女孩 | 凭借“赘婿系列”爆火的歪嘴龙王，在《梦华录》彻底转正了](https://mp.weixin.qq.com/s/M4EDpRzJlA3z5yexILTS-Q)
 
-### 欧阳旭(徐海乔)
-* [新京报 | 徐海乔：我和《梦华录》中的欧阳旭一样，有股子不服输的劲](https://www.bjnews.com.cn/detail/1656074534169469.html)
-* [贵圈·腾讯新闻立春工作室  | 我在《梦华录》里演渣男，竟然还跟他共鸣了](http://m.cyol.com/gb/articles/2022-06/18/content_K7yaGSBAn.html)
-* [中国电影报道 | #徐海乔说演员要演技傍身#](https://share.api.weibo.cn/share/318232933%2C4787989152011626.html?weibo_id=4787989152011626&dt_platform=wechat_friends&dt_dapp=1)
 
-### 杜长风(张晓谦)
+### 葛招娣(李沐宸)
+![](/image/team/zhuchuang/limuchen.jpg)
+* [广西云影视](https://m.weibo.cn/status/4785267221202803?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)
+* [太平洋时尚网](https://m.weibo.cn/status/4785284237758030?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)
 
-* [中国电影报道 | #张晓谦说不介意经常演配角](https://m.weibo.cn/status/4781062901466074)
-* [北京青年报《红me访》](https://m.weibo.cn/status/4779550666130075)
-* [苏心 | 《梦华录》大结局，这个男人藏不住了！](https://mp.weixin.qq.com/s/aCgEgKwAkUBGdv-RkaNIfA)
-* [BRTV文艺频道 | 还记得《琅琊榜》的穆青吗？《梦华录》他简直“胖”若两人](https://mp.weixin.qq.com/s/syPAmboQ57hdRPXh2duEMA)
 
-### 池衙内(代旭)
-* [开封网 | 梦华录》爆火！池衙内扮演者代旭出圈](https://weibo.com/ttarticle/p/show?id=2309404783215364670111)
-* [澎湃新闻 | 专访｜代旭：我不敢说自己是职业演员](https://m.thepaper.cn/newsDetail_forward_19611390)
-* [90式青春 | 8岁登上春晚，16岁考入中戏，33岁终于凭《梦华录》火了](https://mp.weixin.qq.com/s/tP-rp5UTr2Kd1R4rTcLmcQ)
-* [BRTV文艺频道 | 脸熟叫不出名字，来头却不小。《梦华录》代旭凭借“池衙内”成功出圈](https://mp.weixin.qq.com/s/j76ZPsTDsTBjU-ES0dTtzg)
+### 沈如琢(孙祖君)
+![](/image/team/zhuchuang/sunzujun.jpg)
+* [溜溜车薪 | 《梦华录》沈如琢是好人还是坏人：孙祖君因角色油腻上热搜](https://mp.weixin.qq.com/s/rDSp4FBcorWnmqukIpQdCA)
+
+
+### 何四(胡宇轩)
+![](/image/team/zhuchuang/huyuxuan.jpg)
+* [爆笑海绵 | 在《梦华录》里跑龙套的“胖胖”胡宇轩，靠实力跑成了“团宠”？](https://mp.weixin.qq.com/s/xIQdGv49RisqoBoJj40vIA)
+* [新京报Fun娱乐 | 胡宇轩《梦华录》演何四：和刘亦菲对戏容易忘词儿，也容易出彩](https://mp.weixin.qq.com/s/uqxAmPamKQgoJFVHnmBVeQ)
+
 
 ### 张好好(加奈)
+![](/image/team/zhuchuang/jianai.jpg)
 * [人民日报文创 202208](https://m.weibo.cn/7092535646/4798666697085435)
 * [影视剧盘点 | 演员｜又一位新疆美女！在《梦华录》饰演花魁张好好，她还是赵今麦同学！](https://mp.weixin.qq.com/s/a0ZLFDX53s8UxQZgJyG4tA)
 * [紫音格 | 《梦华录》为影视圈发掘了一个00后好演员，她究竟是什么来头呢？](https://mp.weixin.qq.com/s/fpNMvFtAkDn0djNuWgjXWQ)
@@ -42,39 +79,30 @@
 * [电和影 | 冲着刘亦菲看《梦华录》，没想到却被花魁张好好圈粉了](https://mp.weixin.qq.com/s/o_xGE_Qg3ZKXqUb0meSlZQ)
 * [OnlyLady女人志](https://m.weibo.cn/status/4801291493311371?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)
 
-### 葛招娣(李沐宸)
-* [广西云影视](https://m.weibo.cn/status/4785267221202803?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)
-* [太平洋时尚网](https://m.weibo.cn/status/4785284237758030?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)
-
-### 沈如琢(孙祖君)
-* [溜溜车薪 | 《梦华录》沈如琢是好人还是坏人：孙祖君因角色油腻上热搜](https://mp.weixin.qq.com/s/rDSp4FBcorWnmqukIpQdCA)
-
-### 萧钦言(王洛勇)
-* [BRTV文艺频道 | 时隔16年，王洛勇再次阻挠刘亦菲的“恋情” ,这究竟是什么奇妙的缘分!](https://mp.weixin.qq.com/s/gYdHFRAWYbnO-xukGz3ADw)
-* [宸曦微凉 | 《梦华录》老戏骨王洛勇：盘过了顾千帆的爹，也演活了顾千帆的娘](https://mp.weixin.qq.com/s/90161I-TWTOgiQD1V-vhIQ)
-
-### 官家(保剑锋)
-* [宸曦微凉 | 《梦华录》保剑锋：打酱油的皇帝，却是“顾盼生辉”最大的CP头儿](https://mp.weixin.qq.com/s/xJ7EGI6L-p6BniK4opmfWQ)
-* [BRTV文艺频道 | 《梦华录》保剑锋帅气不减当年，梦回《十八岁的天空》](https://mp.weixin.qq.com/s/MKMLR7xr8tGl2AJOOJzIWg)
 
 ### 萧谓(李圣佳)
+![](/image/team/zhuchuang/lishengjia.jpg)
 * [影视剧盘点 | 演员｜参加过快男，《梦华录》演顾千帆弟弟，他还是杨阳导演公司艺人！](https://mp.weixin.qq.com/s/_NJ6guYlfYJUIiAN5lYDZw)
 
+
+### 齐牧(姚安濂)
+![](/image/team/zhuchuang/yaoanlian.jpg)
+* [BRTV文艺频道 | 《梦华录》中的大反派！从活塞厂工人到获奖无数，你真的了解他吗？](https://mp.weixin.qq.com/s/F9ZpHmVDhmr9xr5TbC35IQ)
+
+
 ### 郑青田(陈震)
+![](/image/team/zhuchuang/chenzhen.jpg)
 * [娱乐八卦基地 | 梦华录：由于长得太帅，被误认为是重要人物，弹幕全是中年杨洋](https://mp.weixin.qq.com/s/ZnUR2jgRThNwp_j1BiLh0g)
 
-### 何四(胡宇轩)
-* [爆笑海绵 | 在《梦华录》里跑龙套的“胖胖”胡宇轩，靠实力跑成了“团宠”？](https://mp.weixin.qq.com/s/xIQdGv49RisqoBoJj40vIA)
-* [新京报Fun娱乐 | 胡宇轩《梦华录》演何四：和刘亦菲对戏容易忘词儿，也容易出彩](https://mp.weixin.qq.com/s/uqxAmPamKQgoJFVHnmBVeQ)
+
+### 高观察(尹铸胜)
+![](/image/team/zhuchuang/yinzhusheng.jpg)
+* [情感故事糖糖 | 《梦华录》：这位配角超级厉害，在播出的三部电视剧饰演重要角色](https://mp.weixin.qq.com/s/x8xAEvc7H95v34b6J0vmMQ)
+
 
 ### 高慧(嘉泽)
 * [宸曦微凉 | 《梦华录》嘉泽：也演过花魁，高慧一人千面反转最大成赵盼儿救命恩人](https://mp.weixin.qq.com/s/0oVaWe5xe28WxZK8Jy8UuA)
 
-### 高观察(尹铸胜)
-* [情感故事糖糖 | 《梦华录》：这位配角超级厉害，在播出的三部电视剧饰演重要角色](https://mp.weixin.qq.com/s/x8xAEvc7H95v34b6J0vmMQ)
-
-### 齐牧(姚安濂)
-* [BRTV文艺频道 | 《梦华录》中的大反派！从活塞厂工人到获奖无数，你真的了解他吗？](https://mp.weixin.qq.com/s/F9ZpHmVDhmr9xr5TbC35IQ)
 
 ### 萧府管家(曹明华)
 * [河南微生活队 | 接连出演很多火出圈的影视剧，《梦华录》中再次出现，却无人相识](https://mp.weixin.qq.com/s/fwHAoWsOOE31VvkEiBeYoQ)
@@ -88,18 +116,17 @@
 ### 斗茶老板(成国栋)
 * [开心西瓜 | 靠主角无法获胜，《梦华录》配角倒也出彩，成国栋曲线发展事业](https://mp.weixin.qq.com/s/hQobaTXTRl8Ncm_0uvxoLg)
 
-### 某群演(刘远帆)
-* [红星独家｜我们采访了《梦华录》“演技最差的人”他说：我是专业的 ](https://www.sohu.com/a/556848381_116237)
-* [娱理 | 《梦华录》演技最差的人，背后还有这样的群演心事](https://mp.weixin.qq.com/s/ICdzmHbfNXHrg9dT6r41GA)
-
 ### 群演状元（王菁飞）
+![](/image/team/zhuchuang/zhuangyuan.jpg)
 [神神叨叔 | 梦华录男演员自曝剧组生活：“刘亦菲请我吃炸鸡耶！”](https://www.bilibili.com/video/BV1aa411H7z7)
 [神神叨叔 | 在梦华录跑龙套被导演看中，和天仙飙戏50场是什么体验？](https://www.bilibili.com/video/BV1WY4y1G7Do/)
 
 ### 秀州知州许永(陈旭明) & 群演榜眼（常超禹）
 [上海电影艺术职业学院 | 《梦华录》热播！上电“师生同框”背后的精彩](https://www.shfilmart.com/2022/0608/c109a2160/page.htm?continueFlag=b2c0140d510a27953165cfa16c6e757d)
-
-
+![](/image/team/zhuchuang/liuyuanfan.jpg)
+### 某群演(刘远帆)
+* [红星独家｜我们采访了《梦华录》“演技最差的人”他说：我是专业的 ](https://www.sohu.com/a/556848381_116237)
+* [娱理 | 《梦华录》演技最差的人，背后还有这样的群演心事](https://mp.weixin.qq.com/s/ICdzmHbfNXHrg9dT6r41GA)
 
 ## 商务
 
@@ -124,6 +151,7 @@
 * [杂志 | 时尚先生Esquire](https://m.weibo.cn/1195397063/4820455451791248)
 
 ### 卢勇（柯政）
+![](/image/team/zhuchuang/luyong.jpg)
 * [直播 | 古井贡酒京东超级品牌日星推官](https://m.weibo.cn/1284438223/4810066995449376)
 
 ### 胡宇轩（何四）
@@ -146,10 +174,29 @@
 * [线下活动 | #中国国际时装周# 无奇不ü〖GUUKA〗@GUUKA古由卡邀请](https://m.weibo.cn/1865217684/4812233136150677)
 
 ### 李星美（素娘）
+![](/image/team/zhuchuang/suniang.jpg)
 * [节目 | 中秋节 抖音华彩追月夜 第五乐章](https://m.weibo.cn/2883143471/4812515680195591)
 
+##  其他配角图片大赏
 
-
+### 杜玉明（饰雷敬）
+![](/image/team/zhuchuang/duyuming.jpg)
+### 刘亚津（饰袁屯田）
+![](/image/team/zhuchuang/liuyajin.jpg)
+### 刘伟（饰浊石先生）
+![](/image/team/zhuchuang/liuwei.jpg)
+### 宿宇杰（饰老贾）
+![](/image/team/zhuchuang/suyujie.jpg)
+### 姚未平（饰林三司）
+![](/image/team/zhuchuang/yaoweiping.jpg)
+### 廖望（饰孔午）
+![](/image/team/zhuchuang/kongwu.jpg)
+### 李季（饰花月宴柳九官人）
+![](/image/team/zhuchuang/liji.jpg)
+### 常超禹（饰榜眼）
+![](/image/team/zhuchuang/changchaoyu.jpg)
+### 合照
+![](/image/team/zhuchuang/hezhao.jpg)
 
 ## 新剧
 
