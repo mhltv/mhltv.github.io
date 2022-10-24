@@ -118,19 +118,24 @@
 
 ### 斗茶老板(成国栋)
 ![](/image/team/zhuchuang/doucha.jpg)
+
 * [开心西瓜 | 靠主角无法获胜，《梦华录》配角倒也出彩，成国栋曲线发展事业](https://mp.weixin.qq.com/s/hQobaTXTRl8Ncm_0uvxoLg)
 
 ### 群演状元（王菁飞）
 ![](/image/team/zhuchuang/zhuangyuan.jpg)
-[神神叨叔 | 梦华录男演员自曝剧组生活：“刘亦菲请我吃炸鸡耶！”](https://www.bilibili.com/video/BV1aa411H7z7)
-[神神叨叔 | 在梦华录跑龙套被导演看中，和天仙飙戏50场是什么体验？](https://www.bilibili.com/video/BV1WY4y1G7Do/)
+
+* [神神叨叔 | 梦华录男演员自曝剧组生活：“刘亦菲请我吃炸鸡耶！”](https://www.bilibili.com/video/BV1aa411H7z7)
+* [神神叨叔 | 在梦华录跑龙套被导演看中，和天仙飙戏50场是什么体验？](https://www.bilibili.com/video/BV1WY4y1G7Do/)
 
 ### 秀州知州许永(陈旭明) & 群演榜眼（常超禹）
 ![](/image/team/zhuchuang/zhizhou.jpg)
+
 [上海电影艺术职业学院 | 《梦华录》热播！上电“师生同框”背后的精彩](https://www.shfilmart.com/2022/0608/c109a2160/page.htm?continueFlag=b2c0140d510a27953165cfa16c6e757d)
 ![](/image/team/zhuchuang/liuyuanfan.jpg)
+
 ### 某群演(刘远帆)
 ![](/image/team/zhuchuang/yanjizuicha.jpg)
+
 * [红星独家｜我们采访了《梦华录》“演技最差的人”他说：我是专业的 ](https://www.sohu.com/a/556848381_116237)
 * [娱理 | 《梦华录》演技最差的人，背后还有这样的群演心事](https://mp.weixin.qq.com/s/ICdzmHbfNXHrg9dT6r41GA)
 
@@ -224,7 +229,7 @@
 ### 朱辉（饰德叔）
 ![](/image/team/zhuchuang/deshu.jpg)
 ### 韩远琪（饰傅子方）
-![](/image/team/zhuchuang/shengren.jpg)
+![](/image/team/zhuchuang/fuzifang.jpg)
 ### 郭紫铭（饰小道童）
 ![](/image/team/zhuchuang/daotong.jpg)
 ### 房子墨（饰小包拯）
