@@ -10,7 +10,7 @@
 
 
 ## 顾千帆(陈晓)
-
+![](/image/team/zhuchuang/guqianfan.jpg)
 ### 报道
 
 * [新京报 | 陈晓：做个“被动”的演员丨人物](https://m.bjnews.com.cn/detail/1662620192169449.html)
@@ -27,7 +27,7 @@
 
 
 ## 孙三娘(柳岩)
-
+![](/image/team/zhuchuang/sanniang.jpg)
 ### 报道
 
 * [张小娴 | 《梦华录》大火，刘亦菲很美，但更佩服“不性感”的柳岩](https://mp.weixin.qq.com/s/3CLhVF5kSTUZxDtBlMmiFg)
@@ -55,7 +55,7 @@
 
 
 ## 宋引章(林允)
-
+![](/image/team/zhuchuang/yinzhang.jpg)
 ### 报道
 
 * [瑞丽服饰美容 | 林允丨一路前行，步履轻快](https://mp.weixin.qq.com/s/-8arRbkPv0syu1ap4Ei85w)
