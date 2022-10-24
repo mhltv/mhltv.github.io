@@ -101,6 +101,7 @@
 
 
 ### 高慧(嘉泽)
+![](/image/team/zhuchuang/gaohui.jpg)
 * [宸曦微凉 | 《梦华录》嘉泽：也演过花魁，高慧一人千面反转最大成赵盼儿救命恩人](https://mp.weixin.qq.com/s/0oVaWe5xe28WxZK8Jy8UuA)
 
 
@@ -108,9 +109,11 @@
 * [河南微生活队 | 接连出演很多火出圈的影视剧，《梦华录》中再次出现，却无人相识](https://mp.weixin.qq.com/s/fwHAoWsOOE31VvkEiBeYoQ)
 
 ### 高家家丁高福(辛逸泉)
+![](/image/team/zhuchuang/gaofu.jpg)
 * [十堰晚报 | 电视剧《梦华录》热播，这个角色扮演者是十堰人](https://mp.weixin.qq.com/s/jyAu2RdTHpzciAkoA5tX2A)
 
 ### 童年赵盼儿(黎艾蒙)
+![](/image/team/zhuchuang/xiaopaner.jpg)
 * [麦田星艺 | 爆火剧《梦华录》为何出圈？小演员黎艾蒙饰童年赵盼儿 网友弹幕获好评](https://mp.weixin.qq.com/s/De4qFQNVNU62LTPBOJ7knA)
 
 ### 斗茶老板(成国栋)
@@ -122,9 +125,11 @@
 [神神叨叔 | 在梦华录跑龙套被导演看中，和天仙飙戏50场是什么体验？](https://www.bilibili.com/video/BV1WY4y1G7Do/)
 
 ### 秀州知州许永(陈旭明) & 群演榜眼（常超禹）
+![](/image/team/zhuchuang/zhizhou.jpg)
 [上海电影艺术职业学院 | 《梦华录》热播！上电“师生同框”背后的精彩](https://www.shfilmart.com/2022/0608/c109a2160/page.htm?continueFlag=b2c0140d510a27953165cfa16c6e757d)
 ![](/image/team/zhuchuang/liuyuanfan.jpg)
 ### 某群演(刘远帆)
+![](/image/team/zhuchuang/yanjizuicha.jpg)
 * [红星独家｜我们采访了《梦华录》“演技最差的人”他说：我是专业的 ](https://www.sohu.com/a/556848381_116237)
 * [娱理 | 《梦华录》演技最差的人，背后还有这样的群演心事](https://mp.weixin.qq.com/s/ICdzmHbfNXHrg9dT6r41GA)
 
@@ -179,6 +184,8 @@
 
 ##  其他配角图片大赏
 
+`注：排名乱序，毫无规律`
+
 ### 杜玉明（饰雷敬）
 ![](/image/team/zhuchuang/duyuming.jpg)
 ### 刘亚津（饰袁屯田）
@@ -189,12 +196,40 @@
 ![](/image/team/zhuchuang/suyujie.jpg)
 ### 姚未平（饰林三司）
 ![](/image/team/zhuchuang/yaoweiping.jpg)
+### 刘珂君（饰圣人）
+![](/image/team/zhuchuang/shengren.jpg)
+### 曹赞（饰吕五）
+![](/image/team/zhuchuang/lvwu.jpg)
 ### 廖望（饰孔午）
 ![](/image/team/zhuchuang/kongwu.jpg)
 ### 李季（饰花月宴柳九官人）
-![](/image/team/zhuchuang/liji.jpg)
+![](/image/team/zhuchuang/liujiu.jpg)
 ### 常超禹（饰榜眼）
 ![](/image/team/zhuchuang/changchaoyu.jpg)
+### 张翔（饰周舍）
+![](/image/team/zhuchuang/zhoushe.jpg)
+### 余梦寒（饰银屏）
+![](/image/team/zhuchuang/yinping.jpg)
+### 秦越（饰杨夫人）
+![](/image/team/zhuchuang/yangfuren.jpg)
+### 孙德元（饰望月楼老板）
+![](/image/team/zhuchuang/wangyuelou.jpg)
+### 金子（饰引章姐姐）
+![](/image/team/zhuchuang/jinzi.jpg)
+### 张怀公（饰崔内侍）
+![](/image/team/zhuchuang/gongong.jpg)
+### 施庆虎（饰高禄）
+![](/image/team/zhuchuang/gaolu.jpg)
+### 朱辉（饰德叔）
+![](/image/team/zhuchuang/deshu.jpg)
+### 韩远琪（饰傅子方）
+![](/image/team/zhuchuang/shengren.jpg)
+### 郭紫铭（饰小道童）
+![](/image/team/zhuchuang/daotong.jpg)
+### 房子墨（饰小包拯）
+![](/image/team/zhuchuang/baozheng.jpg)
+### 常荻（饰崔指挥）
+![](/image/team/zhuchuang/cuizhihui.jpg)
 ### 合照
 ![](/image/team/zhuchuang/hezhao.jpg)
 
