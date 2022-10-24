@@ -117,6 +117,7 @@
 * [麦田星艺 | 爆火剧《梦华录》为何出圈？小演员黎艾蒙饰童年赵盼儿 网友弹幕获好评](https://mp.weixin.qq.com/s/De4qFQNVNU62LTPBOJ7knA)
 
 ### 斗茶老板(成国栋)
+![](/image/team/zhuchuang/doucha.jpg)
 * [开心西瓜 | 靠主角无法获胜，《梦华录》配角倒也出彩，成国栋曲线发展事业](https://mp.weixin.qq.com/s/hQobaTXTRl8Ncm_0uvxoLg)
 
 ### 群演状元（王菁飞）
@@ -228,6 +229,8 @@
 ![](/image/team/zhuchuang/daotong.jpg)
 ### 房子墨（饰小包拯）
 ![](/image/team/zhuchuang/baozheng.jpg)
+### 陈均尚（饰孙理）
+![](/image/team/zhuchuang/sunli.jpg)
 ### 常荻（饰崔指挥）
 ![](/image/team/zhuchuang/cuizhihui.jpg)
 ### 合照
