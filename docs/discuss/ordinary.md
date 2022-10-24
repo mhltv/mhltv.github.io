@@ -50,12 +50,14 @@
 
 * [@招商银行 | 抽奖](https://m.weibo.cn/1653150224/4781807008485876)
 
-![](/image/discuss/other/zhaohang3.png)
+![](/image/discuss/other/zhaohang3.jpg)
 
 * [粉丝头条粉条君 《梦华录》之粉条君的故事](https://m.weibo.cn/7404187888/4791072192466254)
 ![](/image/discuss/other/fentiao.jpg)
+
 > 直播
 ![](/image/discuss/other/zhibo2.png)
+
 ![](/image/discuss/other/guanggao2.png)
 
 ### 汽车--赵盼儿配色
@@ -115,6 +117,9 @@
 * [皮卡秋 | 赵盼儿仿妆](https://v.douyin.com/MmgRYFQ)
 * [【北川婠婠×楚淇】刘亦菲东京梦华录仿妆！](https://www.bilibili.com/video/BV1u34y127sp)
 * [乔嘚嘚 | 梦华录刘亦菲赵盼儿同款古风盘发](https://www.bilibili.com/video/BV1KT41157D6)
+* [@Poppy-chan | 赵盼儿仿妆](https://m.weibo.cn/status/4783626430709844)
+* [周愚昧 | 【赵盼儿cos |《我在老年公园，仿拍了梦华录》】](https://www.bilibili.com/video/BV1Kf4y1o7dS/)
+* [周愚昧 | 【我仿的3次【赵盼儿】中，哪组最还原？】](https://www.bilibili.com/video/BV1U34y1J7CF/)
 ### 孙三娘
 * [苏苏_suri | 孙三娘仿妆](https://www.douyin.com/video/7117441888621186307)
 ### 张好好
@@ -125,6 +130,7 @@
 ### 簪花仕女图
 * [我是扒皮呀 |1比1复原《簪花仕女图》！视觉盛宴！！](https://www.bilibili.com/video/BV1Pf4y1Z7we)
 * [羁旅者lina | 花月宴簪花仕女妆发教程](https://m.weibo.cn/status/4817694514484658)
+* [周愚昧 | 【簪花仕女图】仿妆 | 想去永安楼应聘“甩手掌柜”~](https://www.bilibili.com/video/BV1gm4y1w7YA/)
 
 ## 摄影
 ![](/image/discuss/other/fangzhuang2.png)
@@ -138,7 +144,9 @@
 
 ## 猫咪
 ![](/image/discuss/other/maomiqianfan.jpg)
+
 [时尚猫帮 | 卷千帆](http://xhslink.com/XpHNHk)
+
 ![](/image/discuss/other/miaomiao2.png)
 ![](/image/discuss/other/lingyang.jpg)
 
