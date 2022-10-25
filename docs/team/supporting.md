@@ -1,7 +1,7 @@
 # 其他演员
 
 
-## 报道
+## 采访报道
 
 ### 欧阳旭(徐海乔)
 ![](/image/team/zhuchuang/xuhaiqiao.jpg)
@@ -95,7 +95,7 @@
 * [娱乐八卦基地 | 梦华录：由于长得太帅，被误认为是重要人物，弹幕全是中年杨洋](https://mp.weixin.qq.com/s/ZnUR2jgRThNwp_j1BiLh0g)
 
 
-### 高观察(尹铸胜)
+### 高鹄(尹铸胜)
 ![](/image/team/zhuchuang/yinzhusheng.jpg)
 * [情感故事糖糖 | 《梦华录》：这位配角超级厉害，在播出的三部电视剧饰演重要角色](https://mp.weixin.qq.com/s/x8xAEvc7H95v34b6J0vmMQ)
 
@@ -106,6 +106,7 @@
 
 
 ### 萧府管家(曹明华)
+![](/image/team/zhuchuang/caominghua.jpg)
 * [河南微生活队 | 接连出演很多火出圈的影视剧，《梦华录》中再次出现，却无人相识](https://mp.weixin.qq.com/s/fwHAoWsOOE31VvkEiBeYoQ)
 
 ### 高家家丁高福(辛逸泉)
@@ -116,7 +117,7 @@
 ![](/image/team/zhuchuang/xiaopaner.jpg)
 * [麦田星艺 | 爆火剧《梦华录》为何出圈？小演员黎艾蒙饰童年赵盼儿 网友弹幕获好评](https://mp.weixin.qq.com/s/De4qFQNVNU62LTPBOJ7knA)
 
-### 斗茶老板(成国栋)
+### 斗茶掌柜(成国栋)
 ![](/image/team/zhuchuang/doucha.jpg)
 
 * [开心西瓜 | 靠主角无法获胜，《梦华录》配角倒也出彩，成国栋曲线发展事业](https://mp.weixin.qq.com/s/hQobaTXTRl8Ncm_0uvxoLg)
@@ -127,19 +128,18 @@
 * [神神叨叔 | 梦华录男演员自曝剧组生活：“刘亦菲请我吃炸鸡耶！”](https://www.bilibili.com/video/BV1aa411H7z7)
 * [神神叨叔 | 在梦华录跑龙套被导演看中，和天仙飙戏50场是什么体验？](https://www.bilibili.com/video/BV1WY4y1G7Do/)
 
-### 秀州知州许永(陈旭明) & 群演榜眼（常超禹）
+### 秀州知州许永（陈旭明） & 群演榜眼（常超禹） & 派角色蒋攀（郭鹏）
 ![](/image/team/zhuchuang/zhizhou.jpg)
-
+![](/image/team/zhuchuang/changchaoyu.jpg)
 [上海电影艺术职业学院 | 《梦华录》热播！上电“师生同框”背后的精彩](https://www.shfilmart.com/2022/0608/c109a2160/page.htm?continueFlag=b2c0140d510a27953165cfa16c6e757d)
-![](/image/team/zhuchuang/liuyuanfan.jpg)
 
-### 某群演(刘远帆)
+### 群演(刘远帆)
 ![](/image/team/zhuchuang/yanjizuicha.jpg)
 
 * [红星独家｜我们采访了《梦华录》“演技最差的人”他说：我是专业的 ](https://www.sohu.com/a/556848381_116237)
 * [娱理 | 《梦华录》演技最差的人，背后还有这样的群演心事](https://mp.weixin.qq.com/s/ICdzmHbfNXHrg9dT6r41GA)
 
-## 商务
+## 商务活动
 
 ### 徐海乔（欧阳旭）
 * [线下 | 英纳格](https://m.weibo.cn/6444300957/4798032157083677)
@@ -188,7 +188,7 @@
 ![](/image/team/zhuchuang/suniang.jpg)
 * [节目 | 中秋节 抖音华彩追月夜 第五乐章](https://m.weibo.cn/2883143471/4812515680195591)
 
-##  其他配角图片大赏
+##  配角图赏
 
 `注：排名乱序，毫无规律`
 
@@ -202,46 +202,63 @@
 ![](/image/team/zhuchuang/suyujie.jpg)
 ### 姚未平（饰林三司）
 ![](/image/team/zhuchuang/yaoweiping.jpg)
+### 张翔（饰周舍）
+![](/image/team/zhuchuang/zhoushe.jpg)
 ### 刘珂君（饰圣人）
 ![](/image/team/zhuchuang/shengren.jpg)
+### 朱辉（饰德叔）
+![](/image/team/zhuchuang/deshu.jpg)
+### 张怀公（饰崔内侍）
+![](/image/team/zhuchuang/gongong.jpg)
 ### 曹赞（饰吕五）
 ![](/image/team/zhuchuang/lvwu.jpg)
 ### 廖望（饰孔午）
 ![](/image/team/zhuchuang/kongwu.jpg)
-### 李季（饰花月宴柳九官人）
-![](/image/team/zhuchuang/liujiu.jpg)
-### 常超禹（饰榜眼）
-![](/image/team/zhuchuang/changchaoyu.jpg)
-### 张翔（饰周舍）
-![](/image/team/zhuchuang/zhoushe.jpg)
-### 余梦寒（饰银屏）
-![](/image/team/zhuchuang/yinping.jpg)
-### 秦越（饰杨夫人）
-![](/image/team/zhuchuang/yangfuren.jpg)
+### 高长远（饰于中全）
+![](/image/team/zhuchuang/kongwu.jpg)
 ### 孙德元（饰望月楼老板）
 ![](/image/team/zhuchuang/wangyuelou.jpg)
+### 沈慕晗（饰冰铺掌柜）
+![](/image/team/zhuchuang/bingpu.jpg)
+### 秦越（饰杨夫人）
+![](/image/team/zhuchuang/yangfuren.jpg)
 ### 金子（饰引章姐姐）
 ![](/image/team/zhuchuang/jinzi.jpg)
-### 张怀公（饰崔内侍）
-![](/image/team/zhuchuang/gongong.jpg)
+### 茹天（饰葛母）
+![](/image/team/zhuchuang/niang.jpg)
+### 余梦寒（饰银屏）
+![](/image/team/zhuchuang/yinping.jpg)
+### 李季（饰花月宴柳九官人）
+![](/image/team/zhuchuang/liujiu.jpg)
 ### 施庆虎（饰高禄）
 ![](/image/team/zhuchuang/gaolu.jpg)
-### 朱辉（饰德叔）
-![](/image/team/zhuchuang/deshu.jpg)
 ### 韩远琪（饰傅子方）
 ![](/image/team/zhuchuang/fuzifang.jpg)
 ### 郭紫铭（饰小道童）
 ![](/image/team/zhuchuang/daotong.jpg)
 ### 房子墨（饰小包拯）
 ![](/image/team/zhuchuang/baozheng.jpg)
-### 陈均尚（饰孙理）
+### 陈均尚（饰孙理）& 盛梓航（饰胡彦）
 ![](/image/team/zhuchuang/sunli.jpg)
+### 毕瀚文（饰 魏知县）
+![](/image/team/zhuchuang/wuzuo.jpg)
 ### 常荻（饰崔指挥）
 ![](/image/team/zhuchuang/cuizhihui.jpg)
+### 韩潇雨（饰张允）
+![](/image/team/zhuchuang/zhangyun.jpg)
+### 张博豪（饰任提点）
+![](/image/team/zhuchuang/rentidian.jpg)
+
 ### 合照
+### 孙立秋（饰高慧乳母 江氏） & 裴培（饰掌柜娘子） & 赖臣君（饰春桃） & 刘彤家（饰船老大）
+![](/image/team/zhuchuang/he.jpg)
+### 郭金杰（饰傅新贵） & 赵维（饰陶氏）
+![](/image/team/zhuchuang/fuxinggui.jpg)
+### 现代装合照
+![](/image/team/zhuchuang/liuyuanfan.jpg)
 ![](/image/team/zhuchuang/hezhao.jpg)
 
-## 新剧
+## 新剧关注
 
 录人们陪着《梦华录》一路走来，各位演员们收获了不少录人们的喜爱，那就一起关注演员们的新剧吧，期待《梦华录》所有演员们大放异彩！一切以官宣为准哦~
 
