@@ -199,6 +199,7 @@ module.exports = {
             'fenji',
             'all',
             'character',
+            'wonderful',
             'other',
           ]
         }
