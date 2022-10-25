@@ -69,6 +69,10 @@ module.exports = {
         link: '/scenario/',
       },
       {
+        text: '科普',
+        link: '/kepu/',
+      },
+      {
         text: '二创',
         link: '/re-creation/',
       },
@@ -204,7 +208,24 @@ module.exports = {
           ]
         }
       ],
-
+      '/kepu/': [
+        {
+          title: '科普',
+          collapsable: false,
+          children: [
+            'tea',
+            'nature',
+            'history',
+            'officials',
+            'law',
+            'economics',
+            'custom',
+            'thing',
+            'medicine',
+            'art',
+          ]
+        }
+      ],
       '/xianxia/': [
         {
           title: '线下',
