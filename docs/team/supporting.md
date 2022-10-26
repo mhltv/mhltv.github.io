@@ -273,7 +273,7 @@
 
 ### 高长远（饰于中全）
 
-![](/image/team/zhuchuang/kongwu.jpg)
+![](/image/team/zhuchuang/yuzhongquan.jpg)
 
 ### 孙德元（饰望月楼老板）
 
