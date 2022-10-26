@@ -124,6 +124,9 @@
 * [CYCA形体礼仪 | 茶桌礼仪 | 跟着《梦华录》一起，体验中国传统文化的饮茶之道](https://mp.weixin.qq.com/s/A3BEG8gUYTdVbCDx6TJTpg)
 * [成都高新科普e | 《梦华录》里的这一幕，学问非常大……](https://mp.weixin.qq.com/s/uChQMfNonysZ93socZ2NlQ)
 
+其他讨论可参考: [破圈讨论/点茶](/discuss/all.html#点茶)
+
+
 
 ## 游戏里的茶百戏
 

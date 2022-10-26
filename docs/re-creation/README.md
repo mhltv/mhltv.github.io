@@ -5,4 +5,5 @@
 
 ![](/image/erchuang/cover.jpg)
 
-画师: [@呼葱觅蒜](https://weibo.com/u/5507569981)
+
+画师: [guan老师](https://weibo.com/1256022507?refer_flag=1001030103_)

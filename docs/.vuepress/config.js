@@ -144,6 +144,7 @@ module.exports = {
             'again',
             'after',
             '20th',
+            'painting',
             'letter'
           ]
         }
@@ -153,7 +154,6 @@ module.exports = {
           title: '录人',
           collapsable: false,
           children: [
-            '',
             'live',
             'zhanbao',
             'luren-1',
