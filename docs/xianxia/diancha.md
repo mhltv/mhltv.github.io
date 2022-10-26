@@ -168,4 +168,9 @@
  [顶端新闻](https://m.thecover.cn/video_details.html?id=9427152)
 
 ### 云南普洱
+
 [报道](https://mp.weixin.qq.com/s/eEbKtyMF7d4UIGAL_tLSCw)
+
+### 安徽合肥
+
+[澎湃新闻 | 热播剧带火的点茶有多美？ 合肥茶艺师带你梦回大宋](https://www.thepaper.cn/newsDetail_forward_18546133)

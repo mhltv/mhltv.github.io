@@ -129,6 +129,7 @@
 * [鹰潭文旅 | 在龙虎山Get《梦华录》同款美景，就是这么简单！](https://m.weibo.cn/status/4786081473761544)
 
 ### 山东
+* [青岛市文化和旅游局 | 我在青岛误入《梦华录》，做了一回“神仙姐姐”！](https://mp.weixin.qq.com/s/_M92X7N39ZZ82xlj916Bfg)
 * [济南文旅发展集团 | 《梦华录》的同款唯美意境，济南也有！](https://mp.weixin.qq.com/s/YrGvwL8Q3datcImRYW-TcQ)
 
 ### 上海
