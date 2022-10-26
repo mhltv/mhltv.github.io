@@ -238,7 +238,7 @@
 
 ![](/image/discuss/bus.jpg)
 
-* [营销鱼子酱 | 《梦华录》如何讲好IP商业故事？|对话腾讯视频王莹](https://mp.weixin.qq.com/s/MH9E84w340VXVspUwkL-qA)
+* [营销娱子酱 | 《梦华录》如何讲好IP商业故事？|对话腾讯视频王莹](https://mp.weixin.qq.com/s/MH9E84w340VXVspUwkL-qA)
 * [金融投资报 | 《梦华录》“风雅产业链”成热议对象 体现了“Z世代”对于传统文化的青睐](http://www.ceeh.com.cn/wenhua/2022-06-09/89310.html)
 * [HANS汉声 | 《梦华录》里的武汉护肤大牌，神奇工厂大揭秘](https://mp.weixin.qq.com/s/Z-R6lpRTScW1YtlMZ2f7_g)
 * [碧桂园i尚学习 | 《梦华录》：北宋版“合伙人”](https://mp.weixin.qq.com/s/C5jyH1__ANdfuJxePLcRVw)
