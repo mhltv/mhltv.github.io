@@ -319,7 +319,7 @@
 
 ![](/image/team/zhuchuang/baozheng.jpg)
 
-### 陈均尚（饰孙理）& 盛梓航（饰胡彦）
+### 盛梓航（饰胡彦） & 陈均尚（饰孙理）
 
 ![](/image/team/zhuchuang/sunli.jpg)
 
@@ -347,7 +347,7 @@
 
 ### 郭金杰（饰傅新贵） & 赵维（饰陶氏）
 
-![](/image/team/zhuchuang/fuxinggui.jpg)
+![](/image/team/zhuchuang/fuxingui.jpg)
 
 ### 现代装合照
 
