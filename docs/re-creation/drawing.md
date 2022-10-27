@@ -20,21 +20,9 @@
 ![](/image/erchuang/piant/paner-6.jpg)
 
 
-## 顾盼生辉
 
-![](/image/erchuang/piant/gupan-3.jpg)
 
 ## 相关画手
-
-
-### 微博: 呼葱觅蒜
-
-![](/image/erchuang/piant/paner-8.jpg)
-
-简介: 插画师 电影海报设计师 绘本作家
-
-地址: [Weibo](https://weibo.com//u/5507569981)
-
 
 
 
@@ -95,6 +83,8 @@
 简介: 贵州传播动力文化传媒有限公司 设计总监
 
 地址: [Weibo](https://weibo.com/n/冯婷-绘玩儿)
+
+
 
 ### 小红书: 大雨DAYU
 

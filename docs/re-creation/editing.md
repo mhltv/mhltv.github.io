@@ -33,9 +33,6 @@
 [报告老板！梦华录就该这样拍！！！](https://www.bilibili.com/video/BV1T341137Jq?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c)
 
 
-![](/image/lu/gupan.jpg)
-[【顾盼衍生群像】“我做了一个梦”| 生生世世，因你而至](https://www.bilibili.com/video/BV1Ug411Q7ri?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c)
-
 
 ## 更多剪辑
 
