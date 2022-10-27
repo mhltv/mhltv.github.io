@@ -11,7 +11,8 @@ jobs:
       uses: jenkey2011/vuepress-deploy@master
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        TARGET_REPO: mhltv/mhltv.github.io
-        TARGET_BRANCH: master
-        BUILD_SCRIPT: npm install && npm run build
-        BUILD_DIR: docs/.vuepress/dist/
+        TARGET_REPO: mhltv/mhl
+        TARGET_BRANCH: gh_pages
+        BUILD_SCRIPT: npm install && npm run docs:build
+        BUILD_DIR: docs/.vuepress/dist
+        CNAME: https://mhlyf.cc
