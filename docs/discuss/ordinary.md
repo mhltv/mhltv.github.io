@@ -1,5 +1,7 @@
 # 生活日常
 
+![](/image/discuss/other/otherall.jpg)
+
 在日常生活的方方面面，来看《梦华录》如何花式出圈！
 
 ## 反诈

@@ -6,4 +6,4 @@
 ![](/image/erchuang/cover.jpg)
 
 
-画师: [guan老师](https://weibo.com/1256022507?refer_flag=1001030103_)
+画师: [gua老师](https://weibo.com/1256022507?refer_flag=1001030103_)

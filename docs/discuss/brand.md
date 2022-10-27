@@ -1,5 +1,7 @@
 # 品牌联动
 
+![](\image\discuss\other/lianmingall.jpg)
+
 本文主要记录线上的品牌联动，线下相关品牌联动请见: [线下](/xianxia)。
 
 相关报道:
