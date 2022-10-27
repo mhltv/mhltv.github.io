@@ -153,15 +153,14 @@
 ![](/image/team/role/sanfeng1-min.jpg)
 [小红书 | 画小匠不想画画](http://xhslink.com/Umj5Nk)
 
-![](/image/team/role/sanniang10-min.jpg)
-[小红书 | 柠檬乖乖咩](http://xhslink.com/rpw4Nk)
 
 其他二创请参考以下链接：
 
-[小红书 | 画小匠不想画画](http://xhslink.com/icm5Nk)
-[小红书 | 画小匠不想画画](http://xhslink.com/x0y5Nk)
-[小红书 | 花半の画](http://xhslink.com/Ij94Nk)
-[小红书 | 画画的琳一linyi](http://xhslink.com/2dH5Nk)
+* [小红书 | 柠檬乖乖咩](http://xhslink.com/rpw4Nk)
+* [小红书 | 画小匠不想画画](http://xhslink.com/icm5Nk)
+* [小红书 | 画小匠不想画画](http://xhslink.com/x0y5Nk)
+* [小红书 | 花半の画](http://xhslink.com/Ij94Nk)
+* [小红书 | 画画的琳一linyi](http://xhslink.com/2dH5Nk)
 
 
 ## 三娘
