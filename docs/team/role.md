@@ -39,6 +39,7 @@
 ### 招娣&陈廉
 
 ![](/image/team/role/zhaodichenlian3-min.jpg)
+
 [小红书 | 画画的琳一linyi](http://xhslink.com/VsEmNk)
 
 ![](/image/team/role/zhaodichenlian1-min.jpg)
