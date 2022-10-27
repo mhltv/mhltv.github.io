@@ -1,1 +1,3 @@
-<img src="/image/juqing/juqingshouyetmp.jpg" width="1080">
+# 剧情解析
+
+![](/image/juqing/cover.jpg)
