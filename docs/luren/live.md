@@ -31,3 +31,19 @@
 [《梦华录》十级学者统一考试开考！](https://www.douban.com/group/topic/270227893/?_i=4572006PbKEZeM,4572039EBOLKYV)
 
 请不及格的同学复习相应剧集
+
+
+## 毕业证书
+
+![](/image/lu/cert.jpg)
+
+
+
+## 称呼
+
+
+
+
+![](/image/lu/nhl.jpg)
+![](/image/lu/maoyao.jpg)
+![](/image/lu/huluwa.jpg)
