@@ -23,5 +23,5 @@
 ![](/image/team/role/zhuzhu7-min.jpg)
 ![](/image/team/role/zhuzhu8-min.jpg)
 
-更多精彩画作，请前往[小红书 | zhuzhu](https://www.xiaohongshu.com/user/profile/5ce5f6b80000000016007353?xhsshare=CopyLink&appuid=5c3e9f750000000007020be4&apptime=1666961817)主页欣赏更多大作！
+更多精彩画作，请前往[小红书 | zhuzhu](https://www.xiaohongshu.com/user/profile/5ce5f6b80000000016007353?xhsshare=CopyLink&appuid=5c3e9f750000000007020be4&apptime=1666961817)主页欣赏！
 
