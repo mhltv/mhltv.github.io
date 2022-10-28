@@ -178,6 +178,7 @@ module.exports = {
             'drawing-a7y',
             'drawing-hu',
             'editing',
+            'craft',
             'music',
             "article",
             'song'
