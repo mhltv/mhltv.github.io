@@ -1,7 +1,6 @@
 # 个人二创
 
-《梦华录》播出之后，刘亦菲参与的一些公开活动, 还有一些生活微博照片都有不少画手贡献了优质的二创作品，本文将收录部分展示.
-
+《梦华录》播出之后，刘亦菲参与的一些公开活动, 还有一些生活微博照片都有不少画手贡献了优质的二创作品，本文将收录部分展示.其他形式的二创也酌情收录部分。
 
 
 ## 生活日常
@@ -111,3 +110,8 @@
 ![](/image/cc/piant/other-1.jpg)
 
 作者: [ArtTemperamenT](https://weibo.com/u/5602942767)
+
+
+![](/image/cc/piant/mofang.jpg)
+
+* [魔方先生MrPuzzle | 拼一个刘亦菲！外国小哥爆肝34小时展示魔方绝技!](https://www.bilibili.com/video/BV1yY411T7GQ/?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c)
