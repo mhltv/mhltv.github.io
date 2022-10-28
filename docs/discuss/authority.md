@@ -278,23 +278,25 @@
 
 ### 人民法院报
 
-注: 需要在页面选择相应日期和版面
+注: 报纸需要在页面选择相应日期和版面
 
-2022-07-22:
-* [宋代司法官的养成之道——从电视剧《梦华录》说起](http://rmfyb.chinacourt.org/paper/html/2022-07/22/node_7.htm)
-
-未确定日期:
-* [宋代婚姻制度的进步性——从电视剧《梦华录》说起](http://rmfyb.chinacourt.org/paper/html/2022-08/05/node_7.htm)
-
-投稿直达: [微博文章 | 法治四川 | 宋代婚姻制度的进步性——从电视剧《梦华录》说起](https://weibo.com/ttarticle/p/show?id=2309404802373842501757)
-
-* [宋代司法制度中的“防弊之政”——从电视剧《梦华录》说起](http://rmfyb.chinacourt.org/paper/html/2022-08/19/node_7.htm)
-
-转载直达: [宋代司法制度中的“防弊之政”——从电视剧《梦华录》说起](https://www.lvesh.com/content/62fff44d70fc19379a0326f8.html)
 
 公众号文章:
 
 * [梦华录丨周舍诈骗还家暴？法律说：不行！](https://mp.weixin.qq.com/s/AUW9kwjNtK4oRMeK1BvKxQ)
+
+
+2022-07-22:
+* [宋代司法官的养成之道——从电视剧《梦华录》说起](http://rmfyb.chinacourt.org/paper/html/2022-07/22/node_7.htm)
+
+2022-08-05:
+* [宋代婚姻制度的进步性——从电视剧《梦华录》说起](http://rmfyb.chinacourt.org/paper/html/2022-08/05/node_7.htm)
+
+其他转载: [微博文章 | 法治四川 | 宋代婚姻制度的进步性——从电视剧《梦华录》说起](https://weibo.com/ttarticle/p/show?id=2309404802373842501757)
+
+2022-08-19:
+* [宋代司法制度中的“防弊之政”——从电视剧《梦华录》说起](http://rmfyb.chinacourt.org/paper/html/2022-08/19/node_7.htm)
+
 
 2022-10-28:
 
