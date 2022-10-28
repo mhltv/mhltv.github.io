@@ -498,6 +498,8 @@
 
 ### 群演（刘远帆）
 
+![](/image/team/role/yanjizuicha-min.jpg)
+
 [@安小逸插画](https://m.weibo.cn/1809723895/4777453702616385)
 
 
