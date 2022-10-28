@@ -336,7 +336,7 @@
 
 ### 池衙内&张好好
 
-![](/image/erchuang/video/zc cp.jpg)
+![](/image/erchuang/video/zccp.jpg)
 
 [云层下的星辰 | ＂他 终 究 没 有 再 哄 你 一 次 ＂](https://b23.tv/VDUwQ7y)
 
@@ -350,7 +350,7 @@
 
 ### CP群像
 
-![](/image/erchuang/video/cp qunxiang.jpg)
+![](/image/erchuang/video/cpqunxiang.jpg)
 
 [日暮卷梳头 | 泪目了...梦华录不负时光！由现实走向浪漫，平行世界继续大放异彩吧【cp群像完结撒花】](https://b23.tv/IjwJyOp)
 
