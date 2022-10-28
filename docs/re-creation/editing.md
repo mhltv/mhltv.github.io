@@ -316,36 +316,42 @@
 ### 顾盼生辉
 
 ![](/image/erchuang/video/gupan.jpg)
- [雪糕糯米糍粘粘 | 好甜！他俩连斗嘴都像在打情骂俏！这就是b站拉郎成真的快乐吗！| 陈晓×刘亦菲](https://b23.tv/MoyzcxE)
+
+[雪糕糯米糍粘粘 | 好甜！他俩连斗嘴都像在打情骂俏！这就是b站拉郎成真的快乐吗！| 陈晓×刘亦菲](https://b23.tv/MoyzcxE)
 
 
 ### 三风点火
 
 ![](/image/erchuang/video/sanfengdianhuo.jpg)
+
 [做面包不放面包酱 | 不愧是女导演拍的古偶剧！连配角谈恋爱都那么甜！！](https://b23.tv/93nKbn4)
 
 
 ### 招娣&陈廉
 
 ![](/image/erchuang/video/zhaodichenlian.jpg)
+
 [钮祜禄心情 | 事实证明跟对领导不仅可以升职加薪还可以娶到媳妇儿！[陈廉｜葛招娣]](https://b23.tv/yV1fG18)
 
 
 ### 池衙内&张好好
 
 ![](/image/erchuang/video/zc cp.jpg)
+
 [云层下的星辰 | ＂他 终 究 没 有 再 哄 你 一 次 ＂](https://b23.tv/VDUwQ7y)
 
 
 ### 帝后CP
 
 ![](/image/erchuang/video/dihou.jpg)
+
 [橘子在夏 | 难怪是历史都承认的偏爱，他早就知道她嫁过人，可依然把所有宠爱都给了她~](https://b23.tv/5aQKOUO)
 
 
 ### CP群像
 
 ![](/image/erchuang/video/cp qunxiang.jpg)
+
 [日暮卷梳头 | 泪目了...梦华录不负时光！由现实走向浪漫，平行世界继续大放异彩吧【cp群像完结撒花】](https://b23.tv/IjwJyOp)
 
 ### 更多剪辑
@@ -600,29 +606,36 @@
 ### 张好好&宋引章
 
 ![](/image/erchuang/video/songzhang.jpg)
+
 [鹰酱优酱 | 笑死，以为她一出场就是搞雌竞，结果看到妹妹就贴贴....|张好好X宋引章|](https://b23.tv/zsBlcTt)
 
 
 ### 宋引章&池衙内
 
 ![](/image/erchuang/video/songchi.jpg)
+
  [你吃颗柠檬吧 | 救命！原来他俩还真是官配啊？！](https://b23.tv/J8zrCZk)
 
 
 ### 赵盼儿CP中心向
 
 ![](/image/erchuang/video/pancp.jpg)
+
 [兰彻lancche | 她爱他爱她 | 赵盼儿cp中心向](https://b23.tv/U6VCp4q)
 
 ### CP乱炖
 
 ![](/image/erchuang/video/CPluandun.jpg)
+
 [磕糖少女喵喵酱 | 她爱他，他爱她，你们怎么做到五个人五对CP的？◎梦华录](https://b23.tv/RGXYD2C)
 
 
 ### 更多剪辑
 
 **赵高CP**
+
+* [Sehunmtae | "最初我把她视为情敌，可是后来⋯"【赵盼儿x高慧】关于女主攻略女配，情敌看对眼这件事](https://b23.tv/XmzMnRs)
+
 
 **池盼**
 
