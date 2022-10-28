@@ -195,7 +195,8 @@ module.exports = {
             'behind',
             'leading',
             'supporting',
-            'role'
+            'role',
+            'unique'
           ]
         }
       ],
