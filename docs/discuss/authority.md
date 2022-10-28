@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方/知名媒体 `113`个，文章/微博/公众号条目`214`篇。
+本文共收录 权威/官方/知名媒体 `113`个，文章/微博/公众号条目`213`篇。
 
 ## 央媒党媒
 
@@ -10,11 +10,19 @@
 [《梦华录》：传承美学旧韵，缔造审美新潮2022-06-04](https://xhpfmapi.xinhuaxmt.com/vh512/share/10855355?dt_dapp=1)
 
 ### 新华日报
+<<<<<<< HEAD
 * [《梦华录》中的“宋代点茶”，竟是这里的非遗……2022-06-16](https://mp.weixin.qq.com/s/biSbDvXkoPkugw4qq085JQ) `微博平台也有发布`
 
 ### 新华网
 
 * [@新华网 | 宋朝人解暑也喝冰茶2022-6-23](https://m.weibo.cn/2810373291/4783526975635526)
+=======
+[《梦华录》中的“宋代点茶”，竟是这里的非遗……2022-06-16](https://mp.weixin.qq.com/s/biSbDvXkoPkugw4qq085JQ) `微博平台也有发布`
+
+### 新华网
+
+[@新华网 | 宋朝人解暑也喝冰茶2022-6-23](https://m.weibo.cn/2810373291/4783526975635526)
+>>>>>>> cd1396b7813a7a5f3b192d436379a44e4efea7d3
 
 ### 人民网
 
@@ -37,6 +45,7 @@
 * [茶百戏专栏2022-08-14](https://app.gmdaily.cn/as/opened/n/171213453eff4202b3742a4e3f2d20c6)
 * [《梦华录》：一场势均力敌的爱情2022-06-12](https://mp.weixin.qq.com/s/gds3V63dcxbUsESyNJNubw)
 * [《梦华录》：看见女性友谊的更多可能性2022-06-08](https://mp.weixin.qq.com/s/c87AFPtQuxZKqW7Bh5_C4A)
+<<<<<<< HEAD
 * [忙碌于《梦华录》内外的两宋女商人2022-06-16 19:02](https://mp.weixin.qq.com/s/UUlsJD1oQP49BSqW-5POhw)
 
 另，`《梦华录》：精心构建文化想象之美（作者康伟 《中国艺术报》总编辑）` 一文，由`一天一篇外刊翻译`公众号精心翻译为英文版:
@@ -50,6 +59,21 @@
 ### 中国青年报
 
 * [描绘善良狭义的女性互助群像2022-06-05](https://baijiahao.baidu.com/s?id=1734761179603181773)
+=======
+* [忙碌于《梦华录》内外的两宋女商人2022-06-16](https://mp.weixin.qq.com/s/UUlsJD1oQP49BSqW-5POhw)
+
+另，`《梦华录》：精心构建文化想象之美（作者康伟 《中国艺术报》总编辑）` 一文，由`一天一篇外刊翻译`公众号精心翻译为英文版:
+
+[中译英·讲好中国故事 | 《梦华录》连载（1）2022-08-22](https://mp.weixin.qq.com/s/bkTRIdBYC2KZy6YeOmYtvQ)
+
+### 光明网
+
+[《梦华录》的梦还可以更美2022-08-05](https://wenyi.gmw.cn/2022-08/05/content_35935199.htm) `学习强国平台也有发文`
+
+### 中国青年报
+
+* [描绘善良狭义的女性互助群像2022-06-05](https://s.cyol.com/articles/2022-06/05/content_180RKOFY.html)
+>>>>>>> cd1396b7813a7a5f3b192d436379a44e4efea7d3
 * [专访学者赵冬梅：《梦华录》火了，近年来影视剧为何偏爱宋朝？2022-07-05](http://zqb.cyol.com/html/2022-07/05/nw.D110000zgqnb_20220705_1-11.htm) `学习强国平台也有发布`
 * [看完《梦华录》迷上“茶百戏” 中国首届斗茶大赛开启2022-07-11](http://m.cyol.com/gb/articles/2022-07/11/content_mzOYxcVvx.html)
 * [学习强国：几多雅事消溽夏：古人避暑的衣食住行2022-08-09](https://www.xuexi.cn/lgpage/detail/index.html?id=2923743365028638442&amp;item_id=2923743365028638442)
@@ -93,12 +117,19 @@
 ### 环球时报
 
 * [港媒：汉服，不再只是文化和情怀2022-08-02](https://oversea.huanqiu.com/article/494HlXRTCft)
+<<<<<<< HEAD
 * [环球时报 （Global Times）：New series ‘A Dream of Splendor’ shows links between ancient and modern times 2022-06-08](https://www.globaltimes.cn/page/202206/1267599.shtml)
+=======
+* [环球时报 （Global Times）：New series ‘A Dream of Splendor’ shows links between ancient and modern times 2022-06-08}(https://www.globaltimes.cn/page/202206/1267599.shtml)
+>>>>>>> cd1396b7813a7a5f3b192d436379a44e4efea7d3
 
 ### 法治日报
 
 * [带上法条看不一样的《梦华录》2022-07-30](http://m.legaldaily.com.cn/index/content/2022-07/30/content_8757449.htm)
+<<<<<<< HEAD
 
+=======
+>>>>>>> cd1396b7813a7a5f3b192d436379a44e4efea7d3
 * [@法治日报“大宋女子事业天团”来袭！#梦华录里的法律点你看懂了吗#？2022-06-14](https://weibo.com/ttarticle/x/m/show/id/2309404780373086175939)
 
 ### 中国新闻网
@@ -107,7 +138,10 @@
 * [宋词和宋代词人，真的很有趣！2022-10-14](http://www.chinanews.com.cn/cul/2022/10-14/9872882.shtml)
 * [第五届世界青瓷大会启幕在即 “90后”匠人传承宋韵文化2022-10-25](http://www.chinanews.com.cn/cul/2022/10-25/9879805.shtml)
 * [广西“90后”女生钻研传统发簪 精美工艺打造“头发上的明珠”2022-06-27](http://www.chinanews.com.cn/sh/shipin/cns/2022/06-27/news930397.shtml)
+<<<<<<< HEAD
 
+=======
+>>>>>>> cd1396b7813a7a5f3b192d436379a44e4efea7d3
 * [最高级的情商，是有话直说2022-07-11](https://mp.weixin.qq.com/s/Y9QDdsOdHrNe7lFB6hyfRA)
 * [@中国新闻网: 东西问·传承 ｜ 品一杯《梦华录》同款茶饮 看古人如何茶上拉花2022-6-10](https://m.weibo.cn/1784473157/4778803606064343)
 
@@ -152,7 +186,11 @@
 * [中国网旅游| 水乡周庄：江南一梦录风华，风雅处处是寻常2022-07-08](http://travel.china.com.cn/txt/2022-07/08/content_78313029.html)
 * [中国网食品| 艾普思咨询：2022年06月中国餐饮品牌线上口碑指数TOP50（含细分品类排名）2022-08-01](http://food.china.com.cn/2022-08/01/content_78351342.htm)
 * [中国网中国酒| 千年以后，李渡将宋宴做成了流动的文化盛宴2022-06-21](http://yxzg.china.com.cn/2022-06/21/content_42010405.html)
+<<<<<<< HEAD
 * [中国网中国酒| 从0至12亿，梅见离“明日之星”还有多远？2022-09-29 ](http://zgj.china.com.cn/2022-09/29/content_42125797.html)
+=======
+* [中国网中国酒| 从0至12亿，梅见离“明日之星”还有多远？2022-09-29](http://zgj.china.com.cn/2022-09/29/content_42125797.html)
+>>>>>>> cd1396b7813a7a5f3b192d436379a44e4efea7d3
 
 ### 国家人文历史
 
@@ -187,6 +225,7 @@
 [方圆 | 嗑《梦华录》：遭遇家暴后，“宋引章们”该如何维权？2022-06-14](https://mp.weixin.qq.com/s/7hXZkTcSpmUG3LjwmncDcw) `微博@检察日报也有发文`
 
 ### 环球杂志
+<<<<<<< HEAD
 
 [《梦华录》里的宋朝园林，藏着古人多少春天的记忆？2022-06-26](https://mp.weixin.qq.com/s/68POzlAzEn7f2dhUdIUgsQ)
 
@@ -200,6 +239,17 @@
 
 ### 人民政协网
 
+=======
+[《梦华录》里的宋朝园林，藏着古人多少春天的记忆？2022-06-26](https://mp.weixin.qq.com/s/68POzlAzEn7f2dhUdIUgsQ)
+
+### 人民论坛网
+[《梦华录》火了！宋代竟藏有这么多生态智慧2022-06-26 08:32](https://mp.weixin.qq.com/s/lpE3cvg9mr_xRooKOkPdtg)
+
+### 人民文娱
+[@人民文娱 | 【人民de安利 | 古装励志轻喜剧梦华录】2022-6-12](https://m.weibo.cn/7362512027/4779649106185768)
+
+### 人民政协网
+>>>>>>> cd1396b7813a7a5f3b192d436379a44e4efea7d3
 [@人民政协网 | 传承人带你走进茶百戏的前世今生2022-6-24](https://m.weibo.cn/7615661091/4783820711398424)
 
 ### 文汇报
@@ -222,11 +272,15 @@
 * [《梦华录》：“救风尘”之后怎么办2022-06-30](https://mp.weixin.qq.com/s/jqNdbDFzadalAlwFJRumOQ)
 
 ### 文艺中国
+<<<<<<< HEAD
 
+=======
+>>>>>>> cd1396b7813a7a5f3b192d436379a44e4efea7d3
 * [@文艺中国 | 【舞台艺术小课堂】刘亦菲主演的《梦华录》大火=传统戏+新的时代价值2022-10-09](https://weibo.com/7593349017/M9uJQuVWl)
 
 
 ### 新华报业网
+<<<<<<< HEAD
 
 [新华报业网 | 《梦华录》带热非遗技艺“茶百戏”2022-06-14](https://xhby.net/ly/wltt/202206/t20220614_7581685.shtml)
 
@@ -244,6 +298,20 @@
 
 ### 中华读书报
 
+=======
+[新华报业网 | 《梦华录》带热非遗技艺“茶百戏”2022-06-14](https://xhby.net/ly/wltt/202206/t20220614_7581685.shtml)
+
+### 中国交通报
+[《梦华录》赵盼儿北上撕渣男走的哪条路？2022-07-0](https://mp.weixin.qq.com/s/AagyDasiare4g3EbTyIPJA)
+
+### 中国证券报
+[新神剧！《梦华录》播放量突破15亿！赵盼儿背后这家公司笑了2022-06-13](ttps://mp.weixin.qq.com/s/EyGyua3IKlPGCBWF8Wy2CA)
+
+### 中国质量报
+[《梦华录》爆火，里面还有这些事？| 质眼看戏2022-06-15](https://mp.weixin.qq.com/s/OLvZMXcNaX0seVtg5xmL1w)
+
+### 中华读书报
+>>>>>>> cd1396b7813a7a5f3b192d436379a44e4efea7d3
 [《梦华录》中的宋人茶事2022-07-17](https://mp.weixin.qq.com/s/9tQUTwqz1c2GRye2MmwFgA)
 
 ### 澎湃新闻
@@ -253,7 +321,10 @@
 * [澎湃新闻精选 | 《东京梦华录》中的北宋建筑，恍若步入“清明上河图”2022-06-13](https://mp.weixin.qq.com/s/pDaclRmjaYH5yKjZw0F_9w)
 
 ### 中国知识产权报
+<<<<<<< HEAD
 
+=======
+>>>>>>> cd1396b7813a7a5f3b192d436379a44e4efea7d3
 * [中国知识产权报 |《梦华录》热播，版权问题知多少？2022-07-04](https://mp.weixin.qq.com/s/920DvqVVixUdfKuG-OIu_A)
 
 ### 科技日报
@@ -266,7 +337,10 @@
 * [《梦华录》火了，但更火的是宋人的雅致日常2022-06-21](https://mp.weixin.qq.com/s/qYnZ4bQOIrBgzTI_SQwR_Q)
 
 ### 中国水利报社
+<<<<<<< HEAD
 
+=======
+>>>>>>> cd1396b7813a7a5f3b192d436379a44e4efea7d3
 [一城宋韵半城水 千年古都“梦华录”2022-07-28](https://mp.weixin.qq.com/s/6Kgh5o3dlSaY5hZBYOhbSQ)
 
 ### 中国气象
@@ -324,7 +398,11 @@
 
 ### 中国信息报
 
+<<<<<<< HEAD
 * [账本里的“梦华录”2022-07-29](https://mp.weixin.qq.com/s/0jlAE3VK_dTvxSL311-hjg)
+=======
+[账本里的“梦华录”2022-07-29](https://mp.weixin.qq.com/s/0jlAE3VK_dTvxSL311-hjg)
+>>>>>>> cd1396b7813a7a5f3b192d436379a44e4efea7d3
 
 ### 中国新闻周刊
 
@@ -353,6 +431,7 @@
 
 ### 中共浙江省委宣传部
 
+<<<<<<< HEAD
 * [浙江宣传 | 怎样的“吆喝”才能让好书“破圈”2022-09-19](https://mp.weixin.qq.com/s/_ZFU9_YCFftZYRFkqkN7zg)
 
 ### 杭州日报
@@ -366,13 +445,32 @@
 ### 每日商报
 
 * [艳惊四座！《梦华录》一曲《凉州》封神！大宋流行音乐多动听？杭州琵琶高手来演绎→2022-07-03](https://mp.weixin.qq.com/s/0tcKswvY8GOkuWJenwwoTQ)
+=======
+[浙江宣传 | 怎样的“吆喝”才能让好书“破圈”2022-09-19](https://mp.weixin.qq.com/s/_ZFU9_YCFftZYRFkqkN7zg)
+
+### 杭州日报
+
+[富阳文创“宋潮”点亮新市集2022-09-14](https://hzdaily.hangzhou.com.cn/hzrb/2022/09/14/article_detail_1_20220914A066.html) `杭州政协网转载`
+
+### 都市快报
+
+[都市快报 | 《梦华录》里一块玉200贯，一月租金30贯……北宋的一贯钱，到底值多少钱？2022-06-07](https://mp.weixin.qq.com/s/3QZjIc1BFjdRpErW8KKhbw)
+
+### 每日商报
+
+[艳惊四座！《梦华录》一曲《凉州》封神！大宋流行音乐多动听？杭州琵琶高手来演绎→2022-07-03](https://mp.weixin.qq.com/s/0tcKswvY8GOkuWJenwwoTQ)
+>>>>>>> cd1396b7813a7a5f3b192d436379a44e4efea7d3
 
 ### 看台海
 
 [两岸开讲｜又一部火到台湾 岛内民众种草陆剧是真爱2022-06-22](https://mp.weixin.qq.com/s/GOs70fvnoN753zQn7_2Twg)
 
 ### 大公報--香港
+<<<<<<< HEAD
 * [大公報-大公網 | 《梦华录》人物鲜活 细节出彩2022-7-14](https://m.weibo.cn/status/4791260235957812?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)
+=======
+[大公報-大公網 | 《梦华录》人物鲜活 细节出彩2022-7-14](https://m.weibo.cn/status/4791260235957812?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)
+>>>>>>> cd1396b7813a7a5f3b192d436379a44e4efea7d3
 
 ### 北京青年报
 
@@ -449,6 +547,7 @@
 * [@青春上海 | 这份备忘录请收好，万一哪天穿越进《梦华录》了呢？2022-06-16 19:09](https://mp.weixin.qq.com/s/tH6ii4jy3n0nX4wZAQxGoQ)
 
 ### 上海证券报·中国证券网
+<<<<<<< HEAD
 
 [喜茶联名《梦华录》推出特调产品 上线当日卖出近30万杯2022-07-01](https://news.cnstock.com/news,bwkx-202207-4912196.htm)
 
@@ -458,6 +557,14 @@
 
 ### 宁德共青团
 
+=======
+[喜茶联名《梦华录》推出特调产品 上线当日卖出近30万杯2022-07-01](https://news.cnstock.com/news,bwkx-202207-4912196.htm)
+
+### 北京商报
+[上线4天播放量破4亿 带火《梦华录》的不止一个刘亦菲2022-06-05](https://baijiahao.baidu.com/s?id=1734777382312816535)
+
+### 宁德共青团
+>>>>>>> cd1396b7813a7a5f3b192d436379a44e4efea7d3
 [《梦华录》爆火，里面的这些点很上头！2022-06-18](https://mp.weixin.qq.com/s/09R__rYdqaNN7Cq1JtqwZw)
 
 ### 封面新闻
@@ -468,6 +575,7 @@
 * [@封面新闻 | 谶言与帽妖：《梦华录》背后的大历史2022-6-13](https://m.weibo.cn/1496814565/4780024366372530)
 
 ### 半岛新闻
+<<<<<<< HEAD
 
 * [大众报业·半岛新闻 | 茶香氤氲，寻心造华梦！《梦华录》凭啥火爆全网，对话主创、文化学者畅聊幕后2022-06-29](https://news.bandaoapp.com/shares/tuwen.html?newsId=739533216834392064)
 
@@ -481,6 +589,17 @@
 
 ### 华夏经纬网
 
+=======
+[大众报业·半岛新闻 | 茶香氤氲，寻心造华梦！《梦华录》凭啥火爆全网，对话主创、文化学者畅聊幕后2022-06-29](https://news.bandaoapp.com/shares/tuwen.html?newsId=739533216834392064)
+
+### 晶报
+[@深圳晶报 | 《#梦华录# 》亦菲冲天 “宋”你一场视觉繁华2022-6-17](https://m.weibo.cn/status/4781453751097182)
+
+### 齐鲁晚报
+[北宋女子生活图鉴如何链接当下2022-06-05](https://baijiahao.baidu.com/s?id=1734752308287467133&wfr=spider&for=pc)
+
+### 华夏经纬网
+>>>>>>> cd1396b7813a7a5f3b192d436379a44e4efea7d3
 [第五届世界青瓷大会启幕在即 “90后”匠人传承宋韵文化2022-10-25](https://www.huaxia.com/c/2022/10/25/1456654.shtml) `转载自中国新闻网`
 
 
@@ -489,7 +608,11 @@
 
 ### 政协君
 
+<<<<<<< HEAD
 * [学习强国: 今年国产剧最高分，《梦华录》能打造下一个IP宇宙吗？2022-06-07](https://article.xuexi.cn/articles/index.html?art_id=4634003950391709467&t=1654589501369&showmenu=false&study_style_id=feeds_opaque&source=share&share_to=copylink&item_id=4634003950391709467&ref_read_id=77C52E1E-1AEF-49F4-92BA-545509B8B327)
+=======
+[学习强国: 今年国产剧最高分，《梦华录》能打造下一个IP宇宙吗？2022-06-07](https://article.xuexi.cn/articles/index.html?art_id=4634003950391709467&t=1654589501369&showmenu=false&study_style_id=feeds_opaque&source=share&share_to=copylink&item_id=4634003950391709467&ref_read_id=77C52E1E-1AEF-49F4-92BA-545509B8B327)
+>>>>>>> cd1396b7813a7a5f3b192d436379a44e4efea7d3
 
 ### 广电时评
 
@@ -557,7 +680,10 @@
 ### 中华合作时报
 
 [茶周刊（《中华合作时报·茶周刊》） | 【姿势】《梦华录》火了，宋代人的“茶生活”真的那么拽吗？2022-06-11](https://mp.weixin.qq.com/s/SyvMgz6HUnIL0_SMEGE2Xw)
+<<<<<<< HEAD
 
+=======
+>>>>>>> cd1396b7813a7a5f3b192d436379a44e4efea7d3
 
 ### 经济观察网
 
