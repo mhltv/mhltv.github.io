@@ -23,19 +23,13 @@
 
 ## 角色作品
 
-![](/image/cc/piant/pan.jpg)
 
-作者: [官官an](https://weibo.com/u/3884587949?tabtype=home)
 
 
 ![](/image/cc/piant/pan-2.jpg)
 
 作者: [蓝袈061](https://weibo.com/u/1905039872)
 
-
-![](/image/cc/piant/pan-3.jpg)
-
-作者: [持岁](https://weibo.com/u/6037181039)
 
 ![](/image/cc/piant/longer.jpg)
 
