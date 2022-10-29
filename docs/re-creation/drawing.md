@@ -24,17 +24,11 @@
 
 ## 相关画手
 
+### 微博：慕白
 
+![](/image//teamrole/paner1.jpg)
 
-
-### 小红书: zhuzhu
-
-![](/image/erchuang/piant/zhu-1.jpg)
-
-
-简介: 插画师
-
-地址: [小红书](https://www.xiaohongshu.com/user/profile/5ce5f6b80000000016007353?xhsshare=CopyLink&appuid=566664665e87e768ada86b46&apptime=1664685742)
+[@爱画画的慕白](https://m.weibo.cn/2038573012/4784658258594399)
 
 
 ### 微博: MonsterV
@@ -44,14 +38,6 @@
 地址: [Weibo](https://weibo.com/u/6303700796)
 
 作品: [Weibo](https://weibo.com/6303700796/LDBfJkds1)
-
-### 微博: 布鲁布鲁朵
-
-![](/image/erchuang/piant/hyy-1.jpg)
-
-地址: [Weibo](https://weibo.com/1615423332?refer_flag=1001030103_)
-
-作品: [Weibo](https://weibo.com/1615423332/M7uXE2Z7p)
 
 
 ### 微博: 咖啡磨sophie
