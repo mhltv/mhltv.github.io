@@ -1,7 +1,7 @@
 # 破圈讨论
 
 本文收录诸多媒体从各个角度对梦华录的讨论, 因讨论内容过多，部分媒体发布了多篇报道，也有报道会被多个媒体转载，本文只收录部分代表性内容。
-目前共计收录`32`个分类，`407`个条目。
+目前共计收录`32`个分类，`409`个条目。
 
 同时，《梦华录》也掀起了一股“宋朝热”，激发起无数观众对于那个文化鼎盛时期民俗百态的好奇与向往。读者可从本文中散落于不同行业的讨论文章中一窥全豹。
 
@@ -187,7 +187,7 @@
 * [穿着汉服去旅行 | 用11套汉服复原《梦华录》赵盼儿造型是怎样的体验？](https://mp.weixin.qq.com/s/7EjI0llYkvuio9qoKxmj7w)
 * [GGAC | 真的太美了！开播10天播放破15亿《梦华录》掀起了一波宋制汉服热潮！大宋风雅真的是传统文化审美巅峰！](https://mp.weixin.qq.com/s/8jWsEL-nRcd7sN_xcfVBSw)
 * [蜗谈汉服 | 同样是古装剧，为什么《梦华录》的服化道能被评高分？](https://mp.weixin.qq.com/s/waMJSVPLZ3TgBmiImv93mA)
-
+* [卖家 | 《梦华录》带火宋制汉服，这家十年老店最高年销近千万](https://mp.weixin.qq.com/s/5TilW4ZmtwaQaHhcCgX3hg)
 
 ## 妆造
 
@@ -383,6 +383,7 @@
 ![](/image/discuss/travel.jpg)
 
 * [杭州电视台综合频道 | 在西湖边体验梦华录同款生活，你遇见“杭州赵盼儿”了吗](https://m.weibo.cn/1727386613/4780749885277490)
+* [中国南方航空 | ￥1529含税往返机票+2晚酒店，不用可退！](https://mp.weixin.qq.com/s/WAoEUUXZrpKrFRtBLBbSlw)
 * [马蜂窝-自由行攻略 | 《梦华录》里的绝美景致原来在这里！](https://imfw.cn/l/296033752)
 * [周庄景区 | 江南一梦录风华，风雅处处是寻常](https://mp.weixin.qq.com/s/-AqkBJye9x-bdhppdbigkA)
 * [跟我学小古文 | 跟着《梦华录》上热搜的湖北古城，一个绝美的江湖之城](https://mp.weixin.qq.com/s/Ud2VOZ9X5O1E3tBJCW2BlQ)

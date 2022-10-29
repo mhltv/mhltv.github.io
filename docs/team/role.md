@@ -2,94 +2,8 @@
 
 《梦华录》中的各大主配角深受画手们的喜爱，于是诞生多样二创。其中，A七鱼和呼葱觅蒜两位创作众多，可见[二创](/re-creation)专区。
 
-## 名场面
 
-### 花月宴
-
-![](/image/team/role/huayue1.jpg)
-[小红书 | 画画的心荷](http://xhslink.com/IlkPNk)
-
-![](/image/team/role/huayue2.jpg)
-[小红书 | 京 十二](http://xhslink.com/YHlPNk)
-
-![](/image/team/role/huayueyan1-min.jpg)
-[小红书 | 水晶爱画画](http://xhslink.com/kSF2Mk)
-
-![](/image/team/role/huayueyan2-min.jpg)
-[小红书 | Sera](http://xhslink.com/QQLhNk)
-
-其他二创请参考以下链接：
-* [小红书 | 蒲月-may](http://xhslink.com/ttDONk)
-* [小红书 | -山胡-](http://xhslink.com/P1HONk)
-
-
-### 何四在人间
-
-![](/image/team/role/huayueyan3-min.jpg)
-
-[小红书 | 羊羊羊](http://xhslink.com/B67gNk)
-
-![](/image/team/role/huayueyan4-min.jpg)
-[小红书 | 狄野小森](http://xhslink.com/hFa2Mk)
-
-![](/image/team/role/hesi5-min.jpg)
-
-[小红书 | Sera](http://xhslink.com/QQLhNk)
-
-
-![](/image/team/role/hesi4-min.jpg)
-
-[小红书 | xxcxx](http://xhslink.com/k2QhNk)
-
-
-![](/image/team/role/hesi1-min.jpg)
-[小红书 | 原来是小菜](http://xhslink.com/2uOgNk)
-
-
-![](/image/team/role/hesi2-min.jpg)
-[小红书 | Lena莉娜酱](http://xhslink.com/xn1gNk)
-
-![](/image/team/role/hesi9-min.jpg)
-
-[小红书 | 雨今云古](http://xhslink.com/H7bjNk)
-
-
-### 蹴鞠
-
-![](/image/team/role/cuju-min.jpg)
-[小红书 | 早早早](http://xhslink.com/bal2Mk)
-
-## 群像
-
-![](/image/team/role/qun4-min.jpg)
-[小红书 | 綪黎](http://xhslink.com/wf63Nk)
-
-![](/image/team/role/qun3-min.jpg)
-[小红书 | 蜗牛夏苒](http://xhslink.com/xOH4Nk)
-
-
-![](/image/team/role/qun1-min.jpg)
-[小红书 | 周哇塞不会画画](http://xhslink.com/0lyQNk)
-
-![](/image/team/role/qun2-min.jpg)
-[小红书 | NINI GO 妮妮狗](http://xhslink.com/X2CQNk)
-
-![](/image/team/role/qun5.jpg)
-[小红书 | 波子汽水兑水](http://xhslink.com/FKT4Nk)
-
-其他二创请参考以下链接：
-
-* [小红书 | 爱画画的小Demon](http://xhslink.com/7VQ4Nk)
-* [小红书 | 沐晨治愈水彩(开课中)](http://xhslink.com/zsPPNk)
-* [小红书 | 小曾](http://xhslink.com/sY0PNk)
-* [小红书 | 夏日小胖](http://xhslink.com/BLWhNk)
-* [小红书 | Sharonchan](http://xhslink.com/escjNk)
-* [小红书 | 二圆](http://xhslink.com/l6MmNk)
-* [小红书 | 春日小羔](https://m.weibo.cn/6691230486/4787154490753583)
-* [小红书 | 大绵羊BOBO](https://m.weibo.cn/1723261380/4779845777359120)
-
-
-### 三姐妹
+## 三姐妹
 
 ![](/image/team/role/sanjiemei6.jpg)
 [@安小逸插画](https://m.weibo.cn/1809723895/4781743020180699)
@@ -100,18 +14,28 @@
 ![](/image/team/role/sanjiemei2-min.jpg)
 [小红书 | 爱画k](http://xhslink.com/d6L4Nk)
 
-![](/image/team/role/sanjiemei3-min.jpg)
-[小红书 | 小张是画渣吖～](http://xhslink.com/CDd5Nk)
-
 ![](/image/team/role/sanjiemei4-min.jpg)
 [小红书 | 阿戚手绘](http://xhslink.com/cTI4Nk)
+
+![](/image/team/role/sanjiemei7.jpg)
+[@茗今今](https://m.weibo.cn/5962984271/4787439720466550)
+
+![](/image/team/role/sanjiemei8.jpg)
+[@一盏眠](https://m.weibo.cn/6812000491/4779571378131423)
+
+![](/image/team/role/sanjiemei9.jpg)
+[小红书 | 欢天喜地昕昕仔](http://xhslink.com/scF3Pk)
 
 ![](/image/team/role/sanjiemei5-min.jpg)
 [小红书 | 小吉](http://xhslink.com/xPl3Nk)
 
-[小红书 | 稀树](http://xhslink.com/Hxw4Nk)
+其他二创请参考以下链接：
+* [小红书 | 稀树](http://xhslink.com/Hxw4Nk)
+* [小红书 | 小张是画渣吖～](http://xhslink.com/CDd5Nk)
+*[@迦矞](https://m.weibo.cn/5022492528/4777811145132846)
 
-### 招娣&陈廉
+
+## 招娣&陈廉
 
 ![](/image/team/role/zhaodichenlian3-min.jpg)
 
@@ -126,8 +50,7 @@
 ![](/image/team/role/zhaodichenlian4-min.jpg)
 [小红书 | 闰几幺zZ](http://xhslink.com/FkeoNk)
 
-
-### 张好好&引章
+## 好好&引章
 
 ![](/image/team/role/yinhao0.jpg)
 [小红书 | 老草莓](http://xhslink.com/SQI3Nk)
@@ -141,38 +64,54 @@
 ![](/image/team/role/haohaoyinzhang3-min.jpg)
 [小红书 | 诸葛丽娟](http://xhslink.com/TnNPNk)
 
-
-### 三娘&夫子
+## 三娘&夫子
 
 ![](/image/team/role/sanfeng3-min.jpg)
 [小红书 | 满岛秋葵](http://xhslink.com/UKO4Nk)
 
-![](/image/team/role/sanfeng2-min.jpg)
-[小红书 | 狄野小森](http://xhslink.com/Ity5Nk)
+其他二创请参考以下链接：
+* [小红书 | 柠檬乖乖咩](http://xhslink.com/rpw4Nk)
+* [小红书 | 画小匠不想画画](http://xhslink.com/icm5Nk)
+* [小红书 | 画小匠不想画画](http://xhslink.com/x0y5Nk)
+* [小红书 | 花半の画](http://xhslink.com/Ij94Nk)
+* [小红书 | 画画的琳一linyi](http://xhslink.com/2dH5Nk)
 
-![](/image/team/role/sanfeng1-min.jpg)
-[小红书 | 画小匠不想画画](http://xhslink.com/Umj5Nk)
+## 衙内&何四
 
-![](/image/team/role/sanniang10-min.jpg)
-[小红书 | 柠檬乖乖咩](http://xhslink.com/rpw4Nk)
+![](/image/team/role/hesiyanei-min.jpg)
+[小红书 | 回不去](http://xhslink.com/pg4hNk)
+
+## 顾千帆
+
+![](/image/team/role/gu2-min.jpg)
+[小红书 | 小俊](http://xhslink.com/RZt2Pk)
+
+![](/image/team/role/gu3-min.jpg)
+[小红书 | 猪南南](http://xhslink.com/6dJ2Pk)
+
+![](/image/team/role/gu4-min.jpg)
+[小红书 | 晚点姑娘画画记](http://xhslink.com/u5J2Pk)
+
+![](/image/team/role/gu5-min.jpg)
+[小红书 | 李凯西](http://xhslink.com/VN5cQk)
+
+![](/image/team/role/gu6-min.jpg)
+[小红书 | 梨花只会来清奈摘水果](http://xhslink.com/1o7cQk)
+
+![](/image/team/role/gu7-min.jpg)
+[小红书 | 陌川 MOCHUAN](http://xhslink.com/izbdQk)
 
 其他二创请参考以下链接：
-
-[小红书 | 画小匠不想画画](http://xhslink.com/icm5Nk)
-[小红书 | 画小匠不想画画](http://xhslink.com/x0y5Nk)
-[小红书 | 花半の画](http://xhslink.com/Ij94Nk)
-[小红书 | 画画的琳一linyi](http://xhslink.com/2dH5Nk)
-
+* [小红书 | 绘画的Bobo喵](http://xhslink.com/clv2Pk)
+* [小红书 | 周鱼儿](http://xhslink.com/FTL2Pk)
 
 ## 三娘
+
 ![](/image/team/role/sanniang1-min.jpg)
 [小红书 | 花咸咸](http://xhslink.com/XRD5Nk)
 
 ![](/image/team/role/sanniang2-min.jpg)
 [小红书 | 瑶瑶](http://xhslink.com/3Zu5Nk)
-
-![](/image/team/role/sanniang3-min.jpg)
-[小红书 | 爱画画的小樊](http://xhslink.com/u8q5Nk)
 
 ![](/image/team/role/sanniang4-min.jpg)
 [小红书 | 画画的青禾](http://xhslink.com/Ujn5Nk)
@@ -182,9 +121,6 @@
 
 ![](/image/team/role/sanniang6-min.jpg)
 [小红书 | 墨然今天画画了吗](http://xhslink.com/Ec84Nk)
-
-![](/image/team/role/sanniang7-min.jpg)
-[小红书 | 綪黎](http://xhslink.com/cBO4Nk)
 
 ![](/image/team/role/sanniang8-min.jpg)
 [小红书 | 十七画一隅](http://xhslink.com/zSB4Nk)
@@ -200,6 +136,12 @@
 
 ![](/image/team/role/sanniang13-min.jpg)
 [小红书 | 罗小西](http://xhslink.com/DgW3Nk)
+
+![](/image/team/role/sanniang7-min.jpg)
+[小红书 | 綪黎](http://xhslink.com/cBO4Nk)
+
+![](/image/team/role/sanniang3-min.jpg)
+[小红书 | 爱画画的小樊](http://xhslink.com/u8q5Nk)
 
 其他二创请参考以下链接：
 
@@ -290,41 +232,39 @@
 
 ## 招娣
 
-![](/image/team/role/zhaodi1-min.jpg)
-[小红书 | 张翻翻-哔哔轰Fuukochan](http://xhslink.com/gkHmNk)
-
 ![](/image/team/role/zhaodi2-min.jpg)
 [小红书 | 歪诶漏🐽](http://xhslink.com/VuKmNk)
-
-
-![](/image/team/role/zhaodi3-min.jpg)
-[小红书 | Want万桃](http://xhslink.com/YfFmNk)
-
 
 ![](/image/team/role/zhaodi4-min.jpg)
 [小红书 | Ookitten](http://xhslink.com/0OGmNk)
 
+![](/image/team/role/zhaodi6-min.jpg)
+[小红书 | Echen阿赖子](http://xhslink.com/VVBmNk)
 
 ![](/image/team/role/zhaodi5-min.jpg)
 [小红书 | 满岛秋葵](http://xhslink.com/lqFmNk)
 
-
-![](/image/team/role/zhaodi6-min.jpg)
-[小红书 | Echen阿赖子](http://xhslink.com/VVBmNk)
-
+![](/image/team/role/zhaodi3-min.jpg)
+[小红书 | Want万桃](http://xhslink.com/YfFmNk)
 
 其他二创请参考以下链接：
-
+* [小红书 | 张翻翻-哔哔轰Fuukochan](http://xhslink.com/gkHmNk)
 * [小红书 | 来一颗蛋黄酥](http://xhslink.com/aqDmNk)
 * [小红书 | 莫非](http://xhslink.com/b0BmNk)
 * [小红书 | 芝麻糖](http://xhslink.com/DYcPNk)
 
 
 
-## 张好好
+## 好好
 
 ![](/image/team/role/haohao1-min.jpg)
 [小红书 | 小王仙仙工作室（有绘画课）](http://xhslink.com/GIUPNk)
+
+![](/image/team/role/haohao8-min.jpg)
+[小红书 | 梓煜](http://xhslink.com/UODQNk)
+
+![](/image/team/role/haohao9-min.jpg)
+[小红书 | 原来是小菜](http://xhslink.com/t9FQNk)
 
 ![](/image/team/role/haohao2-min.jpg)
 [小红书 | 画画的小点儿](http://xhslink.com/HIZPNk)
@@ -344,12 +284,6 @@
 ![](/image/team/role/haohao7-min.jpg)
 [小红书 | 吉吉](http://xhslink.com/VktQNk)
 
-![](/image/team/role/haohao8-min.jpg)
-[小红书 | 梓煜](http://xhslink.com/UODQNk)
-
-![](/image/team/role/haohao9-min.jpg)
-[小红书 | 原来是小菜](http://xhslink.com/t9FQNk)
-
 ![](/image/team/role/haohao10-min.jpg)
 [小红书 | 慕桐君](http://xhslink.com/2DzQNk)
 
@@ -359,14 +293,8 @@
 ![](/image/team/role/haohao12-min.jpg)
 [小红书 | 叁贰壹](http://xhslink.com/mjLPNk)
 
-
-![](/image/team/role/zhanghaohao1-min.jpg)
-[小红书 | 珏-Angel](http://xhslink.com/2pBmNk)
-
-
 ![](/image/team/role/zhanghaohao-min.jpg)
-[小红书 | 羊羊羊](http://xhslink.com/GbJmNk)
-
+[小红书 | 珏-Angel](http://xhslink.com/2pBmNk)
 
 其他二创请参考以下链接：
 
@@ -405,26 +333,7 @@
 * [小红书 | 凌凌子](http://xhslink.com/1xvQNk)
 * [小红书 | 小曾](http://xhslink.com/8bwQNk)
 
-## 衙内一家
-
-![](/image/team/role/hesiyanei4-min.jpg)
-[小红书 | Polly波栗](http://xhslink.com/DUfuNk)
-
-![](/image/team/role/hesiyanei1-min.jpg)
-[小红书 | 回不去](http://xhslink.com/3RlpNk)
-
-[@春日小羔PuppyBao](https://m.weibo.cn/6691230486/4785808425095678)
-
-### 池衙内&何四
-
-![](/image/team/role/hesiyanei3-min.jpg)
-
-[小红书 | 美伢走错片场](http://xhslink.com/sYI2Mk)
-
-![](/image/team/role/hesiyanei-min.jpg)
-[小红书 | 回不去](http://xhslink.com/pg4hNk)
-
-### 池衙内
+## 池蟠
 
 ![](/image/team/role/yanei1-min.jpg)
 [@后厨不干了](https://m.weibo.cn/5481320261/4805420181621703)
@@ -454,24 +363,9 @@
 ![](/image/team/role/hesi13-min.jpg)
 [小红书 | 遥不知](http://xhslink.com/xcz2Mk)
 
-
-![](/image/team/role/hesi11-min.jpg)
-
-[小红书 | 没有法力的妖怪VV](http://xhslink.com/rZruNk)
-
-
 ![](/image/team/role/hesi14-min.jpg)
 
 [小红书 | Neeko秋小白 ](http://xhslink.com/fbO2Mk)
-
-
-![](/image/team/role/hesi15-min.jpg)
-[@春日小羔PuppyBao](https://m.weibo.cn/6691230486/4786182947342018)
-
-
-![](/image/team/role/hesi16-min.jpg)
-[小红书 | 支枕听河流](http://xhslink.com/lSljNk)
-
 
 其他二创请参考以下链接：
 
@@ -483,20 +377,19 @@
 * [小红书 | mtian](http://xhslink.com/P0hhNk)
 * [小红书 | 半颗西瓜](http://xhslink.com/SmTiNk)
 
-### 吕五
+## 吕五
 
 ![](/image/team/role/lvwu-min.jpg)
 [@春日小羔PuppyBao](https://m.weibo.cn/6691230486/4794027486744843)
 
-## 其他
 
-### 杜夫子
+## 夫子
 
 ![](/image/team/role/fuzi2-min.jpg)
 
 [小红书 | Yuki酱](http://xhslink.com/t6u5Nk)
 
-### 群演（刘远帆）
+## 群演
 
 ![](/image/team/role/yanjizuicha-min.jpg)
 

@@ -2,40 +2,8 @@
 
 因为《梦华录》相关手绘插画及画师数量非常庞大，本文只收录部分数据。
 
-## 赵盼儿手绘
-
-### 资源汇总
-1. [我收集了一千多张梦华录赵盼儿相关手绘图](https://www.bilibili.com/video/BV1NN4y1u7GA/)
-2. [豆瓣梦华录专组: 赵盼儿相关手绘图](https://www.douban.com/group/topic/274331396/?_i=4537692bbuQ57r,4537695EBOLKYV&dt_platform=wechat_friends&dt_dapp=1)
-3. [无LIBO服装设计 | 梦华录出圈！画师大佬们笔下的梦华录](https://mp.weixin.qq.com/s/whFvL8G1DfK_x8GOuWnTyA)
-4. [叶无趣 | 彩铅画一个《梦华录》中的刘亦菲/赵盼儿](https://www.bilibili.com/video/BV1zg41197Cn?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c)
-
-### 美图欣赏
-
-![](/image/erchuang/piant/paner-1.webp)
-![](/image/erchuang/piant/paner-2.jpg)
-![](/image/erchuang/piant/paner-3.jpg)
-![](/image/erchuang/piant/paner-4.jpg)
-![](/image/erchuang/piant/paner-5.jpg)
-![](/image/erchuang/piant/paner-6.jpg)
-
-
-
 
 ## 相关画手
-
-
-
-
-### 小红书: zhuzhu
-
-![](/image/erchuang/piant/zhu-1.jpg)
-
-
-简介: 插画师
-
-地址: [小红书](https://www.xiaohongshu.com/user/profile/5ce5f6b80000000016007353?xhsshare=CopyLink&appuid=566664665e87e768ada86b46&apptime=1664685742)
-
 
 ### 微博: MonsterV
 
@@ -45,27 +13,21 @@
 
 作品: [Weibo](https://weibo.com/6303700796/LDBfJkds1)
 
-### 微博: 布鲁布鲁朵
+### 小红书：綪黎
+![](/image/team/role/qun4-min.jpg)
+[小红书](http://xhslink.com/wf63Nk)
 
-![](/image/erchuang/piant/hyy-1.jpg)
+### 小红书 | 周哇塞不会画画
+![](/image/team/role/qun1-min.jpg)
+[小红书](http://xhslink.com/0lyQNk)
 
-地址: [Weibo](https://weibo.com/1615423332?refer_flag=1001030103_)
+### 小红书：NINI GO 妮妮狗
+![](/image/team/role/qun2-min.jpg)
+[小红书](http://xhslink.com/X2CQNk)
 
-作品: [Weibo](https://weibo.com/1615423332/M7uXE2Z7p)
-
-
-### 微博: 咖啡磨sophie
-![](/image/erchuang/piant/paner-7.jpg)
-
-简介: LOFTER资深插画师
-
-地址: [Weibo](https://weibo.com/u/2652998647)
-
-
-### 微博: 官官an
-![](/image/erchuang/piant/paner-9.jpg)
-
-地址: [Weibo](https://weibo.com/n/官官an)
+### 小红书：波子汽水兑水
+![](/image/team/role/qun5.jpg)
+[小红书](http://xhslink.com/FKT4Nk)
 
 ### 微博: 小泥巴的水色世
 
@@ -85,7 +47,17 @@
 地址: [Weibo](https://weibo.com/n/冯婷-绘玩儿)
 
 
-
 ### 小红书: 大雨DAYU
 
 ![](/image/erchuang/piant/gupan-4.jpg)
+
+其他二创请参考以下链接：
+
+* [小红书 | 爱画画的小Demon](http://xhslink.com/7VQ4Nk)
+* [小红书 | 沐晨治愈水彩(开课中)](http://xhslink.com/zsPPNk)
+* [小红书 | 小曾](http://xhslink.com/sY0PNk)
+* [小红书 | 夏日小胖](http://xhslink.com/BLWhNk)
+* [小红书 | Sharonchan](http://xhslink.com/escjNk)
+* [小红书 | 二圆](http://xhslink.com/l6MmNk)
+* [小红书 | 春日小羔](https://m.weibo.cn/6691230486/4787154490753583)
+* [小红书 | 大绵羊BOBO](https://m.weibo.cn/1723261380/4779845777359120)
