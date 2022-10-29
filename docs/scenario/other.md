@@ -189,7 +189,8 @@
 ![](/image/juqing/other-4.JPG)
 
 **访问链接：**[小红： 心理学分析梦华录29：放下旧仇，随缘自在](https://www.xiaohongshu.com/discovery/item/62d6539b0000000012003d42?app_platform=android&app_version=7.16.0&share_from_user_hidden=true&xhsshare=WeixinSession&appuid=5c024f400000000005010b3a&apptime=1667032025)
-共三十篇，其余详见作者主页 [小红](https://www.xiaohongshu.com/user/profile/61e4008c000000001000660f?xhsshare=CopyLink&appuid=5c3e9f750000000007020be4&apptime=1667031839)`
+
+共三十篇，其余详见作者主页 [小红](https://www.xiaohongshu.com/user/profile/61e4008c000000001000660f?xhsshare=CopyLink&appuid=5c3e9f750000000007020be4&apptime=1667031839)
 
 
 ## 文化意象
