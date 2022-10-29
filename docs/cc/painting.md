@@ -24,6 +24,9 @@
 ## 角色作品
 
 
+![](/image/cc/piant/paner-7-mulan.jpg)
+
+作者: [小红书 | 山前魔芋](https://www.xiaohongshu.com/discovery/item/62a8212f0000000021036c61?app_platform=android&app_version=7.61.0&share_from_user_hidden=true&type=normal&xhsshare=WeixinSession&appuid=5f789284000000000101cb18&apptime=1666975318)
 
 
 ![](/image/cc/piant/pan-2.jpg)
@@ -97,6 +100,12 @@
 ![](/image/cc/piant/cw.jpg)
 
 作者: [-十日](https://weibo.com/u/3247774542)
+
+
+![](/image/cc/piant/cw-1.jpg)
+
+作者: [Rentaotao任桃桃](https://weibo.com/sayhivision)
+
 
 
 ## 其他
