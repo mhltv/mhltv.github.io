@@ -49,9 +49,9 @@
 
 ## 倾盖如故，白头如新
 
+![](/image/discuss/lines/qg.jpg)
+![](/image/discuss/lines/bt.jpg)
 
-![](/image/discuss/lines/qg-min.gif)
-![](/image/discuss/lines/qg-2.gif)
 
 讨论较多，截取部分:
 
@@ -62,3 +62,31 @@
 * [沪江日语教研 | 《梦华录》中出现的“白头如新，倾盖如故”是什么意思？](https://mp.weixin.qq.com/s/pKHMzjHfu1_8PNkqzRHR1Q)
 * [孔夫子读书 | 《梦华录》：白头如新，倾盖如故](https://mp.weixin.qq.com/s/yg0Ew2fgQXQiQjbSHbN64g)
 * [亚平宁的风 | 古人曰：“ 白头如新，倾盖如故。”](https://mp.weixin.qq.com/s/QRYNiBH9Kkl6DQzjL7Q7_g)
+
+
+## 何四相关
+
+
+### 何四在人间
+
+出自何四在花月宴上的舞蹈，且有不少二创绘画作品，具体可见: [剧情/剧情二创/何四在人间](/scenario/re-creation.html#何四在人间)
+
+![](/image/team/role/hesi5-min.jpg)
+
+## 雷司公相关
+
+![](/image/discuss/lines/lsg.jpg)
+
+
+## 萧谓相关
+
+### brown你知道
+
+因剧中萧谓演员台词的空耳引发的一个梗，原台词为: `不让你知道，不让你为难`
+
+![](/image/discuss/lines/brown-zhuzhu.jpg)
+
+录人继续玩梗:
+
+![](/image/discuss/lines/brown-1.jpg)
+![](/image/discuss/lines/brown-2.jpg)
