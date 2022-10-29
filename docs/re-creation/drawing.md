@@ -25,6 +25,12 @@
 ![](/image/team/role/qun2-min.jpg)
 [小红书](http://xhslink.com/X2CQNk)
 
+### 微博：布鲁布鲁朵
+
+![](/image/erchuang/piant/hyy-1.jpg)
+
+[@布鲁布鲁朵](https://weibo.com/1615423332/M7uXE2Z7p)
+
 ### 小红书：波子汽水兑水
 ![](/image/team/role/qun5.jpg)
 [小红书](http://xhslink.com/FKT4Nk)
