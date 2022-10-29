@@ -2,33 +2,8 @@
 
 《梦华录》中的各大主配角深受画手们的喜爱，于是诞生多样二创。其中，A七鱼和呼葱觅蒜两位创作众多，可见[二创](/re-creation)专区。
 
-## 群像
 
-![](/image/team/role/qun4-min.jpg)
-[小红书 | 綪黎](http://xhslink.com/wf63Nk)
-
-![](/image/team/role/qun1-min.jpg)
-[小红书 | 周哇塞不会画画](http://xhslink.com/0lyQNk)
-
-![](/image/team/role/qun2-min.jpg)
-[小红书 | NINI GO 妮妮狗](http://xhslink.com/X2CQNk)
-
-![](/image/team/role/qun5.jpg)
-[小红书 | 波子汽水兑水](http://xhslink.com/FKT4Nk)
-
-其他二创请参考以下链接：
-
-* [小红书 | 爱画画的小Demon](http://xhslink.com/7VQ4Nk)
-* [小红书 | 沐晨治愈水彩(开课中)](http://xhslink.com/zsPPNk)
-* [小红书 | 小曾](http://xhslink.com/sY0PNk)
-* [小红书 | 夏日小胖](http://xhslink.com/BLWhNk)
-* [小红书 | Sharonchan](http://xhslink.com/escjNk)
-* [小红书 | 二圆](http://xhslink.com/l6MmNk)
-* [小红书 | 春日小羔](https://m.weibo.cn/6691230486/4787154490753583)
-* [小红书 | 大绵羊BOBO](https://m.weibo.cn/1723261380/4779845777359120)
-
-
-### 三姐妹
+## 三姐妹
 
 ![](/image/team/role/sanjiemei6.jpg)
 [@安小逸插画](https://m.weibo.cn/1809723895/4781743020180699)
@@ -58,7 +33,9 @@
 * [小红书 | 稀树](http://xhslink.com/Hxw4Nk)
 * [小红书 | 小张是画渣吖～](http://xhslink.com/CDd5Nk)
 *[@迦矞](https://m.weibo.cn/5022492528/4777811145132846)
-### 招娣&陈廉
+
+
+## 招娣&陈廉
 
 ![](/image/team/role/zhaodichenlian3-min.jpg)
 
@@ -73,8 +50,7 @@
 ![](/image/team/role/zhaodichenlian4-min.jpg)
 [小红书 | 闰几幺zZ](http://xhslink.com/FkeoNk)
 
-
-### 张好好&引章
+## 好好&引章
 
 ![](/image/team/role/yinhao0.jpg)
 [小红书 | 老草莓](http://xhslink.com/SQI3Nk)
@@ -88,8 +64,7 @@
 ![](/image/team/role/haohaoyinzhang3-min.jpg)
 [小红书 | 诸葛丽娟](http://xhslink.com/TnNPNk)
 
-
-### 三娘&夫子
+## 三娘&夫子
 
 ![](/image/team/role/sanfeng3-min.jpg)
 [小红书 | 满岛秋葵](http://xhslink.com/UKO4Nk)
@@ -101,12 +76,12 @@
 * [小红书 | 花半の画](http://xhslink.com/Ij94Nk)
 * [小红书 | 画画的琳一linyi](http://xhslink.com/2dH5Nk)
 
-### 池衙内&何四
+## 衙内&何四
 
 ![](/image/team/role/hesiyanei-min.jpg)
 [小红书 | 回不去](http://xhslink.com/pg4hNk)
 
-## 陈晓
+## 顾千帆
 
 ![](/image/team/role/gu2-min.jpg)
 [小红书 | 小俊](http://xhslink.com/RZt2Pk)
