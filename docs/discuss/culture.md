@@ -119,12 +119,17 @@
 * [天府发布 | 用《梦华录》的方式打开天府新区，适配度99.9%？](https://mp.weixin.qq.com/s/dc91AO-kUz-X800UWqIiXQ)
 * [泸州发布 | 仪式感不输东京临安，瞧瞧宋代泸州人的精致生活](https://m.weibo.cn/2815494720/4782817467173135)
 * [@四川文旅 | 随手一拍都是《梦华录》同款古风大片](https://m.weibo.cn/1780853205/4796529883481986)
+
+### 云南
+[丽江古城游 | 《梦华录》里令人向往的宋人生活，丽江古城随处可觅](https://mp.weixin.qq.com/s/tgIitwcIUyDfqMye7tWcYA)
+
 ### 广东
 * [广州印象 | 广州第一批影视取景地公布！假如《梦华录》在广州拍摄...](https://mp.weixin.qq.com/s/R-fe3nddb3G4Uprw9nvipg)
 * [中山发布 | 《梦华录》同款，中山版美景来了！](https://mp.weixin.qq.com/s/ZFLkbLRor3DaIR6VoqTt6w)
 * [湛江发布 | 和大热网剧《梦华录》惊喜联动的雷州，原来是这样的存在……](https://mp.weixin.qq.com/s/tP1XnK_ZOh7-qg1txATtSA)
 
 ### 江西
+* [江西赣州文旅 | 梦回千年！来赣州打卡《梦华录》同款！](https://mp.weixin.qq.com/s/bWq2OGwN4UzLts_2GCV6Hw)
 * [微博/鹰潭文旅 | 电视剧《梦华录》里三娘的果子想必大家都垂涎已久了吧](https://m.weibo.cn/status/4782842506381636)
 * [鹰潭文旅 | 在龙虎山Get《梦华录》同款美景，就是这么简单！](https://m.weibo.cn/status/4786081473761544)
 
