@@ -52,10 +52,12 @@
 * [综艺 | 腾讯视频《怎么办脱口秀专场》](https://m.weibo.cn/status/4806109266710562)
 * [综艺 | 优酷视频《相遇的夏天》](https://m.weibo.cn/7283265620/4808921736548573)
 * [浙江卫视 | 霜降视频拍摄](https://m.weibo.cn/1288369910/4827647341494350)
+* [综艺 | Hi足球少年 ](https://weibo.com/1644461042/McqnS6G4x)
 
 
 ## 宋引章(林允)
 ![](/image/team/zhuchuang/yinzhang.jpg)
+
 ### 报道
 
 * [瑞丽服饰美容 | 林允丨一路前行，步履轻快](https://mp.weixin.qq.com/s/-8arRbkPv0syu1ap4Ei85w)
