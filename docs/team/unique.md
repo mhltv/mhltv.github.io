@@ -46,19 +46,23 @@
 
 [小红书](https://www.xiaohongshu.com/user/profile/60b5efc8000000000101d882?xhsshare=CopyLink&appuid=5c3e9f750000000007020be4&apptime=1666973776)
 
-## 微博：观观啊观
 
-> 猫猫版
+## “高德”cp
+
+![](/image/team/role/yemen1-min.jpg)
+
+[小红书 | 池蟠(东京城第一衙内)](https://www.xiaohongshu.com/user/profile/5fc264d40000000001009c73?xhsshare=CopyLink&appuid=5c3e9f750000000007020be4&apptime=1666961861)
+
+
+## 猫猫版
 
 ![](/image/team/role/maomaoban.jpg)
 
 [@观观啊观](https://m.weibo.cn/3323546042/4789395301078136)
 
 
-## 小红书：池蟠(东京城第一衙内
+## 兔兔版
 
-> “高德”CP
+![](/image/team/role/panpantutu.jpg)
 
-![](/image/team/role/yemen1-min.jpg)
-
-[小红书](https://www.xiaohongshu.com/user/profile/5fc264d40000000001009c73?xhsshare=CopyLink&appuid=5c3e9f750000000007020be4&apptime=1666961861)
+[小红书 | 小兔钱钱](http://xhslink.com/Zj7eQk)
