@@ -56,7 +56,7 @@
 
 > 梦醒了，缘不尽，录人们，后会有期。
 
-[@陈廉](https://weibo.com/2117726305/LAzQo1sAw)
+[@管云鹏_](https://weibo.com/2117726305/LAzQo1sAw)
 
 ## 王洛勇（萧钦言）
 
