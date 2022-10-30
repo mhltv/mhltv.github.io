@@ -13,11 +13,18 @@
 
 作品: [Weibo](https://weibo.com/6303700796/LDBfJkds1)
 
+### 小红书：小泥巴插画
+
+![](/image/team/role/xiaoniba.jpg)
+
+[小红书]( http://xhslink.com/zo5LRk)
+
+
 ### 小红书：綪黎
 ![](/image/team/role/qun4-min.jpg)
 [小红书](http://xhslink.com/wf63Nk)
 
-### 小红书 | 周哇塞不会画画
+### 小红书：周哇塞不会画画
 ![](/image/team/role/qun1-min.jpg)
 [小红书](http://xhslink.com/0lyQNk)
 

@@ -2,10 +2,26 @@
 
 身为古装励志轻喜剧的《梦华录》，喜剧效果满满，然未曾料到的是，搞笑根本停不下来！当奇奇怪怪遇上可可爱爱，忍俊不禁？捧腹大笑？还是眉头紧锁？那就一起来看看吧！
 
+## 西门卤蛋-
+
+> 来看看主创们见过的奇奇怪怪~怪可爱的二创！
+
+![](/image/team/role/ximen1.jpg)
+![](/image/team/role/xinmen2.jpg)
+
+[@西门卤蛋-](https://weibo.com/6482473691/KbFWBm0Ui)
+[@西门卤蛋-](https://weibo.com/6482473691/LxIgyDYT0)
 
 
 ## zhuzhu
 
+> 来看被德叔评论的大作
+
+![](/image/team/role/zhuzhu.jpg)
+
+[小红书 | zhuzhu](http://xhslink.com/86ZMRk)
+
+> 再看看别的
 ![](/image/team/role/zhuzhu3-min.jpg)
 
 这看着还行呀......but别急，接下来请欣赏......何为剑走偏锋
@@ -47,6 +63,11 @@
 
 [小红书 | 池蟠(东京城第一衙内)](https://www.xiaohongshu.com/user/profile/5fc264d40000000001009c73?xhsshare=CopyLink&appuid=5c3e9f750000000007020be4&apptime=1666961861)
 
+## 酷酷的柚
+
+[小红书 | 酷酷的柚](http://xhslink.com/3qhNRk)
+
+![](/image/team/role/youyou.jpg)
 
 ## 猫猫版
 

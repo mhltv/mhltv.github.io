@@ -5,6 +5,9 @@
 
 ## 三姐妹
 
+![](/image/team/role/chisui.jpg)
+[@持岁](https://weibo.com/6037181039/LuUtIy2z6)
+
 ![](/image/team/role/sanjiemei6.jpg)
 [@安小逸插画](https://m.weibo.cn/1809723895/4781743020180699)
 
@@ -377,17 +380,24 @@
 * [小红书 | mtian](http://xhslink.com/P0hhNk)
 * [小红书 | 半颗西瓜](http://xhslink.com/SmTiNk)
 
-## 吕五
-
-![](/image/team/role/lvwu-min.jpg)
-[@春日小羔PuppyBao](https://m.weibo.cn/6691230486/4794027486744843)
-[合集](https://weibo.com/1777901021/LEvp0iDsx)
-
 ## 夫子
 
 ![](/image/team/role/fuzi2-min.jpg)
 
 [小红书 | Yuki酱](http://xhslink.com/t6u5Nk)
+
+## 皇后
+
+[微博](https://weibo.com/3782108625/LAMTxgFf8)
+
+## 吕五
+
+![](/image/team/role/lvwu-min.jpg)
+
+[@春日小羔PuppyBao](https://m.weibo.cn/6691230486/4794027486744843)
+
+[微博](https://weibo.com/1777901021/LEvp0iDsx)
+
 
 ## 群演
 
