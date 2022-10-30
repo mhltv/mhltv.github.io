@@ -196,7 +196,7 @@ module.exports = {
             'behind',
             'leading',
             'supporting',
-            'juesehao'
+            'juesehao',
             'thoughts',
             'role',
             'unique'
