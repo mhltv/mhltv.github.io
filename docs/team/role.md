@@ -36,7 +36,7 @@
 其他二创请参考以下链接：
 * [小红书 | 稀树](http://xhslink.com/Hxw4Nk)
 * [小红书 | 小张是画渣吖～](http://xhslink.com/CDd5Nk)
-*[@迦矞](https://m.weibo.cn/5022492528/4777811145132846)
+* [@迦矞](https://m.weibo.cn/5022492528/4777811145132846)
 
 
 ## 招娣&陈廉
@@ -84,6 +84,12 @@
 
 ![](/image/team/role/hesiyanei-min.jpg)
 [小红书 | 回不去](http://xhslink.com/pg4hNk)
+
+## 皇帝&皇后
+
+![](/image/team/role/dihou.jpg)
+
+[豆瓣 | 喵星人](https://www.douban.com/group/topic/270201949/?_i=671122365f90b6f)
 
 ## 顾千帆
 
@@ -386,10 +392,17 @@
 ![](/image/team/role/fuzi2-min.jpg)
 
 [小红书 | Yuki酱](http://xhslink.com/t6u5Nk)
+## 皇帝
+
+![](/image/team/role/di.jpg)
+
+[豆瓣 | 喵星人](https://www.douban.com/group/topic/270201949/?_i=671122365f90b6f)
 
 ## 皇后
 
-[微博](https://weibo.com/3782108625/LAMTxgFf8)
+![](/image/team/role/hou.jpg)
+
+[豆瓣 | 喵星人](https://www.douban.com/group/topic/270201949/?_i=671122365f90b6f)
 
 ## 吕五
 

@@ -27,7 +27,7 @@
 * [宸曦微凉 | 《梦华录》老戏骨王洛勇：盘过了顾千帆的爹，也演活了顾千帆的娘](https://mp.weixin.qq.com/s/90161I-TWTOgiQD1V-vhIQ)
 * [银华基金 | 【坚持如歌】他可以是人民的好书记“焦裕禄”、他也可以是林海雪原中的“杨子荣”、他还能是《梦华录》中城府深沉的“萧钦言”……](https://m.weibo.cn/1773616872/4811720420230135)
 
-### 官家(保剑锋)
+### 皇帝(保剑锋)
 
 ![](/image/team/zhuchuang/baojianfeng.jpg)
 
@@ -251,7 +251,7 @@
 
 ![](/image/team/zhuchuang/zhoushe.jpg)
 
-### 刘珂君（饰圣人）
+### 刘珂君（饰皇后）
 
 ![](/image/team/zhuchuang/shengren.jpg)
 
