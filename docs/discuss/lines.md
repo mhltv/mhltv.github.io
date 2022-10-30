@@ -64,6 +64,25 @@
 * [亚平宁的风 | 古人曰：“ 白头如新，倾盖如故。”](https://mp.weixin.qq.com/s/QRYNiBH9Kkl6DQzjL7Q7_g)
 
 
+## 女子贵自立
+剧中赵盼儿台词，完整语句为 `女子贵自立，一旦想要依靠别人，就有了弱点。`
+
+![](/image/discuss/lines/zili.jpg)
+
+* [微博 | 江苏影视频道转载](https://share.api.weibo.cn/share/344614458,4830229112292200.html?weibo_id=4830229112292200)
+* [微博 | 环球时报-娱评 | 柳岩@柳岩 接受本报采访：创业“姐妹团”以友情为基础，女子贵自立](https://share.api.weibo.cn/share/344615027,4778032769009723.html?weibo_id=4778032769009723)
+* [玛雅历之旅 | 玛雅图腾【黄种子】女子贵自立，立则天地宽](https://mp.weixin.qq.com/s/uh1HLCW_IIkXH1kYzxVWBQ)
+* [全球成功智慧 | 人贵在自立](https://mp.weixin.qq.com/s/ZQBzqPCWzb6geNZ5xa2zqg)
+* [侃英语 | 《梦华录》这句台词爆赞，人间清醒！适合当签名！](https://mp.weixin.qq.com/s/kNWzBfIggfh0yzizdMzByA)
+* [微博 | 咪咕放映厅 | #清醒大女主发言](https://share.api.weibo.cn/share/344615265,4829616928197735.html?weibo_id=4829616928197735)
+* [有书 | 有福气的女人，身上有这4个特征，发现一个，就要恭喜了](https://mp.weixin.qq.com/s/KkDYV85leYZwpMPQxDF5IQ)
+
+
+剧外，赵盼儿的扮演者刘亦菲在采访中也多次说到自己对女性的一些看法，其中有类似的 `女性独立则天地宽`的表述，在剧外广为认知，与剧中台词也有异曲同工之妙。
+
+* [视频 | 刘亦菲关于女性的访谈：最重要的就是独立和梦想](https://www.bilibili.com/video/BV1Ru411D7mN/?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c)
+
+
 ## 何四相关
 
 

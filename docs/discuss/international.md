@@ -50,3 +50,15 @@
 ##  印度尼西亚
 * [9 Drama dan Film China Liu Yifei yang Comeback di A Dream of Splendor](https://www.idntimes.com/hype/entertainment/nurfifi-arliani/film-china-liu-yifei-c1c2)
 * [Drama Liu Yifei dan Chen Xiao ‘A Dream Of Splendor’ Cetak Rating Tinggi di Douban](https://overseasidol.com/drama-liu-yifei-dan-chen-xiao-a-dream-of-splendor-cetak-rating-tinggi-di-douban/)
+
+
+## 马来西亚
+
+* [Citta Bella都会佳人 | 创下15亿播放量 收获一众好评！ 6大亮点揭开为何《梦华录》荣登2022年最佳剧集](https://cittabella.my/2022/06/%e5%88%98%e4%ba%a6%e8%8f%b2-%e9%99%88%e6%99%93%e3%80%8a%e6%a2%a6%e5%8d%8e%e5%bd%95%e3%80%8b%e4%ba%ae%e7%82%b9/)
+
+简介: 《Citta Bella都会佳人》是台湾《Bella儂儂》的姐妹刊物，更是马来西亚具有指标象征的一本区域性时尚杂志。自1997年4月份创立以来始终以“认真玩乐，积极生活”的精神打造杂志内容，以国际时尚观接触每一波趋势与潮流，再以本地化的视角与专业团队诠释属于Bella的动人风格。
+
+* [星洲日报 | 刘亦菲《梦华录》获央视赞誉黑粉酸过度美化官伎](https://www.sinchew.com.my/20220617/%E5%88%98%E4%BA%A6%E8%8F%B2%E3%80%8A%E6%A2%A6%E5%8D%8E%E5%BD%95%E3%80%8B%E8%8E%B7%E5%A4%AE%E8%A7%86%E8%B5%9E%E8%AA%89%E3%80%80%E9%BB%91%E7%B2%89%E9%85%B8%E8%BF%87%E5%BA%A6%E7%BE%8E%E5%8C%96%E5%AE%98/)
+
+![](/image/discuss/media/xz-1.webp)
+![](/image/discuss/media/xz.webp)
