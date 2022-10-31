@@ -47,6 +47,9 @@
 * [科院广播（河南科技学院广播电台） | 特别推送 | 梦华录](https://mp.weixin.qq.com/s/FPM6h79FD88CSfYfcePQaA)
 * [辽宁师范大学图书馆 | 博看荐读丨《梦华录》又掀宋朝热，宋朝的生活竟如此精彩](https://mp.weixin.qq.com/s/3kobxATSRBEkPAN3XYyu_w)
 * [青春川师SICNU | 在？看《梦华录》了吗？](https://mp.weixin.qq.com/s/Vupo6MX3T_iFIIbGLRrT0w)
+* [山东理工大学文学与新闻传播学院 | “趣”国学|《梦华录》——舞乐篇](https://mp.weixin.qq.com/s/TU9QT5IxOgKqjedwyq9kGg)
+* [河南大学 | 来！来！来！为《梦华》打call~~~](https://mp.weixin.qq.com/s/6D_yQfV54N5hZ4jeMlZQ-Q)
+
 
 
 ### 出版社
@@ -163,6 +166,8 @@
 * [忻州图书馆 | 【忻州市图书馆】 | 一起去看《梦华录》之外大宋朝的繁花似锦](https://mp.weixin.qq.com/s/9rg36ZTwOhDvf4YSOU6QaQ)
 * [苏州图书馆 | 书里书外 | 阅生活：《梦华录》热播！如果有一次穿越的机会，不如去大宋汴京看看](https://mp.weixin.qq.com/s/t_N_M5zxSelV7Lfzp-Xv-A)
 * [济南图书馆  | 追《梦华录》了？看到“网红济南”影子没](https://mp.weixin.qq.com/s/9AA_WCUTD4TJhChzwwchzg)
+* [平陆县图书馆  | 一眼惊鸿，瞥见《梦华录》中的古典风采](https://mp.weixin.qq.com/s/PFg5Y6FIhJU0aCRSZXH8TA)
+
 
 ### 博物馆
 * [香港商报网 | 来深博看《东京梦华录》吧！此时，脑海里是否立刻浮现@刘亦菲 和@陈晓 主演的#梦华录#呢？](https://m.weibo.cn/status/4796950727103816?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)
