@@ -1,7 +1,7 @@
 # 破圈讨论
 
 本文收录诸多媒体从各个角度对梦华录的讨论, 因讨论内容过多，部分媒体发布了多篇报道，也有报道会被多个媒体转载，本文只收录部分代表性内容。
-目前共计收录`32`个分类，`409`个条目。
+目前共计收录`32`个分类，`413`个条目。
 
 同时，《梦华录》也掀起了一股“宋朝热”，激发起无数观众对于那个文化鼎盛时期民俗百态的好奇与向往。读者可从本文中散落于不同行业的讨论文章中一窥全豹。
 
@@ -230,6 +230,8 @@
 * [有道词典 | 《梦华录》海外版上线，译名竟然用了这个词，妙！](https://mp.weixin.qq.com/s/sQaLsuEKYXcQLt2PnrwzuA)
 * [优谷朗读亭 | 当下最火古偶剧《梦华录》是怎么把古诗词演活的](https://mp.weixin.qq.com/s/m2c9YnS0F5JaLhP-xhIGJQ)
 * [成都儿童团 | 《梦华录》的“京漂”女孩们：精神独立的女孩应该拥有哪些能力？](https://mp.weixin.qq.com/s/5eHSWzDpoCYpoyBqOQGkow)
+* [河北省青少年读书实践活动  | 阅见 | 《梦华录》：读北宋励志故事 展东京绰约风华](https://mp.weixin.qq.com/s/JjWdpRxZzXPFSZPdpnwAqA)
+
 
 
 ## 商业
@@ -466,6 +468,9 @@
 * [通典书院 | 《梦华录》：看剧涨知识，剧里的宋朝文化你都知道吗？](https://mp.weixin.qq.com/s/6u4Bg0RewOR-zfJAyK6O9Q)
 * [旅游与摄影融媒体 | 《梦华录》“九色名瓷”之钧瓷，入窑一色出窑万彩](https://mp.weixin.qq.com/s/uez0SV2Su0l4G-cGrSy_Kg)
 * [橙柿互动 | 《梦华录》里一块玉200贯，一月租金30贯……北宋的一贯钱，到底值多少钱？](https://web2.kbw.hbjt.com.cn/article/draft/share/52200?scene=1&id=52200)
+* [中国诗歌文学精品 | 看了《梦华录》！原来，宋朝这么有趣](https://mp.weixin.qq.com/s/9DU6zfNBPF6nKGXQPK-SUw)
+* [法影微澜 | 梦华录中的登闻鼓](https://mp.weixin.qq.com/s/eBfrh_3ROfPG64uao3e0Bg)
+* [奉章堂汉服工作室 | 梦华录中出现的乐器](https://mp.weixin.qq.com/s/weU0aJL5H1t9w3_oqJlunQ)
 
 
 ## 气候
