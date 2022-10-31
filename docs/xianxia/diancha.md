@@ -144,6 +144,7 @@
 [永毅相机行 | 尼康活动｜10月15日《梦华录》汉服人像创作](https://mp.weixin.qq.com/s/tcCklZXcnl4sEWq2Vqg1Ug)
 
 ### 12. 成都日报锦观新闻 | 四川省川茶文化研究会 | 宋韵点茶雅集
+
 ![](/image/xianxi/sichuandiancha.jpg)
 [链接](https://mp.weixin.qq.com/s/_Ew0kyVSz_BoKfUlpMcFTA)
 
@@ -157,7 +158,7 @@
 
 ### “宋风茶韵”闽江夜游中秋点茶专场体验活动
 
-[普洱茶网 | “闽江夜游”版《梦华录》正式上线！](https://www.puercn.com/news/125808/)
+[普洱茶网 | “闽江夜游”版《梦华录》正式上线！](https://www.puercn.com/news/125808)
 
 ### 福泉·龙潭茶室 |《梦华录》同款宋韵点茶
 
