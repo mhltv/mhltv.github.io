@@ -60,7 +60,7 @@
 
 ### 糕点
 
-* [​《梦华录》带动糕点、汉服热销 一部热播剧何以带火多个产业？](https://j.021east.com/p/1655258801036611)
+* [《梦华录》带动糕点、汉服热销 一部热播剧何以带火多个产业？](https://j.021east.com/p/1655258801036611)
 * [被《梦华录》带火的“果子”，在家也能做](http://www.qvip.net/article-29388)
 * [上海美食攻略 | 盒马卖「梦华录果子」了，这波新品又赢麻了！](https://mp.weixin.qq.com/s/ADY0iqkn-W4BRCQ61mXscQ)
 
@@ -89,15 +89,10 @@
 
 1. [东京一梦：想做一回宋朝小娘子~](https://mp.weixin.qq.com/s/4k2mPlw7tVJmac8KXbyIxQ)
 
-### 同款下午茶
+## 国风茶园
 
 上海愚园路有《梦华录》同款下午茶
 
 [上海美食攻略 | 89元！《梦华录》同款下午茶，空降愚园路！](https://mp.weixin.qq.com/s/Ai6GkxpiRvQraPHsD9oUZA)
 
-### “闽江夜游”版《梦华录》
-
-福建福州推出“闽江夜游”版《梦华录》
-
-[茶道CN | 就在昨晚，“闽江夜游”版《梦华录》正式上线！](https://mp.weixin.qq.com/s/psLD0fYak3S3ppeZ5siJSQ)
 
