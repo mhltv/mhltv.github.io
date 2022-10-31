@@ -89,5 +89,15 @@
 
 1. [东京一梦：想做一回宋朝小娘子~](https://mp.weixin.qq.com/s/4k2mPlw7tVJmac8KXbyIxQ)
 
+### 同款下午茶
 
+上海愚园路有《梦华录》同款下午茶
+
+[上海美食攻略 | 89元！《梦华录》同款下午茶，空降愚园路！](https://mp.weixin.qq.com/s/Ai6GkxpiRvQraPHsD9oUZA)
+
+### “闽江夜游”版《梦华录》
+
+福建福州推出“闽江夜游”版《梦华录》
+
+[茶道CN | 就在昨晚，“闽江夜游”版《梦华录》正式上线！](https://mp.weixin.qq.com/s/psLD0fYak3S3ppeZ5siJSQ)
 
