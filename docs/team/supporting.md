@@ -42,6 +42,8 @@
 * [北京青年报《红me访》](https://m.weibo.cn/status/4779550666130075)
 * [苏心 | 《梦华录》大结局，这个男人藏不住了！](https://mp.weixin.qq.com/s/aCgEgKwAkUBGdv-RkaNIfA)
 * [BRTV文艺频道 | 还记得《琅琊榜》的穆青吗？《梦华录》他简直“胖”若两人](https://mp.weixin.qq.com/s/syPAmboQ57hdRPXh2duEMA)
+* [HB@健康与美容 | 张晓谦对每个角色每部戏保持负责任的态度，稳扎稳打的同时拓展着维度。](https://weibo.com/1841671207/LzasDr3UF)
+
 
 ### 陈廉(管云鹏)
 
@@ -168,6 +170,13 @@
 ### 徐海乔（欧阳旭）
 
 * [线下 | 英纳格](https://m.weibo.cn/6444300957/4798032157083677)
+* 
+### 张晓谦（杜长风）
+
+* [FAMOUSMagazine 20220615| 拍摄](https://weibo.com/7606408598/LxQNFxZXq)
+* [华为终端云服务 20220623 | #小云星推荐#第四期](https://m.weibo.cn/2280893642/4783491940615678)
+* [着录SOLO 20220712 | 主题大片 「不负韶华」](https://weibo.com/7307974554/LBX5Ce0r7)
+
 
 ### 管云鹏（陈廉）
 
