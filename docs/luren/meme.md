@@ -1,7 +1,8 @@
 # 段子 & MEME
 
-录人有梗
+![](/image/discuss/biao.jpg)
 
+无梗不录人！
 
 ## 梦华录不更新的日子
 
