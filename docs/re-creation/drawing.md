@@ -70,6 +70,8 @@
 
 其他二创请参考以下链接：
 
+* [微博 | 八木有鱼](https://weibo.com/3563442005/Lxd2Bu2zG)
+* [微博 | 果子狸76](https://weibo.com/2105299935/McHQbnVTR)
 * [小红书 | 爱画画的小Demon](http://xhslink.com/7VQ4Nk)
 * [小红书 | 沐晨治愈水彩(开课中)](http://xhslink.com/zsPPNk)
 * [小红书 | 小曾](http://xhslink.com/sY0PNk)
