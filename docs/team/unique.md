@@ -9,8 +9,11 @@
 ![](/image/team/role/ximen1.jpg)
 ![](/image/team/role/xinmen2.jpg)
 
-[@西门卤蛋-](https://weibo.com/6482473691/KbFWBm0Ui)
-[@西门卤蛋-](https://weibo.com/6482473691/LxIgyDYT0)
+
+* [@西门卤蛋-](https://weibo.com/6482473691/KbFWBm0Ui)
+
+* [@西门卤蛋-](https://weibo.com/6482473691/LxIgyDYT0)
+
 
 
 ## zhuzhu
