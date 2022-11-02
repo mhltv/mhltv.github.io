@@ -96,12 +96,13 @@
 链接: [鲸探号少儿科学院 | 【梦华录之约】中秋汉服派对、茶艺体验、行词令、儿童市集、定向寻宝、月相实验、点河灯祈福](https://mp.weixin.qq.com/s/xuxziJ5Mor4VLN6WTfhwxw)
 
 
-
 ### 源渔游园会｜《梦华录》夜宴图的秘密
 
 [源渔艺术 ｜《梦华录》夜宴图的秘密](https://mp.weixin.qq.com/s/oZZhQo0KxhMznx1yX8yZCA)
 
+### 安徽蜀山阳光芭蕾联合AHSPACE基地举办宋代点茶亲子活动
 
+[AHSPACE发布 | 一秒穿回《梦华录》](https://mp.weixin.qq.com/s/HuruQMRU-uCXRLODyot9tg)
 
 ## 体育
 
