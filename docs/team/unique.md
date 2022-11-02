@@ -7,6 +7,8 @@
 > 来看看主创们见过的奇奇怪怪~怪可爱的二创！
 
 ![](/image/team/role/ximen1.jpg)
+> 三娘姐！
+
 ![](/image/team/role/xinmen2.jpg)
 
 
@@ -18,7 +20,14 @@
 
 ## zhuzhu
 
-> 来看被德叔评论的大作
+> 陈廉
+![](/image/team/role/zhu2.jpg)
+
+> 沈如琢
+![](/image/team/role/zhu1.jpg)
+[小红书 | zhuzhu](https://v.douyin.com/M7PQmN1)
+
+> 德叔
 
 ![](/image/team/role/zhuzhu.jpg)
 
