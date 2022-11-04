@@ -22,7 +22,7 @@
 
 除广告外，吸引了服装、茶饮、软件、玩具、游戏、展览等多个领域开展梦华录相关联名活动，包括十三余、喜茶、奈雪的茶、九灵神域、梦幻诛仙、美图秀秀、中国移动视频彩铃、讯飞输入法、搜狗输入法手机版、百度输入法、RUA 娃吧、长沙大悦城同名古风集市沉浸展、黑白月剧本杀等 共计`13项`。
 
-<img src="/image/data/lianming1.webp" width="1080">
+<img src="/image/data/lianming1.jpg" width="1080">
 
 <img src="/image/data/lianming2.jpg" width="1080">
 
