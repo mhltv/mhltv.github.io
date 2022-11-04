@@ -73,9 +73,9 @@
 * [黑马营销 | 借势爆剧《梦华录》，十三余携手腾讯视频探索汉服×内容IP新营销](https://mp.weixin.qq.com/s/AhrtzEgVt0sNocA4yZY_Nw)
 
 
-## 清明上河园
+## 剧本杀
 
-![](/image/xianxi/jubensha-2.jpg)
+> 河南省开封市龙亭区万胜路黑白月话剧式剧本杀
 
-### 官方报道
-* [开封清明上河园景区首推：新剧本！新体验！新玩法！大型沉浸式剧本杀《东京梦华录》来了！](http://www.qingmings.com/news_info.php?softid=3101)
+[黑白月实景探案馆 | 梦华录 x 黑白月丨梦华录官方正版授权剧本杀来啦!](https://mp.weixin.qq.com/s/UGwTc3jL6fyqJqUnkfbLRg)
+
