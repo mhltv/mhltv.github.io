@@ -35,7 +35,7 @@
 5. [Morketing Morketing | 从「喜茶」x《梦华录》，看品牌靠“影视IP”怎么做内容复利？](https://mp.weixin.qq.com/s/AYuBw57Jup5FeltoWknTeQ)
 6. [财经无忌 | 拉上甄嬛传，喜茶再破圈，新茶饮们为何集体靠联名续命？](https://www.dachanggongguan.com/article-482415.html)
 
-![](/image/xianxia/xichabaodao1.jpg)
+![](/image/xianxia/xichabaodao1.png)
 
 7. [艾普思咨询 | 行业月报 | 2022年06月餐饮舆情监测数据盘点](https://www.ipscg.com/detail-288.html)
 
