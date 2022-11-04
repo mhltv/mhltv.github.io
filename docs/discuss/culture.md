@@ -167,7 +167,7 @@
 * [忻州图书馆 | 【忻州市图书馆】 | 一起去看《梦华录》之外大宋朝的繁花似锦](https://mp.weixin.qq.com/s/9rg36ZTwOhDvf4YSOU6QaQ)
 * [苏州图书馆 | 书里书外 | 阅生活：《梦华录》热播！如果有一次穿越的机会，不如去大宋汴京看看](https://mp.weixin.qq.com/s/t_N_M5zxSelV7Lfzp-Xv-A)
 * [济南图书馆  | 追《梦华录》了？看到“网红济南”影子没](https://mp.weixin.qq.com/s/9AA_WCUTD4TJhChzwwchzg)
-* [平陆县图书馆  | 一眼惊鸿，瞥见《梦华录》中的古典风采](https://mp.weixin.qq.com/s/PFg5Y6FIhJU0aCRSZXH8TA)
+* [平陆县图书馆  | 一眼惊鸿，瞥见《梦华录》中的古典风采](https://mp.weixin.qq.com/s/PFg5Y6FIhJU0aCRSZXH8TA) `鲁山县图书馆也有发文`
 
 
 ### 博物馆
