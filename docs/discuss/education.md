@@ -28,7 +28,7 @@
 ## 英语
 
 ![](/image/discuss/education/engyuedu.jpg)
-
+![](/image/discuss/education/eng2.jpg)
 
 ## 政治
 

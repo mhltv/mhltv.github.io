@@ -12,6 +12,17 @@
 
 **访问链接：**[新华指数：文化产业头部IP价值效应持续显著](https://www.ceis.cn/gsdt-lb/detail/20221102/3734947_1.html)
 
+### 相关报道
+
+* [中国青年报| 哪些IP有潜力？《新华文化产业IP指数报告（2022）》在京发布](https://wenhua.youth.cn/whyw/202211/t20221103_14102427.htm)
+* [36氪| 新华文化产业IP指数报告（2022）：头部IP价值显著改编成功率高](https://36kr.com/newsflashes/1984151347020809)
+* [视听广电| 哪些IP受关注？《人世间》《梦华录》等上榜](https://mp.weixin.qq.com/s/fx11PgKgxRATH6drAO5dNA)
+* [广州日报| 《新华文化产业IP指数报告（2022）》发布，动漫成为新型IP价值助推器](https://huacheng.gz-cmc.com/pages/2022/11/03/60e778fe95c1487ab7fcd983a7396591.html)
+* [上观新闻| 哪些文化IP最受关注？《斗罗大陆》《人世间》《梦华录》等上榜](https://www.shobserver.com/news/detail?id=545658)
+* [蓝鲸财经| 2022年新华IP指数报告发布：网络文学占IP综合价值和潜力榜单过半](https://lanjinger.com/d/195411)
+* [证券日报网| 《新华·文化产业IP指数报告（2022）》发布 网络文学占IP综合价值和潜力榜单过半](http://www.zqrb.cn/finance/hangyedongtai/2022-11-02/A1667385413023.html)
+
+此外，北京日报，江苏广电的都进行了相关报道。
 
 ## Vlinkage
 

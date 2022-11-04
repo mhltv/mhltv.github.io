@@ -13,6 +13,10 @@
 * [游民星空 | 刘亦菲获得第七届虎扑女神大赛冠军 成首位双冠王](https://www.gamersky.com/wenku/202209/1523607.shtml)
 * [艾漫数据 | 2022年上半年商业价值数据盘点：头部爱豆/在播剧演员提升明显](https://mp.weixin.qq.com/s/BXcHVyWjFjP_uApvfkh5TA): `其中《梦华录》主演刘亦菲，陈晓均在榜`
 * [@微热点 | 2022年10月25日，微热点研究院公布2022年以来，古装美人关联度，刘亦菲断层第一！](https://weibo.com/3960037780/MbVAeDXGa)
+* [@凤凰网娱乐](https://share.api.weibo.cn/share/345757731%2C4832117245349530.html)
+
+![](/image/cc/yule.jpg)
+
 
 ## 创维全球品牌代言人
 
