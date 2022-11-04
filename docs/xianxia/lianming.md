@@ -32,6 +32,7 @@
 2. [ifanr: 喜茶奈雪双双联名《梦华录》，但「赵盼儿」泡的现代茶有点坑](https://www.ifanr.com/1498226)
 3. [界面新闻: 《梦华录》喜茶联名款的流量密码=瑞幸+蜜雪冰城](https://m.jiemian.com/article/7738129.html)
 4. [FoodTalks: 喜茶的“第一次”，是广告收入1.5亿的《梦华录》](https://www.foodtalks.cn/news/32425)
+5. [Morketing Morketing | 从「喜茶」x《梦华录》，看品牌靠“影视IP”怎么做内容复利？](https://mp.weixin.qq.com/s/AYuBw57Jup5FeltoWknTeQ)
 
 
 
