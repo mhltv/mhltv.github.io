@@ -12,6 +12,7 @@
 * [2022年6月 梦华录热播，刘亦菲粉丝量暴涨【微博涨粉月报】](https://www.bilibili.com/video/BV1GG411W7YU/?vd_source=087d424162639011a33e46dbbd019cfd)
 * [游民星空 | 刘亦菲获得第七届虎扑女神大赛冠军 成首位双冠王](https://www.gamersky.com/wenku/202209/1523607.shtml)
 * [艾漫数据 | 2022年上半年商业价值数据盘点：头部爱豆/在播剧演员提升明显](https://mp.weixin.qq.com/s/BXcHVyWjFjP_uApvfkh5TA): `其中《梦华录》主演刘亦菲，陈晓均在榜`
+* [@微热点 | 2022年10月25日，微热点研究院公布2022年以来，古装美人关联度，刘亦菲断层第一！](https://weibo.com/3960037780/MbVAeDXGa)
 
 ## 创维全球品牌代言人
 
@@ -43,8 +44,6 @@
 
 ![](/image/discuss/education/daiyantupianhuizong1.jpg)
 
-## 古装美人关联度
 
-2022年10月25日，微热点研究院公布2022年以来，古装美人关联度，刘亦菲断层第一！
-[@微热点](https://weibo.com/3960037780/MbVAeDXGa)
+
 
