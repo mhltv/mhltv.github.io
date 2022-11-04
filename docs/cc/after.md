@@ -43,6 +43,7 @@
 
 ![](/image/discuss/education/daiyantupianhuizong1.jpg)
 
+## 古装美人关联度
 
 2022年10月25日，微热点研究院公布2022年以来，古装美人关联度，刘亦菲断层第一！[链接](https://weibo.com/3960037780/MbVAeDXGa)
 ![](/image/cc/meiren.jpg)
