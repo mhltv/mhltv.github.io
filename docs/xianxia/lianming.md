@@ -65,7 +65,7 @@
 
 > 茶饮企业跨界联名，举例喜茶，奈雪的茶与影视《梦华录》联名
 
-![](/image/xianxia/hongxing.jpg)
+![](/image/xianxi/hongxing.jpg)
 
 
 ## 十三余
