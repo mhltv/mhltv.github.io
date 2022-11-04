@@ -1,5 +1,6 @@
 # 纸质刊物
 
+![](/image/discuss/shibao.jpg)
 
 ## 书籍
 
