@@ -230,8 +230,6 @@
 * [有道词典 | 《梦华录》海外版上线，译名竟然用了这个词，妙！](https://mp.weixin.qq.com/s/sQaLsuEKYXcQLt2PnrwzuA)
 * [优谷朗读亭 | 当下最火古偶剧《梦华录》是怎么把古诗词演活的](https://mp.weixin.qq.com/s/m2c9YnS0F5JaLhP-xhIGJQ)
 * [成都儿童团 | 《梦华录》的“京漂”女孩们：精神独立的女孩应该拥有哪些能力？](https://mp.weixin.qq.com/s/5eHSWzDpoCYpoyBqOQGkow)
-* [河北省青少年读书实践活动  | 阅见 | 《梦华录》：读北宋励志故事 展东京绰约风华](https://mp.weixin.qq.com/s/JjWdpRxZzXPFSZPdpnwAqA)
-
 
 
 ## 商业

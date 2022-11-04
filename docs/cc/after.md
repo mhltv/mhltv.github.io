@@ -42,3 +42,7 @@
 至此，刘亦菲目前有且仅有的4个代言，皆是全球代言！祝贺演员刘亦菲！`“赵娘子 生意不错啊”`
 
 ![](/image/discuss/education/daiyantupianhuizong1.jpg)
+
+
+2022年10月25日，微热点研究院公布2022年以来，古装美人关联度，刘亦菲断层第一！[链接](https://weibo.com/3960037780/MbVAeDXGa)
+![](/image/cc/meiren.jpg)

@@ -152,11 +152,15 @@
 * [神神叨叔 | 梦华录男演员自曝剧组生活：“刘亦菲请我吃炸鸡耶！”](https://www.bilibili.com/video/BV1aa411H7z7)
 * [神神叨叔 | 在梦华录跑龙套被导演看中，和天仙飙戏50场是什么体验？](https://www.bilibili.com/video/BV1WY4y1G7Do/)
 
+[豆瓣顾盐盘点 | 东京最强打工王三号状元哥](https://www.douban.com/group/topic/270316685)
+
 ### 秀州知州许永（陈旭明） & 群演榜眼（常超禹） & 派角色蒋攀（郭鹏）
 
 ![](/image/team/zhuchuang/zhizhou.jpg)
 ![](/image/team/zhuchuang/changchaoyu.jpg)
 [上海电影艺术职业学院 | 《梦华录》热播！上电“师生同框”背后的精彩](https://www.shfilmart.com/2022/0608/c109a2160/page.htm?continueFlag=b2c0140d510a27953165cfa16c6e757d)
+[东京最强打工人一号 | 豆瓣顾盐盘点](https://www.douban.com/group/topic/270136905)
+[东京最强打工人一号 | 豆瓣尺素盘点](https://www.douban.com/group/topic/270129768)
 
 ### 群演(刘远帆)
 
@@ -165,6 +169,7 @@
 * [红星独家｜我们采访了《梦华录》“演技最差的人”他说：我是专业的 ](https://www.sohu.com/a/556848381_116237)
 * [娱理 | 《梦华录》演技最差的人，背后还有这样的群演心事](https://mp.weixin.qq.com/s/ICdzmHbfNXHrg9dT6r41GA)
 
+[东京最强打工人二号 | 豆瓣顾盐盘点](https://www.douban.com/group/topic/270191366)
 ## 商务活动
 
 ### 徐海乔（欧阳旭）

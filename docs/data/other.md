@@ -47,6 +47,7 @@
 
 <img src="/image/data/other-douyinmeizhuangtop.jpg" width="1080">
 
+
 ## Netflix
 
 2022年7月1日，Netflix 网飞台湾地区上线《梦华录》，上线两天升至剧集第四位，七月剧集榜单排名`第二`，八月第三。
@@ -103,3 +104,9 @@
 <img src="/image/data/other-danmu4.webp" width="1080">
 
 > 第21~30集top200高赞弹幕
+
+## 女频剧虎扑话题阅读量
+
+> 2022-2022女频的破圈层度排行，梦华录断层领先（来源：豆瓣用户）
+
+![](/image/data/hupu.jpg)
