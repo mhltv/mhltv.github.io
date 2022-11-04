@@ -71,7 +71,7 @@
 
 ![](/image/team/zhuchuang/sunzujun.jpg)
 
-* [溜溜车薪 | 《梦华录》沈如琢是好人还是坏人：孙祖君因角色油腻上热搜](https://mp.weixin.qq.com/s/rDSp4FBcorWnmqukIpQdCA)
+[溜溜车薪 | 《梦华录》沈如琢是好人还是坏人：孙祖君因角色油腻上热搜](https://mp.weixin.qq.com/s/rDSp4FBcorWnmqukIpQdCA)
 
 ### 何四(胡宇轩)
 
@@ -95,72 +95,62 @@
 
 ![](/image/team/zhuchuang/lishengjia.jpg)
 
-* [影视剧盘点 | 演员｜参加过快男，《梦华录》演顾千帆弟弟，他还是杨阳导演公司艺人！](https://mp.weixin.qq.com/s/_NJ6guYlfYJUIiAN5lYDZw)
+[影视剧盘点 | 演员｜参加过快男，《梦华录》演顾千帆弟弟，他还是杨阳导演公司艺人！](https://mp.weixin.qq.com/s/_NJ6guYlfYJUIiAN5lYDZw)
 
 ### 齐牧(姚安濂)
 
 ![](/image/team/zhuchuang/yaoanlian.jpg)
 
-* [BRTV文艺频道 | 《梦华录》中的大反派！从活塞厂工人到获奖无数，你真的了解他吗？](https://mp.weixin.qq.com/s/F9ZpHmVDhmr9xr5TbC35IQ)
+[BRTV文艺频道 | 《梦华录》中的大反派！从活塞厂工人到获奖无数，你真的了解他吗？](https://mp.weixin.qq.com/s/F9ZpHmVDhmr9xr5TbC35IQ)
 
 ### 郑青田(陈震)
 
 ![](/image/team/zhuchuang/chenzhen.jpg)
 
-* [娱乐八卦基地 | 梦华录：由于长得太帅，被误认为是重要人物，弹幕全是中年杨洋](https://mp.weixin.qq.com/s/ZnUR2jgRThNwp_j1BiLh0g)
+[娱乐八卦基地 | 梦华录：由于长得太帅，被误认为是重要人物，弹幕全是中年杨洋](https://mp.weixin.qq.com/s/ZnUR2jgRThNwp_j1BiLh0g)
 
 ### 高鹄(尹铸胜)
 
 ![](/image/team/zhuchuang/yinzhusheng.jpg)
 
-* [情感故事糖糖 | 《梦华录》：这位配角超级厉害，在播出的三部电视剧饰演重要角色](https://mp.weixin.qq.com/s/x8xAEvc7H95v34b6J0vmMQ)
+[情感故事糖糖 | 《梦华录》：这位配角超级厉害，在播出的三部电视剧饰演重要角色](https://mp.weixin.qq.com/s/x8xAEvc7H95v34b6J0vmMQ)
 
 ### 高慧(嘉泽)
 
 ![](/image/team/zhuchuang/gaohui.jpg)
 
-* [宸曦微凉 | 《梦华录》嘉泽：也演过花魁，高慧一人千面反转最大成赵盼儿救命恩人](https://mp.weixin.qq.com/s/0oVaWe5xe28WxZK8Jy8UuA)
+[宸曦微凉 | 《梦华录》嘉泽：也演过花魁，高慧一人千面反转最大成赵盼儿救命恩人](https://mp.weixin.qq.com/s/0oVaWe5xe28WxZK8Jy8UuA)
 
 ### 萧府管家(曹明华)
 
 ![](/image/team/zhuchuang/caominghua.jpg)
 
-* [河南微生活队 | 接连出演很多火出圈的影视剧，《梦华录》中再次出现，却无人相识](https://mp.weixin.qq.com/s/fwHAoWsOOE31VvkEiBeYoQ)
+[河南微生活队 | 接连出演很多火出圈的影视剧，《梦华录》中再次出现，却无人相识](https://mp.weixin.qq.com/s/fwHAoWsOOE31VvkEiBeYoQ)
 
 ### 高家家丁高福(辛逸泉)
 
 ![](/image/team/zhuchuang/gaofu.jpg)
 
-* [十堰晚报 | 电视剧《梦华录》热播，这个角色扮演者是十堰人](https://mp.weixin.qq.com/s/jyAu2RdTHpzciAkoA5tX2A)
+[十堰晚报 | 电视剧《梦华录》热播，这个角色扮演者是十堰人](https://mp.weixin.qq.com/s/jyAu2RdTHpzciAkoA5tX2A)
 
 ### 童年赵盼儿(黎艾蒙)
 
 ![](/image/team/zhuchuang/xiaopaner.jpg)
 
-* [麦田星艺 | 爆火剧《梦华录》为何出圈？小演员黎艾蒙饰童年赵盼儿 网友弹幕获好评](https://mp.weixin.qq.com/s/De4qFQNVNU62LTPBOJ7knA)
+[麦田星艺 | 爆火剧《梦华录》为何出圈？小演员黎艾蒙饰童年赵盼儿 网友弹幕获好评](https://mp.weixin.qq.com/s/De4qFQNVNU62LTPBOJ7knA)
 
 ### 斗茶掌柜(成国栋)
 
 ![](/image/team/zhuchuang/doucha.jpg)
 
-* [开心西瓜 | 靠主角无法获胜，《梦华录》配角倒也出彩，成国栋曲线发展事业](https://mp.weixin.qq.com/s/hQobaTXTRl8Ncm_0uvxoLg)
+[开心西瓜 | 靠主角无法获胜，《梦华录》配角倒也出彩，成国栋曲线发展事业](https://mp.weixin.qq.com/s/hQobaTXTRl8Ncm_0uvxoLg)
 
-### 群演状元（王菁飞）
-
-![](/image/team/zhuchuang/zhuangyuan.jpg)
-
-* [神神叨叔 | 梦华录男演员自曝剧组生活：“刘亦菲请我吃炸鸡耶！”](https://www.bilibili.com/video/BV1aa411H7z7)
-* [神神叨叔 | 在梦华录跑龙套被导演看中，和天仙飙戏50场是什么体验？](https://www.bilibili.com/video/BV1WY4y1G7Do/)
-
-[豆瓣顾盐盘点 | 东京最强打工王三号状元哥](https://www.douban.com/group/topic/270316685)
 
 ### 秀州知州许永（陈旭明） & 群演榜眼（常超禹） & 派角色蒋攀（郭鹏）
 
 ![](/image/team/zhuchuang/zhizhou.jpg)
 ![](/image/team/zhuchuang/changchaoyu.jpg)
 [上海电影艺术职业学院 | 《梦华录》热播！上电“师生同框”背后的精彩](https://www.shfilmart.com/2022/0608/c109a2160/page.htm?continueFlag=b2c0140d510a27953165cfa16c6e757d)
-[东京最强打工人一号 | 豆瓣顾盐盘点](https://www.douban.com/group/topic/270136905)
-[东京最强打工人一号 | 豆瓣尺素盘点](https://www.douban.com/group/topic/270129768)
 
 ### 群演(刘远帆)
 
@@ -169,12 +159,12 @@
 * [红星独家｜我们采访了《梦华录》“演技最差的人”他说：我是专业的 ](https://www.sohu.com/a/556848381_116237)
 * [娱理 | 《梦华录》演技最差的人，背后还有这样的群演心事](https://mp.weixin.qq.com/s/ICdzmHbfNXHrg9dT6r41GA)
 
-[东京最强打工人二号 | 豆瓣顾盐盘点](https://www.douban.com/group/topic/270191366)
+
 ## 商务活动
 
 ### 徐海乔（欧阳旭）
 
-* [线下 | 英纳格](https://m.weibo.cn/6444300957/4798032157083677)
+[线下 | 英纳格活动人山人海](https://m.weibo.cn/6444300957/4798032157083677)
 
 ### 张晓谦（杜长风）
 
@@ -196,7 +186,7 @@
 
 ### 李沐宸（葛招娣）
 
-* [采访拍摄 | 时尚芭莎七夕 | 金九杂志内页202208](https://m.weibo.cn/1708288824/4798691473360551)
+[采访拍摄 | 时尚芭莎七夕 | 金九杂志内页202208](https://m.weibo.cn/1708288824/4798691473360551)
 
 ### 孙祖君（沈如琢）
 
@@ -208,7 +198,7 @@
 
 ![](/image/team/zhuchuang/luyong.jpg)
 
-* [直播 | 古井贡酒京东超级品牌日星推官](https://m.weibo.cn/1284438223/4810066995449376)
+[直播 | 古井贡酒京东超级品牌日星推官](https://m.weibo.cn/1284438223/4810066995449376)
 
 ### 胡宇轩（何四）
 
@@ -230,13 +220,13 @@
 
 ### 李圣佳（萧谓）
 
-* [线下活动 | #中国国际时装周# 无奇不ü〖GUUKA〗@GUUKA古由卡邀请](https://m.weibo.cn/1865217684/4812233136150677)
+[线下活动 | #中国国际时装周# 无奇不ü〖GUUKA〗@GUUKA古由卡邀请](https://m.weibo.cn/1865217684/4812233136150677)
 
 ### 李星美（素娘）
 
 ![](/image/team/zhuchuang/suniang.jpg)
 
-* [节目 | 中秋节 抖音华彩追月夜 第五乐章](https://m.weibo.cn/2883143471/4812515680195591)
+[节目 | 中秋节 抖音华彩追月夜 第五乐章](https://m.weibo.cn/2883143471/4812515680195591)
 
 ## 配角图赏
 
@@ -273,6 +263,11 @@
 ### 朱辉（饰德叔）
 
 ![](/image/team/zhuchuang/deshu.jpg)
+
+### 群演状元（王菁飞）
+
+![](/image/team/zhuchuang/zhuangyuan.jpg)
+
 
 ### 张怀公（饰崔内侍）
 
