@@ -197,6 +197,7 @@ module.exports = {
             'behind',
             'leading',
             'supporting',
+            'cut',
             'juesehao',
             'thoughts',
             'role',
