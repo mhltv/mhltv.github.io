@@ -33,8 +33,15 @@
 3. [界面新闻: 《梦华录》喜茶联名款的流量密码=瑞幸+蜜雪冰城](https://m.jiemian.com/article/7738129.html)
 4. [FoodTalks: 喜茶的“第一次”，是广告收入1.5亿的《梦华录》](https://www.foodtalks.cn/news/32425)
 5. [Morketing Morketing | 从「喜茶」x《梦华录》，看品牌靠“影视IP”怎么做内容复利？](https://mp.weixin.qq.com/s/AYuBw57Jup5FeltoWknTeQ)
+6. [财经无忌 | 拉上甄嬛传，喜茶再破圈，新茶饮们为何集体靠联名续命？](https://www.dachanggongguan.com/article-482415.html)
 
+![](/image/xianxia/xichabaodao1.jpg)
 
+7. [艾普思咨询 | 行业月报 | 2022年06月餐饮舆情监测数据盘点](https://www.ipscg.com/detail-288.html)
+
+![](/image/xianxia/xichabaodao2.jpg)
+
+8. [KgoSocial | 喜茶×梦华录联名卖爆！2022最强IP迎来品牌联名潮，追热点还得看喜茶](https://weibo.com/ttarticle/x/m/show/id/2309404825211899085018)
 
 ## 奈雪的茶
 
@@ -47,11 +54,18 @@
 
 
 
-
 ### 媒体报道
 
 1. [SocialBeta: 奈雪携手梦华录来卖茶](https://socialbeta.com/c/11981)
 2. [新浪财经: 联名《梦华录》斗茶，喜茶、奈雪谁赢了？](https://finance.sina.com.cn/stock/hkstock/ggscyd/2022-07-04/doc-imizirav1820836.shtml)
+
+
+
+* [红星资本局 | 2022年中国新式茶饮研究报告](https://www.thepaper.cn/newsDetail_forward_19179500)
+
+> 茶饮企业跨界联名，举例喜茶，奈雪的茶与影视《梦华录》联名
+
+![](/image/xianxia/hongxing.jpg)
 
 
 ## 十三余

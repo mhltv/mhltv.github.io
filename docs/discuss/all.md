@@ -252,7 +252,7 @@
 * [休克文案 | 我在《梦华录》里学广告](https://mp.weixin.qq.com/s/r2msJQ7hqjJk8hw-lJWpAA)
 * [浮雪点茶品牌号 | 顾千帆没喝到的茶，我先喝到了](https://mp.weixin.qq.com/s/J3zY_bSe6WZzlMKHKivZKQ)
 * [CEO品牌观察 | 《梦华录》带热宋制汉服，这门生意却比电视精彩](https://mp.weixin.qq.com/s/jzyyazM0aodSN5VqovQiKw)
-* [KgoSocial | 喜茶×梦华录联名卖爆！2022最强IP迎来品牌联名潮，追热点还得看喜茶](https://weibo.com/ttarticle/x/m/show/id/2309404825211899085018?_wb_client_=1)
+* [KgoSocial | 喜茶×梦华录联名卖爆！2022最强IP迎来品牌联名潮，追热点还得看喜茶](https://weibo.com/ttarticle/x/m/show/id/2309404825211899085018)
 * [有数DataVision | 疯狂的联名潮，着急的品牌商](https://mp.weixin.qq.com/s/pd809CdMar_dSwypEvHPKA)
 * [有数DataVision | 你的奶茶自由，养活了一群“卖杯子的” | 有IPO](https://mp.weixin.qq.com/s/fK1GR5YcWbIyYiwCUMTKIg)
 * [新商业LAB | 边看《梦华录》，边学盼儿姐如何经营「网红茶馆」](https://mp.weixin.qq.com/s/EKqfs-k9bS5MSA4VzzJj4Q)
