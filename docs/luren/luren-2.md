@@ -9,8 +9,8 @@
 
 
 
-* [豆瓣讨论: 这就是录人](https://www.douban.com/group/topic/269960637/?_i=66364234525d873,6367581pfn22hp&dt_platform=wechat_friends&dt_dapp=1)
-* [豆瓣讨论: 录人作为开创者，请尽来发言](https://www.douban.com/group/topic/276960558/?author=1#sep&_i=6459786Rn8heGv)
+* [豆瓣讨论: 这就是录人](https://www.douban.com/group/topic/269960637)
+* [豆瓣讨论: 录人作为开创者，请尽来发言](https://www.douban.com/group/topic/276960558)
 
 
 
@@ -99,7 +99,7 @@
 ![](/image/lu/creation/baipin1.jpg)
 
 ### 表情包
-![](/image/lu/creation/baipin2.jpg)
+![](/image/lu/creation/baipin2.png)
 
 ### 录人与鹅
 ![](/image/lu/creation/baipin5.jpg)
