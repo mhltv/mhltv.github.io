@@ -46,7 +46,7 @@
 ![](/image/team/role/qun5.jpg)
 [小红书](http://xhslink.com/FKT4Nk)
 
-### 微博: 小泥巴的水色世
+### 微博：小泥巴的水色世界
 
 ![](/image/erchuang/piant/gupan-1.jpg)
 
@@ -54,8 +54,20 @@
 
 地址: [Weibo](https://weibo.com/1655835327?tabtype=home)
 
+### 微博：画画的Fancy
 
-### 微博: 冯婷-绘玩儿
+![](/image/team/role/fancy.jpg)
+
+地址: [Weibo](https://weibo.com/1656684482/Ly88dwcDX)
+
+### 小红书：莎莎Sasally
+
+![](/image/team/role/sa.jpg)
+
+[小红书](http://xhslink.com/BZ5a0k)
+
+
+### 微博：冯婷-绘玩儿
 
 ![](/image/erchuang/piant/gupan-2.jpg)
 
@@ -71,13 +83,16 @@
 其他二创请参考以下链接：
 
 * [小红书 | -YaoYin-](https://www.xiaohongshu.com/user/profile/5ce937a9000000001803f493)
-* [微博 | 八木有鱼](https://weibo.com/3563442005/Lxd2Bu2zG)
+* [小红书 | 王小翘](http://xhslink.com/Ii7a0k)
 * [微博 | 果子狸76](https://weibo.com/2105299935/McHQbnVTR)
 * [小红书 | 爱画画的小Demon](http://xhslink.com/7VQ4Nk)
-* [小红书 | 沐晨治愈水彩(开课中)](http://xhslink.com/zsPPNk)
+* [小红书 | 沐晨治愈水彩](http://xhslink.com/zsPPNk)
 * [小红书 | 小曾](http://xhslink.com/sY0PNk)
 * [小红书 | 夏日小胖](http://xhslink.com/BLWhNk)
 * [小红书 | Sharonchan](http://xhslink.com/escjNk)
 * [小红书 | 二圆](http://xhslink.com/l6MmNk)
 * [小红书 | 春日小羔](https://m.weibo.cn/6691230486/4787154490753583)
 * [小红书 | 大绵羊BOBO](https://m.weibo.cn/1723261380/4779845777359120)
+* [小红书 | 再吃一口鲷鱼烧](http://xhslink.com/N19a0k)
+* [小红书 | 疯疯与婷婷](http://xhslink.com/8I9a0k)
+

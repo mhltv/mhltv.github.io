@@ -1,5 +1,6 @@
 # 各类节目
 
+![](/image/discuss/tv.jpg)
 
 ## 央视节目
 
