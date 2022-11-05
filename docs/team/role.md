@@ -8,7 +8,8 @@
 ![](/image/team/role/chisui.jpg)
 [@持岁](https://weibo.com/6037181039/LuUtIy2z6)
 
-![](/image/team/role/guzhua.jpg
+![](/image/team/role/guzhua.jpg)
+
 [小红书 | 孤爪](http://xhslink.com/sZ2a0k)
 
 ![](/image/team/role/sanjiemei6.jpg)
