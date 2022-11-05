@@ -119,7 +119,7 @@
 
 其他二创请参考以下链接：
 * [小红书 | 绘画的Bobo喵](http://xhslink.com/clv2Pk)
-* [小红书 | 周鱼儿](http://xhslink.com/FTL2Pk)
+* [小红书 | 冰清](http://xhslink.com/Sgjj0k)
 
 ## 三娘
 
