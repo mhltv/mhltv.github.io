@@ -74,6 +74,7 @@
 ### 海报截图
 
 ![](/image/lu/zq-1.webp)
+![](/image/lu/zhongqiu.jpg)
 ![](/image/lu/zq-2.webp)
 ![](/image/lu/zq-3.webp)
 
