@@ -117,6 +117,7 @@
  
 ### 小学茶文化课堂
  [语文备课｜老师爱上《梦华录》给学生讲讲茶文](https://www.xiaohongshu.com/discovery/item/62c18baf0000000001026ecc)
+ 
 ## 仿妆
 
 ### 赵盼儿
@@ -129,16 +130,23 @@
 * [周愚昧 | 【赵盼儿cos |《我在老年公园，仿拍了梦华录》】](https://www.bilibili.com/video/BV1Kf4y1o7dS/)
 * [周愚昧 | 【我仿的3次【赵盼儿】中，哪组最还原？】](https://www.bilibili.com/video/BV1U34y1J7CF/)
 ### 孙三娘
-* [苏苏_suri | 孙三娘仿妆](https://www.douyin.com/video/7117441888621186307)
+[苏苏_suri | 孙三娘仿妆](https://www.douyin.com/video/7117441888621186307)
 ### 张好好
 * [南方都市报 | 张好好仿妆](https://mp.weixin.qq.com/s/zrU7Y7aZ8h4EK-POrAbYvQ)
 * [洛丽塔大哥lolita | 张好好仿妆](https://www.bilibili.com/video/BV1zr4y1g7am)
 ### 宋引章
-* [林允 | 宋引章仿妆](https://www.bilibili.com/video/BV1334y1s7Gc)
+[林允 | 宋引章仿妆](https://www.bilibili.com/video/BV1334y1s7Gc)
+
 ### 簪花仕女图
 * [我是扒皮呀 |1比1复原《簪花仕女图》！视觉盛宴！！](https://www.bilibili.com/video/BV1Pf4y1Z7we)
 * [羁旅者lina | 花月宴簪花仕女妆发教程](https://m.weibo.cn/status/4817694514484658)
 * [周愚昧 | 【簪花仕女图】仿妆 | 想去永安楼应聘“甩手掌柜”~](https://www.bilibili.com/video/BV1gm4y1w7YA/)
+* [小红书 | 糊糊很糊📸](http://xhslink.com/7ZKONk)
+* [小红书 | _橙小意](http://xhslink.com/xvOONk)
+* [小红书 | 荔夏摄影工作室](http://xhslink.com/2wRONk)
+* [小红书 | 造梦空间古风摄影](http://xhslink.com/hpRONk)
+* [小红书 | 美璋汉服](http://xhslink.com/WeTONk)
+* [小红书 | 乔木一](http://xhslink.com/Bare0k)
 
 ## 摄影
 ![](/image/discuss/other/fangzhuang2.png)
