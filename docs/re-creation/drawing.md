@@ -73,7 +73,6 @@
 
 简介: 贵州传播动力文化传媒有限公司 设计总监
 
-地址: [Weibo](https://weibo.com/n/冯婷-绘玩儿)
 地址: [Weibo](https://weibo.com/3174386301/Ly7zhkuvj)
 
 
@@ -85,7 +84,6 @@
 ![](/image/erchuang/piant/dayu.jpg)
 
 地址: [Weibo](https://weibo.com/7632232101/LBa5OtSaA)
-地址: [Weibo](https://weibo.com/7632232101/M7STcbczb)
 
 
 ### 小红书：-YaoYin-
