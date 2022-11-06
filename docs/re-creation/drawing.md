@@ -46,13 +46,6 @@
 ![](/image/team/role/qun5.jpg)
 [小红书](http://xhslink.com/FKT4Nk)
 
-### 微博：小泥巴的水色世界
-
-![](/image/erchuang/piant/gupan-1.jpg)
-
-简介: 爱微藏签约名家
-
-地址: [Weibo](https://weibo.com/1655835327?tabtype=home)
 
 ### 微博：画画的Fancy
 
