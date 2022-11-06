@@ -9,7 +9,7 @@
 * [小红书 | 插画师鹿星河](http://xhslink.com/d04i2k)
 * [小红书 | 插画师鹿星河](http://xhslink.com/Vz4i2k)
 
-![](/image/erchuang/piant/sanjiemei2.jpg)
+![](/image/erchuang/piant/sanjiemei21.jpg)
 * [小红书 | 黄图图](http://xhslink.com/4ZYi2k)
 * [小红书 | 黄图图](http://xhslink.com/S4Yi2k)
 
