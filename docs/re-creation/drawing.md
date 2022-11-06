@@ -83,13 +83,13 @@
 
 ### 小红书：-YaoYin-
 
-(/image/team/role/he2.jpg)
+![](/image/team/role/he2.jpg)
 
 [小红书 | -YaoYin-](https://www.xiaohongshu.com/user/profile/5ce937a9000000001803f493)
 
 ### 小红书：葡萄Q版插画
 
-(/image/team/role/he1.jpg)
+![](/image/team/role/he1.jpg)
 
 [小红书 | 葡萄Q版插画](http://xhslink.com/Nckp0k)
 
