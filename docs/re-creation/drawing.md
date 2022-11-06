@@ -69,16 +69,23 @@
 
 ### 微博：冯婷-绘玩儿
 
-![](/image/erchuang/piant/gupan-2.jpg)
+![](/image/erchuang/piant/fengting.jpg)
 
 简介: 贵州传播动力文化传媒有限公司 设计总监
 
 地址: [Weibo](https://weibo.com/n/冯婷-绘玩儿)
+地址: [Weibo](https://weibo.com/3174386301/Ly7zhkuvj)
 
 
-### 小红书: 大雨DAYU
+### 微博：大雨DAYU-
 
-![](/image/erchuang/piant/gupan-4.jpg)
+![](/image/erchuang/piant/hezhao.jpg)
+地址: [Weibo](https://weibo.com/7632232101/LDmUNmG9r)
+
+![](/image/erchuang/piant/dayu.jpg)
+
+地址: [Weibo](https://weibo.com/7632232101/LBa5OtSaA)
+地址: [Weibo](https://weibo.com/7632232101/M7STcbczb)
 
 
 ### 小红书：-YaoYin-
@@ -92,6 +99,14 @@
 ![](/image/team/role/he1.jpg)
 
 [小红书 | 葡萄Q版插画](http://xhslink.com/Nckp0k)
+
+
+### 微博：蓝澜不落
+
+![](/image/erchuang/piant/wujiemei.jpg)
+
+[微博 | 蓝澜不落](https://weibo.com/2983226011/Md3de9mba)
+
 
 其他二创请参考以下链接：
 
