@@ -42,8 +42,7 @@
 
 
 ## 中秋花月宴
-
-
+![](/image/lu/zhongqiu.jpg)
 ### 筹备团队
 
 赞助人：苏苏、时无、zzz、Rita、七个月了
@@ -72,7 +71,7 @@
 
 
 ### 海报截图
-![](/image/lu/zhongqiu.jpg)
+
 ![](/image/lu/zq-1.webp)
 ![](/image/lu/zq-2.webp)
 ![](/image/lu/zq-3.webp)
