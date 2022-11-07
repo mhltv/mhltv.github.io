@@ -134,6 +134,7 @@
 ### 张好好
 * [南方都市报 | 张好好仿妆](https://mp.weixin.qq.com/s/zrU7Y7aZ8h4EK-POrAbYvQ)
 * [洛丽塔大哥lolita | 张好好仿妆](https://www.bilibili.com/video/BV1zr4y1g7am)
+* [小红书 | 周小渔Zoey](http://xhslink.com/tcCPNk)
 ### 宋引章
 [林允 | 宋引章仿妆](https://www.bilibili.com/video/BV1334y1s7Gc)
 
