@@ -52,14 +52,14 @@
 
 ## 顾盼生辉
 
-![](/image/piant/erchuang/gupan-1.jpg)
+![](/image/erchuang/piant/gupan-1.jpg)
 
 [@小泥巴的水色世界](https://m.weibo.cn/1655835327/4785376683626424)
 
-![](/image/piant/erchuang/gupan-2.jpg)
+![](/image/erchuang/piant/gupan-2.jpg)
 [@冯婷-绘玩儿](https://m.weibo.cn/3174386301/4781322474883821)
 
-![](/image/piant/erchuang/gupan-4.jpg)
+![](/image/erchuang/piant/gupan-4.jpg)
 
 [@大雨DAYU-](https://weibo.com/7632232101/M7STcbczb)
 
@@ -252,7 +252,7 @@
 * [小红书 | 伽利略MsGalileo](http://xhslink.com/aox3Nk)
 * [小红书 | 骨月盈盈（佛系画手）](http://xhslink.com/9j33Nk)
 * [小红书 | 花椒和草蔻](http://xhslink.com/f7T3Nk)
-* [小红书 | 画画的琳一linyi](http://xhslink.com/6CN3Nk)
+* [小红书 | 画画的琳一linyi](http://xhslink.com/paLW2k)
 * [小红书 | 灵-ling](http://xhslink.com/orn3Nk)
 * [小红书 | 木子](http://xhslink.com/wUN3Nk)
 * [小红书 | 千山暮影](http://xhslink.com/o1q3Nk)
@@ -370,7 +370,6 @@
 * [小红书 | 陈公子](http://xhslink.com/3xAPNk)
 * [小红书 | 優月](http://xhslink.com/dmAPNk)
 * [小红书 | eleven](http://xhslink.com/57BPNk)
-* [小红书 | 周小渔Zoey](http://xhslink.com/tcCPNk)
 * [小红书 | 二花Erhua](http://xhslink.com/hwDPNk)
 * [小红书 | 困困](http://xhslink.com/wfEPNk)
 * [小红书 | ave旋](http://xhslink.com/30EPNk)
