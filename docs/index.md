@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /image/data/guanfanghaibao1015.jpg
-tagline: 倾盖如故，白头如新
+tagline: 东京真是富贵迷人眼
 actionText: 进入 →
 actionLink: /discuss/
 features:
