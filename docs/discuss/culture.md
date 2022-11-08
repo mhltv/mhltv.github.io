@@ -129,6 +129,7 @@
 
 ### 广东
 * [广州印象 | 广州第一批影视取景地公布！假如《梦华录》在广州拍摄...](https://mp.weixin.qq.com/s/R-fe3nddb3G4Uprw9nvipg)
+* [容桂发布 | 梦回千年！在容桂get《梦华录》的同款唯美意境](https://mp.weixin.qq.com/s/O7EhGoWbIWVyX2MBZn1lBg)
 * [中山发布 | 《梦华录》同款，中山版美景来了！](https://mp.weixin.qq.com/s/ZFLkbLRor3DaIR6VoqTt6w)
 * [湛江发布 | 和大热网剧《梦华录》惊喜联动的雷州，原来是这样的存在……](https://mp.weixin.qq.com/s/tP1XnK_ZOh7-qg1txATtSA)
 

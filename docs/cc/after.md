@@ -47,7 +47,7 @@
 
 至此，刘亦菲目前有且仅有的4个代言，皆是全球代言！祝贺演员刘亦菲！`“赵娘子 生意不错啊”`
 
-![](/image/discuss/education/daiyantupianhuizong1.jpg)
+![](/image/cc/daiyan.jpg)
 
 
 

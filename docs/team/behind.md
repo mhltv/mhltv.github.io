@@ -28,5 +28,14 @@
 [图片来源](https://m.weibo.cn/7444009370/4831453542357509)
 
 ## 妆造黄薇
+
 * [娱刺儿 | 揭秘《梦华录》美学 | 独家对话造型师](https://mp.weixin.qq.com/s/WCu2RL01TUJL4HGvcXgmdQ)
 * [检票员甲 | 独家| 从《小时代》《梦华录》到赖声川新剧，她凭什么包揽明星高光时刻？](https://mp.weixin.qq.com/s/FieXXkjT46FcbONeJLNOww)
+
+## 顾问 章志峰（非遗茶百戏传承人）
+
+[茶百戏 | 《梦华录》让大家真正认知清水幻变的茶百戏](https://mp.weixin.qq.com/s/H1WDg6IGu6Xi5_W71Ev4aQ)
+
+## 历史顾问 卢冉（《宋宴》作者）
+
+[汝窑与北宋官窑 | 文华专访｜卢冉：用汝窑追寻极致的宋代美。](https://mp.weixin.qq.com/s/CDdIF0ZAVvWz13kvB26sMg)

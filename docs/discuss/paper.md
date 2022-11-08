@@ -10,7 +10,7 @@
 ![](/image/discuss/books/book.png)
 
 * [电视剧同名小说 | 《梦华录》](https://weibo.com/2710305871/LEwbo5wsU)
-
+* [河北省新华书店 | 阅见 | 《梦华录》：读北宋励志故事 展东京绰约风华](https://mp.weixin.qq.com/s/TunVNbvvaMiwrDRJdq0j9w)
 * [报道 | 河北省青少年读书实践活动  | 阅见 | 《梦华录》：读北宋励志故事 展东京绰约风华](https://mp.weixin.qq.com/s/JjWdpRxZzXPFSZPdpnwAqA)
 
 
@@ -82,7 +82,7 @@
 ![](/image/discuss/books/p-3.jpeg)
 
 
-**中国日报 | 刘亦菲陈晓《梦华录》，又甜又虐弘道韩国**
+**中国日报 | 刘亦菲陈晓《梦华录》，又甜又虐红到韩国**
 
 ![](/image/discuss/books/p-7.jpg)
 

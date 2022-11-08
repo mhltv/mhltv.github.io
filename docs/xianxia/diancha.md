@@ -175,3 +175,7 @@
 ### 安徽合肥
 
 [澎湃新闻 | 热播剧带火的点茶有多美？ 合肥茶艺师带你梦回大宋](https://www.thepaper.cn/newsDetail_forward_18546133)
+
+### 陕西省渭南市博物馆
+
+[渭南文旅 | 活动预告 | 看《梦华录》，过“宋潮”七夕](https://mp.weixin.qq.com/s/SVIHHqmjOZSgrR5roHXHqQ)
