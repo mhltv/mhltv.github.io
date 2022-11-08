@@ -105,9 +105,15 @@
 
 [微博 | 蓝澜不落](https://weibo.com/2983226011/Md3de9mba)
 
+### 微博：春日小羔PuppyBao
+
+![](/image/erchuang/piant/xiaogao.jpg)
+
+[微博 | 春日小羔PuppyBao](https://m.weibo.cn/6691230486/4787154490753583)
 
 其他二创请参考以下链接：
 
+* [微博 | 大绵羊BOBO](https://m.weibo.cn/1723261380/4779845777359120)
 * [微博 | 果子狸76](https://weibo.com/2105299935/McHQbnVTR)
 * [小红书 | 王小翘](http://xhslink.com/Ii7a0k)
 * [小红书 | 爱画画的小Demon](http://xhslink.com/7VQ4Nk)
@@ -116,8 +122,6 @@
 * [小红书 | 夏日小胖](http://xhslink.com/BLWhNk)
 * [小红书 | Sharonchan](http://xhslink.com/escjNk)
 * [小红书 | 二圆](http://xhslink.com/l6MmNk)
-* [小红书 | 春日小羔](https://m.weibo.cn/6691230486/4787154490753583)
-* [小红书 | 大绵羊BOBO](https://m.weibo.cn/1723261380/4779845777359120)
 * [小红书 | 再吃一口鲷鱼烧](http://xhslink.com/N19a0k)
 * [小红书 | 疯疯与婷婷](http://xhslink.com/8I9a0k)
 * [小红书 | 周鱼儿](http://xhslink.com/FTL2Pk)
