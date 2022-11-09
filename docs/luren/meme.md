@@ -38,9 +38,9 @@
 
 3、[更多金句](https://weibo.com/2054300185/M82r2rGti)
 
-![](/image/data/hupu2.PNG)
-![](/image/data/hupu3.PNG)
-![](/image/data/hupu4.PNG)
+![](/image/data/hupu2.png)
+![](/image/data/hupu3.png)
+![](/image/data/hupu4.png)
 
 4、[粉丝@SoDingok总结](https://weibo.com/5093282944/M860biIsR)
 
