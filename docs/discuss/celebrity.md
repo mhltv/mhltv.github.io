@@ -434,7 +434,7 @@
 
 > 在追梦华录。看起来果子太好吃了，专门点了糕点，边吃边看。
 
-### 吴瑾言 - 演员 [原文链接](https://weibo.com/5337758780/MdUQOtu37)
+### 吴谨言 - 演员 [原文链接](https://weibo.com/5337758780/MdUQOtu37)
 
 ![](/image/chuquan/mingren/wujinyan.jpg)
 
