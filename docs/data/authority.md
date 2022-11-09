@@ -38,7 +38,6 @@
 
 <img src="/image/data/bangdan-v-bofangliang.png" width="1080">
 
-<img src="/image/data/bangdan-v-dawalishi.jpg" width="1080">
 
 ## 猫眼
 ![](/image/data/maoyan-min.jpg)
