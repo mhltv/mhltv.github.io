@@ -215,6 +215,7 @@ module.exports = {
             'character',
             'highlight',
             'other',
+            'comment',
             're-creation'
           ]
         }
