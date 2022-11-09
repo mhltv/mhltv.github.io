@@ -1,6 +1,10 @@
 # 外国媒体
 
 
+![](/image/discuss/haiwai.jpg)
+
+注: Vogue 特意提到了以 [Mulan](https://movies.disney.com/mulan-2020) 知名的刘亦菲。
+
 ## 英文
 
 
@@ -10,9 +14,6 @@
 * [Liu Yifei’s ‘A Dream Of Splendor’ Watched 500M Times in Mere Days](https://radii.co/article/a-dream-of-splendor)
 
 
-![](/image/discuss/vogue.jpg)
-
-注: Vogue 特意提到了以 [Mulan](https://movies.disney.com/mulan-2020) 知名的刘亦菲。
 
 
 

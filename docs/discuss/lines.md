@@ -17,7 +17,7 @@
 
 
 部分讨论/引用截取:
-
+* [@江苏影视频道 | 富贵迷人眼，情深不堪许。](https://weibo.com/1924697567/MdrdDDi8T)
 * [微博视频 | 都市频道 | #东京梦华录中的巨幅石壁画被发现# ](https://m.weibo.cn/status/4818705173450077?sourceType=weixin&from=10C9595060&wm=9006_2001&featurecode=newtitle)
 * [MINGR明牌珠宝 | 宝萃珍华｜东“金”真是富贵迷人眼](https://mp.weixin.qq.com/s/HU7-2AtdysTI6WpthF_knw)
 * [柏屋舞蹈 | “富贵迷人眼的东京”《梦华录》里，比刘亦菲更好看的，是北宋美学](https://mp.weixin.qq.com/s/fjVUdqHvRSlwZ3DtqKnVPA)
@@ -83,6 +83,7 @@
 * [视频 | 刘亦菲关于女性的访谈：最重要的就是独立和梦想](https://www.bilibili.com/video/BV1Ru411D7mN/?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c)
 
 ## 盼儿其他台词
+
 * [洛阳理工学院：国之鹰犬，民之爪牙。宁蹈血死，不太平生。](https://m.weibo.cn/status/4819396441408790)
 * [中青网文娱：这世上的人就像是三娘做的一口酥一样，表面上看起来都差不多，可是里面有上千层，只有亲自尝过了，才知道里面是什么滋味。](https://m.weibo.cn/status/4803951705195028)
 * [央视网文娱：无论是身在钱塘山畔、还是身在江边里，只要茶汤香凝悠远，便自然会有赏茶之人。](https://m.weibo.cn/status/4787795245928945)
