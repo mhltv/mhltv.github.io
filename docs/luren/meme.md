@@ -31,7 +31,7 @@
 
 ## 虎扑
 
-![](/image/data/hupu1.jpg)
+![](/image/data/hupu.jpg)
 《梦华录》作为女频剧，在虎扑的讨论量断层领先，一起来看看他们怎么说
 ![](/image/data/hupu1.jpg)
 
