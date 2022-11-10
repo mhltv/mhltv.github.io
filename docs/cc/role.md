@@ -2,7 +2,7 @@
 
 [【ipad绘画】学完就能接稿！B站最全零基础入门绘画教程1000集，手把手教学，还学不会，我退出绘画圈了！-哔哩哔哩】](https://b23.tv/DHlFEg8)
 
-![](/image/erchuang/piant/paner.jpg)
+![](/image/cc/piant/paner.jpg)
 
 ## 资源汇总
 
