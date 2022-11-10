@@ -118,6 +118,11 @@
 
 ![](/image/data/aiman.jpg)
 
+## 灯塔专业版
+
+![](/image/data/dengta.jpg)
+**访问链接：**[梦华录收官数据](https://weibo.com/6858267513/LzDIQiFhR)
+
 ## 其他数据
 
 ![](/image/data/tv.jpg)

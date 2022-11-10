@@ -5,14 +5,14 @@
 
 注: Vogue 特意提到了以 [Mulan](https://movies.disney.com/mulan-2020) 知名的刘亦菲。
 
-## 英文
+## 英文报道
 
 
-* [Vogue Business | Menghualu and the ‘new Chinese chic’ trending style](https://www.voguebusiness.com/consumers/menghualu-and-the-new-chinese-chic-trending-style)
-* [JING DAILY | Is Hit C-Drama ‘A Dream of Splendor’ Brands’ Golden Ticket?](https://jingdaily.com/cdrama-dream-of-splendor-collab-heytea-nayuki/)
-* [JING DAILY | China’s Love Of Hanfu Is Here To Stay](https://jingdaily.com/china-hanfu-subculture-guochao/)
-* [Liu Yifei’s ‘A Dream Of Splendor’ Watched 500M Times in Mere Days](https://radii.co/article/a-dream-of-splendor)
-
+* [全球顶级时尚媒体：Vogue Business | Menghualu and the ‘new Chinese chic’ trending style](https://www.voguebusiness.com/consumers/menghualu-and-the-new-chinese-chic-trending-style)
+* [奢侈品行业分析：JING DAILY | Is Hit C-Drama ‘A Dream of Splendor’ Brands’ Golden Ticket?](https://jingdaily.com/cdrama-dream-of-splendor-collab-heytea-nayuki/)
+* [奢侈品行业分析：JING DAILY | China’s Love Of Hanfu Is Here To Stay](https://jingdaily.com/china-hanfu-subculture-guochao/)
+* [全球顶级娱乐媒体：Variety | Rakuten Viki Strikes Content Partnership With China’s Tencent Video (EXCLUSIVE)](https://variety.com/2022/global/news/rakuten-viki-china-tencent-video-1235418135/) `《梦华录》是2022年6月中国观众观看最多的剧集`
+* [RADII | Liu Yifei’s ‘A Dream Of Splendor’ Watched 500M Times in Mere Days](https://radii.co/article/a-dream-of-splendor)
 
 
 
@@ -31,6 +31,7 @@
 
 ## 日本
 
+* [Record China | リウ・イーフェイ主演の時代劇「夢華録」が驚きの高評価、何を意味しているのか](https://www.recordchina.co.jp/b896003-s36-c70-d0202.html) `日本谷歌发布相关报道`
 * [Record China | 大ヒットの中国時代劇ドラマ「夢華録」は広告収入もケタ違い、争奪戦も話題に](https://www.recordchina.co.jp/b896528-s36-c70-d0196.html)
 * [Record China | ラテアートの起源は中国？時代劇ドラマ「夢華録」人気で茶文化に再脚光](https://www.recordchina.co.jp/b896090-s36-c70-d0190.html)
 
@@ -66,3 +67,12 @@
 
 ## 土耳其
 
+>  赵盼儿的角色由刘亦菲饰演。她曾出演过多部大制作作品：和成龙一起主演的《The Forbidden Kindom》（中文：功夫之王）到迪士尼电影： “花木兰”。《梦华录》标志着刘亦菲自2006年播出的电视剧《神雕侠侣》之后，时隔16年重返电视荧屏。
+* [土耳其媒体RHA AJANS | Song kadınlarına odaklanan “Bir İhtişam Rüyası” büyük ilgi çekiyor](https://rhaajans.com/haber/11403268/song-kadinlarina-odaklanan-bir-ihtisam-ruyasi-buyuk-ilgi-cekiyor)
+
+
+* [hibya、gaphaberleri等媒体转载](https://www.gaphaberleri.com/mobil/haber/93504/song-kadinlarina-odaklanan-bir-ihtisam-ruyasi-buyuk-ilgi-cekiyor.html)
+
+
+
+[粉丝总结@天才少女拜可菲_听风拾亦](https://weibo.com/5288723535/LFfzxf2PH)

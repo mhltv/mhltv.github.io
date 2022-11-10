@@ -92,6 +92,7 @@
 * [诗画浙江文旅资讯 | 如果一不小心误入进《梦华录》，该如何游玩？这里是《梦华录》中限定的浙江!](https://mp.weixin.qq.com/s/sGot8pdgRG-uPs5OvUF3eQ)
 * [诗画浙江文旅资讯 | 又挖到6种新玩法！浙里过中秋，三天三夜不重样～](https://mp.weixin.qq.com/s/-09Aob-bwyMfAgW3R6R7yw)
 * [嘉兴文旅发布 | 感受宋韵之美，来家门口的“大系”展看现实版《梦华录》！](https://mp.weixin.qq.com/s/HSY8Kn8lzuhMOXbr0IvT7g)
+* [余杭文旅 | 刘亦菲这段视频刷屏朋友圈！热播古装剧《梦华录》带你品径山茶香](https://mp.weixin.qq.com/s/JPln88W8TFe08nzm8bHQkg)
 
 ### 江苏
 * [苏州姑苏发布 | 🤩未来范儿十足！记得早点来！](https://mp.weixin.qq.com/s/FLa0R17eZwhTUESuABGExA)
@@ -142,11 +143,13 @@
 * [青岛市文化和旅游局 | 我在青岛误入《梦华录》，做了一回“神仙姐姐”！](https://mp.weixin.qq.com/s/_M92X7N39ZZ82xlj916Bfg)
 * [济南文旅发展集团 | 《梦华录》的同款唯美意境，济南也有！](https://mp.weixin.qq.com/s/YrGvwL8Q3datcImRYW-TcQ)
 
+### 河北
+[安国市文化广电和旅游局 | 【文化安国】一部《梦华录》 读懂关汉卿](https://mp.weixin.qq.com/s/42ZqYI57kYYrRdX8L_R1Ow) `河北旅游杂志公众号也有相关发文`
 ### 上海
-* [今日闵行 | 小桥流水、渔舟唱晚……从《梦华录》里，我们挖到了闵行的旧时光](https://mp.weixin.qq.com/s/eK_qMkafuQmJIt-SlR_zSg)
+[今日闵行 | 小桥流水、渔舟唱晚……从《梦华录》里，我们挖到了闵行的旧时光](https://mp.weixin.qq.com/s/eK_qMkafuQmJIt-SlR_zSg)
 
 ### 重庆
-* [重庆旅游CQ | 《重庆旅游》2022年8月新刊｜重庆的宋朝那些事儿](https://mp.weixin.qq.com/s/SLmgoWAX7ZjH_5LizDgUAQ)
+[重庆旅游CQ | 《重庆旅游》2022年8月新刊｜重庆的宋朝那些事儿](https://mp.weixin.qq.com/s/SLmgoWAX7ZjH_5LizDgUAQ)
 
 
 ## 文化场馆
@@ -168,6 +171,8 @@
 * [忻州图书馆 | 【忻州市图书馆】 | 一起去看《梦华录》之外大宋朝的繁花似锦](https://mp.weixin.qq.com/s/9rg36ZTwOhDvf4YSOU6QaQ)
 * [苏州图书馆 | 书里书外 | 阅生活：《梦华录》热播！如果有一次穿越的机会，不如去大宋汴京看看](https://mp.weixin.qq.com/s/t_N_M5zxSelV7Lfzp-Xv-A)
 * [济南图书馆  | 追《梦华录》了？看到“网红济南”影子没](https://mp.weixin.qq.com/s/9AA_WCUTD4TJhChzwwchzg)
+* [宜宾市图书馆 | 【电子图书】《梦华录》爆火，来书中邂逅一千年前的宋朝繁华！](https://mp.weixin.qq.com/s/E8pua5KTzXBp4m4GeFw8Kg)
+* [宜宾市图书馆 | 有声推读 | 一起去看《梦华录》之外大宋朝的繁花似锦](https://mp.weixin.qq.com/s/G7sH_Vo9DvCkBD1tVYrctg)
 * [平陆县图书馆  | 一眼惊鸿，瞥见《梦华录》中的古典风采](https://mp.weixin.qq.com/s/PFg5Y6FIhJU0aCRSZXH8TA) `鲁山县图书馆也有发文`
 
 

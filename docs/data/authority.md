@@ -24,6 +24,8 @@
 * [上观新闻| 哪些文化IP最受关注？《斗罗大陆》《人世间》《梦华录》等上榜](https://www.shobserver.com/news/detail?id=545658)
 * [蓝鲸财经| 2022年新华IP指数报告发布：网络文学占IP综合价值和潜力榜单过半](https://lanjinger.com/d/195411)
 * [36氪| 新华文化产业IP指数报告（2022）：头部IP价值显著改编成功率高](https://36kr.com/newsflashes/1984151347020809)
+* [@国际在线新闻 | 9日，微博运营高级副总裁曹增辉在出席#2022世界互联网大会乌镇峰会##网络传播与和平发展论坛#时谈到梦华录IP](https://weibo.com/2443459455/MefsiaZkm)
+* [吴怼怼 | 从好内容到好生意，IP商业价值如何纵横生长？](https://mp.weixin.qq.com/s/BtXiPbKnFEzxdS6UZPnzUg)
 
 ## Vlinkage
 ![](/image/data/vbang-min.jpg)
@@ -73,8 +75,6 @@
 **访问链接：**[达瓦里氏：2022德塔文数据汇总](https://www.douban.com/group/topic/271608508/?_i=64720494c7ca53f,4721706l1NZefA&dt_dapp=1&dt_platform=com.douban.activity.wechat_friends)
 
 **访问链接：**[风吹落雨：2019-2022年德塔文电视剧景气指数汇总](https://www.douban.com/group/topic/253244516/?_i=647213948d3da01,4721545l1NZefA&dt_dapp=1&dt_platform=com.douban.activity.wechat_friends)
-
-<img src="/image/data/bangdan-datawin-dawalishi.jpg" width="1080">
 
 <img src="/image/data/bangdan-datawin-dandu.jpg" width="1080">
 
