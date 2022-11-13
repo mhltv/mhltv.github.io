@@ -48,7 +48,10 @@
 其他二创请参考以下链接：
 * [小红书 | 稀树](http://xhslink.com/Hxw4Nk)
 * [小红书 | 小张是画渣吖～](http://xhslink.com/CDd5Nk)
+* [小红书 | 可可欢-崽子](http://xhslink.com/gGRubl)
 * [@迦矞](https://m.weibo.cn/5022492528/4777811145132846)
+
+
 
 ## 顾盼生辉
 
@@ -142,6 +145,7 @@
 其他二创请参考以下链接：
 * [小红书 | 绘画的Bobo喵](http://xhslink.com/clv2Pk)
 * [小红书 | 冰清](http://xhslink.com/Sgjj0k)
+* [小红书 | 楠小南](http://xhslink.com/TfEubl)
 
 ## 三娘
 
