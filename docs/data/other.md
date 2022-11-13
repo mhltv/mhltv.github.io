@@ -6,15 +6,7 @@
 
 **访问链接：**[2022年度第六批重点作品版权保护预警名单](https://baike.baidu.com/item/2022%E5%B9%B4%E5%BA%A6%E7%AC%AC%E5%85%AD%E6%89%B9%E9%87%8D%E7%82%B9%E4%BD%9C%E5%93%81%E7%89%88%E6%9D%83%E4%BF%9D%E6%8A%A4%E9%A2%84%E8%AD%A6%E5%90%8D%E5%8D%95/62078378?fr=aladdin)
 
-## 收视中国
 
-古装女性励志剧《梦华录》跻身小屏视听不同指标的头部行列。日均用户规模588万人，第四名；`每观众观看时长86.8分钟，第一名`。综合日均视听时长344万小时，第二名，仅次于《人世间》，其中`女性日均视听时长第一名`，`15-34岁观众日均视听时长第一名`。
-
-**访问链接：**[收视中国：2022上半年小屏视听剧目榜，《梦华录》跻身小屏视听不同指标的头部行列](https://mp.weixin.qq.com/s/zAQxocweYchWJMRx_7_kgw)
-
-<img src="/image/data/other-shitingzhongguo1.jpg" width="1080">
-
-<img src="/image/data/other-shitingzhongguo.jpg" width="1080">
 
 ## 红星观察
 
