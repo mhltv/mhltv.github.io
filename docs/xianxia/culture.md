@@ -41,6 +41,10 @@
 
 链接: [厦门市图书馆公众号:点茶？拉花？从宋代就开始流行了！](https://mp.weixin.qq.com/s/EM1YJLpTq_gO1LWogiTlaw)
 
+### 研究型思维看梦华录
+
+链接: [ 温州商学院图书馆 | 讲座回顾｜以研究型思维看《梦华录》](https://mp.weixin.qq.com/s/oavGCvzmfEQik4qkoOVt3w)
+
 
 ### 现代汉服大讲坛 
 
