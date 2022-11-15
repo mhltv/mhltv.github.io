@@ -21,6 +21,12 @@
 
 <img src="/image/data/jues.Jpg" width="1080">
 
+> 2022年8月24日网剧播放指数榜发布，《梦华录》仍在榜，作为爆剧，长尾效应更是不用说。
+
+[@Vlinkage](https://weibo.com/2041291667/M2Dqm25Xq)
+
+<img src="/image/data/0824.Jpg" width="1080">
+
 ## 猫眼
 ![](/image/data/maoyan-min.jpg)
 
@@ -46,6 +52,10 @@
 <img src="/image/data/bangdan-maoyan-bannian2.jpg" width="1080">
 
 <img src="/image/data/bangdan-maoyan-bannian3.jpg" width="1080">
+
+> 猫眼角色热度榜周榜，《梦华录》中的赵盼儿从开播到第36周（9月5日-9月11日）仍在榜。
+
+<img src="/image/data/mao.jpg" width="1080">
 
 ## 德塔文
 ![](/image/data/detawen-min.jpg)
