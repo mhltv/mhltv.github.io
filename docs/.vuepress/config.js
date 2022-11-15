@@ -229,6 +229,7 @@ module.exports = {
             'tea',
             'nature',
             'history',
+            'dress',
             'officials',
             'law',
             'economics',
