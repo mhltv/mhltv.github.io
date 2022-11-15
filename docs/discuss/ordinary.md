@@ -34,11 +34,31 @@
 
 ## 游戏
 
+### 奔跑的富贵号&浪漫庄园&我是大东家
+
 ![](/image/discuss/other/youxi2.png)
-* [摩尔庄园 | 写实还原梦华录中的赵氏茶坊](http://xhslink.com/ftFRhk)
-* [原神 | 梦华录同款尘歌壶](http://xhslink.com/zh8qkk)
-* [江南百景图 | @春雾绿橘酒 仿梦华录场景](https://m.weibo.cn/6558660872/4827462103993383)
+
+### 摩尔庄园
+
+[摩尔庄园 | 写实还原梦华录中的赵氏茶坊](http://xhslink.com/ftFRhk)
+
+### 原神
+[月是故乡明 | 梦华录同款尘歌壶](http://xhslink.com/zh8qkk)
+
+### 江南百景图 
 ![](/image/discuss/other/jiangnan2.jpg)
+
+[@春雾绿橘酒 | 仿梦华录场景](https://m.weibo.cn/6558660872/4827462103993383)
+
+### 模拟人生4
+* [小红书 | 一口波 | 《梦华录》中的东京小院](http://xhslink.com/Bwbtbl)
+* [小红书 | 三方方方](http://xhslink.com/n5utbl)
+
+### 动物之森
+* [bilibili | 殿下的后花园 | 建《梦华录》永安楼](https://b23.tv/oUCSShm)
+* [bilibili | 殿下的后花园 | 《梦华录》赵氏茶铺复刻](https://b23.tv/jaR9Bza)
+* [bilibili | 殿下的后花园 | 古风运河夜市~梦华录最美场景复刻](https://b23.tv/2AFkEUS)
+
 
 
 ## 广告营销

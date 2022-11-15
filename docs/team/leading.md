@@ -31,9 +31,10 @@
 
 ### 采访
 
-> 目前收录采访24篇
+> 目前收录采访25篇
 
 * [环球时报20220608 | 创业“姐妹团”以友情为基础，女子贵自立](https://weibo.com/7442413095/LwJZiBNQ7)
+* [封面会客厅｜《梦华录》“拼命三娘”柳岩：这个角色不需要美 拼命和努力是顺理成章的](https://article.xuexi.cn/articles/index.html?art_id=3195355974672897262&item_id=3195355974672897262&study_style_id=feeds_opaque&t=1655366826330&showmenu=false&ref_read_id=f1b840c6-19c0-49a5-88bc-64a798342cf4&pid=&ptype=-1&source=share&share_to=wx_single)
 * [新浪娱乐20220609 | 柳岩采访](https://video.h5.weibo.cn/1034:4778505557442658/4778508808884996)
 * [腾讯娱乐20220610 | 漂流评 捡评人](https://weibo.com/3182423937/Lx2Bb0Taq)
 * [鹅剧有料20220611 | 《梦华录》柳岩片场吃泡面，想和盼儿谈恋爱（顾大人：嗯？）](https://video.weibo.com/show?fid=1034:4779193251332190)
@@ -89,6 +90,7 @@
 
 ### 报道
 
+* [韩火火 | 林允 | 做一个从未做过的美梦](https://mp.weixin.qq.com/s/D7twxBQNFuwJE55XxwkeZQ)
 * [瑞丽服饰美容 | 林允丨一路前行，步履轻快](https://mp.weixin.qq.com/s/-8arRbkPv0syu1ap4Ei85w)
 
 ### 商务

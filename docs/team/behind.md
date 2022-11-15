@@ -38,4 +38,5 @@
 
 ## 历史顾问 卢冉（《宋宴》作者）
 
-[汝窑与北宋官窑 | 文华专访｜卢冉：用汝窑追寻极致的宋代美。](https://mp.weixin.qq.com/s/CDdIF0ZAVvWz13kvB26sMg)
+* [刘亦菲《梦华录》带火“茶百戏” 历史顾问卢冉：其实这是历史悬案](https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051019f419f2d9681f463e9fb286d6fee0ee6d&to_app=hwbrowser&dy_scenario=recomm&tn=127790cfcfd7a2c04f6e8befd00925728ef1b8ca17245685db2560dd92129600&share_to=weixin&channel=HW_ENTERTAINMENT&ctype=news&appid=hwbrowser&cpid=666&r=CN)
+* [汝窑与北宋官窑 | 文华专访｜卢冉：用汝窑追寻极致的宋代美。](https://mp.weixin.qq.com/s/CDdIF0ZAVvWz13kvB26sMg)

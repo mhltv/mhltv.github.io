@@ -82,4 +82,6 @@
 * [@八木有鱼](https://weibo.com/3563442005/Lxd2Bu2zG)
 * [彤努力](https://b23.tv/8WVxTLx)
 * [画手：缌](https://weibo.com/1996794453/M9xT3blB4)
+* [楠小南](http://xhslink.com/0aCubl)
+* [楠小南](http://xhslink.com/jqGubl)
 
