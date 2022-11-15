@@ -48,6 +48,10 @@
 * [汉服世代 | 讲座回顾 | 从《梦华录》和中国古画看宋代百工服饰](https://mp.weixin.qq.com/s?__biz=MzIxMTY5ODMzMw==&mid=2247519264&idx=1&sn=64a2a5470fea82a1e24bd4896875076c&chksm=97539bd2a02412c4c2d08812ef02439d8ce9308d1c88c0ccf0e02bcd5552a0e4664ae9b8a3a5&cur_album_id=2442988780870500358&scene=189#wechat_redirect)
 
 
+### 《浮世の梦》
+
+[@浮世之梦官方账号 | 《梦华录》中的宋代点茶与日本抹茶道的梦幻联动](https://weibo.com/7716207243/LDhfqbtf4)
+
 ### 从《梦华录》中探究宋代点茶
 
 ![](/image/xianxi/talk-2.jpg)
