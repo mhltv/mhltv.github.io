@@ -1,4 +1,4 @@
-# 重点指数
+# 社区指数
 
 ## 百度
 
@@ -20,7 +20,7 @@
 
 ## 豆瓣
 
-梦华录评分人数`历史第六`，2022年第二，开分8.3，最高8.8，目前稳定至8分，专组巅峰期`14.4`万人，`8.3万+`讨论帖，讨论量`影视剧TOP 1`。仅用10天评分人数破40万，是用时最短的剧集。
+梦华录评分人数`历史第六`，2022年第二，开分8.3，最高8.8，目前稳定至8分，专组巅峰期`14.4`万人，`8.5万+`讨论帖，讨论量`影视剧TOP 1`。仅用10天评分人数破40万，是用时最短的剧集。
 
 **访问链接：**[达瓦里氏：2022年剧集豆瓣评分](https://www.douban.com/group/topic/273535851/?_i=655009088d3da01,5500940o1hJm4R&dt_dapp=1&dt_platform=com.douban.activity.wechat_friends)
 
@@ -57,3 +57,10 @@
 **访问链接：**[剧播期间小红书笔记数量统计](https://www.douban.com/group/topic/271083441/?_i=656701598d3da01,5671857o1hJm4R&dt_dapp=1&dt_platform=com.douban.activity.wechat_friends)
 
 <img src="/image/data/xiaohongshu.jpg" width="1080">
+
+
+## 虎扑
+
+> 2022-2022女频的破圈层度排行，梦华录断层领先（来源：豆瓣用户）
+
+![](/image/data/hupu.jpg)

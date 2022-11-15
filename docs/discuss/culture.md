@@ -50,6 +50,7 @@
 * [山东理工大学文学与新闻传播学院 | “趣”国学|《梦华录》——舞乐篇](https://mp.weixin.qq.com/s/TU9QT5IxOgKqjedwyq9kGg)
 * [河南大学 | 来！来！来！为《梦华》打call~~~](https://mp.weixin.qq.com/s/6D_yQfV54N5hZ4jeMlZQ-Q)
 * [西南政法大学 | 吃茶去！](https://mp.weixin.qq.com/s/sIJtZhCa416a_KGIHlLTvw)
+* [中南大艺术圈 | 惊鸿一瞥 梦华录中品琵琶意蕴](https://mp.weixin.qq.com/s/hP2N33oOXupBFwVxwshbvg)
 
 
 
