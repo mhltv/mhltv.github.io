@@ -31,10 +31,9 @@
 
 ### 采访
 
-> 目前收录采访25篇
+> 目前收录采访23篇
 
 * [环球时报20220608 | 创业“姐妹团”以友情为基础，女子贵自立](https://weibo.com/7442413095/LwJZiBNQ7)
-* [封面会客厅｜《梦华录》“拼命三娘”柳岩：这个角色不需要美 拼命和努力是顺理成章的](https://article.xuexi.cn/articles/index.html?art_id=3195355974672897262&item_id=3195355974672897262&study_style_id=feeds_opaque&t=1655366826330&showmenu=false&ref_read_id=f1b840c6-19c0-49a5-88bc-64a798342cf4&pid=&ptype=-1&source=share&share_to=wx_single)
 * [新浪娱乐20220609 | 柳岩采访](https://video.h5.weibo.cn/1034:4778505557442658/4778508808884996)
 * [腾讯娱乐20220610 | 漂流评 捡评人](https://weibo.com/3182423937/Lx2Bb0Taq)
 * [鹅剧有料20220611 | 《梦华录》柳岩片场吃泡面，想和盼儿谈恋爱（顾大人：嗯？）](https://video.weibo.com/show?fid=1034:4779193251332190)
@@ -50,7 +49,6 @@
 * [超级星饭团APP专访20220622 | #柳岩 剧红人一定会红# ](https://weibo.com/5590124843/LySue2CbE)
 * [1905电影网独家专访20220624 | 剧情](https://weibo.com/1635270132/LzbUAjIc9)
 * [文娱春秋采访20220624](https://new.qq.com/rain/a/20220624A07YR500)
-* [博客天下20220627 | 《梦华录》改变了柳岩什么？](https://mp.weixin.qq.com/s/5Bna3kiFvYin1m6yFHSEFQ)
 * [视相Variety0627| 专访演员 柳岩](https://m.weibo.cn/status/4785073889215469?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)
 * [网易娱乐采访20220705](https://video.weibo.com/show?fid=1034:4787938320646181)
 * [中国新闻网20220707 | 有聊｜柳岩：曾赤脚奔跑在北京街头的“拼命三娘”](https://www.chinanews.com.cn/cul/2022/07-07/9798072.shtml)
@@ -74,6 +72,7 @@
 * [代言 | 《永恒联盟》手游](https://m.weibo.cn/5164994330/4809313871201714)
 * [直播 | 支付宝【生活 】频道]( https://m.weibo.cn/1644461042/4792537128109504)
 * [推广 | 倩碧1870紫光面霜](https://m.weibo.cn/1689210504/4800863871437409)
+* [分享官 | 松下精选分享官柳岩](https://weibo.com/5164994330/M2ExSANZS)
 * [明星谈话类节目 | 《第一talk秀》第二期“女性的力量”专场](https://video.weibo.com/show?fid=1034:4785995204460553)
 * [综艺 | 腾讯视频 《是很熟的味道呀》 | 第四期：柳岩讲刘亦菲片场摔倒趣事](https://m.v.qq.com/x/m/play?vid=j0043hbfdyj&cid=mzc0020055dn33d&url_from=share&second_share=0&share_from=copy)
 * [综艺 | 浙江卫视+腾讯视频《听说很好吃 第2季》 | 第3期：柳岩舞台再现《梦华录》](https://v.qq.com/x/cover/mzc00200uraragr/l00442vcry7.html)
