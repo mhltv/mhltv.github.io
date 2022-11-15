@@ -127,6 +127,7 @@ module.exports = {
             'authority',
             'honor',
             'important',
+            'community',
             'business',
             'other'
           ]
