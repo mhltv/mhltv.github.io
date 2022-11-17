@@ -187,6 +187,9 @@
 
 [广东省博物馆 | 【博物馆之夜】何以消夏，来粤博享宋韵风雅！](https://mp.weixin.qq.com/s/BGpMRfaBivk3Tfh7dQrfyw)
 
+### 广西点茶体验
+[柳州汉源 | 梦华录 | 宋代点茶+斗茶，我们准备好了～](https://mp.weixin.qq.com/s/_mHqv4a83XET-zXAewpLYw)
+
 ### 博主体验点茶
 
 [主厨广坦 | 原来茶也能打发？今天邀请大家和我这个法国人一起解锁宋代点茶，挑战在茶上写书法的神奇技艺！](https://b23.tv/65IJhS6)
