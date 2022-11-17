@@ -91,7 +91,7 @@
 
 * [韩火火 | 林允 | 做一个从未做过的美梦](https://mp.weixin.qq.com/s/D7twxBQNFuwJE55XxwkeZQ)
 * [瑞丽服饰美容 | 林允丨一路前行，步履轻快](https://mp.weixin.qq.com/s/-8arRbkPv0syu1ap4Ei85w)
-
+* [SEASONmagazine | 挥杆的快乐，被林允拿捏了！](https://mp.weixin.qq.com/s/NRRacuoqyPniJNR9Fc-xoQ)
 ### 商务
 
 * [美颜相机 x 林允 | 同款宋引章妆容](https://m.weibo.cn/2934128200/4783461695750195)
