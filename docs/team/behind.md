@@ -36,6 +36,15 @@
 
 [茶百戏 | 《梦华录》让大家真正认知清水幻变的茶百戏](https://mp.weixin.qq.com/s/H1WDg6IGu6Xi5_W71Ev4aQ)
 
+2022年11月15日，茶百戏传承人章志峰发文称：
+
+> 梦华录火爆茶百戏受到联合国粮农专家关注
+> 
+>联合国粮农组织农业文化遗产（ GIAHS ）科学委员会委员、农业文化遗产科学咨询小组副主席李先德研究员亲临中华茶百戏研究院考察茶百戏。茶百戏传承人章志峰介绍并展示茶百戏，茶百戏清水幻变图案的灵魂一直倍受各界关注。
+
+
+[小红书 | 茶百戏](http://xhslink.com/aoadil)
+
 ## 历史顾问 卢冉（《宋宴》作者）
 
 * [刘亦菲《梦华录》带火“茶百戏” 历史顾问卢冉：其实这是历史悬案](https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051019f419f2d9681f463e9fb286d6fee0ee6d&to_app=hwbrowser&dy_scenario=recomm&tn=127790cfcfd7a2c04f6e8befd00925728ef1b8ca17245685db2560dd92129600&share_to=weixin&channel=HW_ENTERTAINMENT&ctype=news&appid=hwbrowser&cpid=666&r=CN)
