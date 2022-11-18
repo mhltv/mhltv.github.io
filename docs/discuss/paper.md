@@ -12,6 +12,7 @@
 * [电视剧同名小说 | 《梦华录》](https://weibo.com/2710305871/LEwbo5wsU)
 * [河北省新华书店 | 阅见 | 《梦华录》：读北宋励志故事 展东京绰约风华](https://mp.weixin.qq.com/s/TunVNbvvaMiwrDRJdq0j9w)
 * [报道 | 河北省青少年读书实践活动  | 阅见 | 《梦华录》：读北宋励志故事 展东京绰约风华](https://mp.weixin.qq.com/s/JjWdpRxZzXPFSZPdpnwAqA)
+* [探照灯好书 | 探照灯好书10月十大中外类型小说发布](https://mp.weixin.qq.com/s/Out2JEAGiKhOCpeNfSme4Q)
 
 
 ### 《东京梦华录》
