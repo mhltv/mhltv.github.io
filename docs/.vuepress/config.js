@@ -129,7 +129,8 @@ module.exports = {
             'important',
             'community',
             'business',
-            'other'
+            'other',
+            'platform'
           ]
         }
       ],
