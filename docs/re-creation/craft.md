@@ -119,3 +119,4 @@
 
 * [周KayK | 有手就可｜梦华录 改造古风小扇子挂件](https://www.bilibili.com/video/BV1or4y177Ku/?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c)
 * [南篱不消停 | 用鱼缸做《梦华录》里的荷花灯？](https://www.bilibili.com/video/BV1AW4y127Zg/?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c)
+* [阿卡手工 | 刘亦菲演绎的宋代美学，我教你！](https://mp.weixin.qq.com/s/sESECt8vknCNTJ9Pn_CupA)
