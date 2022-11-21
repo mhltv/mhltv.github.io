@@ -233,6 +233,7 @@ module.exports = {
             'nature',
             'history',
             'dress',
+            'painting',
             'officials',
             'law',
             'economics',
