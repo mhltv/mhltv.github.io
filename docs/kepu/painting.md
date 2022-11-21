@@ -7,7 +7,7 @@
 
 《梦华录》中，花月宴上演绎了此画。
 
-![](/image/kepu/piant/zhsnt.jpg)
+![](/image/kepu/paint/zhsnt.jpg)
 
 创作者: 周昉
 
@@ -28,3 +28,29 @@
 * [新民周刊 |《簪花仕女图》—— 唐代宫廷贵妇图鉴](https://m.xinminweekly.com.cn/content/12685.html)
 * [知网论文 | 关于《簪花仕女图》年代争论综述](https://www.cnki.com.cn/Article/CJFDTOTAL-SHUH200403009.htm)
 
+
+## 捣练图
+
+《梦华录》中花月宴里演绎了此画。
+
+![](/image/kepu/paint/dlt.jpg)
+
+创作者: 张萱
+
+朝代: 唐代
+
+现藏: 波士顿美术博物馆
+
+材质: 绢本设色
+
+> 画作原为圆明园旧藏，1860年“火烧圆明园”事件后流失海外，1912年由当时美国波士顿美术馆东方部部长冈苍天心购入该馆。
+
+> 《捣练图》卷表现的是宫中妇女捣练缝衣的场面。画面上十二个人物形象，大致可分为四段，表现了捣练、缝制、熨烫三道工序。有趣的是，看起来像是对妇女劳作客观反映的捣练图，其作用却不是教导宫中妇女应该如何劳作，而是表达贵族妇女的闺怨之情。在张萱之前该题材模式化的构图已经出现，即分为多个场景的对称式构图。然而张萱却能更胜一筹，画家为了避免对称引起的格局呆板，增加了些许细节打破这种对称，如第二组的两人一高一低的对坐；第三组出现的女孩和煽火者，再加上张萱对仕女的精到把握，同等题材的艺术水准便高下立现了。
+
+摘自: [Google艺术与文化 | 捣练图](https://artsandculture.google.com/asset/court-ladies-preparing-newly-woven-silk-zhang-xuan/FgHUyRfjbIIXAg?hl=zh-cn)
+
+延伸阅读:
+* [书格 | 捣练图](https://www.shuge.org/ebook/dao-lian-tu/)
+* [故宫历史网 | 《捣练图》赏析](https://www.gugong.net/wenhua/30903.html)
+* [新浪收藏 | 《捣练图》暗藏的两道玄机](http://collection.sina.com.cn/dfz/henan/sh/2016-11-12/doc-ifxxsmif2857480.shtml)
+* [国图空间 | 张萱《捣练图》](http://www.nlc.cn/newgtkj/shjs/201204/t20120409_61026.htm)
