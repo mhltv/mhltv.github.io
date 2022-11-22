@@ -229,6 +229,7 @@ module.exports = {
           title: '科普',
           collapsable: false,
           children: [
+            'all',
             'tea',
             'nature',
             'history',

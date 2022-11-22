@@ -29,3 +29,4 @@
 * [吴钩老师的显微镜看剧](https://www.douban.com/group/topic/269744395/?_i=6512449Rn8heGv)
 * [还有谁没看过这个up的视频！逐帧分析的！显微镜成精！我要吹爆！！！](https://www.douban.com/group/topic/268361248/?_i=6512497Rn8heGv): 顾盼感情线分析
 * [永远被这个剧的细腻感动，打架前后路人的反应都不一样](https://www.douban.com/group/topic/269011637/?_i=6512562Rn8heGv)
+* [三刷，发现剧中制作了两套通敌文书！](https://www.douban.com/group/topic/278106471/?_i=677496507e57944,9085140mnyZKKV&dt_platform=wechat_friends&dt_dapp=1)
