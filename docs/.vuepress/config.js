@@ -125,12 +125,12 @@ module.exports = {
             '',
             'official',
             'authority',
-            'honor',
+            'awards',
             'important',
             'community',
             'business',
             'other',
-            'platform'
+            'channel'
           ]
         }
       ],
@@ -165,6 +165,7 @@ module.exports = {
             'observe',
             'cute',
             'creation',
+            'food',
             'meme',
             'flower',
             'activity',
@@ -229,6 +230,7 @@ module.exports = {
           title: '科普',
           collapsable: false,
           children: [
+            'all',
             'tea',
             'nature',
             'history',

@@ -12,7 +12,7 @@
 ## 缺德录人
 
 
-
+* [发现吕五看了三眼这封信](https://www.douban.com/group/topic/269558658/?_i=674654022884927,9083976mnyZKKV&dt_platform=wechat_friends&dt_dapp=1)
 * [显微镜看剧之抱着盼儿的周舍出戏](https://www.douban.com/group/topic/271290014/?_i=6511766Rn8heGv)
 * [显微镜看剧，这里是小顾被咯吱到了还是盼儿力气太大直接撸起来了 ](https://www.douban.com/group/topic/270673002/?_i=6511901Rn8heGv)
 * [显微镜看剧，我要被路人大哥笑死！](https://www.douban.com/group/topic/268936944/?_i=6511967Rn8heGv)
@@ -29,3 +29,4 @@
 * [吴钩老师的显微镜看剧](https://www.douban.com/group/topic/269744395/?_i=6512449Rn8heGv)
 * [还有谁没看过这个up的视频！逐帧分析的！显微镜成精！我要吹爆！！！](https://www.douban.com/group/topic/268361248/?_i=6512497Rn8heGv): 顾盼感情线分析
 * [永远被这个剧的细腻感动，打架前后路人的反应都不一样](https://www.douban.com/group/topic/269011637/?_i=6512562Rn8heGv)
+* [三刷，发现剧中制作了两套通敌文书！](https://www.douban.com/group/topic/278106471/?_i=677496507e57944,9085140mnyZKKV&dt_platform=wechat_friends&dt_dapp=1)
