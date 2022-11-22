@@ -428,7 +428,7 @@
 ### 不同舞蹈版
 
 #### 古典舞编舞 
-
+* [【宾大中国舞社】《梦华录-不惜时光》翻跳](https://www.bilibili.com/video/BV1XD4y1x7W8/?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c): 普林斯顿中秋晚会演出
 * [手如柔荑，肤如凝脂 原来这就是清冷美人 【紫颜】【不惜时光 原创编舞】](https://www.bilibili.com/video/BV1KY4y1M7Ei/?is_story_h5=false&p=1&share_from=ugc&share_medium=android&share_plat=android&share_session_id=c3c002b3-02bd-406a-9df4-eefe7970778a&share_source=WEIXIN&share_tag=s_i&timestamp=1665920205&unique_k=IyRDyok&vd_source=b26625da23e4e975626bfc502c6ed382)
 * [-良辰美景与君同 最是迷人半遮面 - 【梦华录-不惜时光】【原创编舞】](https://www.bilibili.com/video/BV1o3411w7U1/?is_story_h5=false&p=1&share_from=ugc&share_medium=android&share_plat=android&share_session_id=29f6e673-c13f-4d9d-b610-3e797a88e563&share_source=WEIXIN&share_tag=s_i&timestamp=1665920230&unique_k=LgL2MfP&vd_source=b26625da23e4e975626bfc502c6ed382)
 * [冬日的海风也很温柔#梦华录 #不惜时光](https://v.douyin.com/Y46RXea/)

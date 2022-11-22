@@ -125,12 +125,12 @@ module.exports = {
             '',
             'official',
             'authority',
-            'honor',
+            'awards',
             'important',
             'community',
             'business',
             'other',
-            'platform'
+            'channel'
           ]
         }
       ],
