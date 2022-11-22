@@ -165,6 +165,7 @@ module.exports = {
             'observe',
             'cute',
             'creation',
+            'food',
             'meme',
             'flower',
             'activity',
