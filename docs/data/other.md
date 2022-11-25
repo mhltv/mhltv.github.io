@@ -39,42 +39,6 @@
 
 <img src="/image/data/other-douyinmeizhuangtop.jpg" width="1080">
 
-
-## Netflix
-
-2022年7月1日，Netflix 网飞台湾地区上线《梦华录》，上线两天升至剧集第四位，七月剧集榜单排名`第二`，八月第三。
-
-**访问链接：**[周漾玥：梦华录网飞（台湾区）成绩](https://www.douban.com/group/topic/274153413/?_i=657565348d3da01,5756972o1hJm4R&dt_dapp=1&dt_platform=com.douban.activity.wechat_friends)
-
-<img src="/image/data/other-Netflix.webp" width="1080">
-
-## WeTv 腾讯视频海外版
-
-今年暑期爆款古装作品《梦华录》在国内外掀动一股国风潮流，在腾讯视频海外版WeTv上映，出海韩国、马来西亚、日本等国，在国内外一致收获高分好评，在海外IMDb平台获得7.3分。2022年6月份位列`全球榜单第二位`。
-
-**访问链接：**[古装剧出圈走红，国剧出海如何讲述中国故事](https://www.163.com/dy/article/HDQ445SM0517D4E0.html#)
-
-<img src="/image/data/other-wetv.jpg" width="1080">
-
-## TVB
-
-`近年最美的高分古裝劇`《夢華錄》9月5日上線TVB翡翠台，主演：劉亦菲、陳曉、柳岩、林允。星期一至星期五晚八點半翡翠台熱播期间，香港觀眾都稱讚［兩位主演演技不錯，有追下去的慾望］兩位在劇中的扮相都吸引不少觀眾追劇 。mytv super排名持续上升中，9月21日升至`第三位`。TVB 全剧平均最高收视19.7点，在今年（截至10月17日）已播放完毕的20套剧集中排名第七。
-
-| 集数  | 最高收视 | 观看人数 |
-| --- | --- | --- |
-| 1-5 | 20.3 | 约132万 |
-| 6-10 | 20.1 | 约131万 |
-| 11-15 | 19.3 | 约125万 |
-| 16-20 | 19.3 | 约125万 |
-| 21-25 | 19.4 | 约126万 |
-| 26-30 | 19.8 | 约129万 |
-
-**访问链接：**[拾壹：mytv super排名](https://www.douban.com/group/topic/274535015/?_i=6558446321c3716,5756382o1hJm4R&dt_dapp=1&dt_platform=com.douban.activity.wechat_friends)
-
-<img src="/image/data/other-tvbxuanchuan.jpg" width="1080">
-
-<img src="/image/data/other-mytvsuper.webp" width="1080">
-
 ## 弹幕爬虫
 
 一位录人朋友于7月28日14点30左右爬取《梦华录》全量弹幕数据，预估梦华录总弹幕数量1520w+，展示弹幕数量近220w，展示弹幕点赞量（互动量）1.65亿+。
@@ -97,6 +61,8 @@
 
 > 第21~30集top200高赞弹幕
 
+
+另有微博网友在《梦华录》上星之际整理了分集的弹幕数据，可移步查看: [披星戴月的追梦人 | 制作了录子在鹅平台每集所有前端可见的弹幕词云](https://weibo.com/detail/4838680411767218)
 
 
 ## 艾漫数据
