@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方/知名媒体 `116`个，文章/微博/公众号条目`218`篇。
+本文共收录 权威/官方/知名媒体 `117`个，文章/微博/公众号条目`220`篇。
 
 ## 央媒党媒
 
@@ -104,6 +104,13 @@
 
 * [港媒：汉服，不再只是文化和情怀](https://oversea.huanqiu.com/article/494HlXRTCft)
 * [环球时报 （Global Times）：New series ‘A Dream of Splendor’ shows links between ancient and modern times](https://www.globaltimes.cn/page/202206/1267599.shtml)
+
+2022-11-24:
+
+> In June, HEYTEA, a popular beverage chain headquartered in Guangdong, launched a new product that was inspired by and named after "A Dream of Splendor," a smash hit TV drama. The drink flew off the shelves and set a record sales volume of 300,000 cups nationwide in a day.
+
+* [Global Times | Boom of new tea beverages](https://www.globaltimes.cn/page/202211/1280402.shtml)
+
 
 ### 法治日报
 

@@ -30,6 +30,7 @@
 
 ## 期刊
 
+
 * [艺术评论 | 古代艺术资源在当代影视中的转化与发展路径——从《梦华录》对《救风尘》的改编谈起](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YSPL202208007&uniplatform=NZKPT&v=OFr_vQtIv8b5H5eerOSHpT1kXYry0930J1YXRLUEOJdkTGODqFGxpBM3oexU3nKB):`作者：任刚`
 * [青春岁月 | 追梦华录，游开封城](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLASN2022&filename=QCSY202212006&uniplatform=NZKPT&v=nU6GH3YHIbofFKCk_KgcID9t-yyc9jACYZlbZPJ45mR77pN_W-wgSrSL6cogV2mX):`作者：罗玉姗`
 * [中学生博览 | 《梦华录》的正确打开方式：一起穿越千年去读古典小说吧！](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTN&filename=BLZX202223011&uniplatform=NZKPT&v=6wod49jjmcQve039OcRDoC8TUiJu87ZhfLeWrChCRhIy_hUk-17od9GuCQodZtOw):`作者：林羽安`
@@ -39,3 +40,17 @@
 * [出版人 | 浮世绘](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLASN2022&filename=CBRY202207046&uniplatform=NZKPT&v=HA8LSIzxCEe7ia3dUqSWgd94CPfEbDqQhJRlpVrmRLXYtkeWkpvcoZMqvuSPsAfS)
 * [山西老年 | 《梦华录》中的“苏合郁金酒”是保健酒](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTN&filename=SXLN202210012&uniplatform=NZKPT&v=r_y_uAZimUp-sSY0J2E7n2GDaaBVJCYn-UpwNFelyP-_7WO-KMuLoWSQSq13RwLL):`作者：郑学富`
 
+
+## 知网文化
+> 知网文化是中国知网出品的精品文化出版传播平台，平台集成化网络出版、系统化深度整合大众精品期刊、图书、工具书、报纸、音频、视频、图片、文章等优质文化知识资源，以“鼓舞人、培育人、塑造人”为宗旨，为读者提供纯净、高品质文化知识资源的阅读、欣赏、学习与交流空间。
+
+* [作家天地 | 从《救风尘》到《梦华录》——浅谈赵盼儿人物形象的今与昔](https://wh.cnki.net/article/detail/ZJTD202228012?album=V)
+* [青春期健康 | 《梦华录》中的宋代古画 名瓷与茶文化](https://wh.cnki.net/article/detail/QCQJ202220004?album=U)
+* [音乐爱好者 | 漫谈电视剧《梦华录》中的唐宋音乐二三事](https://wh.cnki.net/article/detail/YYAH202208006?album=V)
+* [青春岁月 | 追梦华录，游开封城](https://wh.cnki.net/article/detail/QCSY202212006?album=U)
+* [《梦华录》导演杨阳：用镜头演绎“女性力量”](https://wh.cnki.net/article/detail/LAHQ202207024?album=U)
+* [中国眼镜科技杂志 | 新茶饮背后的“营销密码”](https://wh.cnki.net/article/detail/YJKJ202208023?album=Y)
+* [方圆 | 遭遇家暴，“宋引章”该如何维权](https://wh.cnki.net/article/detail/FAYN202213025?album=U)
+* [尚舞 | Girl's Power 她的力量](https://wh.cnki.net/article/detail/SAWU202213002?album=V)
+* [音乐爱好者 | 当传统昆曲邂逅西方室内乐 故事故人，弦音寻梦](https://wh.cnki.net/article/detail/YYAH202209002?album=V)
+* [食品界 | 茶味新风尚能否带热市场](https://wh.cnki.net/article/detail/SPJI202209017?album=T)
