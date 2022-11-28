@@ -71,7 +71,7 @@
 * [人民文学出版社 | 关汉卿笔下的赵盼儿究竟什么样？](https://mp.weixin.qq.com/s/fz_nv2ITcuTNsnErRZMavA)
 * [安徽文艺出版社音乐微课堂  | 《梦华录》——宋风雅乐](https://mp.weixin.qq.com/s/62cgasWzyxYgkGhHFSGbhw)
 * [牛津大学出版社教育服务 | 《梦华录》大结局，tea culture 和 tea acrobatics 了解一下！](https://mp.weixin.qq.com/s/5lAhfiKNdEb23G-Bir1WIQ)
-
+* [中州古籍出版社 | 《梦华录》|宋朝的斗茶是怎么回事？](https://mp.weixin.qq.com/s/nlm6jFYVrHeB0ho4PCnJ_g)
 
 ## 文联及文艺联合会
 
