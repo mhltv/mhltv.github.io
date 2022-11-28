@@ -14,7 +14,11 @@
 * [全球顶级娱乐媒体：Variety | Rakuten Viki Strikes Content Partnership With China’s Tencent Video (EXCLUSIVE)](https://variety.com/2022/global/news/rakuten-viki-china-tencent-video-1235418135/) `《梦华录》是2022年6月中国观众观看最多的剧集`
 * [RADII | Liu Yifei’s ‘A Dream Of Splendor’ Watched 500M Times in Mere Days](https://radii.co/article/a-dream-of-splendor)
 
+2011-11-23:
 
+> Earlier in summer, the C-drama hit A Dream of Splendor, which follows three women transforming a tea shop into a successful restaurant during the Song Dynasty, led many fans to imitate the desserts, clothing, and tea from that period. “Stove-boiled tea” complements the fall and winter seasons and transcends into a widely-followed lifestyle. China’s younger generations increasingly appreciate the health benefit and spiritual comfort associated with drinking tea and slow living
+
+* [奢侈品行业分析：JING DAILY | ‘Stove-Boiled Tea’ — China’s Newest Way To Chillax](https://jingdaily.com/china-stove-boiled-tea-fall-winter-2022/)
 
 
 ## 越南
