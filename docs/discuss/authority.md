@@ -411,6 +411,11 @@
 
 * [三读“宋韵”](https://mp.weixin.qq.com/s/4QNa3xlPGxsR4Ohk3r1PxA)
 
+
+
+
+
+
 ### 杭州日报
 
 * [富阳文创“宋潮”点亮新市集](https://hzdaily.hangzhou.com.cn/hzrb/2022/09/14/article_detail_1_20220914A066.html) `杭州政协网转载`
@@ -469,6 +474,12 @@
 * [新民艺评｜豆瓣8.8！《梦华录》凭什么被打这么高分？](https://wap.xinmin.cn/content/32182299.html)
 * [《梦华录》热播，点燃观众对历史的热情](https://paper.xinmin.cn/html/xmwb/2022-06-08/6/137412.html)
 * [沪苏浙皖 | 还在排队网红茶饮？古人手把手教你自制一杯夏日特调](https://mp.weixin.qq.com/s/NMebENk4mR8TlL6MHDXdjQ)
+
+2022-11-26:
+> 中医药文化游园会包括了融合热播影视剧《梦华录》的茶歇活动、互动环节，借鉴当下风靡上海的中医药老字号药食同源的健康咖啡新理念、社交平台新中式网红茶点技艺等，让普罗大众理解并接受优秀中医药文化，亲历中医药文化的精妙绝伦。
+
+* [新民晚报 | 徐汇区成立“汇民医话”中医药文化科普平台 成立中医药文化科普巡讲团](https://wap.xinmin.cn/content/32272439.html)
+
 
 ### 川观新闻
 [挖掘唐风宋韵新IP 崇州启动沉浸式国潮文旅体验月活动](https://cbgc.scol.com.cn/news/3751431) `新华网转载`
