@@ -29,6 +29,7 @@
 
 ![](/image/discuss/education/engyuedu.jpg)
 ![](/image/discuss/education/eng2.jpg)
+![](/image/discuss/education/eng-1.jpg)
 
 ## 政治
 
