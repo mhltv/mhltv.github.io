@@ -186,6 +186,7 @@ module.exports = {
             'editing',
             'craft',
             'music',
+            'dance',
             "article",
             'song',
             "calligraphy"
@@ -254,6 +255,7 @@ module.exports = {
             'lianming',
             'guofeng',
             "diancha",
+            'zhucha',
             "huayueyan",
             "culture",
             "travel",

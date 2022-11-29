@@ -59,6 +59,7 @@
 * [历史达杂谈 | 《梦华录》陈廉饰演者管云鹏：歪嘴龙王走红是意外，演员才是目标](https://mp.weixin.qq.com/s/CYqi75TZEVFIGIsy5pLjwA)
 * [影视独舌 | 管云鹏：“歪嘴战神”的逆行与逆袭](https://mp.weixin.qq.com/s/tTWZW-qWp9lFZa3DxedNsg)
 * [八卦女孩 | 凭借“赘婿系列”爆火的歪嘴龙王，在《梦华录》彻底转正了](https://mp.weixin.qq.com/s/M4EDpRzJlA3z5yexILTS-Q)
+* [知音 | 《梦华录》火了“爱情保安”：拼命奔跑与风同行](https://mp.weixin.qq.com/s/YrlmVQcxOtwnwrSbJ642Hw)
 
 ### 葛招娣(李沐宸)
 
