@@ -18,6 +18,7 @@
 
 ## 社交媒体
 
+![](/image/xianxi/cha/comm.jpg)
 
 * [小红书APP | 围炉煮茶 —— 在这个冬天做个闲人](https://mp.weixin.qq.com/s/Gv80Aq0XuJd5_lV84Ijq3A)
 
