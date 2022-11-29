@@ -43,7 +43,11 @@
 
 ### 研究型思维看梦华录
 
-链接: [ 温州商学院图书馆 | 讲座回顾｜以研究型思维看《梦华录》](https://mp.weixin.qq.com/s/oavGCvzmfEQik4qkoOVt3w)
+链接: 
+
+* [温州商学院图书馆 | 讲座回顾｜以研究型思维看《梦华录》](https://mp.weixin.qq.com/s/oavGCvzmfEQik4qkoOVt3w)
+* [温州商学院图书馆 | 讲座回顾｜以研究型思维看《梦华录》第二场](https://mp.weixin.qq.com/s/Di54aaiINiublYXDboYiEA)
+* [温州商学院图书馆 | 讲座回顾｜以研究型思维看《梦华录》第三场](https://mp.weixin.qq.com/s/g7ntBPzPpkYpKQ48-N28CQ)
 
 
 ### 现代汉服大讲坛 
