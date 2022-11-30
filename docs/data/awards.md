@@ -30,3 +30,11 @@
 **访问链接：**[腾讯发布2022年上半年PCG表彰，《梦华录》获得业务突破奖](https://www.douban.com/group/topic/275157975)
 
 <img src="/image/data/guanfang-pcg.webp" width="1080">
+
+## 微博视界大会
+
+2022年11月29日，张巍编剧获得微博视界大会`影响力编剧`奖，张巍编剧在获奖感言中也感谢了剧粉`录人`。
+
+![](/image/data/weibo-zw.webp)
+
+链接: [微博 | 微博视界大会](https://weibo.com/2637571067/MhiO82fee)
