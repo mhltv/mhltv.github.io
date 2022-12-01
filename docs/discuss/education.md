@@ -11,7 +11,8 @@
 
 > 教资科一文化素养题，文思豆腐
 ![](/image/discuss/education/shiti.jpg)
-
+![](/image/discuss/education/jz-1.jpg)
+![](/image/discuss/education/jz-2.jpg)
 
 ## 法考
 
