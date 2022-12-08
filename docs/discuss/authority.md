@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方/知名媒体 `117`个，文章/微博/公众号条目`225`篇。
+本文共收录 权威/官方/知名媒体 `118`个，文章/微博/公众号条目`227`篇。(数量为手动统计，可能会有极小范围误差)
 
 ## 央媒党媒
 
@@ -117,6 +117,21 @@
 > In June, HEYTEA, a popular beverage chain headquartered in Guangdong, launched a new product that was inspired by and named after "A Dream of Splendor," a smash hit TV drama. The drink flew off the shelves and set a record sales volume of 300,000 cups nationwide in a day.
 
 * [Global Times | Boom of new tea beverages](https://www.globaltimes.cn/page/202211/1280402.shtml)
+
+
+2022-12-04:
+
+> For instance, a smash hit TV drama A Dream of Splendor introduced the tea technique chabaixi to Chinese audiences. Chabaixi is a unique technique popular during the Song Dynasty (960-1279) in which the tea master uses tea foam to draw patterns on the surface of the tea. A drink which was inspired from the drama later flew off the shelves and set a record sales volume of 300,000 cups nationwide in a day.
+
+* [A closer look at Chinese tea’s application for world heritage status](https://www.globaltimes.cn/page/202212/1281086.shtml)
+
+
+
+### 国家版权局（国际版）
+
+> Recently, A Dream of Splendor, which is one of China's most popular dramas to date this year, ended on July 24th. It is also being distributed to countries such as South Korea, Malaysia, Cambodia and Japan. On Douban, one of the country's most-visited media review platforms, the series earned 8.1 points out of 10, while on MyDramaList, a website where Asian drama and movie fans rate and discuss productions, it scored 8.5 points out of 10.
+
+* [Chinese Costume Drama Hit in Asia](https://english.cnipa.gov.cn/art/2022/7/27/art_1347_176864.html)
 
 
 ### 法治日报
