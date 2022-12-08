@@ -73,3 +73,8 @@
 ![](/image/xianxi/wuxi.jpg)
 
 报道: [在北京遇见无锡｜无锡文旅招商推介会邀你乐游无锡梦华江南](https://new.qq.com/rain/a/20221117A0958Q00)
+
+
+## 上海 跟随《梦华录》穿越宋朝玩点茶
+
+报道: [仿宋点茶 | ￥88起魔都潮周末，这个周末跟随《梦华录》穿越宋朝玩点茶，更有宝藏童话花园等你来打卡！](https://mp.weixin.qq.com/s/eRMhLPteBkzjmaVx9Wh_MA)

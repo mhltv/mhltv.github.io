@@ -77,6 +77,11 @@
 ![](/image/discuss/books/mag-4.jpeg)
 
 
+### 《中国之翼》2022.12
+
+![](/image/discuss/paper/wing.webp)
+
+
 ## 报刊
 
 

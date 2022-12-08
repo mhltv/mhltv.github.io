@@ -25,7 +25,7 @@
 
 
 ## 媒体报道
-
+* [前瞻经济学人 | 中国茶叶第一大省有多强？](https://mp.weixin.qq.com/s/9JD5Qo0j7Afae7BJmpjLcg)
 * [36KR | 这届年轻人爱上“围炉煮茶”](https://36kr.com/p/2006405689484168)
 * [华声在线 | “围炉煮茶”彰显文化自信](http://opinion.voc.com.cn/article/202211/202211070811218623.html)
 * [中新国京传媒 | “围炉烤茶”：原来这就是年轻人追求的“松弛感”](https://mp.weixin.qq.com/s/JrOak1wK03HbM3z_0Ob6LA)

@@ -25,6 +25,8 @@
 ![](/image/discuss/education/jilei.jpg)
 ![](/image/discuss/education/yuwenyuedu.png)
 ![](/image/discuss/education/yuwen1.jpg)
+![](/image/discuss/education/yuwen.webp)
+
 
 ## 英语
 
