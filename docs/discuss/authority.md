@@ -140,7 +140,7 @@
 
 
 
-### 国家版权局（国际版）
+### 国家知识产权局（国际版）
 
 > Recently, A Dream of Splendor, which is one of China's most popular dramas to date this year, ended on July 24th. It is also being distributed to countries such as South Korea, Malaysia, Cambodia and Japan. On Douban, one of the country's most-visited media review platforms, the series earned 8.1 points out of 10, while on MyDramaList, a website where Asian drama and movie fans rate and discuss productions, it scored 8.5 points out of 10.
 
