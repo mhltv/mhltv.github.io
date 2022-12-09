@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方/知名媒体 `118`个，文章/微博/公众号条目`227`篇。(数量为手动统计，可能会有极小范围误差)
+本文共收录 权威/官方/知名媒体 `119`个，文章/微博/公众号条目`229`篇。(数量为手动统计，可能会有极小范围误差)
 
 ## 央媒党媒
 
@@ -28,6 +28,13 @@
 > このように、ネット上で大きな話題となっている「七輪を囲んでお茶」だが、実際には今に始まったことではない。「お茶を煮出す」のは、中国の伝統的な茶文化で、唐・宋の時代に始まり、当時の人々は煮出したお茶を飲んでいた。茶葉は砕いて、小さな団子状にして乾燥させておき、煮出す際に削り取って、ショウガやミカンの皮、ハッカなどと一緒に煮出す。今年の夏に大ヒットしたドラマ「夢華録(A Dream of Splendor）」では、ヒロインの趙盼児が優雅な動作で茶を入れ、視聴者を魅了した。またそれがきっかけで、宋の時代の茶道美学がブームとなり、「夢華録」と同じタイプの「七輪を囲んでお茶」を売り文句にした商品もたくさん販売されている。
 
 * [人民网日文版 | “围炉煮茶”：今秋最火的“仪式感”](https://mp.weixin.qq.com/s/P-M6V-v8SkH_6e5_RR3mGA)
+
+
+2022-11-25:
+
+> En junio, HEYTEA, una popular cadena de bebidas con sede en Guangdong, lanzó un nuevo producto inspirado en "A Dream of Splendor", un drama televisivo de gran éxito que lleva el nombre de "A Dream of Splendor". La bebida salió volando de los estantes y estableció un volumen récord de ventas de 300.000 vasos en todo el país en un día.
+
+* [人民网西语版 | China vive un boom de nuevas bebidas de té](http://spanish.peopledaily.com.cn/n3/2022/1125/c31620-10176393.html)
 
 
 ### 央视新闻
@@ -78,6 +85,12 @@
 ## 主流媒体
 
 
+### 中华人民共和国海关总署 《金钥匙杂志》
+
+2022-12-08:
+
+[假如海关人魂穿《梦华录》……](https://mp.weixin.qq.com/s/sXmkrbjJAam_8eReqX5uNw): 以漫画的形式介绍了《梦华录》背景相关时期的市舶司制度。此篇同时被石家庄海关等转载。
+
 ### 中国教育电视台
 
 2022年11月22日《梦华录》在北京卫视黄金档继续播出，24日中国教育电视台发文评论道:
@@ -127,7 +140,7 @@
 
 
 
-### 国家版权局（国际版）
+### 国家知识产权局（国际版）
 
 > Recently, A Dream of Splendor, which is one of China's most popular dramas to date this year, ended on July 24th. It is also being distributed to countries such as South Korea, Malaysia, Cambodia and Japan. On Douban, one of the country's most-visited media review platforms, the series earned 8.1 points out of 10, while on MyDramaList, a website where Asian drama and movie fans rate and discuss productions, it scored 8.5 points out of 10.
 

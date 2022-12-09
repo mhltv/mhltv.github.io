@@ -1,7 +1,7 @@
 # 破圈讨论
 
 本文收录诸多媒体从各个角度对梦华录的讨论, 因讨论内容过多，部分媒体发布了多篇报道，也有报道会被多个媒体转载，本文只收录部分代表性内容。
-目前共计收录`32`个分类，`449`个条目。
+目前共计收录`33`个分类，`453`个条目。
 
 同时，《梦华录》也掀起了一股“宋朝热”，激发起无数观众对于那个文化鼎盛时期民俗百态的好奇与向往。读者可从本文中散落于不同行业的讨论文章中一窥全豹。
 
@@ -374,6 +374,12 @@
 * [武侯统计 | 跟着热播剧学统计，《梦华录》来了！](https://mp.weixin.qq.com/s/v4kXaiUX6lifz7tJje7PjQ)
 
 
+## 移民
+* [西达移民 | 2022年移民日本都有哪些要求？](https://mp.weixin.qq.com/s/XfswIk48FDtyPcTiIId-hQ)
+* [北极圈恋人 | 移民只是第一步，移民后的生活才是重头戏（深度）](https://mp.weixin.qq.com/s/YQw0o7sIMOObVAcy8dhGPQ)
+* [小敏话移民 |用梦华录打开今年海底捞最新预测！](https://mp.weixin.qq.com/s/PM7zov3jcSJB6jHp9ie3Ag)
+
+
 ## 旅游
 
 ![](/image/discuss/travel.jpg)
@@ -437,7 +443,7 @@
 ## 科普
 
 ![](/image/discuss/kepu.jpg)
-
+* [羊城网 | 请不要穿粤回到宋朝的广州，因为我怕你不想回来……](https://mp.weixin.qq.com/s/YT4Qw4KM4eOevt4lNHBP3w)
 * [包士山 | 《梦华录》真相：皇后的黑料没啥大不了](https://mp.weixin.qq.com/s/D7Cvt1K14ZtWnX0xwM2P_g)
 * [脑洞研究营 | 赵盼儿跳的什么舞](https://mp.weixin.qq.com/s/OdR3qcIr2LLBaXkBeClGKg)
 * [上海市眼病防治中心 | 眼防睛典 | 《梦华录》杜长风的“叆叇”是哪种眼镜？](https://mp.weixin.qq.com/s/TNA4-1XEjOeTy9neSVKZmw)
