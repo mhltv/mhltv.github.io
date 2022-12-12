@@ -20,21 +20,7 @@
 ### 人民网
 
 * [《梦华录》，现代意识与古代背景碰撞出火花](http://opinion.people.com.cn/n1/2022/0606/c437948-32439205.html)
-* [人民网西语版 | 《梦华录》里的“茶文化”，用西语怎么表达？](https://mp.weixin.qq.com/s/CPts6nOEK_EbEamBK3ViHw)
-* [人民日报海外版日本月刊「ムーラン」から「夢華録」へ 中国現代女性を投影](https://peoplemonthly.jp/n10010.html)
 
-2022-11-21:
-
-> このように、ネット上で大きな話題となっている「七輪を囲んでお茶」だが、実際には今に始まったことではない。「お茶を煮出す」のは、中国の伝統的な茶文化で、唐・宋の時代に始まり、当時の人々は煮出したお茶を飲んでいた。茶葉は砕いて、小さな団子状にして乾燥させておき、煮出す際に削り取って、ショウガやミカンの皮、ハッカなどと一緒に煮出す。今年の夏に大ヒットしたドラマ「夢華録(A Dream of Splendor）」では、ヒロインの趙盼児が優雅な動作で茶を入れ、視聴者を魅了した。またそれがきっかけで、宋の時代の茶道美学がブームとなり、「夢華録」と同じタイプの「七輪を囲んでお茶」を売り文句にした商品もたくさん販売されている。
-
-* [人民网日文版 | “围炉煮茶”：今秋最火的“仪式感”](https://mp.weixin.qq.com/s/P-M6V-v8SkH_6e5_RR3mGA)
-
-
-2022-11-25:
-
-> En junio, HEYTEA, una popular cadena de bebidas con sede en Guangdong, lanzó un nuevo producto inspirado en "A Dream of Splendor", un drama televisivo de gran éxito que lleva el nombre de "A Dream of Splendor". La bebida salió volando de los estantes y estableció un volumen récord de ventas de 300.000 vasos en todo el país en un día.
-
-* [人民网西语版 | China vive un boom de nuevas bebidas de té](http://spanish.peopledaily.com.cn/n3/2022/1125/c31620-10176393.html)
 
 
 ### 央视新闻
@@ -81,6 +67,57 @@
 注: 请打开电脑端网页。如用手机端请打开后切换到第4版
 
 
+## 外文报道
+
+本区域收录一些国内媒体的国际版本的外文报道。
+
+### 人民网
+
+* [人民网西语版 | 《梦华录》里的“茶文化”，用西语怎么表达？](https://mp.weixin.qq.com/s/CPts6nOEK_EbEamBK3ViHw)
+* [人民日报海外版日本月刊「ムーラン」から「夢華録」へ 中国現代女性を投影](https://peoplemonthly.jp/n10010.html)
+
+2022-11-21:
+
+> このように、ネット上で大きな話題となっている「七輪を囲んでお茶」だが、実際には今に始まったことではない。「お茶を煮出す」のは、中国の伝統的な茶文化で、唐・宋の時代に始まり、当時の人々は煮出したお茶を飲んでいた。茶葉は砕いて、小さな団子状にして乾燥させておき、煮出す際に削り取って、ショウガやミカンの皮、ハッカなどと一緒に煮出す。今年の夏に大ヒットしたドラマ「夢華録(A Dream of Splendor）」では、ヒロインの趙盼児が優雅な動作で茶を入れ、視聴者を魅了した。またそれがきっかけで、宋の時代の茶道美学がブームとなり、「夢華録」と同じタイプの「七輪を囲んでお茶」を売り文句にした商品もたくさん販売されている。
+
+* [人民网日文版 | “围炉煮茶”：今秋最火的“仪式感”](https://mp.weixin.qq.com/s/P-M6V-v8SkH_6e5_RR3mGA)
+
+
+2022-11-25:
+
+> En junio, HEYTEA, una popular cadena de bebidas con sede en Guangdong, lanzó un nuevo producto inspirado en "A Dream of Splendor", un drama televisivo de gran éxito que lleva el nombre de "A Dream of Splendor". La bebida salió volando de los estantes y estableció un volumen récord de ventas de 300.000 vasos en todo el país en un día.
+
+* [人民网西语版 | China vive un boom de nuevas bebidas de té](http://spanish.peopledaily.com.cn/n3/2022/1125/c31620-10176393.html)
+
+
+
+### 中国日报
+
+* [Actress Liu Yifei shows off tea acrobatics in her latest outing](http://www.chinadaily.com.cn/a/202206/06/WS629d8435a310fd2b29e60e6f.html)
+* [双语版: 看《梦华录》上头了！为什么“神仙姐姐”倒个茶都这么美……](https://mp.weixin.qq.com/s/VDgzy_V-LSiNRfiLMrQ7zA)
+* [Chinese green tea: A mouthful of cool summer](https://www.chinadaily.com.cn/a/202207/13/WS62ce51fca310fd2b29e6c20f.html)
+* [Making a 'dream' become reality](https://www.chinadaily.com.cn/a/202206/30/WS62bd5503a310fd2b29e6991e.html)
+
+
+
+### Global Times
+* [环球时报 （Global Times）：New series ‘A Dream of Splendor’ shows links between ancient and modern times](https://www.globaltimes.cn/page/202206/1267599.shtml)
+
+2022-11-24:
+
+> In June, HEYTEA, a popular beverage chain headquartered in Guangdong, launched a new product that was inspired by and named after "A Dream of Splendor," a smash hit TV drama. The drink flew off the shelves and set a record sales volume of 300,000 cups nationwide in a day.
+
+* [Global Times | Boom of new tea beverages](https://www.globaltimes.cn/page/202211/1280402.shtml)
+
+
+### 国家知识产权局（国际版）
+
+> Recently, A Dream of Splendor, which is one of China's most popular dramas to date this year, ended on July 24th. It is also being distributed to countries such as South Korea, Malaysia, Cambodia and Japan. On Douban, one of the country's most-visited media review platforms, the series earned 8.1 points out of 10, while on MyDramaList, a website where Asian drama and movie fans rate and discuss productions, it scored 8.5 points out of 10.
+
+* [Chinese Costume Drama Hit in Asia](https://english.cnipa.gov.cn/art/2022/7/27/art_1347_176864.html)
+
+
+
 
 ## 主流媒体
 
@@ -108,12 +145,6 @@
 
 [戳中“心巴”的剧，你都追过吗？——2022上半年小屏视听剧目榜](https://mp.weixin.qq.com/s/zAQxocweYchWJMRx_7_kgw)
 
-### 中国日报
-
-* [Actress Liu Yifei shows off tea acrobatics in her latest outing](http://www.chinadaily.com.cn/a/202206/06/WS629d8435a310fd2b29e60e6f.html)
-* [双语版: 看《梦华录》上头了！为什么“神仙姐姐”倒个茶都这么美……](https://mp.weixin.qq.com/s/VDgzy_V-LSiNRfiLMrQ7zA)
-* [Chinese green tea: A mouthful of cool summer](https://www.chinadaily.com.cn/a/202207/13/WS62ce51fca310fd2b29e6c20f.html)
-* [Making a 'dream' become reality](https://www.chinadaily.com.cn/a/202206/30/WS62bd5503a310fd2b29e6991e.html)
 
 ### 环球网
 
@@ -123,28 +154,7 @@
 ### 环球时报
 
 * [港媒：汉服，不再只是文化和情怀](https://oversea.huanqiu.com/article/494HlXRTCft)
-* [环球时报 （Global Times）：New series ‘A Dream of Splendor’ shows links between ancient and modern times](https://www.globaltimes.cn/page/202206/1267599.shtml)
 
-2022-11-24:
-
-> In June, HEYTEA, a popular beverage chain headquartered in Guangdong, launched a new product that was inspired by and named after "A Dream of Splendor," a smash hit TV drama. The drink flew off the shelves and set a record sales volume of 300,000 cups nationwide in a day.
-
-* [Global Times | Boom of new tea beverages](https://www.globaltimes.cn/page/202211/1280402.shtml)
-
-
-2022-12-04:
-
-> For instance, a smash hit TV drama A Dream of Splendor introduced the tea technique chabaixi to Chinese audiences. Chabaixi is a unique technique popular during the Song Dynasty (960-1279) in which the tea master uses tea foam to draw patterns on the surface of the tea. A drink which was inspired from the drama later flew off the shelves and set a record sales volume of 300,000 cups nationwide in a day.
-
-* [A closer look at Chinese tea’s application for world heritage status](https://www.globaltimes.cn/page/202212/1281086.shtml)
-
-
-
-### 国家知识产权局（国际版）
-
-> Recently, A Dream of Splendor, which is one of China's most popular dramas to date this year, ended on July 24th. It is also being distributed to countries such as South Korea, Malaysia, Cambodia and Japan. On Douban, one of the country's most-visited media review platforms, the series earned 8.1 points out of 10, while on MyDramaList, a website where Asian drama and movie fans rate and discuss productions, it scored 8.5 points out of 10.
-
-* [Chinese Costume Drama Hit in Asia](https://english.cnipa.gov.cn/art/2022/7/27/art_1347_176864.html)
 
 
 ### 法治日报

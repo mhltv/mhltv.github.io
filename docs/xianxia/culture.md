@@ -73,6 +73,15 @@
 链接: [华东政法大学事是学社 | 第33期百律律师讲座｜解析《梦华录》中的法律问题](https://mp.weixin.qq.com/s/qfp7BGqutTQyLdQtt-Lqzg)
 
 
+### 读书会
+
+### 上海馨巢书屋女性读书会
+
+《梦华录》相关主题: '女性友谊如何不塑料，从《末路狂花》到《梦华录》'
+
+![](/image/xianxi/culture/bookclub.jpg)
+
+
 
 ## 博物馆
 

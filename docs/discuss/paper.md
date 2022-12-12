@@ -146,6 +146,11 @@
 ![](/image/discuss/books/p-6.jpg)
 
 
+**广州报 | 《中式妆盛行，婉约有韵味》**
+
+![](/image/discuss/paper/gz.jpg)
+
+
 
 ### 英语报纸
 

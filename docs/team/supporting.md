@@ -376,4 +376,6 @@
 * [管云鹏 |《在下李佑》 | 男主](https://www.bilibili.com/video/BV1yB4y1s7aN?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c)`胡宇轩（何四）、宿宇杰（老贾）、余梦寒（银瓶）等参演`
 * [林允 管云鹏 | 《不完美受害人》主演](https://m.weibo.cn/status/4813947582286509)`张翔（周舍）、李圣佳（brown弟弟）、刘珂君（圣人）参演`
 * [加奈那 | 《仙剑六》](https://m.weibo.cn/5537809644/4825289425684067)
+* [加奈那 | 《神隐》](https://weibo.com/7797359861/MiD9oF57b?refer_flag=1001030103_)
 * [胡宇轩 | 《偷偷藏不住》 ](https://m.weibo.cn/2016483877/4816104114095740)
+* [代旭 | 《手术直播间》| 男主](https://weibo.com/5406006781/Mj6rNdYKG?refer_flag=1001030103_)

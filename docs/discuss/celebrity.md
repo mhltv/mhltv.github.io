@@ -457,6 +457,12 @@
 
 > 梦华录，作者是按照我们心中爽文路线写的吧。关键男主帅女主美，赏心悦目，还没有那些刻意油腻的情节，看得太舒服了。只有女导演才了解怎么拨动女观众心扉啊。
 
+
+### 阿雅 - 中国台湾电视节目主持人，歌手，演员 [小红书视频链接](https://www.xiaohongshu.com/discovery/item/637b4340000000000e03940a?app_platform=ios&app_version=7.65.2&share_from_user_hidden=true&type=video&xhsshare=CopyLink&appuid=61b72f370000000010004924&apptime=1670819670)
+
+柳亦菲(阿雅姓柳)~
+
+
 ## 其他
 
 ### 闪光少女斯斯 - 微博 VLOG 博主 [原文链接](https://weibo.com/1863896860/LwB8UBSA4)
