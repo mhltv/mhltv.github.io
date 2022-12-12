@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方/知名媒体 `119`个，文章/微博/公众号条目`229`篇。(数量为手动统计，可能会有极小范围误差)
+本文共收录 权威/官方/知名媒体 `119`个，文章/微博/公众号条目`230`篇。(数量为手动统计，可能会有极小范围误差)
 
 ## 央媒党媒
 
@@ -116,6 +116,14 @@
 
 * [Chinese Costume Drama Hit in Asia](https://english.cnipa.gov.cn/art/2022/7/27/art_1347_176864.html)
 
+
+### 新华网
+
+2022-11-24:
+
+> In June, HEYTEA, a popular beverage chain headquartered in Guangdong, launched a new product that was inspired by and named after "A Dream of Splendor," a smash hit TV drama. The drink flied off the shelves and set a record sales volume of 300,000 cups nationwide in a single day.
+
+[China Focus: New tea drinks fly off shelves amid upgrading consumption](https://english.news.cn/20221124/6da62f8c5b9644968c07e522b056cc99/c.html)
 
 
 
