@@ -100,6 +100,7 @@ module.exports = {
           title: '出圈',
           collapsable: true,
           children: [
+            'tea',
             'authority',
             'international',
             'all',
@@ -109,7 +110,6 @@ module.exports = {
             'celebrity',
             'brand',
             'culture',
-            'tea',
             'tv-shows',
             'lines',
             'music',
@@ -252,11 +252,11 @@ module.exports = {
           title: '线下',
           collapsable: false,
           children: [
-            'lianming',
-            'guofeng',
             "diancha",
-            'zhucha',
+            'lianming',
             "huayueyan",
+            'guofeng',
+            'zhucha',
             "culture",
             "travel",
             "business"
