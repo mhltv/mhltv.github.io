@@ -20,5 +20,4 @@
 
 * [凡郎惧内与宋代法律制度（八议、越诉、大理寺御史台、义绝、悔婚、折杖法等）](https://www.douban.com/group/topic/270223632/?_i=570148216d5613c,6343501W54s0f1)
 * [法律知识点有章可循（宗祧继承、不动产买卖、市舶司、贱籍、悔婚、榷酤、登闻鼓、翻异别推）](https://www.douban.com/group/topic/269809028/?_i=6410770W54s0f1)
-* [赵盼儿周舍对簿公堂，为何不下跪](https://share.api.weibo.cn/share/311311617,4776947844120902.html?weibo_id=4776947844120902)
 * [剧里诉讼的严谨性](https://www.douban.com/group/topic/269709341/?_i=6411248W54s0f1)
