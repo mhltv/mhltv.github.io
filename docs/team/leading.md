@@ -16,6 +16,7 @@
 * [新京报 | 陈晓：做个“被动”的演员丨人物](https://m.bjnews.com.cn/detail/1662620192169449.html)
 * [男人风尚LEON | 陈晓 | 手持火把的人](https://mp.weixin.qq.com/s?__biz=MjM5OTc2Njg4Mg==&mid=2650976084&idx=1&sn=c6694cc089a8306d4fe5652e5b49db00&chksm=bcc071598bb7f84f9c54897cd202565461fff21b8c9e65761aaabb32df082295ddb65ec4ddbd#rd)
 * [中国新闻网 | 为什么别人都说他“长得挺帅的，可惜长了张嘴”？](https://mp.weixin.qq.com/s/2_YhFn-X_SAkMhArB--lMQ)
+* [北京广播电视报社 | 出道12载，他终于演了一部对得起颜值的《梦华录》](https://mp.weixin.qq.com/s/2bFbj9g8VLysvV6uNGdJag)
 
 ### 商务
 

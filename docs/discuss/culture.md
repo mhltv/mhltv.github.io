@@ -53,10 +53,11 @@
 * [河南大学 | 来！来！来！为《梦华》打call~~~](https://mp.weixin.qq.com/s/6D_yQfV54N5hZ4jeMlZQ-Q)
 * [西南政法大学 | 吃茶去！](https://mp.weixin.qq.com/s/sIJtZhCa416a_KGIHlLTvw)
 * [中南大艺术圈 | 惊鸿一瞥 梦华录中品琵琶意蕴](https://mp.weixin.qq.com/s/hP2N33oOXupBFwVxwshbvg)
-
+* [华师之声VOC | A Dream of Splendor《梦华录》：古风偶像剧的青春又回来啦！](https://mp.weixin.qq.com/s/1d2hILif-9wyf00_PyZoig)
 
 
 ### 出版社
+* [外研社 | 《梦华录》大火，人均“大女主”的宋朝女性都有哪些传奇经历？](https://mp.weixin.qq.com/s/x1J7UnXyFjZtvTH74E2aYA)
 * [北京大学出版社 | 《梦华录》的这一幕，真的只看了亿遍](https://mp.weixin.qq.com/s/xDhSH0gpZ1jV5w5Hwc2gWg)
 * [北京大学出版社 | 随着《#梦华录# 》的热播，不仅电视剧相关话题大火，着实也掀起了一场宋史热。](https://m.weibo.cn/status/4782721820265729?sourceType=weixin&from=10C9595060&wm=9006_2001&featurecode=newtitle)
 * [北京大学出版社 | 普通人开局在宋朝，会过上怎样的日常生活](https://mp.weixin.qq.com/s/O8BBooyONYP_oOwxFS5Lgg)

@@ -57,7 +57,7 @@ module.exports = {
     lastUpdated: '最后更新',
     nav: [
       {
-        text: '出圈',
+        text: '破圈',
         link: '/discuss/',
       },
       {

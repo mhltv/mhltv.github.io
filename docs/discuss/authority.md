@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方/知名媒体 `119`个，文章/微博/公众号条目`230`篇。(数量为手动统计，可能会有极小范围误差)
+本文共收录 权威/官方/知名媒体 `121`个，文章/微博/公众号条目`237`篇。(数量为手动统计，可能会有极小范围误差)
 
 ## 央媒党媒
 
@@ -91,17 +91,23 @@
 
 
 
-### 中国日报
+### 中国日报/CHINA DAILY
 
 * [Actress Liu Yifei shows off tea acrobatics in her latest outing](http://www.chinadaily.com.cn/a/202206/06/WS629d8435a310fd2b29e60e6f.html)
 * [双语版: 看《梦华录》上头了！为什么“神仙姐姐”倒个茶都这么美……](https://mp.weixin.qq.com/s/VDgzy_V-LSiNRfiLMrQ7zA)
 * [Chinese green tea: A mouthful of cool summer](https://www.chinadaily.com.cn/a/202207/13/WS62ce51fca310fd2b29e6c20f.html)
 * [Making a 'dream' become reality](https://www.chinadaily.com.cn/a/202206/30/WS62bd5503a310fd2b29e6991e.html)
+* [TV drama gives tea art new momentum](https://www.chinadaily.com.cn/a/202206/22/WS62b2c945a310fd2b29e67e9f_1.html)
+* [New tea drinks fly off shelves amid upgrading consumption](https://www.chinadaily.com.cn/a/202211/24/WS637f0127a31057c47eba0dec.html)
+* [Hit costume drama re-creates nation's cultural heyday](https://www.chinadaily.com.cn/a/202207/06/WS62c4d54da310fd2b29e6a944_3.html)
 
+> In June, A Dream of Splendor, a costume drama also set during the Song Dynasty, generated another wave of popularity. The scenes of the heroine demonstrating traditional Chinese tea acrobatics drew audiences to the show as it aroused a deep and curious interest in Song social life.
+* [Life｜Glimpse of history](https://mp.weixin.qq.com/s/zB06f4PZB3lvUsDj6r8Q6g)
 
 
 ### Global Times
-* [环球时报 （Global Times）：New series ‘A Dream of Splendor’ shows links between ancient and modern times](https://www.globaltimes.cn/page/202206/1267599.shtml)
+* [New series ‘A Dream of Splendor’ shows links between ancient and modern times](https://www.globaltimes.cn/page/202206/1267599.shtml)
+* [Rising quality of Chinese web series stimulates viewers’ willingness to pay for content](https://www.globaltimes.cn/page/202206/1268611.shtml)
 
 2022-11-24:
 
@@ -127,7 +133,18 @@
 
 
 
+### ShenzhenDaily
+
+[Opinion | Looking for Mr. Right](https://mp.weixin.qq.com/s/kuNtLZpBq9q8gGf-m65HIg)
+
+
+
 ## 主流媒体
+
+
+### 国家保密局 保密观
+
+[皇家侍卫、大内密探还是谍战高手？真实历史中的皇城司到底是干啥的？](https://mp.weixin.qq.com/s/oyT25yTXhRsUu6PkZWBnug)
 
 
 ### 中华人民共和国海关总署 《金钥匙杂志》
