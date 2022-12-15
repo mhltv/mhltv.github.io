@@ -184,6 +184,7 @@
 * [推广 | 红牛维生素风味饮料202208](https://m.weibo.cn/2117726305/4804512935577136)
 * [重返帝国手游赞助 | 谭乔视频拍摄202208](https://b23.tv/72KpY0q)
 * [共青团中央 | 第六届网络青晚202209](https://mp.weixin.qq.com/s/8-buqkgwOqtbmPHIri7uTw)
+* [《热血合击》周年直播庆典 | 从大湾区到《梦华录》，《热血合击》一周年庆典如何实现破圈传播？](https://mp.weixin.qq.com/s/nC4yW-YsW2YERcRuWgSioQ)
 
 ### 李沐宸（葛招娣）
 

@@ -1,7 +1,7 @@
 # 破圈讨论
 
 本文收录诸多媒体从各个角度对梦华录的讨论, 因讨论内容过多，部分媒体发布了多篇报道，也有报道会被多个媒体转载，本文只收录部分代表性内容。
-目前共计收录`33`个分类，`453`个条目。
+目前共计收录`34`个分类，`459`个条目。
 
 同时，《梦华录》也掀起了一股“宋朝热”，激发起无数观众对于那个文化鼎盛时期民俗百态的好奇与向往。读者可从本文中散落于不同行业的讨论文章中一窥全豹。
 
@@ -22,6 +22,16 @@
 * [建筑师杂志 | 92年苏州女建筑师，再造《梦华录》绝美场景](https://mp.weixin.qq.com/s/0_5HnESva55DnCcrg-FsdQ)
 * [新华网思课 | 《梦华录》里的宋朝园林，藏着古人多少春天的记忆？](https://mp.weixin.qq.com/s/R5myQBi-BJhnxiE3qYvZIA)
 
+
+
+## 外语
+
+* [俄语摆渡 | 暑假爆款古偶《梦华录》用俄语咋说？俄语人追剧指南～](https://mp.weixin.qq.com/s/Fv73IF6WABvAcalXO9gLVg)
+* [ 闪star法语视界 | 《梦华录》，但是法语](https://mp.weixin.qq.com/s/yBBBdz1CHAo4PpZ0azDhVw)
+* [西语SuperO | 看《梦华录》| 读西语版【关汉卿】](https://mp.weixin.qq.com/s/G6fKP0vMSseCYQTwjx-fhg)
+* [讯飞易听说 | 《梦华录》火到海外！英文译名竟然用了这个词，太妙了！](https://mp.weixin.qq.com/s/J1CDurtCM302CfOtSXxwhQ)
+* [百香阳光葡萄牙语工作室 | “梦华录”用葡语怎么说? 快来跟葡语版预告片学单词! 这个字幕翻译你想打几分?!](https://mp.weixin.qq.com/s/mJk4J7pnohWgwKYFo8WxLA)
+* [薄荷外刊 | 《梦华录》英文怎么说？](https://mp.weixin.qq.com/s/MDYep1rmmq_ANtFyxzO9gA)
 
 ## 家居
 

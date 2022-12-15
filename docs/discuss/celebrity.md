@@ -238,6 +238,11 @@
 
 ## 游戏
 
+
+### 朱伯丞 - 《和平精英》职业选手
+
+![](/image/discuss/cel/zhubocheng.jpg)
+
 ### 梦泪 - AG超玩会王者荣耀项目选手 [原文链接](https://www.douyin.com/video/7116798582895758592)
 
 > 我已经勇敢过了，遗憾的就不是我了。选择直播还是刘亦菲，这是一个问题。
@@ -463,7 +468,30 @@
 柳亦菲(阿雅姓柳)~
 
 
+### 潘辰 - 中国女歌手 [视频链接](https://www.bilibili.com/video/BV1pt4y1875E/?is_story_h5=false&p=1&share_from=ugc&share_medium=android&share_plat=android&share_session_id=d25b804f-245b-435d-9428-5988ee711726&share_source=COPY&share_tag=s_i&timestamp=1670823576&unique_k=LQ5JMtr&vd_source=087d424162639011a33e46dbbd019cfd)
+
+翻唱了《不惜时光》
+
+
+### by2girl - 实力双生组合，《明日之子水晶时代》人气歌手 [小红书视频链接](https://www.xiaohongshu.com/discovery/item/62aaefe30000000014019cd5?app_platform=ios&app_version=7.65.2&share_from_user_hidden=true&type=video&xhsshare=WeixinSession&appuid=61b72f370000000010004924&apptime=1670929178)
+
+
+> 一幅幅茶汤字画，像是历史酝酿出的宝藏
+
+> 突然想到上次去杭州也尝试了仿宋点茶，比剧里的茶百戏简单基础，然而对于我们来说还是有难度。但是学到新知识和了解历史文化非常开心，内附科普！
+
+
+### 徐志胜 - 脱口秀艺人 
+
+![](/image/discuss/cel/zhisheng.jpg)
+
+
+
 ## 其他
+
+### 刘畊宏健身 - 中国台湾男歌手、创作人、主持人和演员
+
+![](/image/discuss/cel/liugenghong.jpg)
 
 ### 闪光少女斯斯 - 微博 VLOG 博主 [原文链接](https://weibo.com/1863896860/LwB8UBSA4)
 
@@ -501,3 +529,8 @@
 > 在杭州西溪，打卡了《梦华录》同款的风雅宋韵
 > 
 > 作为刘亦菲的阿姨粉，刘仙女的剧我都追。热播的《梦华录》，不仅让人再一次感受到了仙女神颜，更有高度还原的宋代市井生活，让观众看到了千年以前最富庶朝代的气韵和风姿，这流传千年的风貌，刻在了杭州这个城市的基因里。
+
+
+### 陈sir在线 - 公务员 [原文链接](https://share.api.weibo.cn/share/355098700,4838831536996630.html?weibo_id=4838831536996630)
+
+> 【《梦华录》里宋代的这些美食，你知道多少？】宋代由上到下对于美食的热爱也使宋代的小食到达了前所未有的繁荣，咱们就随《梦华录》一起看看剧中的这些美食。

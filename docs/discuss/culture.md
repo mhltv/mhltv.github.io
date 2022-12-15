@@ -49,13 +49,15 @@
 * [青春川师SICNU | 在？看《梦华录》了吗？](https://mp.weixin.qq.com/s/Vupo6MX3T_iFIIbGLRrT0w)
 * [山东理工大学文学与新闻传播学院 | “趣”国学|《梦华录》——舞乐篇](https://mp.weixin.qq.com/s/TU9QT5IxOgKqjedwyq9kGg)
 * [山东理工大学文学与新闻传播学院 | “趣”国学 |《梦华录》--茶文化篇](https://mp.weixin.qq.com/s/d-shtdPA74Oxx5eew7nUBA)
+* [山东理工大学文学与新闻传播学院 | “趣”国学 | 《梦华录》——琵琶篇](https://mp.weixin.qq.com/s/qVQA8FfhPL2s1j23bT3BKw)
 * [河南大学 | 来！来！来！为《梦华》打call~~~](https://mp.weixin.qq.com/s/6D_yQfV54N5hZ4jeMlZQ-Q)
 * [西南政法大学 | 吃茶去！](https://mp.weixin.qq.com/s/sIJtZhCa416a_KGIHlLTvw)
 * [中南大艺术圈 | 惊鸿一瞥 梦华录中品琵琶意蕴](https://mp.weixin.qq.com/s/hP2N33oOXupBFwVxwshbvg)
-
+* [华师之声VOC | A Dream of Splendor《梦华录》：古风偶像剧的青春又回来啦！](https://mp.weixin.qq.com/s/1d2hILif-9wyf00_PyZoig)
 
 
 ### 出版社
+* [外研社 | 《梦华录》大火，人均“大女主”的宋朝女性都有哪些传奇经历？](https://mp.weixin.qq.com/s/x1J7UnXyFjZtvTH74E2aYA)
 * [北京大学出版社 | 《梦华录》的这一幕，真的只看了亿遍](https://mp.weixin.qq.com/s/xDhSH0gpZ1jV5w5Hwc2gWg)
 * [北京大学出版社 | 随着《#梦华录# 》的热播，不仅电视剧相关话题大火，着实也掀起了一场宋史热。](https://m.weibo.cn/status/4782721820265729?sourceType=weixin&from=10C9595060&wm=9006_2001&featurecode=newtitle)
 * [北京大学出版社 | 普通人开局在宋朝，会过上怎样的日常生活](https://mp.weixin.qq.com/s/O8BBooyONYP_oOwxFS5Lgg)
@@ -80,6 +82,7 @@
 * [湖南文联 | 艺评丨陈天佑：从《梦华录》看中国文学中的“双姝叙事”](https://mp.weixin.qq.com/s/DV_wQ89OAEvmktj-VvY4mw)
 * [福建文艺网 | “太上头”！藏在《梦华录》中的福文化……](https://mp.weixin.qq.com/s/CCkCDN9WEN9_6PZPbVylww)
 * [匈牙利华文作家（薇丽） | 荐书 |《梦华录》再掀宋文化热之际，不妨看看这部荡气回肠的大宋前传《后周纪》](https://mp.weixin.qq.com/s/_3ddsYDMXGr5KpDJnDed2g)
+* [龙岗文艺 | 书山有路|热播电视剧《梦华录》展现的女性觉醒，你发现了吗？](https://mp.weixin.qq.com/s/vntNfTUQa7UB8XQoXFqMww)
 
 ## 旅游
 

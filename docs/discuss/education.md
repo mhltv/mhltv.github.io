@@ -67,3 +67,10 @@
 ![](/image/discuss/education/kaoyankaodian.jpg)
 
 
+
+
+### 其他
+
+暂时无法确认科目的试题。
+
+![](/image/discuss/education/name.jpg)

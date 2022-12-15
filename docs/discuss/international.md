@@ -31,7 +31,9 @@
 
 ## 新加坡
 
-[The STRAITSTIMES | Binge-worthy: A Dream Of Splendor is a slow-burn romance done well ](https://www.straitstimes.com/life/entertainment/binge-worthy-a-dream-of-splendor-is-a-slow-burn-romance-done-well)
+* [The STRAITSTIMES | Binge-worthy: A Dream Of Splendor is a slow-burn romance done well ](https://www.straitstimes.com/life/entertainment/binge-worthy-a-dream-of-splendor-is-a-slow-burn-romance-done-well)
+* [联合早报 | 今年最强古偶之争 梦华录凭什么提前锁定出道位？](https://www.zaobao.com.sg/wencui/social/story20220612-1282152): 转载自北京青年报
+* [联合早报 | 三女卖酒卖艺战胜命运](https://www.zaobao.com.sg/entertainment/story20220615-1283131)
 
 ## 日本
 

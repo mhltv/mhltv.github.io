@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方/知名媒体 `119`个，文章/微博/公众号条目`230`篇。(数量为手动统计，可能会有极小范围误差)
+本文共收录 权威/官方/知名媒体 `122`个，文章/微博/公众号条目`239`篇。(数量为手动统计，可能会有极小范围误差)
 
 ## 央媒党媒
 
@@ -91,17 +91,23 @@
 
 
 
-### 中国日报
+### 中国日报/CHINA DAILY
 
 * [Actress Liu Yifei shows off tea acrobatics in her latest outing](http://www.chinadaily.com.cn/a/202206/06/WS629d8435a310fd2b29e60e6f.html)
 * [双语版: 看《梦华录》上头了！为什么“神仙姐姐”倒个茶都这么美……](https://mp.weixin.qq.com/s/VDgzy_V-LSiNRfiLMrQ7zA)
 * [Chinese green tea: A mouthful of cool summer](https://www.chinadaily.com.cn/a/202207/13/WS62ce51fca310fd2b29e6c20f.html)
 * [Making a 'dream' become reality](https://www.chinadaily.com.cn/a/202206/30/WS62bd5503a310fd2b29e6991e.html)
+* [TV drama gives tea art new momentum](https://www.chinadaily.com.cn/a/202206/22/WS62b2c945a310fd2b29e67e9f_1.html)
+* [New tea drinks fly off shelves amid upgrading consumption](https://www.chinadaily.com.cn/a/202211/24/WS637f0127a31057c47eba0dec.html)
+* [Hit costume drama re-creates nation's cultural heyday](https://www.chinadaily.com.cn/a/202207/06/WS62c4d54da310fd2b29e6a944_3.html)
 
+> In June, A Dream of Splendor, a costume drama also set during the Song Dynasty, generated another wave of popularity. The scenes of the heroine demonstrating traditional Chinese tea acrobatics drew audiences to the show as it aroused a deep and curious interest in Song social life.
+* [Life｜Glimpse of history](https://mp.weixin.qq.com/s/zB06f4PZB3lvUsDj6r8Q6g)
 
 
 ### Global Times
-* [环球时报 （Global Times）：New series ‘A Dream of Splendor’ shows links between ancient and modern times](https://www.globaltimes.cn/page/202206/1267599.shtml)
+* [New series ‘A Dream of Splendor’ shows links between ancient and modern times](https://www.globaltimes.cn/page/202206/1267599.shtml)
+* [Rising quality of Chinese web series stimulates viewers’ willingness to pay for content](https://www.globaltimes.cn/page/202206/1268611.shtml)
 
 2022-11-24:
 
@@ -127,7 +133,18 @@
 
 
 
+### ShenzhenDaily
+
+[Opinion | Looking for Mr. Right](https://mp.weixin.qq.com/s/kuNtLZpBq9q8gGf-m65HIg)
+
+
+
 ## 主流媒体
+
+
+### 国家保密局 保密观
+
+[皇家侍卫、大内密探还是谍战高手？真实历史中的皇城司到底是干啥的？](https://mp.weixin.qq.com/s/oyT25yTXhRsUu6PkZWBnug)
 
 
 ### 中华人民共和国海关总署 《金钥匙杂志》
@@ -495,6 +512,17 @@
 * [跟着《梦华录》，看看宋朝那些“网红茶饮”](http://epaper.ynet.com/html/2022-06/15/content_399710.htm?div=-1)
 * [@北京青年报之青睐有约 | 导演杨阳透露选择刘亦菲和陈晓的原因](https://m.weibo.cn/5987993158/4782375378356785)
 
+
+### 福建日报
+
+2022-12-15:
+
+> “围炉煮茶”其实不算新事物。在中国茶文化传统中，煮茶一直是一种重要的形态。陆羽在《茶经》中详细记录了煮茶过程。时至今日，云贵川地区依然传承着“火塘烤茶”的习俗。本月，“中国传统制茶技艺及其相关习俗”正式列入联合国教科文组织人类非物质文化遗产代表作名录，加上《梦华录》等古风电视剧的热播，年轻人与传统茶道的距离进一步拉近。
+
+* [从“围炉煮茶”看茶饮赛道转换](http://www.fujian.gov.cn/xwdt/mszx/202212/t20221215_6079075.htm)
+
+
+
 ### 广州日报
 
 * [跟着热剧《梦华录》 看宋代人的服装时尚](https://gzdaily.dayoo.com/pc/html/2022-07/21/content_879_798982.htm) `央视网、光明网均有转载`
@@ -529,6 +557,13 @@
 > 中医药文化游园会包括了融合热播影视剧《梦华录》的茶歇活动、互动环节，借鉴当下风靡上海的中医药老字号药食同源的健康咖啡新理念、社交平台新中式网红茶点技艺等，让普罗大众理解并接受优秀中医药文化，亲历中医药文化的精妙绝伦。
 
 * [新民晚报 | 徐汇区成立“汇民医话”中医药文化科普平台 成立中医药文化科普巡讲团](https://wap.xinmin.cn/content/32272439.html)
+
+
+2022-12-14:
+
+> 如果说老舍笔下的《茶馆》，展现的是老一代人消费茶的习惯。那么，电视剧《梦华录》带火的“围炉煮茶”，则让越来越多的年轻人发现，社交空间原来不止于咖啡馆。要让传统茶饮真正“出圈”走进年轻人生活，要在传承中创新。在这个方面，上海的老字号作出了许多尝试。
+
+* [新民快评｜“老”茶飘出“新”香，让非遗不断年轻化](https://wap.xinmin.cn/content/32281916.html)
 
 
 ### 川观新闻
