@@ -26,7 +26,7 @@
 ## 游戏
 * [梦幻诛仙手游版 | 《梦幻诛仙》x《梦华录》联动版本8月4日上线，邀你共赴京华](https://mp.weixin.qq.com/s/ra6tgcm43QlHFmUStbW8gg)
 * [乐牛玩游戏 | 《九灵神域》X《梦华录》联动即将开启！](https://mp.weixin.qq.com/s/oPR-x0Uc1vxsTb8KIS1VaQ)
-
+* [从大湾区到《梦华录》，《热血合击》一周年庆典如何实现破圈传播？](https://mp.weixin.qq.com/s/nC4yW-YsW2YERcRuWgSioQ): 女主刘亦菲代言，管云鹏参与周年直播庆典。
 
 ## 音乐应用
 * [全民K歌 | 梦华录OST翻唱大赛已经在@全民K歌 上线啦！](https://m.weibo.cn/status/4780955183091736)

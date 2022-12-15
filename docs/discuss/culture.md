@@ -82,6 +82,7 @@
 * [湖南文联 | 艺评丨陈天佑：从《梦华录》看中国文学中的“双姝叙事”](https://mp.weixin.qq.com/s/DV_wQ89OAEvmktj-VvY4mw)
 * [福建文艺网 | “太上头”！藏在《梦华录》中的福文化……](https://mp.weixin.qq.com/s/CCkCDN9WEN9_6PZPbVylww)
 * [匈牙利华文作家（薇丽） | 荐书 |《梦华录》再掀宋文化热之际，不妨看看这部荡气回肠的大宋前传《后周纪》](https://mp.weixin.qq.com/s/_3ddsYDMXGr5KpDJnDed2g)
+* [龙岗文艺 | 书山有路|热播电视剧《梦华录》展现的女性觉醒，你发现了吗？](https://mp.weixin.qq.com/s/vntNfTUQa7UB8XQoXFqMww)
 
 ## 旅游
 
