@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方/知名媒体 `124`个，文章/微博/公众号条目`250`篇。(数量为手动统计，可能会有极小范围误差)
+本文共收录 权威/官方/知名媒体 `126`个，文章/微博/公众号条目`264`篇。(数量为手动统计，可能会有极小范围误差)
 
 ## 央媒党媒
 
@@ -29,9 +29,15 @@
 
 ### 人民网
 
-* [《梦华录》，现代意识与古代背景碰撞出火花](http://opinion.people.com.cn/n1/2022/0606/c437948-32439205.html)
-
-
+* [观点频道 | 《梦华录》，现代意识与古代背景碰撞出火花](http://opinion.people.com.cn/n1/2022/0606/c437948-32439205.html)
+* [福建频道 | 热播剧《梦华录》里的非遗传承：“火”起来的茶百戏如何“活”下去？](http://fj.people.com.cn/n2/2022/0618/c181466-40000378.html)
+* [观点频道 | 人民艺起评：细品梦华 用心之作](http://opinion.people.com.cn/n1/2022/0618/c437948-32449975.html)
+* [上海频道 | 热播“网红剧”场景再现！来豫园夏日游园会收获逛市集的乐趣！](http://sh.people.com.cn/n2/2022/1209/c134768-40225640.html)
+* [安徽频道 | 发现非遗之美——绩溪茶艺](http://ah.people.com.cn/n2/2022/1201/c227142-40217002.html)
+* [人民日报海外版 | 今天，我们打开电视看网剧](http://gs.people.com.cn/n2/2022/0617/c183357-35319659.html)
+* [福建频道 | 梦回大宋：一起感受千年非遗“建盏”的魅力](http://fj.people.com.cn/n2/2022/0619/c181466-40001239.html)
+* [观点频道 | 人民艺起评：中国茶文化博大精深，申遗成功助力保护传承](http://opinion.people.com.cn/n1/2022/1130/c1003-32578031.html)
+* [观点频道 | 中国茶文化博大精深，申遗成功助力保护传承](http://hlj.people.com.cn/n2/2022/1201/c220005-40216289.html)
 
 ### 央视新闻
 
@@ -379,6 +385,7 @@
 
 ### 科技日报
 * [咖啡拉花，又是古人玩剩下的！《梦华录》里的这一幕，学问非常大……](https://mp.weixin.qq.com/s/Fya8T9OGEN2SLgAqhFo5mg)
+* [在茶汤上作画？还是古人会玩](http://v.people.cn/n1/2022/0627/c432795-32457425.html)
 
 ### 中国环境报
 
@@ -537,6 +544,11 @@
 * [@北京青年报之青睐有约 | 导演杨阳透露选择刘亦菲和陈晓的原因](https://m.weibo.cn/5987993158/4782375378356785)
 
 
+### 东方网
+* [《梦华录》捧红的“紫苏”你听说过吗？来上海辰山植物园就能看](https://j.021east.com/p/1656992080040356)
+* [热播剧带动"果子"热 电商平台"古风美食"销量上涨](http://sh.people.com.cn/n2/2022/0614/c350122-35314741.html)
+* [咖啡茶饮鲜啤 申城开启热浪模式 夏日饮品热销](http://sh.people.com.cn/n2/2022/0708/c176738-40029885.html)
+
 ### 福建日报
 
 2022-12-15:
@@ -642,7 +654,13 @@
 * [刘亦菲《梦华录》带火“茶百戏” 历史顾问卢冉：其实这是历史悬案](https://feeds-drcn.cloud.huawei.com.cn/landingpage/latest?docid=1051019f419f2d9681f463e9fb286d6fee0ee6d&to_app=hwbrowser&dy_scenario=recomm&tn=127790cfcfd7a2c04f6e8befd00925728ef1b8ca17245685db2560dd92129600&share_to=weixin&channel=HW_ENTERTAINMENT&ctype=news&appid=hwbrowser&cpid=666&r=CN)
 * [《梦华录》走红之后 古装剧还能回到“黄金时代”吗？｜文艺评论](https://article.xuexi.cn/articles/index.html?art_id=8105306117089069334&item_id=8105306117089069334&study_style_id=feeds_opaque&t=1656144191882&showmenu=false&ref_read_id=f1b840c6-19c0-49a5-88bc-64a798342cf4&pid=&ptype=-1&source=share&share_to=wx_single)
 * [封面会客厅｜《梦华录》“拼命三娘”柳岩：这个角色不需要美 拼命和努力是顺理成章的](https://article.xuexi.cn/articles/index.html?art_id=3195355974672897262&item_id=3195355974672897262&study_style_id=feeds_opaque&t=1655366826330&showmenu=false&ref_read_id=f1b840c6-19c0-49a5-88bc-64a798342cf4&pid=&ptype=-1&source=share&share_to=wx_single)
-* [@封面新闻 | 谶言与帽妖：《梦华录》背后的大历史](https://m.weibo.cn/1496814565/4780024366372530)
+
+
+
+### 华西都市报
+* [关于蹴鞠你了解多少？](http://sc.people.com.cn/n2/2022/0905/c345504-40110890.html)
+* [谶言与帽妖：《梦华录》背后的大历史](http://sc.people.com.cn/n2/2022/0620/c345528-40001490.html)
+* [《梦华录》演“拼命三娘”出圈 柳岩：这个励志的角色不需要美](http://sc.people.com.cn/n2/2022/0620/c345488-40001475.html)
 
 ### 半岛新闻
 
