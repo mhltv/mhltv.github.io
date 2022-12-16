@@ -135,8 +135,7 @@
 ## 法律
 
 ![](/image/discuss/law.jpg)
-
-* [金钥匙杂志（海关总署） | 从《梦华录》看《海关法》](https://mp.weixin.qq.com/s/yfenSnfEpDDxvIwfuv2pYw)
+* [北大法律信息网 | 当《梦华录》的法律问题照进现实](https://mp.weixin.qq.com/s/x7kEaK-VOBoXtXad7Y6t_A)
 * [北京海淀法院 | 庭审中，证据被对方吃掉了怎么办？ 看着古装剧，我突然想到这个问题.....](https://mp.weixin.qq.com/s/0nn0hdhWd6gWHihV7GJ9GA)
 * [北京海淀法院 | 掌握这些法律知识，宋代小娘子也能快速“通关升级”](https://m.weibo.cn/3927469685/4786122175287217)
 * [法治上海 | 热剧《梦华录》里面有这些法律知识？](https://mp.weixin.qq.com/s/ZFGfIyXnIEjq7UzPiQejIg)
