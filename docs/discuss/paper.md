@@ -50,7 +50,7 @@
 
 ### 《今日中学生博览》 2022年第9期
 
-![](/image/discuss/paper/jrzxs-1.bmp)
+![](/image/discuss/paper/jrzxs-1.jpg)
 
 
 ### 《作文素材•初中版》2022年第9辑 
