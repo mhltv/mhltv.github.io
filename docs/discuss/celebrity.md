@@ -368,6 +368,27 @@
 
 > 我要编此曲求顾千帆赵盼儿he！啊啊啊甜甜甜！
 
+
+
+### 杨一歌 - 歌手 [原文链接](https://www.bilibili.com/video/BV1234y1V7zd/?is_story_h5=false&p=1&share_from=ugc&share_medium=android&share_plat=android&share_session_id=63a7afbd-ab81-418a-8a80-4932b0d8c307&share_source=COPY&share_tag=s_i&timestamp=1671134612&unique_k=4B4nIKq&vd_source=087d424162639011a33e46dbbd019cfd)
+
+> 用《从前说》的方式打开《梦华录》【杨一歌翻唱】
+
+
+### 潘辰 - 中国女歌手 [视频链接](https://www.bilibili.com/video/BV1pt4y1875E/?is_story_h5=false&p=1&share_from=ugc&share_medium=android&share_plat=android&share_session_id=d25b804f-245b-435d-9428-5988ee711726&share_source=COPY&share_tag=s_i&timestamp=1670823576&unique_k=LQ5JMtr&vd_source=087d424162639011a33e46dbbd019cfd)
+
+翻唱了《不惜时光》
+
+
+### by2girl - 实力双生组合，《明日之子水晶时代》人气歌手 [小红书视频链接](https://www.xiaohongshu.com/discovery/item/62aaefe30000000014019cd5?app_platform=ios&app_version=7.65.2&share_from_user_hidden=true&type=video&xhsshare=WeixinSession&appuid=61b72f370000000010004924&apptime=1670929178)
+
+
+> 一幅幅茶汤字画，像是历史酝酿出的宝藏
+
+> 突然想到上次去杭州也尝试了仿宋点茶，比剧里的茶百戏简单基础，然而对于我们来说还是有难度。但是学到新知识和了解历史文化非常开心，内附科普！
+
+
+
 ## 娱乐
 
 ### 邢菲 - 演员 [原文链接](https://weibo.com/tv/show/1034:4816123770896427?from=old_pc_videoshow)
@@ -468,22 +489,11 @@
 柳亦菲(阿雅姓柳)~
 
 
-### 潘辰 - 中国女歌手 [视频链接](https://www.bilibili.com/video/BV1pt4y1875E/?is_story_h5=false&p=1&share_from=ugc&share_medium=android&share_plat=android&share_session_id=d25b804f-245b-435d-9428-5988ee711726&share_source=COPY&share_tag=s_i&timestamp=1670823576&unique_k=LQ5JMtr&vd_source=087d424162639011a33e46dbbd019cfd)
-
-翻唱了《不惜时光》
-
-
-### by2girl - 实力双生组合，《明日之子水晶时代》人气歌手 [小红书视频链接](https://www.xiaohongshu.com/discovery/item/62aaefe30000000014019cd5?app_platform=ios&app_version=7.65.2&share_from_user_hidden=true&type=video&xhsshare=WeixinSession&appuid=61b72f370000000010004924&apptime=1670929178)
-
-
-> 一幅幅茶汤字画，像是历史酝酿出的宝藏
-
-> 突然想到上次去杭州也尝试了仿宋点茶，比剧里的茶百戏简单基础，然而对于我们来说还是有难度。但是学到新知识和了解历史文化非常开心，内附科普！
-
 
 ### 徐志胜 - 脱口秀艺人 
 
 ![](/image/discuss/cel/zhisheng.jpg)
+
 
 
 

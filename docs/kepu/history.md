@@ -1,4 +1,4 @@
-# 历史原型
+# 历史
 
 ![](/image/kepu/huanghou.jpg)
 
