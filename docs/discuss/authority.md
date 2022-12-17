@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方/知名媒体 `132`个，文章/微博/公众号条目`279`篇。(数量为手动统计，可能会有极小范围误差)
+本文共收录 权威/官方/知名媒体 `133`个，文章/微博/公众号条目`281`篇。(数量为手动统计，可能会有极小范围误差)
 
 另，新华网，人民网，央视网等综合类新闻网站会经常转载其他媒体的文章，本文未全部标注转载情况。
 
@@ -223,6 +223,11 @@
 
 [《梦华录》联名茶饮汉服开售 影视IP追逐长尾效应](http://www.news.cn/fashion/20220704/43d7ea2882f441618f4fc240d8673950/c.html)
 
+### 中青在线
+
+* [八闽文化系列报道 | 在《梦华录》看赵盼儿斗茶，“茶百戏”离不开他！](http://news.cyol.com/gb/articles/2022-11/23/content_ll2MNFWAQ.html)
+
+
 
 ### 国际在线
 
@@ -396,6 +401,13 @@
 * [关于《梦华录》，这八件需要了解的历史真实](https://www.thepaper.cn/newsDetail_forward_18491561)
 * [难得的是那点“人之常情”，《梦华录》凭它拿下豆瓣8.8分](https://www.thepaper.cn/newsDetail_forward_18439735)
 * [澎湃新闻精选 | 《东京梦华录》中的北宋建筑，恍若步入“清明上河图”](https://mp.weixin.qq.com/s/pDaclRmjaYH5yKjZw0F_9w)
+
+
+
+### 21世纪经济报道
+
+[小众汉服引爆百亿市场 头部商家“破圈”资本竞相逐鹿](http://www.stcn.com/article/detail/735199.html)
+
 
 ### 中国知识产权报
 
@@ -618,6 +630,7 @@
 
 * [刘亦菲新剧《梦华录》创2022国产剧豆瓣最高开分](https://ep.ycwb.com/epaper/ycwb/html/2022-06/06/content_7_499265.htm) `新华网、光明网均有转载`
 * [陈晓眼神会拉丝 刘亦菲《梦华录》为什么火？导演编剧揭开制作内幕](http://sd.news.cn/news/yule/2022-06/14/c_1128736971.htm)
+* [一出手就是最佳 刘亦菲果然够仙](http://www.xinhuanet.com/ent/20220608/cd09f86be4fc48d88ab32cfebb28ded4/c.html)
 
 ### 新民晚报
 * [《梦华录》热播，看小说《大宋帝国》补充政治军事知识](https://wap.xinmin.cn/content/32189817.html)
