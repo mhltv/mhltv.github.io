@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方/知名媒体 `133`个，文章/微博/公众号条目`281`篇。(数量为手动统计，可能会有极小范围误差)
+本文共收录 权威/官方/知名媒体 `133`个，文章/微博/公众号条目`284`篇。(数量为手动统计，可能会有极小范围误差)
 
 另，新华网，人民网，央视网等综合类新闻网站会经常转载其他媒体的文章，本文未全部标注转载情况。
 
@@ -77,6 +77,7 @@
 * [看完《梦华录》迷上“茶百戏” 中国首届斗茶大赛开启](http://m.cyol.com/gb/articles/2022-07/11/content_mzOYxcVvx.html)
 * [学习强国：几多雅事消溽夏：古人避暑的衣食住行](https://www.xuexi.cn/lgpage/detail/index.html?id=2923743365028638442&amp;item_id=2923743365028638442)
 * [茶上“拉花”折射出传统文化的风雅妙趣](http://www.news.cn/politics/2022-06/17/c_1128748925.htm)
+* [2022-12-17 | 民间文化艺术之乡助力浙江乡村振兴](http://news.youth.cn/gn/202212/t20221217_14201466.htm)
 
 ### 解放日报
 
@@ -131,6 +132,11 @@
 
 > In June, A Dream of Splendor, a costume drama also set during the Song Dynasty, generated another wave of popularity. The scenes of the heroine demonstrating traditional Chinese tea acrobatics drew audiences to the show as it aroused a deep and curious interest in Song social life.
 * [Life｜Glimpse of history](https://mp.weixin.qq.com/s/zB06f4PZB3lvUsDj6r8Q6g)
+
+
+### 中国日报双语新闻
+* [2022-12-18 | 《梦华录》里的“快乐水”，上了全球热搜丨图图科学说](https://mp.weixin.qq.com/s/jISTZ2jLPRLVpO5Gv6fYyg)
+
 
 
 ### Global Times
@@ -244,7 +250,9 @@
 * [最高级的情商，是有话直说](https://mp.weixin.qq.com/s/Y9QDdsOdHrNe7lFB6hyfRA)
 * [@中国新闻网: 东西问·传承 ｜ 品一杯《梦华录》同款茶饮 看古人如何茶上拉花](https://m.weibo.cn/1784473157/4778803606064343)
 * [寻味径山：点茶盏中的乡村新景](https://xczx.cctv.com/2022/08/04/ARTIZI0OwSmdWV97mTIJsOGB220804.shtml)
-
+2022-12-18:
+> 热播电视剧《梦华录》中琳琅满目的“果子”：豆儿果、鲜花团子、梨条桃圈、碧涧豆儿糕……以其“高颜值”引起了不少食客兴趣和关注，有着悠久历史文化的茶点在美食界火出圈。
+* [新疆兵团美食“达人”匠心制作唐菓子迎新年](http://society.people.com.cn/n1/2022/1218/c1008-32589084.html)
 
 ### 中国妇女报
 
