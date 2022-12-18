@@ -48,6 +48,12 @@
 ## 杂志
 
 
+### 《中学生天地》 2022/12
+
+![](/image/discuss/paper/z-1.jpg)
+![](/image/discuss/paper/z-2.jpg)
+
+
 ### 《今日中学生博览》 2022年第9期
 
 ![](/image/discuss/paper/jrzxs-1.jpg)
