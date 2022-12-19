@@ -154,6 +154,14 @@
 > 以录会友，重庆茶园多套投资二房全新未入住无贷无户手拉手便宜卖 ，录人凭追剧记录成交价每套减一万~ 
 
 
+### 蒙淇淇77 - 作家 [原文链接](https://share.api.weibo.cn/share/356321463,4847419571055130.html?weibo_id=4847419571055130)
+
+> 真的，我现在看到北京繁华的圣诞街景，
+> 心里都会蹦出一句赵盼儿的：
+> “东京真是，富贵迷人眼。
+
+
+
 ## 生物
 
 ### 亿点点不一样 - 知名科学科普博主 [原文链接](https://www.bilibili.com/video/BV1m94y1S7ma/?is_story_h5=false&p=1&share_from=ugc&share_medium=android&share_plat=android&share_session_id=5f2695fa-0c9e-496a-9aaf-fa98381ea3b9&share_source=COPY&share_tag=s_i&timestamp=1664854658&unique_k=63RspVL&vd_source=5d40b7578e885b6360185d6577fa9d3e)

@@ -35,6 +35,7 @@
 * [联合早报 | 今年最强古偶之争 梦华录凭什么提前锁定出道位？](https://www.zaobao.com.sg/wencui/social/story20220612-1282152): 转载自北京青年报
 * [联合早报 | 三女卖酒卖艺战胜命运](https://www.zaobao.com.sg/entertainment/story20220615-1283131)
 
+
 ## 日本
 
 * [Record China | リウ・イーフェイ主演の時代劇「夢華録」が驚きの高評価、何を意味しているのか](https://www.recordchina.co.jp/b896003-s36-c70-d0202.html) `日本谷歌发布相关报道`
@@ -66,13 +67,14 @@
 ##  印度尼西亚
 * [9 Drama dan Film China Liu Yifei yang Comeback di A Dream of Splendor](https://www.idntimes.com/hype/entertainment/nurfifi-arliani/film-china-liu-yifei-c1c2)
 * [Drama Liu Yifei dan Chen Xiao ‘A Dream Of Splendor’ Cetak Rating Tinggi di Douban](https://overseasidol.com/drama-liu-yifei-dan-chen-xiao-a-dream-of-splendor-cetak-rating-tinggi-di-douban/)
-
+> 近期大热的古装剧集《梦华录》里的宋韵古风随处可见，小楫轻舟、轻罗小扇、焚香点茶，当然也少不了古建筑的身影。这样古韵满满的绝美建筑在岭南的“最美古村”——上岳古村也能找到。
+* [国际日报 | 【大美广东】清远上岳古村：锅耳如云 古韵永存](https://guojiribao.com/?p=191886)
 
 ## 马来西亚
 
-* [Citta Bella都会佳人 | 创下15亿播放量 收获一众好评！ 6大亮点揭开为何《梦华录》荣登2022年最佳剧集](https://cittabella.my/2022/06/%e5%88%98%e4%ba%a6%e8%8f%b2-%e9%99%88%e6%99%93%e3%80%8a%e6%a2%a6%e5%8d%8e%e5%bd%95%e3%80%8b%e4%ba%ae%e7%82%b9/)
+* [Citta Bella都会佳人 | 创下15亿播放量 收获一众好评！ 6大亮点揭开为何《梦华录》荣登2022年最佳剧集](https://cittabella.my/2022/06/%e5%88%98%e4%ba%a6%e8%8f%b2-%e9%99%88%e6%99%93%e3%80%8a%e6%a2%a6%e5%8d%8e%e5%bd%95%e3%80%8b%e4%ba%ae%e7%82%b9/) 简介: 《Citta Bella都会佳人》是台湾《Bella儂儂》的姐妹刊物，更是马来西亚具有指标象征的一本区域性时尚杂志。自1997年4月份创立以来始终以“认真玩乐，积极生活”的精神打造杂志内容，以国际时尚观接触每一波趋势与潮流，再以本地化的视角与专业团队诠释属于Bella的动人风格。
+* [南洋商报 | 刘亦菲古典美焕发软实力 《梦华录》掀汉服热潮](https://www.enanyang.my/%E4%BA%9A%E6%B4%B2%E5%91%A8%E5%88%8A%E4%B8%93%E5%8C%BA/%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8F%A4%E5%85%B8%E7%BE%8E%E7%84%95%E5%8F%91%E8%BD%AF%E5%AE%9E%E5%8A%9B-%E3%80%8A%E6%A2%A6%E5%8D%8E%E5%BD%95%E3%80%8B%E6%8E%80%E6%B1%89%E6%9C%8D%E7%83%AD%E6%BD%AE) 注: 《南洋商报》由陈嘉庚于1923年创办。
 
-简介: 《Citta Bella都会佳人》是台湾《Bella儂儂》的姐妹刊物，更是马来西亚具有指标象征的一本区域性时尚杂志。自1997年4月份创立以来始终以“认真玩乐，积极生活”的精神打造杂志内容，以国际时尚观接触每一波趋势与潮流，再以本地化的视角与专业团队诠释属于Bella的动人风格。
 
 * [星洲日报 | 刘亦菲《梦华录》获央视赞誉黑粉酸过度美化官伎](https://www.sinchew.com.my/20220617/%E5%88%98%E4%BA%A6%E8%8F%B2%E3%80%8A%E6%A2%A6%E5%8D%8E%E5%BD%95%E3%80%8B%E8%8E%B7%E5%A4%AE%E8%A7%86%E8%B5%9E%E8%AA%89%E3%80%80%E9%BB%91%E7%B2%89%E9%85%B8%E8%BF%87%E5%BA%A6%E7%BE%8E%E5%8C%96%E5%AE%98/)
 

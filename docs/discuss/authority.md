@@ -1,4 +1,4 @@
-<# 权威媒体
+# 权威媒体
 
 ![](/image/discuss/off-1.jpg)
 
