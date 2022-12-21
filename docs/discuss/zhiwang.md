@@ -16,6 +16,7 @@
 * [中国经营报 | 文化IP联动 新茶饮夏日营销求新](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCND&dbname=CCNDLAST2022&filename=ZGJY20220711D011&uniplatform=NZKPT&v=m-K_i6S3z4nD9P5T7XzAIH-RCNRbY-SJGI7MS8T0WIvzaGFD5mPQcHnOn9CCuAe5tlH7Xx0ue44%3d):`作者：黎竹 刘旺`
 * [金融时报 | 《梦华录》的美学特色](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCND&dbname=CCNDLAST2022&filename=JRSB202207220091&uniplatform=NZKPT&v=3EAtryuw7GJwGDBDIdmiIWwQOT0YQNC7c_jqY-ScJictIvBZIPzb51x-V4590l4OGbdCEHu5Lxk%3d):`作者：谢愚`
 * [工人日报 | 剧集“继续营业”的天花板正在被打破](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCND&dbname=CCNDTEMP&filename=GRRB202209180040&uniplatform=NZKPT&v=eTmbIgszkZiWCStGhh5Hd72IDp8veJUnL8ppJsDvSV_vgzSYXFMSjI-qv4ju9M0pEsUxdomN9d4%3d):`作者：苏墨`
+* [中国消费者报 | 谁能成为消费者手中的那一杯？](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCND&dbname=CCNDTEMP&filename=XFZB202211250030&uniplatform=NZKPT&v=sTzYUuVEklQJPdRyuh0qu78PluzFVq_ZXDjfQ0CKwEpwnnrGmtFOxi-UNVC54m0rO22FqNWwd4w%3d)
 
 ### 地方级
 
@@ -26,6 +27,7 @@
 * [淄博日报 | 从《梦华录》热播看优秀传统文化魅力](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCND&dbname=CCNDTEMP&filename=ZBRB202206240081&uniplatform=NZKPT&v=8jekgz6IuL6Pb_8DzP8ejxOBFr0uNqTaQj6OxZQmu-wDiFoGUadR-M02gaYmGl-ZBR8GNlkN6qI%3d):`作者：耿雪`
 * [天津日报 | 古偶剧中“古”与“今”如何交融](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCND&dbname=CCNDTEMP&filename=TJRB202206280100&uniplatform=NZKPT&v=UWgD6Wa8bnA2HVBigS1RgNDOCRIorE_3pICr2iAGKH7ubQJm70sv_bMZUwOSBc1h3myyDzaxEk0%3d):`作者：张洁`
 * [嘉兴日报 | 千年宋韵在新时代绽放新光彩](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCND&dbname=CCNDTEMP&filename=JXRA202207010030&uniplatform=NZKPT&v=GKBosWqVsYJXBP-x8JuPVI6I9AHEUpg5shp5rYsY1avTV-5jarN9HQYuX3Z-9WCUpiW74o-4QF0%3d):`作者：吴梦诗`
+* [四川省干部函授学院学报 | 传承文化·镜像现实·根植历史——《梦华录》创作的三重文化维度](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=GHXY202204008&uniplatform=NZKPT&v=IxJjcR8M4FGvlOnz_EUTY4ox8_arwv3Gzy0LiBg8uksUyS6902GiN8yYvosPgr7Y)
 
 
 ## 期刊
@@ -39,10 +41,14 @@
 * [工会博览 | 《梦华录》流露的文化之美太迷人](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=GHBL202220015&uniplatform=NZKPT&v=kgUsarVHS9QW5KZuvfjW976LRS4U_TO6hg1BMVejKIO0QwAAWgS_HKl3RpUGCis3):`作者：夏钦`
 * [出版人 | 浮世绘](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLASN2022&filename=CBRY202207046&uniplatform=NZKPT&v=HA8LSIzxCEe7ia3dUqSWgd94CPfEbDqQhJRlpVrmRLXYtkeWkpvcoZMqvuSPsAfS)
 * [山西老年 | 《梦华录》中的“苏合郁金酒”是保健酒](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTN&filename=SXLN202210012&uniplatform=NZKPT&v=r_y_uAZimUp-sSY0J2E7n2GDaaBVJCYn-UpwNFelyP-_7WO-KMuLoWSQSq13RwLL):`作者：郑学富`
+* [当代电视 | 从境遇到境界：《梦华录》的美学品悟](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=DDDS202212004&uniplatform=NZKPT&v=zMze_1oqDdvOILpwC3taqJ7FeNF6xDShZUJgKhattk5lT0-kacnApxYcv_gAr1yX)
 
 
 ## 知网文化
 > 知网文化是中国知网出品的精品文化出版传播平台，平台集成化网络出版、系统化深度整合大众精品期刊、图书、工具书、报纸、音频、视频、图片、文章等优质文化知识资源，以“鼓舞人、培育人、塑造人”为宗旨，为读者提供纯净、高品质文化知识资源的阅读、欣赏、学习与交流空间。
+
+注: 知网本身也会收录知网文化里的内容，本文尽量保证不重复收录。
+
 
 * [作家天地 | 从《救风尘》到《梦华录》——浅谈赵盼儿人物形象的今与昔](https://wh.cnki.net/article/detail/ZJTD202228012?album=V)
 * [青春期健康 | 《梦华录》中的宋代古画 名瓷与茶文化](https://wh.cnki.net/article/detail/QCQJ202220004?album=U)
@@ -54,3 +60,4 @@
 * [尚舞 | Girl's Power 她的力量](https://wh.cnki.net/article/detail/SAWU202213002?album=V)
 * [音乐爱好者 | 当传统昆曲邂逅西方室内乐 故事故人，弦音寻梦](https://wh.cnki.net/article/detail/YYAH202209002?album=V)
 * [食品界 | 茶味新风尚能否带热市场](https://wh.cnki.net/article/detail/SPJI202209017?album=T)
+* [作家天地 | 影视作品的优秀传统文化解读——以《梦华录》为例](https://wh.cnki.net/article/detail/ZJTD202229045?album=V)

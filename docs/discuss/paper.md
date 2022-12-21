@@ -45,7 +45,22 @@
 * [@深圳图书馆](https://weibo.com/1933683847/M2n3a7jp7)
 * [@书香可人](https://weibo.com/1912945682/M3yDVfROx)
 
-## 杂志
+
+
+## 教辅资料
+
+### 《主题读写》 高二版 第8期
+
+![](/image/discuss/paper/ztdx.jpg)
+
+
+
+
+
+### 《中学生天地》 2022/12
+
+![](/image/discuss/paper/z-1.jpg)
+![](/image/discuss/paper/z-2.jpg)
 
 
 ### 《今日中学生博览》 2022年第9期
@@ -65,6 +80,8 @@
 标题: `宋朝的那些宋潮`
 
 ![](/image/discuss/education/yuwen-1.jpg)
+
+## 杂志
 
 ### 《花火》8月刊
 
@@ -113,6 +130,11 @@
 
 
 ### 内地报纸
+
+**人民日报海外版 | 展现网络视听新作为新气象（文艺创作谈）**
+
+![](/image/discuss/paper/renmin-1.jpg)
+![](/image/discuss/paper/renmin-2.jpg)
 
 
 **中国经济导报（国家发展和改革委员会主管) | 顾均辉说定位：梦华录大火，刘亦菲找准定位盘活半遮面**

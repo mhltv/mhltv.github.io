@@ -17,6 +17,7 @@
 * [男人风尚LEON | 陈晓 | 手持火把的人](https://mp.weixin.qq.com/s?__biz=MjM5OTc2Njg4Mg==&mid=2650976084&idx=1&sn=c6694cc089a8306d4fe5652e5b49db00&chksm=bcc071598bb7f84f9c54897cd202565461fff21b8c9e65761aaabb32df082295ddb65ec4ddbd#rd)
 * [中国新闻网 | 为什么别人都说他“长得挺帅的，可惜长了张嘴”？](https://mp.weixin.qq.com/s/2_YhFn-X_SAkMhArB--lMQ)
 * [北京广播电视报社 | 出道12载，他终于演了一部对得起颜值的《梦华录》](https://mp.weixin.qq.com/s/2bFbj9g8VLysvV6uNGdJag)
+* [北广人物周刊 | 再刷《梦华录》，看陈晓的“一体两面”](https://mp.weixin.qq.com/s/-3yz4nVxxew6Xipn-ioNTA)
 
 ### 商务
 
@@ -99,5 +100,6 @@
 * [美颜相机 x 林允 | 同款宋引章妆容](https://m.weibo.cn/2934128200/4783461695750195)
 * [amiparis | 新品Voulez-Vous包](https://weibo.com/6568401638/MjznP8KbG?pagetype=profilefeed)
 * [节目 | 浙江卫视谁是鼎厨](https://weibo.com/7520469728/MjQWsAlFv)
-
+> 2022年，我们惊喜地看到她不断向上的元气，自信挺拔的姿态，和日渐增强的气场。她和角色一起沉淀，诠释了《光阴里的故事》的年代感，驾驭了《梦华录》的悲情起伏；她在社交平台的镜头里展露轻松和真实，享受当下的自在。
+* [2022凤凰网时尚盛典 | 年度时尚艺人 林允](https://weibo.com/2162418640/MkuVHrWRT)
 

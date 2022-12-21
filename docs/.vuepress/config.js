@@ -113,6 +113,7 @@ module.exports = {
             'tv-shows',
             'lines',
             'music',
+            'creative',
             'ordinary'
           ]
         }

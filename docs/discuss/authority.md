@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方/知名媒体 `133`个，文章/微博/公众号条目`281`篇。(数量为手动统计，可能会有极小范围误差)
+本文共收录 权威/官方/知名媒体 `136`个，文章/微博/公众号条目`288`篇。(数量为手动统计，可能会有极小范围误差)
 
 另，新华网，人民网，央视网等综合类新闻网站会经常转载其他媒体的文章，本文未全部标注转载情况。
 
@@ -42,6 +42,9 @@
 * [观点频道 | 人民艺起评：中国茶文化博大精深，申遗成功助力保护传承](http://opinion.people.com.cn/n1/2022/1130/c1003-32578031.html)
 * [观点频道 | 中国茶文化博大精深，申遗成功助力保护传承](http://hlj.people.com.cn/n2/2022/1201/c220005-40216289.html)
 
+> 近年来，以《梦华录》为代表的古装剧集，用现代视听语言再现中华文化的音律之美、服饰之美、意蕴之美，让观众充分领略传统文化的魅力与活力；
+* [2022-12-19 | 人民日报海外版 | 展现网络视听新作为新气象（文艺创作谈）](http://ent.people.com.cn/n1/2022/1219/c1012-32589220.html) 注: 海外版等板块有纸媒，如有图片，会在`纸质刊物`板块收录。本文同时被`视听中国`微博转发。
+
 ### 央视新闻
 
 [宋朝就有咖啡拉花了？非遗“茶百戏”可太美了！](https://mp.weixin.qq.com/s/Aqwf1CV-L9dT24cDEGCdDw)
@@ -77,6 +80,7 @@
 * [看完《梦华录》迷上“茶百戏” 中国首届斗茶大赛开启](http://m.cyol.com/gb/articles/2022-07/11/content_mzOYxcVvx.html)
 * [学习强国：几多雅事消溽夏：古人避暑的衣食住行](https://www.xuexi.cn/lgpage/detail/index.html?id=2923743365028638442&amp;item_id=2923743365028638442)
 * [茶上“拉花”折射出传统文化的风雅妙趣](http://www.news.cn/politics/2022-06/17/c_1128748925.htm)
+* [2022-12-17 | 民间文化艺术之乡助力浙江乡村振兴](http://news.youth.cn/gn/202212/t20221217_14201466.htm)
 
 ### 解放日报
 
@@ -131,6 +135,11 @@
 
 > In June, A Dream of Splendor, a costume drama also set during the Song Dynasty, generated another wave of popularity. The scenes of the heroine demonstrating traditional Chinese tea acrobatics drew audiences to the show as it aroused a deep and curious interest in Song social life.
 * [Life｜Glimpse of history](https://mp.weixin.qq.com/s/zB06f4PZB3lvUsDj6r8Q6g)
+
+
+### 中国日报双语新闻
+* [2022-12-18 | 《梦华录》里的“快乐水”，上了全球热搜丨图图科学说](https://mp.weixin.qq.com/s/jISTZ2jLPRLVpO5Gv6fYyg)
+
 
 
 ### Global Times
@@ -244,7 +253,9 @@
 * [最高级的情商，是有话直说](https://mp.weixin.qq.com/s/Y9QDdsOdHrNe7lFB6hyfRA)
 * [@中国新闻网: 东西问·传承 ｜ 品一杯《梦华录》同款茶饮 看古人如何茶上拉花](https://m.weibo.cn/1784473157/4778803606064343)
 * [寻味径山：点茶盏中的乡村新景](https://xczx.cctv.com/2022/08/04/ARTIZI0OwSmdWV97mTIJsOGB220804.shtml)
-
+2022-12-18:
+> 热播电视剧《梦华录》中琳琅满目的“果子”：豆儿果、鲜花团子、梨条桃圈、碧涧豆儿糕……以其“高颜值”引起了不少食客兴趣和关注，有着悠久历史文化的茶点在美食界火出圈。
+* [新疆兵团美食“达人”匠心制作唐菓子迎新年](http://society.people.com.cn/n1/2022/1218/c1008-32589084.html)
 
 ### 中国妇女报
 
@@ -379,6 +390,12 @@
 ### 新华报业网
 
 [《梦华录》带热非遗技艺“茶百戏”](https://xhby.net/ly/wltt/202206/t20220614_7581685.shtml) 
+
+
+### 中食舆情(中国食品报社)
+
+[娱情观察| 《梦华录》“捧红”茶风尚,茶企纷纷联名跨界谋求融资上市](https://mp.weixin.qq.com/s/0FsrVn39VPhlmop2BPSLew)
+
 
 ### 中国交通报
 
@@ -519,7 +536,9 @@
 ## 地方媒体
 
 
+## 胡杨网 (新疆建设兵团官方外宣平台)
 
+* [走近“非遗”丨美食“达人”周小茵制作唐菓子迎新年](http://www.huyangnet.cn/content/2022-12/20/content_1714326.html): 本篇及类似内容同时被中国新闻网，人民网，学习强国平台，官方微博等转载。
 
 
 
@@ -711,6 +730,11 @@
 * [《梦华录》走红之后 古装剧还能回到“黄金时代”吗？｜文艺评论](https://article.xuexi.cn/articles/index.html?art_id=8105306117089069334&item_id=8105306117089069334&study_style_id=feeds_opaque&t=1656144191882&showmenu=false&ref_read_id=f1b840c6-19c0-49a5-88bc-64a798342cf4&pid=&ptype=-1&source=share&share_to=wx_single)
 * [封面会客厅｜《梦华录》“拼命三娘”柳岩：这个角色不需要美 拼命和努力是顺理成章的](https://article.xuexi.cn/articles/index.html?art_id=3195355974672897262&item_id=3195355974672897262&study_style_id=feeds_opaque&t=1655366826330&showmenu=false&ref_read_id=f1b840c6-19c0-49a5-88bc-64a798342cf4&pid=&ptype=-1&source=share&share_to=wx_single)
 
+
+### 四川新闻网
+> 四川新闻网特别节目《冷历史会说话第六季来一盏宋茶》
+
+[2022-12-20 | #冷历史会说话# 【#来一盏宋茶# ⑨ |《梦华录》中的“茶百戏”就是现在的“拉花”？】](https://weibo.com/1697698951/Mku8my6qI)
 
 
 ### 华西都市报

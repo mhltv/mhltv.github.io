@@ -337,7 +337,7 @@
 
 ### 二、用数小钱钱的方式完成二刷(全四十集) 
 
-![](/image/juqing/other-9.JPG)
+![](/image/juqing/other-9.png)
 
 **访问链接：**[把持不住的人: 用数小钱钱的方式完成二刷(全四十集)](https://www.douban.com/group/topic/270563642/?_i=58257476dW_dPv,77318232wwdews)
 
