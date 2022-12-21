@@ -96,6 +96,12 @@
 链接: [豆瓣讨论 | 梦华录《小黄花种植活动》来啦+抽周边 ](https://www.douban.com/group/topic/276486341/?_i=65714974bea9330,5720766OBxYktj&dt_platform=wechat_friends&dt_dapp=1)
 
 
+## 年度汉字影评大赛
+
+![](/image/lu/word.webp)
+
+相关创作: [梦华录年度汉字影评活动汇总帖](https://www.douban.com/group/topic/279996449/?_i=1536917Rn8heGv)
+
 ## 成语创作
 
 ![](/image/lu/luma.jpg)

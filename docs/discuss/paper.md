@@ -45,7 +45,16 @@
 * [@深圳图书馆](https://weibo.com/1933683847/M2n3a7jp7)
 * [@书香可人](https://weibo.com/1912945682/M3yDVfROx)
 
-## 杂志
+
+
+## 教辅资料
+
+### 《主题读写》 高二版 第8期
+
+![](/image/discuss/paper/ztdx.jpg)
+
+
+
 
 
 ### 《中学生天地》 2022/12
@@ -71,6 +80,8 @@
 标题: `宋朝的那些宋潮`
 
 ![](/image/discuss/education/yuwen-1.jpg)
+
+## 杂志
 
 ### 《花火》8月刊
 
