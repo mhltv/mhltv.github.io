@@ -32,6 +32,11 @@
 * [时尚COSMO | 刘亦菲玩点茶，我玩围炉煮茶](https://mp.weixin.qq.com/s/1cfUgjNWsIpz_DJlrKf3Aw)
 * [餐饮020 | 继露营之后，“围炉煮茶”又成为年轻人新宠？](https://mp.weixin.qq.com/s/xQSBiPGYYTqprd0HNZga9g)
 
+## 国际报道
+
+* [AFP BB News | 中国の若者がハマる「七輪を囲んでお茶」](https://www.afpbb.com/articles/-/3444123)
+
+
 ## 各地打卡
 
 
