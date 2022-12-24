@@ -34,6 +34,8 @@
 
 ## 国际报道
 
+此类文章也在[破圈/外国媒体](/discuss/international)收录。
+
 * [AFP BB News | 中国の若者がハマる「七輪を囲んでお茶」](https://www.afpbb.com/articles/-/3444123)
 
 
