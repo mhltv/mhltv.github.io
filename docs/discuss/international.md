@@ -3,7 +3,9 @@
 
 ![](/image/discuss/haiwai.jpg)
 
-注: Vogue 特意提到了以 [Mulan](https://movies.disney.com/mulan-2020) 知名的刘亦菲。
+注: 
+1. Vogue 特意提到了以 [Mulan](https://movies.disney.com/mulan-2020) 知名的刘亦菲。
+2. 本文倾向于收录主流媒体报道而非娱乐媒体。
 
 ## 英文报道
 
@@ -23,11 +25,10 @@
 
 ## 越南
 
-["Mộng hoa lục"](https://daibieunhandan.vn/van-hoa/mong-hoa-luc-i293274/)
-
-注:
-
-此媒体为 `《人民代表报》`, 由越南国会办公室主管。
+* ["Mộng hoa lục"](https://daibieunhandan.vn/van-hoa/mong-hoa-luc-i293274/) 注: 此媒体为 `《人民代表报》`, 由越南国会办公室主管。
+ 金莲花奖相关报道:
+* [VN EXPRESS | Lưu Diệc Phi đoạt Nữ chính xuất sắc](https://vnexpress.net/luu-diec-phi-doat-nu-chinh-xuat-sac-4551233.html?continueFlag=900e4bb3b1d6a7383dd9165bc4964308): 《越南快讯》拥有越南第一份电子报，从属于越南科学技术部，为越南浏览人数最多的本土网站。
+* [kinhtedothi.vn | Nhan sắc đẹp như tiên tử của Lưu Diệc Phi tại Liên hoan phim Macau](https://kinhtedothi.vn/nhan-sac-dep-nhu-tien-tu-cua-luu-diec-phi-tai-lien-hoan-phim-macau.html)
 
 ## 新加坡
 
@@ -53,11 +54,11 @@
 * [日本Wowow电台引进梦华录 | 2022-11-15](https://www.wowow.co.jp/release/006560)
 > 　また、近年は中国の伝統文化を取り入れた「国潮」ファッションがはやっている。かつては中国も欧米ブランド信仰が強かったが、国産ブランドの品質が向上したことと、経済成長により「生まれた時から豊か」な若者は自国の文化に誇りを感じている。コーヒーやコーラーからお茶を好むようになったのも、「国潮」スタイルの一環と言える。今年の夏に大ヒットした時代劇ドラマ『夢華録（英題：A Dream of Splendor）』で、ヒロインが優雅に茶を入れる姿が人気となったのも大きい。街角では、コスプレのような古風な衣装「漢服」をまとって七輪でお茶をたしなむ若者たちもいる。
 
-* [法新社日本 AFP BB News | 中国の若者がハマる「七輪を囲んでお茶」](https://www.afpbb.com/articles/-/3444123)
+* [法新社日本 AFP BB News | 中国の若者がハマる「七輪を囲んでお茶」](https://www.afpbb.com/articles/-/3444123): 原载于`东方新报`，日本雅虎新闻转载。
 
 
 ## 泰国
-
+* [bangkokbiznews | “สามบุปผาลิขิตฝัน” การกลับมาของ “หลิวอี้เฟย”](https://www.bangkokbiznews.com/lifestyle/1009476)
 * [trueID | รีวิว สามบุปผาลิขิตฝัน A Dream of Splendor ซีรีส์จีนย้อนยุค โรแมนติกดราม่า](https://entertainment.trueid.net/detail/a6e9LwrgNwW6)
 * [trueID | 5 เหตุผลไม่ควรพลาด สามบุปผาลิขิตฝัน A Dream of Splendor หลิวอี้เฟย 💕 เฉินเสี่ยว ซีรีส์พลังหญิงเพื่อผู้หญิง](https://entertainment.trueid.net/detail/Q59EqxdjMBm5)
 * [teenee | ประกาศข่าวดีครั้งใหญ่ของ หลิวอี้เฟย คุ้มค่ากับการคัมแบ็ครอบ16ปี](https://entertain.teenee.com/chinese_star/258998.html): 金莲花奖相关
@@ -86,6 +87,8 @@
 
 ![](/image/discuss/media/xz-1.webp)
 ![](/image/discuss/media/xz.webp)
+* [The Star | China’s Zhang Ziyi wins Best Director and Best Actress at Macau movie festival](https://www.thestar.com.my/lifestyle/entertainment/2022/12/23/chinas-zhang-ziyi-wins-best-director-and-best-actress-at-macau-movie-festival)
+: 与新加坡 《海峡时报》为相同内容。
 
 ## 土耳其
 
