@@ -21,6 +21,7 @@
 > Earlier in summer, the C-drama hit A Dream of Splendor, which follows three women transforming a tea shop into a successful restaurant during the Song Dynasty, led many fans to imitate the desserts, clothing, and tea from that period. “Stove-boiled tea” complements the fall and winter seasons and transcends into a widely-followed lifestyle. China’s younger generations increasingly appreciate the health benefit and spiritual comfort associated with drinking tea and slow living
 
 * [奢侈品行业分析：JING DAILY | ‘Stove-Boiled Tea’ — China’s Newest Way To Chillax](https://jingdaily.com/china-stove-boiled-tea-fall-winter-2022/)
+* [YAHOO FINANCE | The 35th Huading Awards Nominations Announced, "Medal of the Republic" Ranked First in the Satisfaction Survey, Tao Yin, Crystal Liu and Other Contenders for the Best Actress](https://finance.yahoo.com/news/35th-huading-awards-nominations-announced-203700541.html?guccounter=1): 《梦华录》华鼎奖相关。
 
 
 ## 越南
