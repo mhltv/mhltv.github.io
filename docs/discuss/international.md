@@ -3,7 +3,9 @@
 
 ![](/image/discuss/haiwai.jpg)
 
-注: Vogue 特意提到了以 [Mulan](https://movies.disney.com/mulan-2020) 知名的刘亦菲。
+注: 
+1. Vogue 特意提到了以 [Mulan](https://movies.disney.com/mulan-2020) 知名的刘亦菲。
+2. 本文倾向于收录主流媒体报道而非娱乐媒体。
 
 ## 英文报道
 
@@ -23,18 +25,19 @@
 
 ## 越南
 
-["Mộng hoa lục"](https://daibieunhandan.vn/van-hoa/mong-hoa-luc-i293274/)
-
-注:
-
-此媒体为 `《人民代表报》`, 由越南国会办公室主管。
+* ["Mộng hoa lục"](https://daibieunhandan.vn/van-hoa/mong-hoa-luc-i293274/) 注: 此媒体为 `《人民代表报》`, 由越南国会办公室主管。
+ 金莲花奖相关报道:
+* [VN EXPRESS | Lưu Diệc Phi đoạt Nữ chính xuất sắc](https://vnexpress.net/luu-diec-phi-doat-nu-chinh-xuat-sac-4551233.html?continueFlag=900e4bb3b1d6a7383dd9165bc4964308): 《越南快讯》拥有越南第一份电子报，从属于越南科学技术部，为越南浏览人数最多的本土网站。
+* [kinhtedothi.vn | Nhan sắc đẹp như tiên tử của Lưu Diệc Phi tại Liên hoan phim Macau](https://kinhtedothi.vn/nhan-sac-dep-nhu-tien-tu-cua-luu-diec-phi-tai-lien-hoan-phim-macau.html)
 
 ## 新加坡
 
-* [The STRAITSTIMES | Binge-worthy: A Dream Of Splendor is a slow-burn romance done well ](https://www.straitstimes.com/life/entertainment/binge-worthy-a-dream-of-splendor-is-a-slow-burn-romance-done-well)
+* [THE STRAITSTIMES | Binge-worthy: A Dream Of Splendor is a slow-burn romance done well ](https://www.straitstimes.com/life/entertainment/binge-worthy-a-dream-of-splendor-is-a-slow-burn-romance-done-well)
 * [联合早报 | 今年最强古偶之争 梦华录凭什么提前锁定出道位？](https://www.zaobao.com.sg/wencui/social/story20220612-1282152): 转载自北京青年报
 * [联合早报 | 三女卖酒卖艺战胜命运](https://www.zaobao.com.sg/entertainment/story20220615-1283131)
-
+> Chinese-American actress Liu Yifei was also a winner at the Macau International TV Festival held on the same day.
+> The 35-year-old won Best Actress for her role as Zhao Pan’er, a shrewd businesswoman who runs a teahouse, in the Chinese period series A Dream Of Splendor.
+* [THE STRAITSTIMES |  China’s Zhang Ziyi wins Best Director and Best Actress at Macau movie festival](https://www.straitstimes.com/life/entertainment/china-s-zhang-ziyi-wins-best-director-and-best-actress-at-macau-movie-festival): 金莲花奖相关报道
 
 ## 日本
 
@@ -49,12 +52,16 @@
 注: 介绍中也提到了以《木兰》知名的刘亦菲
 
 * [日本Wowow电台引进梦华录 | 2022-11-15](https://www.wowow.co.jp/release/006560)
+> 　また、近年は中国の伝統文化を取り入れた「国潮」ファッションがはやっている。かつては中国も欧米ブランド信仰が強かったが、国産ブランドの品質が向上したことと、経済成長により「生まれた時から豊か」な若者は自国の文化に誇りを感じている。コーヒーやコーラーからお茶を好むようになったのも、「国潮」スタイルの一環と言える。今年の夏に大ヒットした時代劇ドラマ『夢華録（英題：A Dream of Splendor）』で、ヒロインが優雅に茶を入れる姿が人気となったのも大きい。街角では、コスプレのような古風な衣装「漢服」をまとって七輪でお茶をたしなむ若者たちもいる。
+
+* [法新社日本 AFP BB News | 中国の若者がハマる「七輪を囲んでお茶」](https://www.afpbb.com/articles/-/3444123): 原载于`东方新报`，日本雅虎新闻转载。
 
 
 ## 泰国
-
+* [bangkokbiznews | “สามบุปผาลิขิตฝัน” การกลับมาของ “หลิวอี้เฟย”](https://www.bangkokbiznews.com/lifestyle/1009476)
 * [trueID | รีวิว สามบุปผาลิขิตฝัน A Dream of Splendor ซีรีส์จีนย้อนยุค โรแมนติกดราม่า](https://entertainment.trueid.net/detail/a6e9LwrgNwW6)
 * [trueID | 5 เหตุผลไม่ควรพลาด สามบุปผาลิขิตฝัน A Dream of Splendor หลิวอี้เฟย 💕 เฉินเสี่ยว ซีรีส์พลังหญิงเพื่อผู้หญิง](https://entertainment.trueid.net/detail/Q59EqxdjMBm5)
+* [teenee | ประกาศข่าวดีครั้งใหญ่ของ หลิวอี้เฟย คุ้มค่ากับการคัมแบ็ครอบ16ปี](https://entertain.teenee.com/chinese_star/258998.html): 金莲花奖相关
 
 
 ## 韩国
@@ -74,12 +81,14 @@
 
 * [Citta Bella都会佳人 | 创下15亿播放量 收获一众好评！ 6大亮点揭开为何《梦华录》荣登2022年最佳剧集](https://cittabella.my/2022/06/%e5%88%98%e4%ba%a6%e8%8f%b2-%e9%99%88%e6%99%93%e3%80%8a%e6%a2%a6%e5%8d%8e%e5%bd%95%e3%80%8b%e4%ba%ae%e7%82%b9/) 简介: 《Citta Bella都会佳人》是台湾《Bella儂儂》的姐妹刊物，更是马来西亚具有指标象征的一本区域性时尚杂志。自1997年4月份创立以来始终以“认真玩乐，积极生活”的精神打造杂志内容，以国际时尚观接触每一波趋势与潮流，再以本地化的视角与专业团队诠释属于Bella的动人风格。
 * [南洋商报 | 刘亦菲古典美焕发软实力 《梦华录》掀汉服热潮](https://www.enanyang.my/%E4%BA%9A%E6%B4%B2%E5%91%A8%E5%88%8A%E4%B8%93%E5%8C%BA/%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8F%A4%E5%85%B8%E7%BE%8E%E7%84%95%E5%8F%91%E8%BD%AF%E5%AE%9E%E5%8A%9B-%E3%80%8A%E6%A2%A6%E5%8D%8E%E5%BD%95%E3%80%8B%E6%8E%80%E6%B1%89%E6%9C%8D%E7%83%AD%E6%BD%AE) 注: 《南洋商报》由陈嘉庚于1923年创办。
-
 * [风采 | 现在的咖啡拉花逊了 宋朝人喝茶就玩拉花](https://feminine.com.my/news/%e7%8e%b0%e5%9c%a8%e7%9a%84%e5%92%96%e5%95%a1%e6%8b%89%e8%8a%b1%e9%80%8a%e4%ba%86-%e5%ae%8b%e6%9c%9d%e4%ba%ba%e5%96%9d%e8%8c%b6%e5%b0%b1%e7%8e%a9%e6%8b%89%e8%8a%b1/)注:《风采》杂志创刊超过40年，是新马销量No.1与Adex No.1、最具权威的中文杂志。
+* [光明日报 | 章子怡雙料得主 王凱劉亦菲封視帝后](https://guangming.com.my/%E7%AB%A0%E5%AD%90%E6%80%A1%E9%9B%99%E6%96%99%E5%BE%97%E4%B8%BB-%E7%8E%8B%E5%87%B1%E5%8A%89%E4%BA%A6%E8%8F%B2%E5%B0%81%E8%A6%96%E5%B8%9D%E5%90%8E)
 * [星洲日报 | 刘亦菲《梦华录》获央视赞誉黑粉酸过度美化官伎](https://www.sinchew.com.my/20220617/%E5%88%98%E4%BA%A6%E8%8F%B2%E3%80%8A%E6%A2%A6%E5%8D%8E%E5%BD%95%E3%80%8B%E8%8E%B7%E5%A4%AE%E8%A7%86%E8%B5%9E%E8%AA%89%E3%80%80%E9%BB%91%E7%B2%89%E9%85%B8%E8%BF%87%E5%BA%A6%E7%BE%8E%E5%8C%96%E5%AE%98/)
 
 ![](/image/discuss/media/xz-1.webp)
 ![](/image/discuss/media/xz.webp)
+* [The Star | China’s Zhang Ziyi wins Best Director and Best Actress at Macau movie festival](https://www.thestar.com.my/lifestyle/entertainment/2022/12/23/chinas-zhang-ziyi-wins-best-director-and-best-actress-at-macau-movie-festival)
+: 与新加坡 《海峡时报》为相同内容。
 
 ## 土耳其
 
@@ -90,5 +99,8 @@
 * [hibya、gaphaberleri等媒体转载](https://www.gaphaberleri.com/mobil/haber/93504/song-kadinlarina-odaklanan-bir-ihtisam-ruyasi-buyuk-ilgi-cekiyor.html)
 
 
+## 柬埔寨
+
+* [KAMPUCHEA THMEY DAILY | Liu Yifei ឈ្នះពានរង្វាន់ជាតារាសម្តែងល្អបំផុត ពីកម្មវិធី Golden Lotus Award](https://www.kampucheathmey.com/entertainment/435629)
 
 [粉丝总结@天才少女拜可菲_听风拾亦](https://weibo.com/5288723535/LFfzxf2PH)

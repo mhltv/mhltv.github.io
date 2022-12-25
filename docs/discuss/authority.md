@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方/知名媒体 `136`个，文章/微博/公众号条目`288`篇。(数量为手动统计，可能会有极小范围误差)
+本文共收录 权威/官方/知名媒体 `137`个，文章/微博/公众号条目`294`篇。(数量为手动统计，可能会有极小范围误差)
 
 另，新华网，人民网，央视网等综合类新闻网站会经常转载其他媒体的文章，本文未全部标注转载情况。
 
@@ -146,11 +146,12 @@
 * [New series ‘A Dream of Splendor’ shows links between ancient and modern times](https://www.globaltimes.cn/page/202206/1267599.shtml)
 * [Rising quality of Chinese web series stimulates viewers’ willingness to pay for content](https://www.globaltimes.cn/page/202206/1268611.shtml)
 
-2022-11-24:
-
 > In June, HEYTEA, a popular beverage chain headquartered in Guangdong, launched a new product that was inspired by and named after "A Dream of Splendor," a smash hit TV drama. The drink flew off the shelves and set a record sales volume of 300,000 cups nationwide in a day.
 
-* [Global Times | Boom of new tea beverages](https://www.globaltimes.cn/page/202211/1280402.shtml)
+* [2022-11-24 | Global Times | Boom of new tea beverages](https://www.globaltimes.cn/page/202211/1280402.shtml)
+> A Dream of Splendor, which has an 8.3/10 on Douban, focuses on how three women in the Song Dynasty (960-1279) unite together to compete against a group of men to see who can make the best tea. Show director Yang Yang told the Global Times that to find the most suitable setting for the series, the production team explored 10 ancient Chinese towns in order to effectively capture the details of making traditional tea. The production team also invited Zhang Zhifeng, a representative inheritor of tea making, to give lectures to the film crew during production.
+
+* [2022-12-22 | More high-quality Chinese TV dramas see success around the world](https://www.globaltimes.cn/page/202212/1282428.shtml)
 
 
 ### 国家知识产权局（国际版）
@@ -355,6 +356,13 @@
 
 [@人民政协网 | 传承人带你走进茶百戏的前世今生](https://m.weibo.cn/7615661091/4783820711398424)
 
+
+### 综艺报
+
+* [《梦华录》走红，启发真人秀新创作思路](https://mp.weixin.qq.com/s/CTWeufMGHYkokmV1qjQfDw)
+* [《梦华录》爆火，不只因为刘亦菲](https://mp.weixin.qq.com/s/-1T5iskMNzGIg8MefK60UA)
+* [热剧“场外详解”，看《梦华录》如何“影知联动”](https://mp.weixin.qq.com/s/N8F4VDrI1bhDZSQfx0_IoQ)
+
 ### 文汇报
 * [《梦华录》对古典戏曲的非典型改编留下这些启示](https://info.whb.cn/mobile/2022-06-21/index.html?timetemp=1664877351124): `文艺评论/文艺百家版面`
 * [《梦华录》的超高评分意味着什么](https://info.whb.cn/mobile/2022-06-14/index.html?timetemp=1664877646266): `文艺评论版面`
@@ -365,6 +373,8 @@
 * [与其说《梦华录》改编关汉卿《救风尘》 不如说编导脑洞大开？](http://sd.news.cn/news/yule/2022-06/21/c_1128761934.htm)
 * [为何陈晓刘亦菲《梦华录》评分超高 一大箱装十贯钱或能说明一二](http://sd.news.cn/news/yule/2022-06/15/c_1128739878.htm)
 * [中国古代叙事画：打开隐秘在历史缝隙间的故事](https://reader.gmw.cn/2022-08/03/content_35927014.htm)
+> 说到看剧，现在真有一些可爱的观众是看剧学史的。今年最热的古装剧当属故事发生于宋代的《梦华录》，剧中除了主人公缠绵悱恻的爱情，古时东京城（开封）的繁华盛景，也让人很关注宋廷内部运作的模式
+* [2022-12-20 | 寻找新的门窗进入历史](https://reader.gmw.cn/2022-12/20/content_36245088.htm): 光明网转载
 
 ### 文学报
 
@@ -536,7 +546,7 @@
 ## 地方媒体
 
 
-## 胡杨网 (新疆建设兵团官方外宣平台)
+### 胡杨网 (新疆建设兵团官方外宣平台)
 
 * [走近“非遗”丨美食“达人”周小茵制作唐菓子迎新年](http://www.huyangnet.cn/content/2022-12/20/content_1714326.html): 本篇及类似内容同时被中国新闻网，人民网，学习强国平台，官方微博等转载。
 
@@ -734,7 +744,9 @@
 ### 四川新闻网
 > 四川新闻网特别节目《冷历史会说话第六季来一盏宋茶》
 
-[2022-12-20 | #冷历史会说话# 【#来一盏宋茶# ⑨ |《梦华录》中的“茶百戏”就是现在的“拉花”？】](https://weibo.com/1697698951/Mku8my6qI)
+* [2022-12-20 | #冷历史会说话# 【#来一盏宋茶# ⑨ |《梦华录》中的“茶百戏”就是现在的“拉花”？】](https://weibo.com/1697698951/Mku8my6qI)
+* [2022-12-23 | 冷历史会说话Ⅵ 来一盏宋茶⑩ | 宋茶还会再次流行吗？](http://drive.dizo.com.cn/guonei/2022/1223/100028761.html)
+
 
 
 ### 华西都市报
