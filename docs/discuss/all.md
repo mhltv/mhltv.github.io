@@ -1,7 +1,7 @@
 # 破圈讨论
 
 本文收录诸多媒体从各个角度对梦华录的讨论, 因讨论内容过多，部分媒体发布了多篇报道，也有报道会被多个媒体转载，本文只收录部分代表性内容。
-目前共计收录`34`个分类，`451`个条目。
+目前共计收录`34`个分类，`452`个条目。
 
 同时，《梦华录》也掀起了一股“宋朝热”，激发起无数观众对于那个文化鼎盛时期民俗百态的好奇与向往。读者可从本文中散落于不同行业的讨论文章中一窥全豹。
 
@@ -185,7 +185,7 @@
 ## 服装
 
 ![](/image/discuss/cloth.jpg)
-
+* [MIGAINO曼娅奴 | 《梦华录》外『新中式』登场](https://mp.weixin.qq.com/s/sCWqfvKw5WhHvsm65yu9yg)
 * [多客软件 | 《梦华录》让汉服又火了一把，突然爆火的还有它！](https://mp.weixin.qq.com/s/lZe2VhGamoqDSBFvjIm-lA)
 * [汉服广东汉粤 | 其实《梦华录》到底是一部怎样的汉服同袍参考剧？](https://mp.weixin.qq.com/s/rhKEw8ijeihxV8Rh0RiJCw)
 * [衔泥小筑汉服 | 汉服推荐丨梦华录引领大宋时尚穿搭](https://mp.weixin.qq.com/s/kLhr1aMahnJigJHrqGkWIQ)

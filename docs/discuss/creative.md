@@ -47,6 +47,11 @@
 
 [反诈宣传视频](https://weibo.com/1935167034/LBY4qC7xT)
 
+其他链接:
+
+* [江苏警方 | 《梦华录》反套路：“你知道我有多关心你么？”](https://mp.weixin.qq.com/s/figZDq5JA-HXg9x_w4sizQ)
+
+
 
 ## 杭州移动
 

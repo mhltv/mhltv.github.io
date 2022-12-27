@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方/知名媒体 `138`个，文章/微博/公众号条目`300`篇。(数量为手动统计，可能会有极小范围误差)
+本文共收录 权威/官方/知名媒体 `139`个，文章/微博/公众号条目`305`篇。(数量为手动统计，可能会有极小范围误差)
 
 另，新华网，人民网，央视网等综合类新闻网站会经常转载其他媒体的文章，本文未全部标注转载情况。
 
@@ -55,6 +55,10 @@
 
 * [央视网 | 北大教授评刘亦菲版赵盼儿 ](https://m.weibo.cn/3266943013/4786493522448535)
 * [四川崇州：建设唐宋文化沉浸式旅游高地](https://news.cctv.com/2022/09/29/ARTIl1TEZ88nXJgIOsqavMLJ220929.shtml)
+* [大夏天的，古代吃货怎么整活儿？](https://mp.weixin.qq.com/s/G_Z1qBzvq-8DMCRJm-339g)
+* [别把七夕节过“窄”了](https://mp.weixin.qq.com/s/eQb9sOV8C8_YmR-VohdxTw)
+* [2022-12-26 | 新兴职业？女子上门代做饭，4菜1汤66元](https://mp.weixin.qq.com/s/ZvjIgHPi0frU_uPh39g-7g)
+
 
 ### 光明日报
 
@@ -424,6 +428,11 @@
 
 [新神剧！《梦华录》播放量突破15亿！赵盼儿背后这家公司笑了](https://mp.weixin.qq.com/s?__biz=MjM5MzMwNjM0MA==&mid=2650975333&idx=2&sn=268e98dfccd2dbfad20a2d6e612b9436&chksm=bd6f0fee8a1886f8c268be1dcd7a0efbb9bf99c9ec07488846b495f26f1cfbfce6d88149093b#rd)
 
+### 上海证券报
+
+* [芒果TV宣布涨价！长视频营收难题待解](https://mp.weixin.qq.com/s/G5lmBYyHVQ-1kfGT20a33Q)
+
+
 ### 中国质量报
 
 [《梦华录》爆火，里面还有这些事？| 质眼看戏](https://mp.weixin.qq.com/s/OLvZMXcNaX0seVtg5xmL1w)
@@ -575,6 +584,7 @@
 
 * [三读“宋韵”](https://mp.weixin.qq.com/s/4QNa3xlPGxsR4Ohk3r1PxA)
 * [2022-12-26 | “围炉煮茶”有什么魔力](https://mp.weixin.qq.com/s/V7bZbQOoy5AtLlestJDFBg)
+* [2022-12-27 | 文化IP联名如何更出圈](https://mp.weixin.qq.com/s/V9LXx33o4t1PVJxZbJOxhQ)
 
 
 ### 天津日报

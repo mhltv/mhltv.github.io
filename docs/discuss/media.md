@@ -1,7 +1,9 @@
 # 知名媒体
 
-本文收录部分较为知名的（非官方媒体）媒体的相关报道。这些报道不止涉及剧情本身，也延伸到了宋朝，历史，美学，以及商业等各个领域。
+本文收录部分较为知名的（非官方媒体）媒体的相关报道。这些报道不止涉及剧情本身，也延伸到了宋朝，历史，美学，以及商业等各个领域。此类报道通常拥有较高的阅读量和影响力。
 
+
+注: 本文是以媒体分类，部分文章也可见于其他板块。
 
 ## 文化
 
@@ -59,7 +61,19 @@
 * [第一家抖音数字商品服务优质服务商，福禄网络做对了什么？](https://mp.weixin.qq.com/s/bdQ1hIVfFl-Xm-4QIBuCwg)
 
 
+### 钛媒体
+> 现在，意外爆火的接力棒传给了《梦华录》，原因则变得朴素了起来：刘亦菲很美、陈晓也很美，两个美人在一起谈了段恋爱，足矣。
+* [《梦华录》，一场不可复制的意外](https://mp.weixin.qq.com/s/MAk7IQzc-VyEXdvmYQDcSw)
+
+
 ## 时尚
+
+
+### 费加罗夫人
+
+* [显微镜追剧模式打开《梦华录》，这些隐藏细节你发现了么](https://mp.weixin.qq.com/s/GAdMA6QK4pY3gVFUtjjxFg)
+
+
 ### 时尚芭莎
 
 * [时尚芭莎 | 《梦华录》和刘亦菲适配度最高的，是TA](https://mp.weixin.qq.com/s/oArHx5Cx96bLUGQ3ic6EpA)
@@ -75,9 +89,50 @@
 * [独家｜《梦华录》后，她变得更加勇敢了](https://mp.weixin.qq.com/s/3C6aCCaYG91A51kjOytO8A)
 
 
+###  世界时装之苑ELLE
+> 在刘亦菲的认知里，当镜头每一次对准自己，唯有心无杂念，全情投入，作品自然会发出属于它的回响。“我始终相信，有一些东西自己会表达，不用你去说得过多。你不能有跟演戏无关的杂念，只有这样，你的能量才能够最大化。”
+* [刘亦菲说，属于角色的光远比所谓的五官、身材有意思得多](https://mp.weixin.qq.com/s/VnzGblw6zVAlIedTTsQyzg)
+* [《梦华录》为什么能吊打一众古偶剧？](https://mp.weixin.qq.com/s/5AGtPZPrcitiMknWOed_ag)
+* [靠脸拯救丑衣服，刘亦菲汤唯你真行！](https://mp.weixin.qq.com/s/Lgvs9rE3AHLfA9IaP0Lf5g)
+* [“顾盼生辉”大结局了，你还可以磕这些CP！](https://mp.weixin.qq.com/s/TcDx85xkyw-4ZQlswu8h_Q)
+* [“厅局风”的流行，可能是另一个陷阱？](https://mp.weixin.qq.com/s/GpYsvO-skAlP4hUf7Z7BDg)
+* [刘亦菲以一己之力，让溜肩重回古装巅峰](https://mp.weixin.qq.com/s/v77vbOft8rX_ueJnmiKpXQ)
+* [一盼16年，她的剧爆火一点也不稀奇！](https://mp.weixin.qq.com/s/NFio99or35JUfk7O6zVy8Q)
+
+未开播前报道:
+
+> 姐姐的下颌线条锐利清晰，唇珠略低于下巴和鼻尖的连线，微微隆起的驼峰鼻更为她增加了一丝硬朗的气质，极具东方韵味。
+* [刘亦菲的生图怎么比自拍还能打?](https://mp.weixin.qq.com/s/KOze7m9Ecdsr1drBoX8Dgg)
+* [15年后，刘亦菲还能重返古装颜值巅峰吗？](https://mp.weixin.qq.com/s/9DoPOtd0Nah3Vh9c9N6axw)
+* [梦华录杀青，论侧颜刘亦菲就没输过！](https://mp.weixin.qq.com/s/ABvkPPhyOgcin6XhRmhGAg)
+* [古装剧天花板，到底是谁？](https://mp.weixin.qq.com/s/50Blz5Jn3A6y1rEmIAH6-w)
+* [仙剑20年+，到底成就了谁？](https://mp.weixin.qq.com/s/BQxiNtWw0dPNaqYi1WT1DA)
+* [爷青回！刘亦菲古装生图又杀疯了！](https://mp.weixin.qq.com/s/6ITYP3t_4eh1dMFTfqxxzA)
+* [刘亦菲，剧里神仙姐姐，剧外天仙杀！](https://mp.weixin.qq.com/s/dcwHjMwJbQzn2yb7OzuKtA)
+
+
+### SoFigaro
+> 《梦华录》让观众相信，演员不是在念台词，而是赵盼儿与顾千帆真实的生活中故事。有一幕是顾千帆乘着船在城中河道前行。湖面、绿植既有辽阔感、又有生机感，画面呈现出江南风景的辽阔、洒脱，和之后东京的繁华、拥挤，也形成了鲜明的对比，呼应人物的生存状况。
+* [《梦华录》中的它们，比剧情更上头！｜ENTERTAINMENT](https://mp.weixin.qq.com/s/gcWdEU2DZg--Y75qhCMnpA)
+
+
 ## 新闻
 
 ### Vista看天下
 * [VIsta看天下 | 考编被玩成这个梗，只剩苦笑](https://mp.weixin.qq.com/s/1PkAkPHaFXJyfmESGlp6Yg)
 * [这国产审美终于火得一塌糊涂](https://mp.weixin.qq.com/s/9Vm5CQKGYrkoUEE7EbX-0w)
 * [为《梦华录》上头的“录人”们，都在等一场团建？](https://mp.weixin.qq.com/s/HSDXish2zJJdmu4b2o5A5g)
+
+
+## 其他
+
+### 平台官方
+* [微信读书 | 《梦华录》点茶技艺惊艳全场，其实中国还有很多绝美的传统文化不为人知......](https://mp.weixin.qq.com/s/R9pnHJtk5BScuJS7WdOGBw)
+* [学而思网校 | 惊了！《梦华录》中《夜宴图》的秘密，原型竟然比电视剧还刺激？](https://mp.weixin.qq.com/s/i9qxJSrnn9xxeYdAVp1eRA)
+* [下厨房 | 梦华录·茶果子| 奶香浓郁绿豆糕，夏日解暑小甜点（仙女食物）](https://mp.weixin.qq.com/s/d8Mg_GU--P5U7VdBaX50Vw)
+
+
+### 自媒体
+> 剧集上线后，因颜值高，制作精良，文化意蕴浓厚，迅速引发网友广泛讨论，而赵盼儿三人的“京漂”创业之路，也成为剧中的一大看点。
+* [二更 | 颜值不重要，创业宝典才是《梦华录》的真实身份](https://mp.weixin.qq.com/s/E4f5CXpzJtgJqJs8BQFDSg)
+* [二更 | 戏曲真想火？靠一部《梦华录》可不够！](https://mp.weixin.qq.com/s/rH2_hWoLytsFq6VHS8icWg)
