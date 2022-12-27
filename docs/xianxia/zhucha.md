@@ -31,6 +31,9 @@
 * [中新国京传媒 | “围炉烤茶”：原来这就是年轻人追求的“松弛感”](https://mp.weixin.qq.com/s/JrOak1wK03HbM3z_0Ob6LA)
 * [时尚COSMO | 刘亦菲玩点茶，我玩围炉煮茶](https://mp.weixin.qq.com/s/1cfUgjNWsIpz_DJlrKf3Aw)
 * [餐饮020 | 继露营之后，“围炉煮茶”又成为年轻人新宠？](https://mp.weixin.qq.com/s/xQSBiPGYYTqprd0HNZga9g)
+* [成都商报 | 入冬仪式感拉满！成都人周末又有新耍法](https://mp.weixin.qq.com/s/k3dUvBNMm6qHNhyzkPbfSA)
+* [创业邦 | 围炉煮茶成为了今冬的新顶流](https://mp.weixin.qq.com/s/lWLeVjsxIU8plJPaYUegCQ)
+* [语文报高考版 | 围炉煮茶：对传统美学的致敬](https://mp.weixin.qq.com/s/kWvr28t5uNFUwrK0liRzJw)
 
 ## 国际报道
 
@@ -51,4 +54,9 @@
 * [大南京都市圈 | 小雪时节围炉煮茶 拉满社交氛围感](https://mp.weixin.qq.com/s/4bXFAVeAHiZs6gclDWSpqg)
 * [郴州吃货邦 | 郴州第①家！《梦华录》同款围炉煮茶！“宫廷花酥”秋日氛围感拉满！](https://mp.weixin.qq.com/s/G2jmE0JwySA2RACK9_V0pw)
 * [栾川文旅 | 【住•伏牛山居】围炉煮茶，山海传说趣生活](https://mp.weixin.qq.com/s/Z2HjGxfJ1vhXXy4Qokin4w)
-* 更多...
+* ...
+
+活动类:
+* [西樵妇联 | 围炉煮茶？不如跟樵妈樵娃学茶艺](https://mp.weixin.qq.com/s/1aWMSWmTFGEYz-a6HzHujw)
+
+
