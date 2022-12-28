@@ -1,7 +1,7 @@
 # 破圈讨论
 
 本文收录诸多媒体从各个角度对梦华录的讨论, 因讨论内容过多，部分媒体发布了多篇报道，也有报道会被多个媒体转载，本文只收录部分代表性内容。
-目前共计收录`34`个分类，`459`个条目。
+目前共计收录`34`个分类，`454`个条目。
 
 同时，《梦华录》也掀起了一股“宋朝热”，激发起无数观众对于那个文化鼎盛时期民俗百态的好奇与向往。读者可从本文中散落于不同行业的讨论文章中一窥全豹。
 
@@ -32,6 +32,8 @@
 * [讯飞易听说 | 《梦华录》火到海外！英文译名竟然用了这个词，太妙了！](https://mp.weixin.qq.com/s/J1CDurtCM302CfOtSXxwhQ)
 * [百香阳光葡萄牙语工作室 | “梦华录”用葡语怎么说? 快来跟葡语版预告片学单词! 这个字幕翻译你想打几分?!](https://mp.weixin.qq.com/s/mJk4J7pnohWgwKYFo8WxLA)
 * [薄荷外刊 | 《梦华录》英文怎么说？](https://mp.weixin.qq.com/s/MDYep1rmmq_ANtFyxzO9gA)
+* [21世纪英文报 | 精读China Daily学英语，打卡15天送30天会员！](https://mp.weixin.qq.com/s/KtOpKcm7YQqSM6ijKNh-zg)
+* [21世纪英文报 | 《梦华录》到底有多火？没想到海外网友也在用“八倍镜”磕剧……](https://mp.weixin.qq.com/s/4b2rJV8MQERNoC8w4pYSug)
 
 ## 家居
 
@@ -73,7 +75,6 @@
 * [戒欺本草 |紫苏饮子、蜜饯雕花……追《梦华录》，却被宋代美食馋哭！ ](https://mp.weixin.qq.com/s/oYZtvnpcGZiVuaJ1WATVcg)
 * [什么值得吃 | 被《梦华录》种草的不是剧情，而是...开封菜？！](https://mp.weixin.qq.com/s/-AWuqQ23wWqYDhLYrp4PbQ)
 * [福建省鲍鱼行业商会 | 《梦华录》热播，你知道古人眼中的鲍鱼是什么样的吗？](https://mp.weixin.qq.com/s/sUV_LrenZc3hfTKgn-vyTQ)
-* [东台市泰山护国禅寺 | 娜娜原创纯素甜品 梦华录茶点之春水生（附7.4大牌位）](https://mp.weixin.qq.com/s/3CHx85ZiwbhoUDOt6va3uA)
 * [柳州1号 | 复刻《梦华录》美食！好多柳州小姐姐在这玩“穿越”](https://fzapp.lzxinwenwang.com/app/template/amucsite/pad/index.html#/detail/623599?site1&continueFlag=eab1cb469449f676a1f0cb40d79f5e1a)
 * [舌尖上的土味 | 最近梦华录里的春水生很火](https://m.weibo.cn/7379369862/4828226905966356)
 * [小红书 | 湘窖酒馆](http://xhslink.com/4hzdil)
@@ -176,7 +177,6 @@
 * [芭莎珠宝传媒 | 看热播剧梦华录，发现一千年前的宋式美学到今天还时髦！](https://mp.weixin.qq.com/s/48rORAzDmyoVoN_HUqxTrA)
 * [大作BIGBGIWORK | 从刘亦菲的“宋潮”到90后中国设计，中式美学没有断档](https://mp.weixin.qq.com/s/mH8FauFhNxHX45ViAFmJ5A)
 * [美物计 | 《梦华录》里的中国色，太美了！](https://mp.weixin.qq.com/s/3yVEYlAaviL5FOeTxns8Sg)
-* [时尚芭莎 | 《梦华录》和刘亦菲适配度最高的，是TA](https://mp.weixin.qq.com/s/oArHx5Cx96bLUGQ3ic6EpA)
 * [念响新媒体 | 热播剧《梦华录》大火，再话古风国潮之美](https://mp.weixin.qq.com/s/0BGkc0hs69tQ07WwKq8_DA)
 * [FRANK富兰克浴室柜 | 梦华录 | 细腻柔雅，温暖治愈](https://mp.weixin.qq.com/s/YS_S310c1t4uskgJJ_-OtQ)
 
@@ -184,7 +184,7 @@
 ## 服装
 
 ![](/image/discuss/cloth.jpg)
-
+* [MIGAINO曼娅奴 | 《梦华录》外『新中式』登场](https://mp.weixin.qq.com/s/sCWqfvKw5WhHvsm65yu9yg)
 * [多客软件 | 《梦华录》让汉服又火了一把，突然爆火的还有它！](https://mp.weixin.qq.com/s/lZe2VhGamoqDSBFvjIm-lA)
 * [汉服广东汉粤 | 其实《梦华录》到底是一部怎样的汉服同袍参考剧？](https://mp.weixin.qq.com/s/rhKEw8ijeihxV8Rh0RiJCw)
 * [衔泥小筑汉服 | 汉服推荐丨梦华录引领大宋时尚穿搭](https://mp.weixin.qq.com/s/kLhr1aMahnJigJHrqGkWIQ)
@@ -296,17 +296,14 @@
 
 ![](/image/discuss/review.jpg)
 
-* [21世纪英文报 | 《梦华录》到底有多火？没想到海外网友也在用“八倍镜”磕剧……](https://mp.weixin.qq.com/s/4b2rJV8MQERNoC8w4pYSug)
 * [PM圈子 | 《梦华录》：成功的项目，往往只需要中规中矩](https://mp.weixin.qq.com/s/Fd65ePrRkgg0A4il1UyTVw)
 * [德塔文数据组 | 《梦华录》流量口碑双丰收，都市情感剧常见模式稍显疲软](https://mp.weixin.qq.com/s/mTvGx74KLikmBcMuwBklzA)
-* [读者 | 《梦华录》火了：人生最好的状态，都藏在这3句话里](https://mp.weixin.qq.com/s/46xoeowwvwjE0sCSSNjpLw)
 * [凤凰网电影 | 《梦华录》：制作有实感，感情线有创新](https://m.weibo.cn/2274928514/4776936666300744)
 * [富兰克林读书俱乐部 | 《梦华录》爆火：浮世三千皆过客，黄粱一梦在人间](https://mp.weixin.qq.com/s/DmzmuB-sIwrUpzhMj3cVlQ)
 * [画手歌者 | 《梦华录》里那些细思极恐的渣男](https://mp.weixin.qq.com/s/jMKChKY2FsHGOIt3Ow_T8Q)
 * [编剧帮 | “写意”东方美学下，《梦华录》打造女性群像戏新概念​（2371期）](https://mp.weixin.qq.com/s/gp1vYV1nPeLeccAy6BCqFQ)
 * [秦朔朋友圈 | 为什么观众想为《梦华录》多花钱?](https://mp.weixin.qq.com/s/dSx5k5PHo9uXeYlCZ0hfCg)
 * [全球艺术精选 | 2022年古偶天花板，豆瓣8.5，刘亦菲《梦华录》凭啥如此豪横？](https://mp.weixin.qq.com/s/0QFun4wQJ7bc0pGHlsSDew)
-* [三联生活周刊 | 追完剧后，看懂了《梦华录》的底色](https://mp.weixin.qq.com/s/JyKUt5Ct4MXMeJN1zLaiTQ)
 * [十点读书 | 《梦华录》大结局：不要高估人性，也不要高估爱情](https://mp.weixin.qq.com/s/PEahYtktDNrQRXJaNgeUKA)
 * [影视制作 | “极简风”唯美画面，造就国风审美巅峰之作](https://mp.weixin.qq.com/s/bOqs9R3CgBWJBjhFqEJ_UQ)
 * [中国广电四川公司 | 梦华录拿下多个第一](https://m.weibo.cn/2837868182/4780196131767654)
@@ -322,8 +319,7 @@
 * [通联支付北京分公司微讯 | 我说《梦华录》](https://mp.weixin.qq.com/s/pCUtnrXHqDKy1SYqCMrnsA)
 * [穷游网 | 神仙姐姐新剧《梦华录》中被网友质疑的“东京”，曾是世界上最繁华的地方！](https://mp.weixin.qq.com/s/0gXUpO8-RaZH3mQwXGrqNw)
 * [ if爱与美好 | 谢谢《梦华录》，尊重了我的眼睛和智商](https://mp.weixin.qq.com/s/jjbsEUvp3SX8v1Qr5zs9Jw)
-* [综艺报 | 《梦华录》爆火，不只因为刘亦菲](https://mp.weixin.qq.com/s/-1T5iskMNzGIg8MefK60UA)
-* [视相Variety | 一跃成为2022国剧口碑冠军，#梦华录赢麻了#](https://m.weibo.cn/status/4777101205702235?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)
+
 
 
 
@@ -381,6 +377,7 @@
 * [江西调查微讯 | 从《梦华录》聊一聊宋代居民收入和物价那些事儿~](https://mp.weixin.qq.com/s/NMkzA5wtXiQJplzFq9YEaA)
 * [萧山统计 | 统计版《梦华录》，带您品鉴中华诗词之美](https://mp.weixin.qq.com/s/qH7B9iX8hl7GhnVLvFhRIg)
 * [武侯统计 | 跟着热播剧学统计，《梦华录》来了！](https://mp.weixin.qq.com/s/v4kXaiUX6lifz7tJje7PjQ)
+* [浙江统计 | 悦读荟丨统计版《梦华录》 带您品鉴中华诗词之美](https://mp.weixin.qq.com/s/wU1rfsB7WGtLfMlUqXwOpw)
 
 
 ## 移民
@@ -441,8 +438,6 @@
 ## 安全
 
 ![](/image/discuss/sec.jpg)
-
-* [保密观 | 皇家侍卫、大内密探还是谍战高手？真实历史中的皇城司到底是干啥的？](https://mp.weixin.qq.com/s/oyT25yTXhRsUu6PkZWBnug)
 * [安全保密 | 神仙姐姐的《梦华录》，不止喝茶、吃果子，还有神秘的皇城司](https://mp.weixin.qq.com/s/mrePluEuhXX7V-JhHF5u9g)
 * [新浪军事 | 从皇城司谈起 聊聊宋朝的保密制度](https://card.weibo.com/article/m/show/id/2309404785029896340396?_wb_client_=1)
 * [中交一公局集团 | 当安全员闯进了《梦华录》](https://mp.weixin.qq.com/s/R5jGPZPY1R9uOriF3kwcgg)
@@ -547,8 +542,6 @@
 * [桂满陇 | 什么？苏东坡在宋朝就吃上了外卖？](https://mp.weixin.qq.com/s/-5z2lV1OhIT6JAoAPxCJMQ)
 * [花艺在线 | 刘亦菲新剧《梦华录》让茶文化火上热搜，宋朝人的精彩生活可不止如此！](https://mp.weixin.qq.com/s/aWtMEDIl4oGjQWaOmyoCvQ)
 * [鲤城文投 | 从《梦华录》看宋元泉州，这些细节你发现了吗？](https://mp.weixin.qq.com/s/LIbdMUadX3HkuHwKzowyRw)
-* [时尚芭莎 | 追完《梦华录》：想饮盼儿的茶，吃三娘的糕](https://mp.weixin.qq.com/s/dstLoYQm4kmxADCmCwxzjw)
-* [时尚芭莎 | 宋朝梦境，不止《梦华录》](https://mp.weixin.qq.com/s/_QWPeP440FCbqoFn6jS7iw)
 * [时尚临风 | 《梦华录》里的生活美学，比刘亦菲更好看](https://mp.weixin.qq.com/s/xwVh-f6er1Rtk939DZsitw)
 * [天一阁 | “顾盼生辉”的北宋东京……究竟有多迷人眼？](https://mp.weixin.qq.com/s/oca27htR4iKLU9A-E2t69A)
 * [外研社 | 美貌与智慧并重！《梦华录》女主如何实现爱情事业双丰收？](https://mp.weixin.qq.com/s?__biz=MjM5MTI2NjkwMg==&mid=2654577527&idx=1&sn=fe5c6c06c3b9fb38a81095fdeabb7e95&chksm=bd75224e8a02ab58fbb94ccc07ae2d44bf06fa7d1b357988cff937a247169da0a9ee4d85c946#rd)
@@ -606,6 +599,11 @@
 * [重彩绘画 | 带您解读《梦华录》里的《夜宴图》暗藏的玄机](https://mp.weixin.qq.com/s/4fh2CwenJ6rQ9RiwC4Ry5w)
 
 
+## 宗教
+* [东台市泰山护国禅寺 | 娜娜原创纯素甜品 梦华录茶点之春水生（附7.4大牌位）](https://mp.weixin.qq.com/s/3CHx85ZiwbhoUDOt6va3uA)
+* [上海城隍庙 | 走进道教 | 一起来看看上海城隍庙里的真“女神”](https://mp.weixin.qq.com/s/7CzTwYQfU9Sf6nWJPoLJig)
+* [成都文殊院 | 你向往的“梦华录”生活，就藏在禅院茶文化里](https://mp.weixin.qq.com/s/K2HGKmFBbc6TCSSZZ238qQ)
+
 ## 其他
 
 ![](/image/discuss/other.jpg)
@@ -617,10 +615,8 @@
 * [世界时装之苑ELLE | “顾盼生辉”大结局了，你还可以磕这些CP！](https://mp.weixin.qq.com/s/TcDx85xkyw-4ZQlswu8h_Q)
 * [硬核读书会 | 从胡歌到陈晓，古偶剧为何爆](https://mp.weixin.qq.com/s/55q2oTC1ZLlErD7EO1qQAg)
 * [樊登读书官方号 | 《#梦华录# 》最近热播，读书君也看得如痴如醉。](https://m.weibo.cn/status/4782824253034129?sourceType=weixin&from=10C9595060&wm=9006_2001&featurecode=newtitle)
-* [VIsta看天下 | 考编被玩成这个梗，只剩苦笑](https://mp.weixin.qq.com/s/1PkAkPHaFXJyfmESGlp6Yg)
 * [新闻与写作 | 用古诗词的方式打开《梦华录》，绝美！](https://mp.weixin.qq.com/s?__biz=MjM5MjEwODQ2Nw==&mid=2649922460&idx=1&sn=e152f47703b8e28a8a09f83e21c2e26d&chksm=bead614089dae85672fd8d1f253c2a8933c31866c71555844a43661d49cd1757e7780588a7aa#rd)
 * [OR香氛派 | 被粉丝催爆的《梦华录》同人香来了！](https://mp.weixin.qq.com/s/qmLvL8eyjP8hjUvhXGaKZg)
 * [昆明市青年志愿者协会 | 七步场社工站 | 这个建党节，在七步场体验一场红色梦华录的浪漫](https://mp.weixin.qq.com/s/TVXrjD3Qejv96ribPE2LmA)
-* [综艺报 | 《梦华录》走红，启发真人秀新创作思路](https://mp.weixin.qq.com/s/CTWeufMGHYkokmV1qjQfDw)
 * [临平公积金 | 从江南到东京教坊司，如果《梦华录》的宋引章缴了公积金…](https://mp.weixin.qq.com/s/IP62BzCwzI9CfvEUqhk_SQ)
 

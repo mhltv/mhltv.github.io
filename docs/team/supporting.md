@@ -173,7 +173,7 @@
 * [华为终端云服务 20220623 | #小云星推荐#第四期](https://m.weibo.cn/2280893642/4783491940615678)
 * [着录SOLO 20220712 | 主题大片 「不负韶华」](https://weibo.com/7307974554/LBX5Ce0r7)
 * [CCTV-3《一馔千年》20221028 | 饰演青年张择端](https://tv.cctv.com/v/v1/VIDEGic8DGwB4pGveEIHHAUK221028.html)
-
+* [2022国剧盛典](https://weibo.com/2478261842/Mlx3U5tks)
 
 ### 管云鹏（陈廉）
 

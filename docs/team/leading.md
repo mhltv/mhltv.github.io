@@ -94,6 +94,8 @@
 * [韩火火 | 林允 | 做一个从未做过的美梦](https://mp.weixin.qq.com/s/D7twxBQNFuwJE55XxwkeZQ)
 * [瑞丽服饰美容 | 林允丨一路前行，步履轻快](https://mp.weixin.qq.com/s/-8arRbkPv0syu1ap4Ei85w)
 * [SEASONmagazine | 挥杆的快乐，被林允拿捏了！](https://mp.weixin.qq.com/s/NRRacuoqyPniJNR9Fc-xoQ)
+> 对于林允来说，《梦华录》是她可贵的学习机会。“这部剧是和杨阳导演合作的，杨阳导演给了我特别多指导和帮助，让我学习到了很多。宋引章是一个成长型的人物，从一开始的恋爱脑，一路成长，最后也可以独当一面，这也让很多看这个剧的年轻女孩儿在这个角色身上找到了共鸣，和宋引章一起成长。”
+* [北京青年周刊 | 林允：与自己和解](https://mp.weixin.qq.com/s/T7Ml1GhwvxbJzc8I_COzBQ)
 
 ### 商务
 

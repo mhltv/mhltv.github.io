@@ -12,6 +12,8 @@
 
 梦华录评分人数`历史第五`，2022年第一，开分8.3，最高8.8，目前稳定至8分，专组巅峰期`14.4`万人，`8.7万+`讨论帖，讨论量`影视剧TOP 1`。仅用10天评分人数破40万，是用时最短的剧集。
 
+截止2022.12.28，梦华录评分人数突破八十万，用时半年。
+
 **访问链接：**[达瓦里氏：2022年剧集豆瓣评分](https://www.douban.com/group/topic/273535851/?_i=655009088d3da01,5500940o1hJm4R&dt_dapp=1&dt_platform=com.douban.activity.wechat_friends)
 
 **访问链接：**[长风破浪：豆瓣评分超过8分的剧集（评分人数20万以上）](https://www.douban.com/group/topic/274942696/?_i=655007838d3da01,5501083o1hJm4R&dt_dapp=1&dt_platform=com.douban.activity.wechat_friends)

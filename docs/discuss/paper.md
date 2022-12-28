@@ -5,6 +5,24 @@
 ## 书籍
 
 
+### 《100 个热词了解新时代中国》
+
+> 本书选取 2012 年至 2022 年体现新时代中国社会进步、热点话题、新鲜事物、重要人物、重大事件等方面的 100 个热词，这些热词记录了 11 年来中国在经济发展、社会进步、科技创新等方面取得的历史性成就，可以帮助各年龄层读者了解新时代中国的发展进程。
+
+
+本书有中文，英文版本，均收录有`梦华录( A dream of splendor)`。
+
+
+![](/image/discuss/books/word-1.jpg)
+![](/image/discuss/books/meng.png)
+
+
+相关链接:
+
+* [21世纪英文报 | 年底了，这个盘点你一定要读！](https://mp.weixin.qq.com/s/pN7iSOohYflAx_SFq6A_5A)
+* [100 个热词了解新时代中国 中文版/ 英文版/中英版](https://shop43272614.m.youzan.com/wscgoods/detail/2g0clrasdw8hq74)
+
+
 ### 《笔墨当随时代》
 
 > 本书分为上、下两册，选编了“浙江宣传”微信公众号自2022年5月30日上线以来至9月6日成立百日期间推出的202篇原创文章，内容原汁原味，涵盖理论洞见、传统文化、媒体锐评等多个领域，全面生动呈现了“浙江宣传”微信公众号的文章风格。此外，同步推出音频书和电子书，满足读者不同的阅读需求。
@@ -28,6 +46,10 @@
 * [河北省新华书店 | 阅见 | 《梦华录》：读北宋励志故事 展东京绰约风华](https://mp.weixin.qq.com/s/TunVNbvvaMiwrDRJdq0j9w)
 * [报道 | 河北省青少年读书实践活动  | 阅见 | 《梦华录》：读北宋励志故事 展东京绰约风华](https://mp.weixin.qq.com/s/JjWdpRxZzXPFSZPdpnwAqA)
 * [探照灯好书 | 探照灯好书10月十大中外类型小说发布](https://mp.weixin.qq.com/s/Out2JEAGiKhOCpeNfSme4Q)
+
+此书也获得了央视网阅读频道的推荐:
+
+![](/image/discuss/paper/yang.webp)
 
 
 ### 《东京梦华录》

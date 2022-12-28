@@ -103,6 +103,7 @@ module.exports = {
             'tea',
             'authority',
             'international',
+            'media',
             'all',
             'paper',
             'education',
@@ -131,6 +132,7 @@ module.exports = {
             'community',
             'business',
             'other',
+            '2022',
             'channel'
           ]
         }
