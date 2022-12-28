@@ -64,7 +64,10 @@
 ### 钛媒体
 > 现在，意外爆火的接力棒传给了《梦华录》，原因则变得朴素了起来：刘亦菲很美、陈晓也很美，两个美人在一起谈了段恋爱，足矣。
 * [《梦华录》，一场不可复制的意外](https://mp.weixin.qq.com/s/MAk7IQzc-VyEXdvmYQDcSw)
+* [对话造型师，揭秘《梦华录》美学](https://baijiahao.baidu.com/s?id=1737379054048549179&wfr=spider&for=pc)
 
+### 第一财经
+* [从热播剧《梦华录》看消费产业的生意经｜乐言商业](https://mp.weixin.qq.com/s/XSa3Vm9halDV6cwRgSgBLQ)
 
 ## 时尚
 
@@ -122,6 +125,20 @@
 * [VIsta看天下 | 考编被玩成这个梗，只剩苦笑](https://mp.weixin.qq.com/s/1PkAkPHaFXJyfmESGlp6Yg)
 * [这国产审美终于火得一塌糊涂](https://mp.weixin.qq.com/s/9Vm5CQKGYrkoUEE7EbX-0w)
 * [为《梦华录》上头的“录人”们，都在等一场团建？](https://mp.weixin.qq.com/s/HSDXish2zJJdmu4b2o5A5g)
+
+
+### 界面新闻
+> 《梦华录》一出，风景便只有大宋和腾讯视频独好了。
+* [刘亦菲“救风尘”，《梦华录》救腾讯视频](https://mp.weixin.qq.com/s/eWRvfLBFALuaz9wvtS1U0w)
+* [优酷投屏付费背后：大屏经济复活，会员权益分级成趋势？](https://mp.weixin.qq.com/s/yPIeTGDq01nw8UMP2fD4WQ)
+* [喜茶又征“全身像”，为什么品牌logo喜欢变装秀？](https://mp.weixin.qq.com/s/0Az3IYsdIJLxGDs38CpSWQ)
+* [界面荐书 | 除了梦华录里的点茶，古代社会还有哪些人间烟火？](https://mp.weixin.qq.com/s/6DORrwWxwsGGKLI2_JgBqw)
+* [除了刘亦菲的颜，《梦华录》还赢在了哪里？](https://mp.weixin.qq.com/s/tzH5fDKQI5iZmUjlakpWDQ)
+
+
+### 新周刊
+
+* [2022年度风味：人间烟火气](http://k.sina.com.cn/article_1653689003_62914aab020013nfc.html)
 
 
 ## 其他

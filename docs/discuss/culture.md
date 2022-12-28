@@ -195,6 +195,7 @@
 * [上海玻璃博物馆 | 硬核科普 |《梦华录》中有bug？](https://mp.weixin.qq.com/s/8n6mLkUsffUpEfF4K6WXgA)
 * [四川泸县宋代石刻博物馆 | 从《梦华录》看石刻上的插花艺术](https://mp.weixin.qq.com/s/ANRQQJZMuzWblB_rFKUvLQ)
 * [广东省博物馆 | 【绘冠南天】穿越宋元，在画卷中漫游东方意境](https://mp.weixin.qq.com/s/iMw0RFSsI4L66iw98CJ_Bg)
+* [长沙简牍博物馆 | 但留釉彩满人间 | 唐宋陶瓷茶器展](https://mp.weixin.qq.com/s/5eHnkKyN6PXKbc9SJQ1jFQ)
 
 ### 剧院
 * [泉州大剧院 | 仕女图活了！《梦华录》花月宴“一宴成名”，这些从古画里走出来的舞蹈美绝了](https://mp.weixin.qq.com/s/5pOq34IZfUkn5GmSXBqadQ)

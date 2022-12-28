@@ -1,5 +1,7 @@
 # 国风市集
 
+本文收录各地明确以《梦华录》作为宣传点的市集活动，其他侧重于花月宴以及综合旅游类的项目可在其他板块查看。因为以城市作为分类，同一城市的多次活动不再详细区分。
+
 ## 湖南长沙
 
 <img src="/image/xianxi/changsha-2.webp" width="550">
@@ -13,8 +15,10 @@
 
 ![](/image/xianxi/hangzhou-1.jpg)
 
+
 媒体报道:
 1. [杭州网: 热播剧《梦华录》里的这些场景，你可以来湖滨步行街亲身体验啦！](https://ori.hangzhou.com.cn/ornews/content/2022-07/22/content_8313246.htm)
+2. [杭州日报: 宋韵市集 文化润心](http://www.hangzhou.gov.cn/art/2022/8/12/art_812270_59063227.html)
 
 ## 浙江嘉兴
 
