@@ -1,7 +1,7 @@
 # 破圈讨论
 
 本文收录诸多媒体从各个角度对梦华录的讨论, 因讨论内容过多，部分媒体发布了多篇报道，也有报道会被多个媒体转载，本文只收录部分代表性内容。
-目前共计收录`34`个分类，`452`个条目。
+目前共计收录`34`个分类，`454`个条目。
 
 同时，《梦华录》也掀起了一股“宋朝热”，激发起无数观众对于那个文化鼎盛时期民俗百态的好奇与向往。读者可从本文中散落于不同行业的讨论文章中一窥全豹。
 
@@ -75,7 +75,6 @@
 * [戒欺本草 |紫苏饮子、蜜饯雕花……追《梦华录》，却被宋代美食馋哭！ ](https://mp.weixin.qq.com/s/oYZtvnpcGZiVuaJ1WATVcg)
 * [什么值得吃 | 被《梦华录》种草的不是剧情，而是...开封菜？！](https://mp.weixin.qq.com/s/-AWuqQ23wWqYDhLYrp4PbQ)
 * [福建省鲍鱼行业商会 | 《梦华录》热播，你知道古人眼中的鲍鱼是什么样的吗？](https://mp.weixin.qq.com/s/sUV_LrenZc3hfTKgn-vyTQ)
-* [东台市泰山护国禅寺 | 娜娜原创纯素甜品 梦华录茶点之春水生（附7.4大牌位）](https://mp.weixin.qq.com/s/3CHx85ZiwbhoUDOt6va3uA)
 * [柳州1号 | 复刻《梦华录》美食！好多柳州小姐姐在这玩“穿越”](https://fzapp.lzxinwenwang.com/app/template/amucsite/pad/index.html#/detail/623599?site1&continueFlag=eab1cb469449f676a1f0cb40d79f5e1a)
 * [舌尖上的土味 | 最近梦华录里的春水生很火](https://m.weibo.cn/7379369862/4828226905966356)
 * [小红书 | 湘窖酒馆](http://xhslink.com/4hzdil)
@@ -599,6 +598,11 @@
 * [茶贵人 |《梦华录》中的挂画艺术](https://mp.weixin.qq.com/s/KwN3xSjm_pEHiqpCyzXuWg)
 * [重彩绘画 | 带您解读《梦华录》里的《夜宴图》暗藏的玄机](https://mp.weixin.qq.com/s/4fh2CwenJ6rQ9RiwC4Ry5w)
 
+
+## 宗教
+* [东台市泰山护国禅寺 | 娜娜原创纯素甜品 梦华录茶点之春水生（附7.4大牌位）](https://mp.weixin.qq.com/s/3CHx85ZiwbhoUDOt6va3uA)
+* [上海城隍庙 | 走进道教 | 一起来看看上海城隍庙里的真“女神”](https://mp.weixin.qq.com/s/7CzTwYQfU9Sf6nWJPoLJig)
+* [成都文殊院 | 你向往的“梦华录”生活，就藏在禅院茶文化里](https://mp.weixin.qq.com/s/K2HGKmFBbc6TCSSZZ238qQ)
 
 ## 其他
 

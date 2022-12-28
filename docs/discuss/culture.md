@@ -55,6 +55,7 @@
 * [西南政法大学 | 吃茶去！](https://mp.weixin.qq.com/s/sIJtZhCa416a_KGIHlLTvw)
 * [中南大艺术圈 | 惊鸿一瞥 梦华录中品琵琶意蕴](https://mp.weixin.qq.com/s/hP2N33oOXupBFwVxwshbvg)
 * [华师之声VOC | A Dream of Splendor《梦华录》：古风偶像剧的青春又回来啦！](https://mp.weixin.qq.com/s/1d2hILif-9wyf00_PyZoig)
+* [共青团天津财经大学委员会 | 传统文化 | 跟着梦华录一起，领略宋朝的文化魅力](https://mp.weixin.qq.com/s/8gnKV5aGwYnnm4oWFYYpgQ)
 
 
 ### 出版社
@@ -75,6 +76,8 @@
 * [安徽文艺出版社音乐微课堂  | 《梦华录》——宋风雅乐](https://mp.weixin.qq.com/s/62cgasWzyxYgkGhHFSGbhw)
 * [牛津大学出版社教育服务 | 《梦华录》大结局，tea culture 和 tea acrobatics 了解一下！](https://mp.weixin.qq.com/s/5lAhfiKNdEb23G-Bir1WIQ)
 * [中州古籍出版社 | 《梦华录》|宋朝的斗茶是怎么回事？](https://mp.weixin.qq.com/s/nlm6jFYVrHeB0ho4PCnJ_g)
+* [中国农业出版社产品服务号 | 《梦华录》火了，古代人的“茶生活”真的那么精彩吗？](https://mp.weixin.qq.com/s/B35dbrsU7sbTBRQ9n3O2mg)
+* [华中科技大学出版社 | 穿越回《梦华录》时代，茶坊老板娘怎样打破内卷，经营致富？](https://mp.weixin.qq.com/s/3q2nnq9CVaC51GL9EUSXIw)
 
 ## 文联及文艺联合会
 

@@ -56,3 +56,19 @@
 ## 杭州移动
 
 ![](/image/discuss/other/hangzhouyidong.png)
+
+
+## 邮储银行微工会
+
+
+> 湖北襄阳市分行的小伙伴们
+
+> 来到《梦华录》拍摄地之一
+
+> 襄阳中国唐城影视基地
+
+> 让你一秒梦回《梦华录》！
+
+![](/image/discuss/create/bank-1.jpg)
+
+链接: [邮储银行微工会  | 一觉醒来身在宋朝也不慌！邮储人实力演绎《梦华录》（多图多视频！）](https://mp.weixin.qq.com/s/-ZXtBWeHMRa9PS_9meVhvw)

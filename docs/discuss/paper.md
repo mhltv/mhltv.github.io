@@ -47,6 +47,10 @@
 * [报道 | 河北省青少年读书实践活动  | 阅见 | 《梦华录》：读北宋励志故事 展东京绰约风华](https://mp.weixin.qq.com/s/JjWdpRxZzXPFSZPdpnwAqA)
 * [探照灯好书 | 探照灯好书10月十大中外类型小说发布](https://mp.weixin.qq.com/s/Out2JEAGiKhOCpeNfSme4Q)
 
+此书也获得了央视网阅读频道的推荐:
+
+![](/image/discuss/paper/yang.webp)
+
 
 ### 《东京梦华录》
 
