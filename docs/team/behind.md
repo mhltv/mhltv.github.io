@@ -20,6 +20,7 @@
 * [澎湃新闻 | 专访｜《梦华录》导演杨阳：想为大城市打拼女孩们拍一部剧](https://m.thepaper.cn/kuaibao_detail.jsp?contid=18842849&from=kuaibao)
 * [最人物 | 《梦华录》背后，一个「小声」的女导演](https://i.ifeng.com/c/8HdgAFvCDHS)
 * [中国传媒大学校友会 | 校友作品推介｜中传校友主创《梦华录》正在热播，美学古韵与审美新潮的结合](https://mp.weixin.qq.com/s/qDmnhmQ8Hch5zTQdi8AHFw)
+* [ 谈心社 | 对话《梦华录》导演杨阳：想给观众呈现能共情的作品](https://mp.weixin.qq.com/s/MyKL8Wg3JoH7JLUY5TH-tA)
 
 
 ### 《坚持》
