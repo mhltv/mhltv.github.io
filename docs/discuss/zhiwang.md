@@ -61,3 +61,18 @@
 * [音乐爱好者 | 当传统昆曲邂逅西方室内乐 故事故人，弦音寻梦](https://wh.cnki.net/article/detail/YYAH202209002?album=V)
 * [食品界 | 茶味新风尚能否带热市场](https://wh.cnki.net/article/detail/SPJI202209017?album=T)
 * [作家天地 | 影视作品的优秀传统文化解读——以《梦华录》为例](https://wh.cnki.net/article/detail/ZJTD202229045?album=V)
+
+
+
+## 其他论文
+
+部分论文是是由特定会议或者论坛产生的，并未收录于知网。考虑都属于同类别论文，特此收录并标注。
+> 58.朱鹏杰、陈虹：论粉丝文学的单向裂变——对《梦华录》的同人文研究
+
+> 103.韩沐笛、姚睿：可能世界叙事视阈下影像的虚拟世界
+
+> 111.张驰、张兵娟：消费文化语境下中国礼文化的影像表达与价值建构
+
+* [中国高校影视学会 | 第十五届中国影视高层论坛论文入围名单](https://mp.weixin.qq.com/s/xDYL6t4UgIKv6qcSijb7Xg)
+* [中国高校影视学会 | 专题论坛九|网络视听新趋势论坛](https://mp.weixin.qq.com/s/wFBcOH8Aoh3iBR06gz0yDw)
+* [中国高校影视学会 | 专题论坛八|影视批评理论与实践研究论坛](https://mp.weixin.qq.com/s/myfkvpCxRTbqcxkxBwb32g)

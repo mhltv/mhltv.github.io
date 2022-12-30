@@ -427,6 +427,8 @@
 
 ### 不同舞蹈版
 
+《不惜时光》的舞蹈演绎非常之多，本文只收录部分。
+
 #### 古典舞编舞 
 * [【宾大中国舞社】《梦华录-不惜时光》翻跳](https://www.bilibili.com/video/BV1XD4y1x7W8/?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c): 普林斯顿中秋晚会演出
 * [手如柔荑，肤如凝脂 原来这就是清冷美人 【紫颜】【不惜时光 原创编舞】](https://www.bilibili.com/video/BV1KY4y1M7Ei/?is_story_h5=false&p=1&share_from=ugc&share_medium=android&share_plat=android&share_session_id=c3c002b3-02bd-406a-9df4-eefe7970778a&share_source=WEIXIN&share_tag=s_i&timestamp=1665920205&unique_k=IyRDyok&vd_source=b26625da23e4e975626bfc502c6ed382)
@@ -444,6 +446,7 @@
 * [倾盖如故 白头如新「不惜时光」「梦华录」](https://b23.tv/9QVhbPn)
 * [梦华录 《不惜时光》完整版 王梓溪老师编舞](https://b23.tv/lIj86eB)
 * [舞 徒 原 创 剧 目《不惜时光》](https://b23.tv/5DkRUSJ)
+* [学习强国 | 项城融媒号 | 舞蹈《梦华录》](https://article.xuexi.cn/articles/index.html?art_id=3448824997403101964&t=1668480940457&showmenu=false&study_style_id=video_default&source=share&share_to=copylink&item_id=3448824997403101964&ref_read_id=fc6cebdf-9196-4faf-85c4-5dabb730b598_1672410286874)
 
 #### 阿根廷探戈版 
 
