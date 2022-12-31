@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方媒体 `147`个，文章/微博/公众号条目`318`篇。(数量为手动统计，可能会有极小范围误差)
+本文共收录 权威/官方媒体 `147`个，文章/微博/公众号条目`319`篇。(数量为手动统计，可能会有极小范围误差)
 
 另，新华网，人民网，央视网等综合类新闻网站会经常转载其他媒体的文章，本文未全部标注转载情况。
 
@@ -146,6 +146,7 @@
 
 > In June, A Dream of Splendor, a costume drama also set during the Song Dynasty, generated another wave of popularity. The scenes of the heroine demonstrating traditional Chinese tea acrobatics drew audiences to the show as it aroused a deep and curious interest in Song social life.
 * [Life｜Glimpse of history](https://mp.weixin.qq.com/s/zB06f4PZB3lvUsDj6r8Q6g)
+* [Hit Chinese shows gain popularity in overseas markets](https://global.chinadaily.com.cn/a/202212/31/WS63af9767a31057c47eba7196.html)
 
 
 ### 中国日报双语新闻
@@ -233,10 +234,10 @@
 ### 环球网
 
 * [喜茶首度联名影视IP，携手《梦华录》实现品牌势能破圈](https://finance.huanqiu.com/article/48ckYGl50Fk)
-* [跳出“虚浮夸张”怪圈，讲宋代女子组团创业的《梦华录》火了！](https://3w.huanqiu.com/a/de583b/48KgP9B5KII?agt=29)
+
 
 ### 环球时报
-
+* [跳出“虚浮夸张”怪圈，讲宋代女子组团创业的《梦华录》火了！](https://3w.huanqiu.com/a/de583b/48KgP9B5KII?agt=29)
 * [港媒：汉服，不再只是文化和情怀](https://oversea.huanqiu.com/article/494HlXRTCft)
 
 ### 中国报业

@@ -127,5 +127,5 @@
 报道: 
 * [第35届华鼎奖提名名单揭晓，《功勋》满意度调查第一，殷桃刘亦菲等角逐视后](http://news.yule.com.cn/html/202212/344939.html)
 * [第35届华鼎奖获奖名单揭晓 《人世间》获5项大奖](http://ent.enorth.com.cn/system/2022/12/30/053495386.shtml)
-
+* [BUSINESS WIRE | "A Lifelong Journey" Swept Five Awards at the 35th Huading Awards, Yong Hou Got the Best Actor and Tao Yin Received the Best Actress](https://finance.yahoo.com/news/lifelong-journey-swept-five-awards-144100929.html)
 
