@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方媒体 `147`个，文章/微博/公众号条目`317`篇。(数量为手动统计，可能会有极小范围误差)
+本文共收录 权威/官方媒体 `147`个，文章/微博/公众号条目`318`篇。(数量为手动统计，可能会有极小范围误差)
 
 另，新华网，人民网，央视网等综合类新闻网站会经常转载其他媒体的文章，本文未全部标注转载情况。
 
@@ -163,6 +163,7 @@
 > A Dream of Splendor, which has an 8.3/10 on Douban, focuses on how three women in the Song Dynasty (960-1279) unite together to compete against a group of men to see who can make the best tea. Show director Yang Yang told the Global Times that to find the most suitable setting for the series, the production team explored 10 ancient Chinese towns in order to effectively capture the details of making traditional tea. The production team also invited Zhang Zhifeng, a representative inheritor of tea making, to give lectures to the film crew during production.
 
 * [2022-12-22 | More high-quality Chinese TV dramas see success around the world](https://www.globaltimes.cn/page/202212/1282428.shtml)
+* [2022-12-29 | Knowing from the screen: Intl markets keen on good Chinese stories: GT survey on Chinese film and television’s overseas audience](https://www.globaltimes.cn/page/202212/1282935.shtml)
 
 
 ### 国家知识产权局（国际版）

@@ -81,6 +81,8 @@
 * [时代报告(奔流) | 论琵琶音乐在中国影视作品中的运用及表现功能](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLASN2022&filename=SDBB202208018&uniplatform=NZKPT&v=frQk_z1HvNZ39HNM_nc3aCZdWu7Q1CZgtr9RG7yRiCiVSpP6iYk2vr-BZevXOwLN)
 * [视听界 | 科技赋能下新国潮节目的路径选择](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=STJZ202204002&uniplatform=NZKPT&v=NcI4Qsls9Sf__MQDkgWiPSoMLML6NU8zspQGj2-8WHMzHwLBVnxpbzmETrVaMP4C)
 * [中国质量万里行 | 《梦华录》追剧党一边付费一边吐槽](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=ZLWL202207040&uniplatform=NZKPT&v=aNuGoTbfxTh6GmypQ7GPOZ28lKDfjr9Zd4n1e6OU7FF_yW6eTo-hvAXfUn6ebVt0)
+* [光彩 | “古偶剧”何以区别于“历史剧”？](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=GCXX202208045&uniplatform=NZKPT&v=rX66p_NeToiP1ssO_4erZOKZjOR_VCL75ubNd7aPX_OUK389SbgUNahmykDDFmQa)
+
 
 ## 知网文化
 > 知网文化是中国知网出品的精品文化出版传播平台，平台集成化网络出版、系统化深度整合大众精品期刊、图书、工具书、报纸、音频、视频、图片、文章等优质文化知识资源，以“鼓舞人、培育人、塑造人”为宗旨，为读者提供纯净、高品质文化知识资源的阅读、欣赏、学习与交流空间。
