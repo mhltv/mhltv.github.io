@@ -42,6 +42,10 @@
 * [《梦华录》大结局：最终boss历史上的皇后刘娥，是如何逆袭的？](https://mp.weixin.qq.com/s/R8rqmL5TJMpDZN5-28M1qg)
 
 
+### 人物
+
+* [​我们为什么越来越怀旧？](https://mp.weixin.qq.com/s/Jugn_Sxu15fX8bmxza8i-Q)
+* [《梦华录》背后，一个「小声」的女导演](https://mp.weixin.qq.com/s/Qy0zfuYyXbqgLoA0FT2eBA)
 
 
 ## 商业
@@ -147,9 +151,15 @@
 * [微信读书 | 《梦华录》点茶技艺惊艳全场，其实中国还有很多绝美的传统文化不为人知......](https://mp.weixin.qq.com/s/R9pnHJtk5BScuJS7WdOGBw)
 * [学而思网校 | 惊了！《梦华录》中《夜宴图》的秘密，原型竟然比电视剧还刺激？](https://mp.weixin.qq.com/s/i9qxJSrnn9xxeYdAVp1eRA)
 * [下厨房 | 梦华录·茶果子| 奶香浓郁绿豆糕，夏日解暑小甜点（仙女食物）](https://mp.weixin.qq.com/s/d8Mg_GU--P5U7VdBaX50Vw)
+* [腾讯 | 45件数字版本，入藏中国国家版本馆](https://mp.weixin.qq.com/s/Op3rYRS9P1JngGyDu54Bxw)
+* [腾讯互动娱乐 | 中国国家版本馆首批网络数字版本入藏仪式在深圳文博会举行](https://mp.weixin.qq.com/s/qsHj7WlufktjM3qdWbn0gQ)
 
 
-### 自媒体
+### 其他
 > 剧集上线后，因颜值高，制作精良，文化意蕴浓厚，迅速引发网友广泛讨论，而赵盼儿三人的“京漂”创业之路，也成为剧中的一大看点。
 * [二更 | 颜值不重要，创业宝典才是《梦华录》的真实身份](https://mp.weixin.qq.com/s/E4f5CXpzJtgJqJs8BQFDSg)
 * [二更 | 戏曲真想火？靠一部《梦华录》可不够！](https://mp.weixin.qq.com/s/rH2_hWoLytsFq6VHS8icWg)
+* [一条 | 《梦华录》成上半年最大爆款，它凭什么？](https://mp.weixin.qq.com/s/2GQ2hBIzI-YAAAkOIcnWww)
+* [GQ实验室 | 没等梦华录大结局，这对CP就BE了](https://mp.weixin.qq.com/s/ALlM44U135v3YlZ7FoBSwA)
+* [ONE文艺生活 | 乡野村妇刘亦菲，平平无奇《梦华录》](https://mp.weixin.qq.com/s/wcvKTD89iqoUluWLPWATRg)
+* [毕导 | 我从《梦华录》学到了管理老板的7大技巧！老板：你没事吧？](https://mp.weixin.qq.com/s/OSBmzoextKD_F8z2yPOUTg)

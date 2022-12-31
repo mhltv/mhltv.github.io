@@ -3,6 +3,7 @@
 
 ## 喜茶
 
+喜茶与《梦华录》的联名也获得了诸多奖项。可在[数据/奖项荣誉](/data/awards)页面查看。
 
 ![](/image/xianxi/xicha-0.png)
 
@@ -33,15 +34,16 @@
 3. [界面新闻: 《梦华录》喜茶联名款的流量密码=瑞幸+蜜雪冰城](https://m.jiemian.com/article/7738129.html)
 4. [FoodTalks: 喜茶的“第一次”，是广告收入1.5亿的《梦华录》](https://www.foodtalks.cn/news/32425)
 5. [Morketing Morketing | 从「喜茶」x《梦华录》，看品牌靠“影视IP”怎么做内容复利？](https://mp.weixin.qq.com/s/AYuBw57Jup5FeltoWknTeQ)
+> 喜茶与梦华录的联名就是很好的例证。 
+
+> 《梦华录》本身的茶文化不仅与喜茶高度适配，而善于营销的喜茶更是将“录人”（梦华录的粉丝自称录人）的心理揣摩得一清二楚，喜茶x《梦华录》联名款的销售成绩在首周就突破了140万杯。 
 6. [财经无忌 | 拉上甄嬛传，喜茶再破圈，新茶饮们为何集体靠联名续命？](https://www.dachanggongguan.com/article-482415.html)
+> 艾普思舆情大数据监测系统显示，6月，小红书平台涉及餐饮行业的舆情声量为805,850篇次，较上月有所减少（5月小红书声量957,040篇次），日均声量为26,861篇次。
 
-![](/image/xianxi/xichabaodao1.png)
-
+> 从声量走势来看，6月小红书餐饮行业舆情出现两次声量高峰：6月6日（单日声量28,201篇次），主要由“瑞幸葡萄冰萃回归”相关报道带动声量；6月29日（单日声量29,812篇次），主要由“喜茶梦华录联名”相关报道带动声量。
 7. [艾普思咨询 | 行业月报 | 2022年06月餐饮舆情监测数据盘点](https://www.ipscg.com/detail-288.html)
-
-![](/image/xianxi/xichabaodao2.jpg)
-
 8. [KgoSocial | 喜茶×梦华录联名卖爆！2022最强IP迎来品牌联名潮，追热点还得看喜茶](https://weibo.com/ttarticle/x/m/show/id/2309404825211899085018)
+9. [案例SHOWCASE | 2022年至今最强营销！《梦华录》IP方首谈联名出圈｜中国爆款](https://mp.weixin.qq.com/s/bbLFWESS4KKUxJhOVO2Byw)
 
 ## 奈雪的茶
 

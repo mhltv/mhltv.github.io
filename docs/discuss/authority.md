@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方媒体 `146`个，文章/微博/公众号条目`316`篇。(数量为手动统计，可能会有极小范围误差)
+本文共收录 权威/官方媒体 `147`个，文章/微博/公众号条目`318`篇。(数量为手动统计，可能会有极小范围误差)
 
 另，新华网，人民网，央视网等综合类新闻网站会经常转载其他媒体的文章，本文未全部标注转载情况。
 
@@ -12,6 +12,7 @@
 
 * [《梦华录》：传承美学旧韵，缔造审美新潮](https://xhpfmapi.xinhuaxmt.com/vh512/share/10855355?dt_dapp=1)
 * [《梦华录》里的东京城，到底有多繁华？](https://m.gmw.cn/2022-07/12/content_1303040749.htm)
+* [首批45项网络数字版本入藏中国国家版本馆](http://www.news.cn/politics/2022-12/29/c_1129242519.htm): 梦华录入藏国家版本馆相关报道，此项报道较多，本文不一一收录，其他媒体还有：新华网，光明网，人民日报，中国新闻网，文化中国等等。
 
 ### 新华日报
 [《梦华录》中的“宋代点茶”，竟是这里的非遗……](https://mp.weixin.qq.com/s/biSbDvXkoPkugw4qq085JQ) `微博平台也有发布`
@@ -162,6 +163,7 @@
 > A Dream of Splendor, which has an 8.3/10 on Douban, focuses on how three women in the Song Dynasty (960-1279) unite together to compete against a group of men to see who can make the best tea. Show director Yang Yang told the Global Times that to find the most suitable setting for the series, the production team explored 10 ancient Chinese towns in order to effectively capture the details of making traditional tea. The production team also invited Zhang Zhifeng, a representative inheritor of tea making, to give lectures to the film crew during production.
 
 * [2022-12-22 | More high-quality Chinese TV dramas see success around the world](https://www.globaltimes.cn/page/202212/1282428.shtml)
+* [2022-12-29 | Knowing from the screen: Intl markets keen on good Chinese stories: GT survey on Chinese film and television’s overseas audience](https://www.globaltimes.cn/page/202212/1282935.shtml)
 
 
 ### 国家知识产权局（国际版）
@@ -425,6 +427,11 @@
 > 光明日报出版社主管的权威教育期刊
 
 [颠覆枯燥，10月《光明少年》趣讲传统文化！ “大语文”时代，带孩子提升综合人文素养](https://mp.weixin.qq.com/s/Y0g7v2TQQTDcKfmEHDAkAA)
+
+
+### 南昌青年之声
+
+* [这份备忘录请收好，万一哪天穿越进《梦华录》了呢？](https://mp.weixin.qq.com/s/2yqVy3-4o1ScVQ_U62ebdA)
 
 ### 新华报业网
 

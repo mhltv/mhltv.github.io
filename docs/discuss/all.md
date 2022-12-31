@@ -1,7 +1,7 @@
 # 破圈讨论
 
 本文收录诸多媒体从各个角度对梦华录的讨论, 因讨论内容过多，部分媒体发布了多篇报道，也有报道会被多个媒体转载，本文只收录部分代表性内容。
-目前共计收录`34`个分类，`454`个条目。
+目前共计收录`36`个分类，`456`个条目。
 
 同时，《梦华录》也掀起了一股“宋朝热”，激发起无数观众对于那个文化鼎盛时期民俗百态的好奇与向往。读者可从本文中散落于不同行业的讨论文章中一窥全豹。
 
@@ -228,7 +228,7 @@
 ## 教育
 
 ![](/image/discuss/tech.jpg)
-
+* [男孩派 |《梦华录》爆火：这7部高分宋代纪录片，审美高级，富含历史考点，暑假带孩子一起看](https://mp.weixin.qq.com/s/FX_3p54CdmAQEE-ZtXZChA)
 * [粉笔教师 |《梦华录》里除了有天仙，还有教资考点](https://mp.weixin.qq.com/s/G_Qa-Yj6M6oYCz3T4u4hRg)
 * [俄语摆渡 | 暑假爆款古偶《梦华录》用俄语咋说？俄语人追剧指南～](https://mp.weixin.qq.com/s/Fv73IF6WABvAcalXO9gLVg)
 * [粉笔事考教育 | 《梦华录》都大结局了，这些知识点你还没学会](https://mp.weixin.qq.com/s/z9euEJii-Kd9ExBktMBQUQ)
@@ -292,6 +292,12 @@
 * [金融界 | 梦华录带火了哪些产业 天眼查显示我国现有3500家汉服相关企业](https://m.jrj.com.cn/madapter/finance/2022/06/15163436731248.shtml)
 
 
+## 女性
+* [今日影评Mtalk | 刘亦菲很好地还原了宋朝优秀女性](https://m.weibo.cn/5828293600/4779970059306873)
+* [奴隶社会 | 从《牵手》到《梦华录》，爆款剧里看“女性成长”20年流变](https://mp.weixin.qq.com/s/g-9a8t3sDE0bsl54cHPuMg)
+* [编剧帮 | “写意”东方美学下，《梦华录》打造女性群像戏新概念​（2371期）](https://mp.weixin.qq.com/s/gp1vYV1nPeLeccAy6BCqFQ)
+* [爱哲学考研Phil | 中哲视域|从《梦华录》看孔、老的女性哲学形象](https://mp.weixin.qq.com/s/V2HbKJ-5cW_O-cs37CK8KA)
+
 ## 剧评
 
 ![](/image/discuss/review.jpg)
@@ -301,7 +307,6 @@
 * [凤凰网电影 | 《梦华录》：制作有实感，感情线有创新](https://m.weibo.cn/2274928514/4776936666300744)
 * [富兰克林读书俱乐部 | 《梦华录》爆火：浮世三千皆过客，黄粱一梦在人间](https://mp.weixin.qq.com/s/DmzmuB-sIwrUpzhMj3cVlQ)
 * [画手歌者 | 《梦华录》里那些细思极恐的渣男](https://mp.weixin.qq.com/s/jMKChKY2FsHGOIt3Ow_T8Q)
-* [编剧帮 | “写意”东方美学下，《梦华录》打造女性群像戏新概念​（2371期）](https://mp.weixin.qq.com/s/gp1vYV1nPeLeccAy6BCqFQ)
 * [秦朔朋友圈 | 为什么观众想为《梦华录》多花钱?](https://mp.weixin.qq.com/s/dSx5k5PHo9uXeYlCZ0hfCg)
 * [全球艺术精选 | 2022年古偶天花板，豆瓣8.5，刘亦菲《梦华录》凭啥如此豪横？](https://mp.weixin.qq.com/s/0QFun4wQJ7bc0pGHlsSDew)
 * [十点读书 | 《梦华录》大结局：不要高估人性，也不要高估爱情](https://mp.weixin.qq.com/s/PEahYtktDNrQRXJaNgeUKA)
@@ -310,7 +315,6 @@
 * [新周刊 | 《梦华录》的最佳配角，我提名他](https://mp.weixin.qq.com/s/Fg-twv-IdTj7yqIlfJihDw)
 * [熊猫放射 | 谁为你不惜时光~~~](http://mp.weixin.qq.com/s?__biz=MzA5MTgxNjQ0Mg==&mid=2651057075&idx=1&sn=ca169904766d4a4bd36f1e6ff48fd31a&chksm=8b81e326bcf66a303f7b6b59ea030a3a5623a4210729d6bd96de665671364a7be3a8711ab537&mpshare=1&scene=24&srcid=1003SikfLi6ex1EqGrk1xkw7&sharer_sharetime=1664755386600&sharer_shareid=c98decfaccd594d2e0861568e577e1ff#rd)
 * [爱语吧英语 | 《梦华录》开播豆瓣评分8.8！神仙姐姐创业开茶馆，网友直呼：想喝刘亦菲点的茶！](https://mp.weixin.qq.com/s/WveoQIn_4b8ZEu1xJuv9DQ)
-* [今日影评Mtalk | 刘亦菲很好地还原了宋朝优秀女性](https://m.weibo.cn/5828293600/4779970059306873)
 * [Nancy时尚笔记 | 《梦华录》爆了？拜托，那可是刘亦菲和陈晓啊！](https://mp.weixin.qq.com/s/hDrMkiUvXTtbiguDS53tzg)
 * [洞见 | 刘亦菲《梦华录》热播：三观正的女人，到底是什么样的？](https://mp.weixin.qq.com/s/Nse8P24VARUKPm4tyrQZRw)
 * [入骨影评 | 《梦华录》: 不一样的追剧体验，这一趟大宋之旅不虚此行](https://mp.weixin.qq.com/s/cbj3dxu5VUHXvSI-1yw82Q)
@@ -401,6 +405,7 @@
 * [同程出行 | 除了《梦华录》取景地，河南还有这些值得你去！](https://mp.weixin.qq.com/s/3defHbg0tRYd-pwIukxCCg)
 * [游侠客 | 一天上9个热搜！《梦华录》高颜值取景地大赏，美得我一口气追了20集！](https://mp.weixin.qq.com/s/6fsYDs3W_9LizJr7YdD0VQ)
 * [稻草人旅行 | 全新路线武夷梦华！顶奢宋风酒店+《梦华录》同款“茶百戏”，最少只请1天假~](https://mp.weixin.qq.com/s/r1juc-4XaE0qP-Cz9cyE2w)
+* [成都SOLO | 原来《梦华录》同款茶室成都也有啊！](https://mp.weixin.qq.com/s/w9Zz9N-41TCSPkD3Bgw6pw)
 
 
 ## 消防
@@ -520,7 +525,6 @@
 
 ![](/image/discuss/his.jpg)
 
-* [爱哲学考研Phil | 中哲视域|从《梦华录》看孔、老的女性哲学形象](https://mp.weixin.qq.com/s/V2HbKJ-5cW_O-cs37CK8KA)
 * [读者 | 《梦华录》大结局：最终boss历史上的皇后刘娥，是如何逆袭的？](https://mp.weixin.qq.com/s/R8rqmL5TJMpDZN5-28M1qg)
 * [浩然文史 | 《梦华录》帽妖案，搞得京城人心惶惶，真实历史上究竟是怎么回事](https://mp.weixin.qq.com/s/wwLIH8dOM5MPk_l0W3EYJQ)
 * [龙城地理 | 汴水日驰三百里，扁舟东下更开帆|从电视剧《梦华录》看运河交通与区域经济发展](https://mp.weixin.qq.com/s/QAoEWxUmHSkH_3JnA5CjAg)

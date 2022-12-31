@@ -178,6 +178,17 @@
 
 链接：[《诗画中国》茶百戏节目](https://www.xiaohongshu.com/discovery/item/6368786200000000090115cf)
 
+
+
+### CCTV-1 《非遗里的中国》
+
+> 传非遗技艺，扬创新风采。@央视一套  #非遗里的中国# 首期节目正在播出～@陈数 沉浸式体验浙江非物质文化遗产传统技艺。
+
+![](/image/discuss/tea/shu.jpg)
+
+* [微博 | 陈数工作室](https://weibo.com/6159468263/Mm1wkyhcX?pagetype=groupfeed)
+
+
 ### CCTV-3 全国第七届非遗博览会采访茶百戏
 
 * [CCTV3在第七届全国非遗博览会采访茶百戏](http://xhslink.com/j4muGj)
