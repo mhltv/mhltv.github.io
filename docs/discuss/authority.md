@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方媒体 `147`个，文章/微博/公众号条目`319`篇。(数量为手动统计，可能会有极小范围误差)
+本文共收录 权威/官方媒体 `147`个，文章/微博/公众号条目`320`篇。(数量为手动统计，可能会有极小范围误差)
 
 另，新华网，人民网，央视网等综合类新闻网站会经常转载其他媒体的文章，本文未全部标注转载情况。
 
@@ -147,6 +147,7 @@
 > In June, A Dream of Splendor, a costume drama also set during the Song Dynasty, generated another wave of popularity. The scenes of the heroine demonstrating traditional Chinese tea acrobatics drew audiences to the show as it aroused a deep and curious interest in Song social life.
 * [Life｜Glimpse of history](https://mp.weixin.qq.com/s/zB06f4PZB3lvUsDj6r8Q6g)
 * [Hit Chinese shows gain popularity in overseas markets](https://global.chinadaily.com.cn/a/202212/31/WS63af9767a31057c47eba7196.html)
+* [Mega-popular TV drama series from 2022](https://global.chinadaily.com.cn/a/202212/30/WS63ae5a2ca31057c47eba6fe1_1.html)
 
 
 ### 中国日报双语新闻

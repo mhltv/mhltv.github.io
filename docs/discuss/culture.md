@@ -27,6 +27,8 @@
 众多高校及出版社齐发文！探讨《梦华录》中的文化、美术、艺术、建筑、音乐、色彩、服饰等美的感受！
 
 ### 高校
+> 张巍老师推荐语：前两部都是我最不擅长写的那种悬念丛生翻转不断的强情节高概念短剧，个人而言《流人》在塑造人物方面还要更甚一筹。《梦华录》从各方面来说都是今年的一部现象级的剧集，无论是学术研究或是学术批评都可以先来看看。
+* [ 北京电影学院文学系 | 【片单】2022年度电影电视剧推荐 by 文学系教师](https://mp.weixin.qq.com/s/0c-xibT_nBAw0iFEQrCnpg)
 * [北京大学 | 北大教授带你“追剧”！](https://mp.weixin.qq.com/s/bpgBUhN65bA7gsHBaGcLWA)
 * [THAD6 清华大学建筑设计六分院 | 梦华录之开封府——走进衙署园林](https://mp.weixin.qq.com/s/E3-R5xeK2hK7S3mXoPWrcw)
 * [上海交通大学图书馆 | 【珍契撷英】跟着《梦华录》品茶文化，来交圕特藏赏“药茶方”](https://mp.weixin.qq.com/s/8FYralgRyMvRDVUzUx23tQ)
@@ -214,6 +216,7 @@
 * [成都文殊院 | 你向往的“梦华录”生活，就藏在禅院茶文化里](https://mp.weixin.qq.com/s/K2HGKmFBbc6TCSSZZ238qQ)
 * [汉长安城未央宫 | 《梦华录》带火“点茶”！汉代茶文化你了解多少？](https://mp.weixin.qq.com/s/lfFzm_cAt0OGD_y4gKqzxQ)
 * [崑岫堂艺术馆  | 艺术情报站｜当《梦华录》遇见最美中国色](https://mp.weixin.qq.com/s/C0QWid-6D_jhLNvmV7uTxg)
+* [演艺大世界 | 艺起前行 | 演艺时光：《梦华录》看了很上头，赵盼儿喊你来看话剧版！](https://mp.weixin.qq.com/s/1POgs7D4ZKLC2l31y5ShYw)
 
 ## #梦华录的方式打开博物馆#
 
