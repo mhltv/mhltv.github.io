@@ -124,6 +124,6 @@
 * [小红书 | 二圆](http://xhslink.com/l6MmNk)
 * [小红书 | 再吃一口鲷鱼烧](http://xhslink.com/N19a0k)
 * [小红书 | 周鱼儿](http://xhslink.com/FTL2Pk)
-
+* [小红书 | 鸣嘤于乔](https://www.xiaohongshu.com/discovery/item/63b05218000000001b014d35?app_platform=android&app_version=7.68.1&share_from_user_hidden=true&type=normal&xhsshare=CopyLink&appuid=615b1297000000000201bfbc&apptime=1672500557)
 
 

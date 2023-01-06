@@ -44,6 +44,8 @@
 7. [艾普思咨询 | 行业月报 | 2022年06月餐饮舆情监测数据盘点](https://www.ipscg.com/detail-288.html)
 8. [KgoSocial | 喜茶×梦华录联名卖爆！2022最强IP迎来品牌联名潮，追热点还得看喜茶](https://weibo.com/ttarticle/x/m/show/id/2309404825211899085018)
 9. [案例SHOWCASE | 2022年至今最强营销！《梦华录》IP方首谈联名出圈｜中国爆款](https://mp.weixin.qq.com/s/bbLFWESS4KKUxJhOVO2Byw)
+10. [上海证券报 | 喜茶发布十周年报告：会员人数达6300万，进入全球83个城市](https://news.cnstock.com/news,bwkx-202301-5000644.htm)
+11. [中国网财经 | 天天观天下！喜茶年度报告：2022年6月以来日店均销量逆势同比平均增长20%](http://newcar.dizo.com.cn/qyjj/2023/0103/43688.html)
 
 ## 奈雪的茶
 

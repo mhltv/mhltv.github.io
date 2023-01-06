@@ -2,36 +2,33 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方媒体 `147`个，文章/微博/公众号条目`318`篇。(数量为手动统计，可能会有极小范围误差)
+本文共收录 权威/官方媒体 `147`个，文章/微博/公众号条目`321`篇。(数量为手动统计，可能会有极小范围误差)
 
 另，新华网，人民网，央视网等综合类新闻网站会经常转载其他媒体的文章，本文未全部标注转载情况。
 
 ## 央媒党媒
 
-### 新华社
+### 新华社/新华网
 
 * [《梦华录》：传承美学旧韵，缔造审美新潮](https://xhpfmapi.xinhuaxmt.com/vh512/share/10855355?dt_dapp=1)
 * [《梦华录》里的东京城，到底有多繁华？](https://m.gmw.cn/2022-07/12/content_1303040749.htm)
 * [首批45项网络数字版本入藏中国国家版本馆](http://www.news.cn/politics/2022-12/29/c_1129242519.htm): 梦华录入藏国家版本馆相关报道，此项报道较多，本文不一一收录，其他媒体还有：新华网，光明网，人民日报，中国新闻网，文化中国等等。
-
-### 新华日报
-[《梦华录》中的“宋代点茶”，竟是这里的非遗……](https://mp.weixin.qq.com/s/biSbDvXkoPkugw4qq085JQ) `微博平台也有发布`
-
-### 新华网
-
 * [@新华网 | 宋朝人解暑也喝冰茶](https://m.weibo.cn/2810373291/4783526975635526)
 * [宋朝文化那些事儿｜从《梦华录》三处细节，看北宋商业文明](http://www.news.cn/sikepro/20220628/1f2c4d4241c64739af32c7de6a15ec55/c.html)
-
 > “先前在电视剧《梦华录》里看到茶百戏表演，觉得好神奇，没想到能在三坊七巷亲眼目睹。”福州市民赵女士看到网上的活动预告便来到现场。
 * [活起来”的文化遗产成大众追捧的“国潮”新风尚——福州历史文化街区民俗活动见闻](http://fj.news.cn/xhskfj/2022-10/04/c_1129050025.htm)
 > 正在热映的《梦华录》，展现了一幅北宋市井生活的长卷，让观众看到了宋朝的气韵和风姿。到了南宋，“烟柳画桥，风帘翠幕，参差十万人家”，宋朝人的小确幸在临安发展出别样的风雅意趣，浓厚的宋韵文化至今仍滋养着杭州。
 * [“2022文旅市集·宋韵杭州奇妙夜暨文旅消费季”亮相西湖边 让宋韵文化可观、可感、可体验、可消费](http://zj.news.cn/2022-06/16/c_1128746308.htm)
-
-2022-12-25:
-
 > 径山镇综合性文体大楼以宋式美学为基础，采用生态现代中式的设计理念，于细节处尽显“禅意”，在场景中融入“茶韵”。民宿、茶企纷纷开设点茶、抹茶、香道、插花等民间文化体验课程，径山茶研学之旅游线日渐热门，当地还借着《梦华录》电视剧热点效应，推出‘盼儿喊你来点茶’同款网红线路。
+* [2022-12-25 | 守正创新，民间文化艺术之乡为浙江乡村振兴赋能](http://www.news.cn/culture/20221215/c9a14c9d48a542c399e17065fb85e08f/c.html)
+* [2023-01-05 | 2022年中国电视剧：提质减量效果明显，多类型题材百花齐放](http://www.news.cn/ent/20230105/8b7869ac5b1c4348b65d2d9f9da9c8a5/c.html)
 
-* [守正创新，民间文化艺术之乡为浙江乡村振兴赋能](http://www.news.cn/culture/20221215/c9a14c9d48a542c399e17065fb85e08f/c.html)
+
+
+### 新华日报
+[《梦华录》中的“宋代点茶”，竟是这里的非遗……](https://mp.weixin.qq.com/s/biSbDvXkoPkugw4qq085JQ) `微博平台也有发布`
+
+
 
 ### 人民网
 
@@ -146,6 +143,8 @@
 
 > In June, A Dream of Splendor, a costume drama also set during the Song Dynasty, generated another wave of popularity. The scenes of the heroine demonstrating traditional Chinese tea acrobatics drew audiences to the show as it aroused a deep and curious interest in Song social life.
 * [Life｜Glimpse of history](https://mp.weixin.qq.com/s/zB06f4PZB3lvUsDj6r8Q6g)
+* [Hit Chinese shows gain popularity in overseas markets](https://global.chinadaily.com.cn/a/202212/31/WS63af9767a31057c47eba7196.html)
+* [Mega-popular TV drama series from 2022](https://global.chinadaily.com.cn/a/202212/30/WS63ae5a2ca31057c47eba6fe1_1.html)
 
 
 ### 中国日报双语新闻
@@ -233,10 +232,10 @@
 ### 环球网
 
 * [喜茶首度联名影视IP，携手《梦华录》实现品牌势能破圈](https://finance.huanqiu.com/article/48ckYGl50Fk)
-* [跳出“虚浮夸张”怪圈，讲宋代女子组团创业的《梦华录》火了！](https://3w.huanqiu.com/a/de583b/48KgP9B5KII?agt=29)
+
 
 ### 环球时报
-
+* [跳出“虚浮夸张”怪圈，讲宋代女子组团创业的《梦华录》火了！](https://3w.huanqiu.com/a/de583b/48KgP9B5KII?agt=29)
 * [港媒：汉服，不再只是文化和情怀](https://oversea.huanqiu.com/article/494HlXRTCft)
 
 ### 中国报业

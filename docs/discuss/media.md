@@ -63,7 +63,7 @@
 * [《梦华录》成吸金王：广告主投500万排不上队，腾讯视频赢麻了？](https://mp.weixin.qq.com/s/0BEyXz8-HzMf8fVEuWcxpw)
 * [「造物」七年，淘宝重新定义「创新创业」](https://mp.weixin.qq.com/s/a46Nr9UDEV0jGQw6K5JRkA)
 * [第一家抖音数字商品服务优质服务商，福禄网络做对了什么？](https://mp.weixin.qq.com/s/bdQ1hIVfFl-Xm-4QIBuCwg)
-
+* [毒眸 | 2022，国剧重获观众信任](https://36kr.com/p/2068060762455168)
 
 ### 钛媒体
 > 现在，意外爆火的接力棒传给了《梦华录》，原因则变得朴素了起来：刘亦菲很美、陈晓也很美，两个美人在一起谈了段恋爱，足矣。
