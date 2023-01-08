@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方媒体 `147`个，文章/微博/公众号条目`321`篇。(数量为手动统计，可能会有极小范围误差)
+本文共收录 权威/官方媒体 `147`个，文章/微博/公众号条目`322`篇。(数量为手动统计，可能会有极小范围误差)
 
 另，新华网，人民网，央视网等综合类新闻网站会经常转载其他媒体的文章，本文未全部标注转载情况。
 
@@ -854,7 +854,8 @@
 
 ### 广电时评
 
-[传统文化之美 藏在影视剧“一餐一饮、一景一物”之间](https://article.xuexi.cn/articles/index.html?art_id=4007735248899210254&item_id=4007735248899210254&study_style_id=feeds_default&t=1657529942520&showmenu=false&ref_read_id=cca10e93-7d19-40f8-8d13-fda4d71dd9ac_1664888774547&pid=&ptype=-1&source=share&share_to=wx_single)
+* [传统文化之美 藏在影视剧“一餐一饮、一景一物”之间](https://article.xuexi.cn/articles/index.html?art_id=4007735248899210254&item_id=4007735248899210254&study_style_id=feeds_default&t=1657529942520&showmenu=false&ref_read_id=cca10e93-7d19-40f8-8d13-fda4d71dd9ac_1664888774547&pid=&ptype=-1&source=share&share_to=wx_single)
+* [总局2022中国电视剧选集发布 | 20部作品见时代、见精神](https://mp.weixin.qq.com/s/_fJEBwBLGpzVQa6k9LEpPg)
 
 ### 极目新闻
 
