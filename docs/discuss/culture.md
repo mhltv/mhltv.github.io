@@ -58,7 +58,7 @@
 * [中南大艺术圈 | 惊鸿一瞥 梦华录中品琵琶意蕴](https://mp.weixin.qq.com/s/hP2N33oOXupBFwVxwshbvg)
 * [华师之声VOC | A Dream of Splendor《梦华录》：古风偶像剧的青春又回来啦！](https://mp.weixin.qq.com/s/1d2hILif-9wyf00_PyZoig)
 * [共青团天津财经大学委员会 | 传统文化 | 跟着梦华录一起，领略宋朝的文化魅力](https://mp.weixin.qq.com/s/8gnKV5aGwYnnm4oWFYYpgQ)
-
+* [东南大学研究生 | 赵盼儿 vs 王东南，解暑方式大 pk!](https://mp.weixin.qq.com/s/of43VNjBAudy3OLiSdWC1g)
 
 ### 出版社
 * [外研社 | 《梦华录》大火，人均“大女主”的宋朝女性都有哪些传奇经历？](https://mp.weixin.qq.com/s/x1J7UnXyFjZtvTH74E2aYA)
@@ -82,7 +82,7 @@
 * [华中科技大学出版社 | 穿越回《梦华录》时代，茶坊老板娘怎样打破内卷，经营致富？](https://mp.weixin.qq.com/s/3q2nnq9CVaC51GL9EUSXIw)
 
 ## 文联及文艺联合会
-
+* [北京文艺评论 | 从救风尘到救红尘：“恶女”赵盼儿的女性存在法则](https://mp.weixin.qq.com/s/f1IjkkmoIHtBYLyOv85idw)
 * [上海文联 | 《梦华录》看了还不过瘾？快来认识他笔下更多“乘风破浪的姐姐”吧](https://mp.weixin.qq.com/s/Bi7_njkw_Rl36LZGKcm4pQ)
 * [上海文联 | 宋朝的文艺生活，你了解多少？](https://mp.weixin.qq.com/s/K9SEsomszxl-eeVAsDBpHg)
 * [湖南文联 | 艺评丨陈天佑：从《梦华录》看中国文学中的“双姝叙事”](https://mp.weixin.qq.com/s/DV_wQ89OAEvmktj-VvY4mw)

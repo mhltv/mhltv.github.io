@@ -1,7 +1,7 @@
 # 破圈讨论
 
 本文收录诸多媒体从各个角度对梦华录的讨论, 因讨论内容过多，部分媒体发布了多篇报道，也有报道会被多个媒体转载，本文只收录部分代表性内容。
-目前共计收录`36`个分类，`456`个条目。
+目前共计收录`37`个分类，`461`个条目。
 
 同时，《梦华录》也掀起了一股“宋朝热”，激发起无数观众对于那个文化鼎盛时期民俗百态的好奇与向往。读者可从本文中散落于不同行业的讨论文章中一窥全豹。
 
@@ -68,13 +68,11 @@
 * [大湘网 | 长沙伢子用7天时间复刻了《梦华录》同款“宋宴”](https://mp.weixin.qq.com/s/4PAc9aVT45aaJawrfDhYMg)
 * [杭州吃货 | 看了《梦华录》，宋人的喝茶方式真的是这样吗？走进杭州这些茶馆待上一个下午……](https://mp.weixin.qq.com/s/kQMu70qoutu22HY9NV17mg)
 * [杭州吃货 | 咖啡拉花是咱老祖宗玩剩下的，《梦华录》里很火的点茶杭州哪里有](https://mp.weixin.qq.com/s/xLipddb7UMrDGu655Gkr4A)
-* [宜昌市中心人民医院 | 别光顾着舔屏，跟着《梦华录》学学饮食养生](https://mp.weixin.qq.com/s/nlnI5n6pmvX16NBRaWo5Pg)
 * [渝利火锅 | 《梦华录》竟还有支线剧情？！](https://mp.weixin.qq.com/s/fNZ_DhtjeKH3DfJOSL15IA)
 * [《梦华录》破15亿，比起刘亦菲我更馋剧中的它！清热爽口还不胖！](https://www.sohu.com/a/571640386_121147284)
 * [@Amanda的小厨房 | 如果一不小心穿越到宋代，卖紫苏饮子搞事业吧！](https://m.weibo.cn/status/4785332496632022)
 * [戒欺本草 |紫苏饮子、蜜饯雕花……追《梦华录》，却被宋代美食馋哭！ ](https://mp.weixin.qq.com/s/oYZtvnpcGZiVuaJ1WATVcg)
 * [什么值得吃 | 被《梦华录》种草的不是剧情，而是...开封菜？！](https://mp.weixin.qq.com/s/-AWuqQ23wWqYDhLYrp4PbQ)
-* [福建省鲍鱼行业商会 | 《梦华录》热播，你知道古人眼中的鲍鱼是什么样的吗？](https://mp.weixin.qq.com/s/sUV_LrenZc3hfTKgn-vyTQ)
 * [柳州1号 | 复刻《梦华录》美食！好多柳州小姐姐在这玩“穿越”](https://fzapp.lzxinwenwang.com/app/template/amucsite/pad/index.html#/detail/623599?site1&continueFlag=eab1cb469449f676a1f0cb40d79f5e1a)
 * [舌尖上的土味 | 最近梦华录里的春水生很火](https://m.weibo.cn/7379369862/4828226905966356)
 * [小红书 | 湘窖酒馆](http://xhslink.com/4hzdil)
@@ -83,26 +81,20 @@
 ## 医药
 
 ![](/image/discuss/med.jpg)
-
-* [中国非处方药物协会 | 蜂蜜止血、猪肝治眼疾……《梦华录》里的中医方，到底靠不靠谱？](https://mp.weixin.qq.com/s/Z6axpNd4rkZU2Ffw1MjQYw)
-* [广州健康通 | 《梦华录》茶文化上热搜，中医话你知养生药茶的妙用~](https://mp.weixin.qq.com/s/WlYpdQwBTuJtQ89vUUF5lw)
 * [健康有约 | 《梦华录》里唤醒顾千帆扎的是什么穴？顺便说说怎么解夏乏](https://mp.weixin.qq.com/s/kPOKd6Oh1GNNcM7tDZ2_gQ)
 * [皮肤科杨希川教授 | 天仙也逃不过的耳洞发炎，到底怎么解决？](https://mp.weixin.qq.com/s/Ar8p9POJgUtVWTjDo5BMxg)
-* [武汉市中心医院 | 《梦华录》中的防蚊秘籍，穿越千年，今天仍有妙用！](https://mp.weixin.qq.com/s/dB-9HbuihiMoyfHwOSl4QA)
-* [西北妇女儿童医院 | 看刘亦菲的《梦华录》后，我找中医科要了这个](https://mp.weixin.qq.com/s/9S6-10jEBy-kVljp5sDJUA)
 * [最紧要健康GRT | 《梦华录》录子们好奇的“医学奇迹”和“解暑饮子”适合现代人吗？中医专家来解答！](https://mp.weixin.qq.com/s/X3ePGFP3V220fYqxLjN13Q)
-* [武汉市蔡甸区中医医院服务通 | 《梦华录》里隐藏有驱蚊妙招？这份夏日驱蚊攻略请收好！](https://mp.weixin.qq.com/s/7MBsMp5WySb1ei-yDw5-wA)
 * [匠心德贝口腔 | 古偶剧《梦华录》大热，原来古人护牙也有妙招](https://mp.weixin.qq.com/s/sPxHo3B0k9sVa9TU5M38Bg)
 * [佛中医 | 【药师在线】《梦华录》中官家最爱的苏合郁金酒，到底是何物？](https://mp.weixin.qq.com/s/MSyOoVw91-pMLpuXShRH5g)
 * [小郑伊森 | 《梦华录》冷知识之中医科普（2）--当归黄芪枸杞饮真有神效？痛经女孩自救攻略！](https://mp.weixin.qq.com/s/YZIKNG9FoyC3dFwIBWk2MA)
 * [岭南药学 | 一边追《梦华录》一边了解中药（2）：天啊！山药居然能生啃？！](https://mp.weixin.qq.com/s/GUy-qtb689qjfO-Zy8In6Q)
 * [上海博爱医院资讯平台 | 用医生的方式打开《梦华录》](https://mp.weixin.qq.com/s/Wn5zajsCbSMev_QYdafemA)
-
+* [福建卫生报 | 追完《梦华录》，我对赵盼儿的茶饮动了心！有一款是女性最需要的哦~](https://mp.weixin.qq.com/s/huiRPBRQU4kcEXXnTVbxTA)
 
 ## 点茶
 
 ![](/image/discuss/tea.jpg)
-
+* [盐财经 | 赵盼儿茶艺，给东瀛人学走了](https://mp.weixin.qq.com/s/KACnPASRBMhwZtC4ypop-g)
 * [中国城乡金融报 |《梦华录》带火茶文化！今天周末，一起来品茶吧~ ](https://mp.weixin.qq.com/s/VqxyrJSZ-rueqZwbp19rww)
 * [@看见福建 | 建阳百人团与《梦华录》刘亦菲在线斗茶](https://weibo.cn/sinaurl?u=https%3A%2F%2Fm.weibo.cn%2F5906618394%2F4780544565448325)
 * [八马茶业 | 对话《梦华录》茶百戏技术指导章志峰，走进中国茶文化](https://mp.weixin.qq.com/s/_ZGUzYUbBR6OvvpLnFJMNQ)
@@ -115,7 +107,6 @@
 * [优秀网页设计 |美哭了！梦华录热播“茶百戏”引关注，“咖啡拉花”尽源自我国唐宋？ ](https://mp.weixin.qq.com/s/owlrnR98FBrYH2MJF9cB-g)
 * [@中华书局 | 梦华录中，女主赵盼儿的“茶百戏”是什么？](https://m.weibo.cn/1641568962/4778814380706770)
 * [中科院物理所 | 看了《梦华录》，却不懂茶文化？](https://mp.weixin.qq.com/s/NKnWgPha_pfzY5I4dv0nhw)
-* [中国茶叶学会 | 茶科普 | 跟着《梦华录》，体验宋代精致的茶生活（上）](https://mp.weixin.qq.com/s/FkvuYcVS074y4TkKNChNOA): `共上中下三篇，请自行搜索查看其他篇幅。`
 * [机械前线 | 想要《梦华录》中的精致茶生活，中华玉雕大师帮你实现！文人雅士追捧，收藏家奉为上品之作！](https://mp.weixin.qq.com/s/844Oi3jW1vIG80lXVh7fLg)
 * [ADC艺展中心 | ZENS哲品丨移动式智能茶几，轻松体验梦华录茶文化](https://mp.weixin.qq.com/s/aYgy-Wq53zQVTxFdQR0rKQ)
 * [家和家庭服务 | 《梦华录》上演茶文化“破圈”浪潮，一起来体验1000年前的风雅生活~](https://mp.weixin.qq.com/s/kZrptOSOFIvQRIklRgR8BA)
@@ -128,7 +119,6 @@
 * [一夜美学 | 8.8分热剧《梦华录》茶文化上热搜，宋人喝茶处处皆有美学](https://mp.weixin.qq.com/s/Zhlj1Pqk5xH-6Q2hwigyAA)
 * [启源甲骨与古汉园地 | 探索！藏在《梦华录》中的宋代多彩茶文化](https://mp.weixin.qq.com/s/nio6JE_41V3KqwQP7regIw)
 * [CYCA形体礼仪 | 茶桌礼仪 | 跟着《梦华录》一起，体验中国传统文化的饮茶之道](https://mp.weixin.qq.com/s/A3BEG8gUYTdVbCDx6TJTpg)
-* [成都高新科普e | 《梦华录》里的这一幕，学问非常大……](https://mp.weixin.qq.com/s/uChQMfNonysZ93socZ2NlQ)
 * [我们都爱宋朝（吴钩） | 梦华录：宋朝人是怎么斗茶的？](https://mp.weixin.qq.com/s/6H96CbOkwQE1P4AXA-qKpA)
 * [武汉经视 | 《梦华录》刘亦菲点茶是如何做的？快跟主播攀攀一起学“点茶”吧！](https://mp.weixin.qq.com/s/Bo5Bgwg4HV6Aor2nHSL6wA)
 
@@ -243,10 +233,15 @@
 * [成都儿童团 | 《梦华录》的“京漂”女孩们：精神独立的女孩应该拥有哪些能力？](https://mp.weixin.qq.com/s/5eHSWzDpoCYpoyBqOQGkow)
 
 
+## 营销
+* [酒店圈儿 | 别白看《梦华录》，赵盼儿式酒店营销学着点](https://mp.weixin.qq.com/s/OdR3qcIr2LLBaXkBeClGKg)
+* [4A广告网 | 美到窒息的赵盼儿，简直是营销鬼才！](https://mp.weixin.qq.com/s/BO-na0ALiJIF0RIKBiBB7w)
+* [休克文案 | 我在《梦华录》里学广告](https://mp.weixin.qq.com/s/r2msJQ7hqjJk8hw-lJWpAA)
+* [黑马营销 | 借势爆剧《梦华录》，十三余携手腾讯视频探索汉服×内容IP新营销](https://mp.weixin.qq.com/s/AhrtzEgVt0sNocA4yZY_Nw)
+
 ## 商业
-
 ![](/image/discuss/bus.jpg)
-
+* [葡萄酒杂志 | 学赵盼儿在宋朝开酒楼？分分钟破产！](https://mp.weixin.qq.com/s/oem7K2fQArmt8IoVSF_7iQ)
 * [营销娱子酱 | 《梦华录》如何讲好IP商业故事？|对话腾讯视频王莹](https://mp.weixin.qq.com/s/MH9E84w340VXVspUwkL-qA)
 * [金融投资报 | 《梦华录》“风雅产业链”成热议对象 体现了“Z世代”对于传统文化的青睐](http://www.ceeh.com.cn/wenhua/2022-06-09/89310.html)
 * [HANS汉声 | 《梦华录》里的武汉护肤大牌，神奇工厂大揭秘](https://mp.weixin.qq.com/s/Z-R6lpRTScW1YtlMZ2f7_g)
@@ -254,13 +249,12 @@
 * [创业邦 | 爆火的《梦华录》，竟是一部创业教科书？](https://mp.weixin.qq.com/s/QB9g30vWHSmloliQvQnv9Q)
 * [刀姐doris | 40+品牌合作的《梦华录》，其实是一部品牌升级的营销活教材](https://mp.weixin.qq.com/s/5mHQhPDeklq_Vd5okxp3ww)
 * [第一财经 | 市场增速明显放缓，汉服行业来到转型前夜？](https://m.yicai.com/news/101551633.html)
-* [黑马营销 | 借势爆剧《梦华录》，十三余携手腾讯视频探索汉服×内容IP新营销](https://mp.weixin.qq.com/s/AhrtzEgVt0sNocA4yZY_Nw)
+* [中国国际焙烤展览会BakeryChina | “赵盼儿”开“喜茶”爆火，看古人创业如何精妙运用当代互联网运营思维！](https://mp.weixin.qq.com/s/2jiv9mhUdniYut9naEMkQw)
 * [阑夕 | 《梦华录》播出后，超点又被怀念了？](https://mp.weixin.qq.com/s/ipSEFijWU7ZPf3RqlMA1mg)
 * [文化产业评论 | 腾讯超前点播不死心，《梦华录》提供了新的打开方式](https://mp.weixin.qq.com/s/EmBlUxcB-kBuJDnfS7qTjA)
 * [运营派 | 《梦华录》赵盼儿茶坊爆火，这样的运营秘诀不得不学](http://mp.weixin.qq.com/s?__biz=MzA3MTM3OTA5Ng==&mid=2650462922&idx=1&sn=9955b5b98a828ad43b1e2a47bc8cf1a4&chksm=87200b3db057822b4d6666c51a05014637a2bd825d7a5ce99d2fe86da45add689aab6a73d40e&mpshare=1&scene=24&srcid=1003SW00F4ifqqAmo1uVymgf&sharer_sharetime=1664755296055&sharer_shareid=c98decfaccd594d2e0861568e577e1ff#rd)
 * [国酒地理 | 赵盼儿东京酒楼创业攻略](https://mp.weixin.qq.com/s/e4kuoXzFA0gsaLib11ev6w)`被中国国家地理转载`
 * [酒店圈儿 | 别白看《梦华录》，赵盼儿式酒店营销学着点](https://mp.weixin.qq.com/s/OdR3qcIr2LLBaXkBeClGKg)
-* [休克文案 | 我在《梦华录》里学广告](https://mp.weixin.qq.com/s/r2msJQ7hqjJk8hw-lJWpAA)
 * [浮雪点茶品牌号 | 顾千帆没喝到的茶，我先喝到了](https://mp.weixin.qq.com/s/J3zY_bSe6WZzlMKHKivZKQ)
 * [CEO品牌观察 | 《梦华录》带热宋制汉服，这门生意却比电视精彩](https://mp.weixin.qq.com/s/jzyyazM0aodSN5VqovQiKw)
 * [KgoSocial | 喜茶×梦华录联名卖爆！2022最强IP迎来品牌联名潮，追热点还得看喜茶](https://weibo.com/ttarticle/x/m/show/id/2309404825211899085018)
@@ -293,6 +287,7 @@
 
 
 ## 女性
+* [新女报 | 全网顶流《梦华录》，赵盼儿真不是穿越到古代的现代女性吗？！](https://mp.weixin.qq.com/s/hR4KthnZ5LVzpvzY7-vGuQ)
 * [今日影评Mtalk | 刘亦菲很好地还原了宋朝优秀女性](https://m.weibo.cn/5828293600/4779970059306873)
 * [奴隶社会 | 从《牵手》到《梦华录》，爆款剧里看“女性成长”20年流变](https://mp.weixin.qq.com/s/g-9a8t3sDE0bsl54cHPuMg)
 * [编剧帮 | “写意”东方美学下，《梦华录》打造女性群像戏新概念​（2371期）](https://mp.weixin.qq.com/s/gp1vYV1nPeLeccAy6BCqFQ)
@@ -382,7 +377,7 @@
 * [萧山统计 | 统计版《梦华录》，带您品鉴中华诗词之美](https://mp.weixin.qq.com/s/qH7B9iX8hl7GhnVLvFhRIg)
 * [武侯统计 | 跟着热播剧学统计，《梦华录》来了！](https://mp.weixin.qq.com/s/v4kXaiUX6lifz7tJje7PjQ)
 * [浙江统计 | 悦读荟丨统计版《梦华录》 带您品鉴中华诗词之美](https://mp.weixin.qq.com/s/wU1rfsB7WGtLfMlUqXwOpw)
-
+* [湖北统计微讯 | 听说，《梦华录》的赵盼儿来恩施开分店了！](https://mp.weixin.qq.com/s/xt9-M-Gg5g_fKlTmq05DGA)
 
 ## 移民
 * [西达移民 | 2022年移民日本都有哪些要求？](https://mp.weixin.qq.com/s/XfswIk48FDtyPcTiIId-hQ)
