@@ -127,23 +127,17 @@
 
 ![](/image/discuss/law.jpg)
 * [北大法律信息网 | 当《梦华录》的法律问题照进现实](https://mp.weixin.qq.com/s/x7kEaK-VOBoXtXad7Y6t_A)
-* [北京海淀法院 | 庭审中，证据被对方吃掉了怎么办？ 看着古装剧，我突然想到这个问题.....](https://mp.weixin.qq.com/s/0nn0hdhWd6gWHihV7GJ9GA)
-* [北京海淀法院 | 掌握这些法律知识，宋代小娘子也能快速“通关升级”](https://m.weibo.cn/3927469685/4786122175287217)
 * [法治上海 | 热剧《梦华录》里面有这些法律知识？](https://mp.weixin.qq.com/s/ZFGfIyXnIEjq7UzPiQejIg)
 * [福建税务 | 揭秘赵盼儿的扩张之路](https://mp.weixin.qq.com/s/C3jPL08sXlLMl8xxna1g3Q)
 * [广东普法 | 你注意到热播剧《梦华录》这些细节了吗？](https://mp.weixin.qq.com/s/38ev_0mTf3q-fpTo-cszNA)
 * [湖南律师刘成成 | 《梦华录》不止是部恋爱剧，更是一部律政剧](https://m.weibo.cn/2565269870/4784848713024503)
 * [昆明检查 | 昆检·小课堂丨《梦华录》中“藏着”这些法律知识，一起来解锁！](https://mp.weixin.qq.com/s/MtpcEuU41TFCdgqrCQ2M7Q)
-* [上海静安法院 | 静·普法 | 当静法人看了《梦华录》，身体里的DNA忽然就动了……](https://mp.weixin.qq.com/s/_MS43czWNLCvVcvh8a1nOg)
 * [微言说法 | 《梦华录》爆火！里面竟然还藏着这些法律点？](http://mp.weixin.qq.com/s?__biz=MzA4ODg3OTMzMQ==&mid=2661741459&idx=4&sn=60fad32a8fcb24d3d43495123a905067&chksm=8b712a1fbc06a309dcb399cb9d4afb7967befddde4d6e40cd27a15db922414838cd8c810d425&mpshare=1&scene=24&srcid=1003jfYatwh1qOWT2yVO2yIE&sharer_sharetime=1664755245294&sharer_shareid=c98decfaccd594d2e0861568e577e1ff#rd)
 * [新赛罕V（赛罕区人民检察院） | 追剧普法 | 赛检君带您解锁《梦华录》背后的法律知识点！](http://mp.weixin.qq.com/s?__biz=MjM5MDQ2ODYxMQ==&mid=2653996594&idx=6&sn=099fd8a0384ce0d3f6e9a8d83d207651&chksm=bd80395e8af7b048cc10247d10a57a7d910d6bd037ba35efd522a491867d026b09d06859d6a2#rd)
 * [宁夏方和圆律师事务所 | 方和圆视点 | 《梦华录》的法制史视角：独树一帜的宋朝户籍制度](https://mp.weixin.qq.com/s/wg3qkxtbOXZOOpmFvluq6w)
 * [细软知识产权 | 从《梦华录》看宋朝知识产权保护，剧里还隐藏了这些法律点](https://mp.weixin.qq.com/s/C03Eh5qYCJhxNV5-hXBcHQ)
-* [赣州市中级人民法院 | 看剧学法 | 带你解锁《梦华录》中的法律知识点](https://mp.weixin.qq.com/s/bxA16zqOmp4KsT3-8hwaAQ)
-* [绵阳中院 | 追剧学法 | 《梦华录》中隐藏的法律知识你了解吗？](https://mp.weixin.qq.com/s/fkXxw94OmNSZPPfT3iYrfg)
 * [实证法研 | 徐小芳：《梦华录》中的法律史](https://mp.weixin.qq.com/s/Ge0nDlV7mNV4jaTKQwoinA)
 * [首都经济报道 | 追剧、普法两不误！解锁《梦华录》背后的法律知识点](https://mp.weixin.qq.com/s/Ex91KBoPhwZWZ7YC6H76rw)
-* [佛山版权中心 |关于《梦华录》的那些版权知识，你知道吗？](https://mp.weixin.qq.com/s/178bO-GkrqqRCuU-cvq4dw)
 * [京法网事 |《梦华录》周舍诈骗还家暴？法律说：不行！｜看剧说法](https://mp.weixin.qq.com/s/9DWWoKoNSmzM7ZR2v0_nUQ)
 * [法沐金陵 | 《梦华录》：为何我们有云泥之别](https://mp.weixin.qq.com/s/Oh5epl7jqBgNcSVp3oKN4w)
 * [周公观娱 | 当《梦华录》的法律问题照进现实](https://mp.weixin.qq.com/s/uSefvK6ChWqDkVwOv-2ybg)
@@ -266,7 +260,7 @@
 * [和桥机构 | 我们聊聊《梦华录》爆火后的商业密码，看新一轮国潮商业热如何打造场景创新力！｜和桥](https://mp.weixin.qq.com/s/jysgwDF1qRK3Ujfy5_WzVA)
 * [@电商在线 | 【梦华录带火茶百戏 #影视剧茶文化可以拯救茶企们吗#？】](https://m.weibo.cn/1771650130/4778947173156826)
 * [AI财经社| 【颐和园探秘、敦煌房车，景区剧本杀火了】](https://m.weibo.cn/2389641745/4827727029602894)
-* [深圳工会 | “上门代做饭”火了！四菜一汤收费66元，网友：“现在去学厨师来得及吗？”](https://mp.weixin.qq.com/s/-vuXfWnKap_F2YuzOYgYUQ)
+
 
 
 ## 金融
@@ -358,9 +352,8 @@
 
 ![](/image/discuss/plant.jpg)
 
-* [深圳市仙湖植物园 | 追剧上头？《梦华录》里的“植物线”毫不逊感情线](https://mp.weixin.qq.com/s/mDX-OCF0kBIy6VasJAv7-A)
+
 * [故事分会 | 《梦华录》里的植物，早已剧透了主角们的命运和性格](https://mp.weixin.qq.com/s/1LYpL9ZF4J63C83FrVrfug)
-* [上海植物园 | 从《梦华录》聊非遗，上海植物园的海派盆景故事（上）](https://mp.weixin.qq.com/s/qeDxVR4gJEl22gZXN_tsjA)
 * [青海献血 | 【健康贴士】《梦华录》中出现的奇怪花朵，居然还有这种功效！](https://mp.weixin.qq.com/s/aXGukJoQyYNveWHtpsQ39w)
 * [漫行草木间 | 五叶地锦丨《梦华录》里的1种爬墙植物](https://mp.weixin.qq.com/s/ZfewJ-5RhWfd1TjZWctvaw)
 
@@ -520,7 +513,6 @@
 
 ![](/image/discuss/his.jpg)
 
-* [读者 | 《梦华录》大结局：最终boss历史上的皇后刘娥，是如何逆袭的？](https://mp.weixin.qq.com/s/R8rqmL5TJMpDZN5-28M1qg)
 * [浩然文史 | 《梦华录》帽妖案，搞得京城人心惶惶，真实历史上究竟是怎么回事](https://mp.weixin.qq.com/s/wwLIH8dOM5MPk_l0W3EYJQ)
 * [龙城地理 | 汴水日驰三百里，扁舟东下更开帆|从电视剧《梦华录》看运河交通与区域经济发展](https://mp.weixin.qq.com/s/QAoEWxUmHSkH_3JnA5CjAg)
 * [新华网思课 | 跟着《梦华录》看宋朝的茶文化，你了解多少？](https://mp.weixin.qq.com/s/1zUWcNP6FFU3qBL-dz9FzA)
@@ -552,7 +544,6 @@
 * [城市进化论  | 从东京到开封，大梦一场 | 城叔的书单](https://mp.weixin.qq.com/s/yXLQpE8493yFiV5NsMfalQ)
 * [跃界品牌咨询  | 《梦华录》里的东京：千年前就有外卖、夜市、彩妆？](https://mp.weixin.qq.com/s/G7jZO3bp3fbX-PORjFwT3A)
 * [河北五星 | 一城宋韵半城水 千年古都“梦华录”](https://mp.weixin.qq.com/s/Hz8p-oeygCUcvE-49kRpfw)
-* [开封交通广播 | 追剧《梦华录》，看北宋东京的绰约风华](https://mp.weixin.qq.com/s/FZ3TpprbB3_Bd_DSiaDKnw)
 * [广州房产 | 《梦华录》时代的大冤种，宰相也买不起房](https://mp.weixin.qq.com/s/WMa344BjnfC0QiJrvRA_Fw)
 * [我们都爱宋朝（吴钩） | 《梦华录》隐藏的大彩蛋：天禧政争](https://mp.weixin.qq.com/s/wXGIdTKg0YtnmQm3buhScA)
 * [我们都爱宋朝（吴钩） | 宋朝人喝的饮料，比《梦华录》里的还要多](https://mp.weixin.qq.com/s/4nysAY9ew1PE_vuk3EUOgw)
@@ -571,7 +562,6 @@
 
 ![](/image/discuss/work.jpg)
 
-* [毕导 | 我从《梦华录》学到了管理老板的7大技巧！老板：你没事吧？](https://mp.weixin.qq.com/s/OSBmzoextKD_F8z2yPOUTg)
 * [猎聘人才官 | 当HR打开了《梦华录》...](http://mp.weixin.qq.com/s?__biz=Mzg3MjcyMDYzMg==&mid=2247683058&idx=1&sn=c8b60b1924ba7bd9bac7fb90b13eac6a&chksm=cee6ba65f99133732f61bf588a2c730d889504fe2adde215502e5935b13943412ad9075494ee&mpshare=1&scene=24&srcid=1003sGCE7laP25HEfDrdgfOR&sharer_sharetime=1664755412884&sharer_shareid=c98decfaccd594d2e0861568e577e1ff#rd)
 * [六合心理 | 藏在《梦华录》里的职场密码](https://mp.weixin.qq.com/s/s5RWNpSEPay_S7eJXe_I1g)
 * [清浅流 | 《梦华录》中残酷又真实的职场法则](https://mp.weixin.qq.com/s/kev7JZIAUlYAzF9mDzgX5w)
@@ -611,11 +601,10 @@
 * [六神磊磊读金庸 | 在花钱看刘亦菲这事上，居然有这么大分歧](https://mp.weixin.qq.com/s/yTsPxpa7zjaEeKF3-A0Psg)
 * [思想聚焦 | 看《梦华录》大结局点映礼，这个夏天的专属梦幻](https://mp.weixin.qq.com/s/RszaiPAiLX84yDi-BobsEg)
 * [吐槽青年博主（中国青年报编委、社评部主任、首席评论员曹林老师） | 谁在“惯”着这届用户](https://mp.weixin.qq.com/s/m67loA7JlkC1t5ZepWx3EQ)
-* [世界时装之苑ELLE | “顾盼生辉”大结局了，你还可以磕这些CP！](https://mp.weixin.qq.com/s/TcDx85xkyw-4ZQlswu8h_Q)
 * [硬核读书会 | 从胡歌到陈晓，古偶剧为何爆](https://mp.weixin.qq.com/s/55q2oTC1ZLlErD7EO1qQAg)
 * [樊登读书官方号 | 《#梦华录# 》最近热播，读书君也看得如痴如醉。](https://m.weibo.cn/status/4782824253034129?sourceType=weixin&from=10C9595060&wm=9006_2001&featurecode=newtitle)
 * [新闻与写作 | 用古诗词的方式打开《梦华录》，绝美！](https://mp.weixin.qq.com/s?__biz=MjM5MjEwODQ2Nw==&mid=2649922460&idx=1&sn=e152f47703b8e28a8a09f83e21c2e26d&chksm=bead614089dae85672fd8d1f253c2a8933c31866c71555844a43661d49cd1757e7780588a7aa#rd)
 * [OR香氛派 | 被粉丝催爆的《梦华录》同人香来了！](https://mp.weixin.qq.com/s/qmLvL8eyjP8hjUvhXGaKZg)
-* [昆明市青年志愿者协会 | 七步场社工站 | 这个建党节，在七步场体验一场红色梦华录的浪漫](https://mp.weixin.qq.com/s/TVXrjD3Qejv96ribPE2LmA)
-* [临平公积金 | 从江南到东京教坊司，如果《梦华录》的宋引章缴了公积金…](https://mp.weixin.qq.com/s/IP62BzCwzI9CfvEUqhk_SQ)
+
+
 
