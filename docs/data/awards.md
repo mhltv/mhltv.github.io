@@ -139,3 +139,15 @@
 * [第35届华鼎奖获奖名单揭晓 《人世间》获5项大奖](http://ent.enorth.com.cn/system/2022/12/30/053495386.shtml)
 * [BUSINESS WIRE | "A Lifelong Journey" Swept Five Awards at the 35th Huading Awards, Yong Hou Got the Best Actor and Tao Yin Received the Best Actress](https://finance.yahoo.com/news/lifelong-journey-swept-five-awards-144100929.html)
 
+
+
+## CEIS2023 金河豚荣誉推选
+
+杨阳导演荣获金河豚年度导演奖。编剧张巍老师获得金河豚年度编剧。
+
+![](/image/data/awards/hetun.jpg)
+
+![](/image/data/awards/hetun2.jpg)
+
+
+[首届北京文化产业投融资论坛暨 CEIS2023 定档！金河豚，完整入围发布！](http://www.myzaker.com/article/63a317978e9f095ef17a9232)
