@@ -163,3 +163,4 @@
 * [GQ实验室 | 没等梦华录大结局，这对CP就BE了](https://mp.weixin.qq.com/s/ALlM44U135v3YlZ7FoBSwA)
 * [ONE文艺生活 | 乡野村妇刘亦菲，平平无奇《梦华录》](https://mp.weixin.qq.com/s/wcvKTD89iqoUluWLPWATRg)
 * [毕导 | 我从《梦华录》学到了管理老板的7大技巧！老板：你没事吧？](https://mp.weixin.qq.com/s/OSBmzoextKD_F8z2yPOUTg)
+* [日食记 | 《梦华录》赵盼儿做的消暑神仙茶饮子，我找到了！](https://mp.weixin.qq.com/s/8d3eDe80rygiWu3eVl4uzQ)

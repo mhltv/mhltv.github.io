@@ -5,21 +5,21 @@ tagline: 东京真是富贵迷人眼
 actionText: 进入 →
 actionLink: /discuss/
 features:
-- title: 腾讯官方
-  details: 热播期集均播放量超1.427亿，单日峰值超2亿，热度33520，年度TOP 1
-- title: 百度指数
-  details: 剧集峰值91.4万，年度TOP 1。刘亦菲个人峰值33.09万，年度TOP 1
+- title: 国家版本馆电子藏品
+  details: 首部入藏古装剧，2022年唯一电视剧
+- title: 2022广电电视剧选集
+  details: 三部古装剧之一
+- title: 2022新华社文化产业IP价值榜
+  details: 位列总榜第五,影视类第一
 - title: 豆瓣数据
-  details: 评分人数历史第五，年度TOP 1。开分8.3，最高8.8。专组14万人，8.8万讨论帖，讨论量影视剧TOP 1
-- title: 德塔文
-  details: 峰值3.077，3次破3，28次破2.5，均值2.674，均为年度TOP 1
-- title: V榜
-  details: 峰值95.61，三年内TOP 1，9次破9，年度TOP 1。在播期间全程日冠，赵盼儿单人破9
-- title: 猫眼热度
-  details: 峰值9888.7，两年内TOP 1，33次日冠，年度TOP 1。持续在榜112天，破在榜天数历史纪录
+  details: 评分人数历史第五，年度第一。专组14万人，讨论量影视剧历史第一
+- title: 金莲花奖
+  details: 刘亦菲获电视最佳女主角
+- title: 2022中国授权金星奖
+  details: 获2022优秀新生代授权IP奖，与喜茶联名获2022优秀被授权商奖
 ---
 
 
 ::: slot footer
-Made By 录人&刘亦菲的影迷朋友们 ❤️ | Copyright ©2022 | [Feedback](https://www.douban.com/group/topic/276689884/?_i=5716003Rn8heGv)
+Made By 录人&刘亦菲的影迷朋友们 ❤️ | Copyright ©2023 | [Feedback](https://www.douban.com/group/topic/276689884/?_i=5716003Rn8heGv)
 :::

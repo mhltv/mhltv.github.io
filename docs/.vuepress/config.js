@@ -103,6 +103,7 @@ module.exports = {
             'tea',
             'authority',
             'international',
+            'local',
             'media',
             'all',
             'paper',
