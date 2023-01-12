@@ -26,6 +26,13 @@
 ![](/image/discuss/education/yuwenyuedu.png)
 ![](/image/discuss/education/yuwen1.jpg)
 ![](/image/discuss/education/yuwen.webp)
+2023年北京市丰台区高三期末统考多文本阅读:
+![](/image/discuss/education/yuwen-2.webp)
+
+
+## 历史
+
+![](/image/discuss/education/his.jpg)
 
 
 ## 英语

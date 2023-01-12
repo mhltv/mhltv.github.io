@@ -1,7 +1,7 @@
 # 破圈讨论
 
 本文收录诸多媒体从各个角度对梦华录的讨论, 因讨论内容过多，部分媒体发布了多篇报道，也有报道会被多个媒体转载，本文只收录部分代表性内容。
-目前共计收录`37`个分类，`461`个条目。
+目前共计收录`37`个分类，`441`个条目。
 
 同时，《梦华录》也掀起了一股“宋朝热”，激发起无数观众对于那个文化鼎盛时期民俗百态的好奇与向往。读者可从本文中散落于不同行业的讨论文章中一窥全豹。
 
@@ -605,6 +605,6 @@
 * [樊登读书官方号 | 《#梦华录# 》最近热播，读书君也看得如痴如醉。](https://m.weibo.cn/status/4782824253034129?sourceType=weixin&from=10C9595060&wm=9006_2001&featurecode=newtitle)
 * [新闻与写作 | 用古诗词的方式打开《梦华录》，绝美！](https://mp.weixin.qq.com/s?__biz=MjM5MjEwODQ2Nw==&mid=2649922460&idx=1&sn=e152f47703b8e28a8a09f83e21c2e26d&chksm=bead614089dae85672fd8d1f253c2a8933c31866c71555844a43661d49cd1757e7780588a7aa#rd)
 * [OR香氛派 | 被粉丝催爆的《梦华录》同人香来了！](https://mp.weixin.qq.com/s/qmLvL8eyjP8hjUvhXGaKZg)
-
+* [大畜牧网 | 你还记得《梦华录》中的那个池衙内吗？](https://mp.weixin.qq.com/s/8ceKcVHpXMywWm_CkBUCPQ)
 
 
