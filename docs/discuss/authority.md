@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方媒体 `149`个，文章/微博/公众号条目`324`篇。(数量为手动统计，可能会有极小范围误差)
+本文共收录 权威/官方媒体 `151`个，文章/微博/公众号条目`325`篇。(数量为手动统计，可能会有极小范围误差)
 
 另，新华网，人民网，央视网等综合类新闻网站会经常转载其他媒体的文章，本文未全部标注转载情况。
 
@@ -190,6 +190,12 @@
 ### ShenzhenDaily
 
 [Opinion | Looking for Mr. Right](https://mp.weixin.qq.com/s/kuNtLZpBq9q8gGf-m65HIg)
+
+
+### 中国网
+
+> The reason why stove-boiled tea is gaining such popularity, apart from its embodiment of traditional Chinese tea culture, is partly because of its portrayal in the costume television drama "A Dream of Splendor," which was broadcast last summer. The activity also encapsulates young people's pursuit of a sense of ritual, with their yearning for traditional tea culture and aspirations returning to the pastoral.
+* [2023-01-14 | ​The emerging tea culture craze of China's 'stove-boiled tea'](http://t.m.china.org.cn/convert/c_l1L5A1hM.html)
 
 
 
