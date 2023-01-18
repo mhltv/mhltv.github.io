@@ -187,7 +187,7 @@
 * [平陆县图书馆  | 一眼惊鸿，瞥见《梦华录》中的古典风采](https://mp.weixin.qq.com/s/PFg5Y6FIhJU0aCRSZXH8TA) `鲁山县图书馆也有发文`
 * [江苏图书馆 | 六月听书 | 一起去看《梦华录》之外大宋朝的繁花似锦](https://mp.weixin.qq.com/s/AADc6MZMzwYVB5hZPsaB_w)
 * [武城县图书馆 | 听说《梦华录》收官后，这里成了宝藏穿越打卡地？](https://mp.weixin.qq.com/s/hBJSQ4PnJcNg2Z4DcarmpA)
-* [潍坊市图书馆 | 【电子图书推荐】一眼惊鸿，瞥见《梦华录》中的古典风采（一）](https://mp.weixin.qq.com/s/RcFxyEfGOzdJkmvmZvzOiQ)
+* [潍坊市图书馆 | 【电子图书推荐】一眼惊鸿，瞥见《梦华录》中的古典风采（一）](https://mp.weixin.qq.com/s/RcFxyEfGOzdJkmvmZvzOiQ): 此主题文章多家图书馆报道。
 
 ### 博物馆
 * [香港商报网 | 来深博看《东京梦华录》吧！此时，脑海里是否立刻浮现@刘亦菲 和@陈晓 主演的#梦华录#呢？](https://m.weibo.cn/status/4796950727103816?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)

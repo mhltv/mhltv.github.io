@@ -137,6 +137,12 @@
 
 [远洋蔚蓝海岸 | 沸腾之海撒欢场 | 梦华市集登陆海岸，邀你玩转海上国潮中秋](https://mp.weixin.qq.com/s/bvMbAryDgBwO8u-Imsf0aw)
 
+2023北京春节:
+
+> 北京园博园的寻“味”卯年沉浸式国风游园活动主打沉浸式体验，与《梦华录》IP情景相结合；
+* [北京青年报 | 北京春节“文化大餐”即将开席](https://beijing.qianlong.com/2023/0117/7957175.shtml)
+* [京报网 | 寻味儿“卯”年，北京园博园即日开启沉浸式古风新春游园](https://news.bjd.com.cn/2023/01/11/10298024.shtml)
+
 ## 上海
 
 ![](/image/xianxi/hai.jpg)
