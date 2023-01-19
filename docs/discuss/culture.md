@@ -59,6 +59,7 @@
 * [华师之声VOC | A Dream of Splendor《梦华录》：古风偶像剧的青春又回来啦！](https://mp.weixin.qq.com/s/1d2hILif-9wyf00_PyZoig)
 * [共青团天津财经大学委员会 | 传统文化 | 跟着梦华录一起，领略宋朝的文化魅力](https://mp.weixin.qq.com/s/8gnKV5aGwYnnm4oWFYYpgQ)
 * [东南大学研究生 | 赵盼儿 vs 王东南，解暑方式大 pk!](https://mp.weixin.qq.com/s/of43VNjBAudy3OLiSdWC1g)
+* [武大汉教 | 《梦华录》里的中国文化和典故](https://mp.weixin.qq.com/s/dogdzF2jYuMzSYKI379oIQ)
 
 ### 出版社
 * [外研社 | 《梦华录》大火，人均“大女主”的宋朝女性都有哪些传奇经历？](https://mp.weixin.qq.com/s/x1J7UnXyFjZtvTH74E2aYA)
@@ -80,6 +81,8 @@
 * [中州古籍出版社 | 《梦华录》|宋朝的斗茶是怎么回事？](https://mp.weixin.qq.com/s/nlm6jFYVrHeB0ho4PCnJ_g)
 * [中国农业出版社产品服务号 | 《梦华录》火了，古代人的“茶生活”真的那么精彩吗？](https://mp.weixin.qq.com/s/B35dbrsU7sbTBRQ9n3O2mg)
 * [华中科技大学出版社 | 穿越回《梦华录》时代，茶坊老板娘怎样打破内卷，经营致富？](https://mp.weixin.qq.com/s/3q2nnq9CVaC51GL9EUSXIw)
+* [团结出版社 | 《梦华录》停更的日子太难熬？有了这几本书，停更也不怕！](https://mp.weixin.qq.com/s/KF2-EFO54r0wPvDY7MAb9g)
+* [华东理工大学出版社/青橙英语 | 梦华录》大火，有哪些“大女主”动画片值得一看](https://mp.weixin.qq.com/s/wWJfgEDh6XfzFr6vIzremQ)
 
 ## 文联及文艺联合会
 * [北京文艺评论 | 从救风尘到救红尘：“恶女”赵盼儿的女性存在法则](https://mp.weixin.qq.com/s/f1IjkkmoIHtBYLyOv85idw)
@@ -184,10 +187,12 @@
 * [济南图书馆  | 追《梦华录》了？看到“网红济南”影子没](https://mp.weixin.qq.com/s/9AA_WCUTD4TJhChzwwchzg)
 * [宜宾市图书馆 | 【电子图书】《梦华录》爆火，来书中邂逅一千年前的宋朝繁华！](https://mp.weixin.qq.com/s/E8pua5KTzXBp4m4GeFw8Kg)
 * [宜宾市图书馆 | 有声推读 | 一起去看《梦华录》之外大宋朝的繁花似锦](https://mp.weixin.qq.com/s/G7sH_Vo9DvCkBD1tVYrctg)
-* [平陆县图书馆  | 一眼惊鸿，瞥见《梦华录》中的古典风采](https://mp.weixin.qq.com/s/PFg5Y6FIhJU0aCRSZXH8TA) `鲁山县图书馆也有发文`
+* [平陆县图书馆  | 一眼惊鸿，瞥见《梦华录》中的古典风采](https://mp.weixin.qq.com/s/PFg5Y6FIhJU0aCRSZXH8TA) : 主题活动，鲁山县图书馆，新余图书馆等也有发文。
 * [江苏图书馆 | 六月听书 | 一起去看《梦华录》之外大宋朝的繁花似锦](https://mp.weixin.qq.com/s/AADc6MZMzwYVB5hZPsaB_w)
 * [武城县图书馆 | 听说《梦华录》收官后，这里成了宝藏穿越打卡地？](https://mp.weixin.qq.com/s/hBJSQ4PnJcNg2Z4DcarmpA)
 * [潍坊市图书馆 | 【电子图书推荐】一眼惊鸿，瞥见《梦华录》中的古典风采（一）](https://mp.weixin.qq.com/s/RcFxyEfGOzdJkmvmZvzOiQ): 此主题文章多家图书馆报道。
+* [三亚学院图书馆 | 好书推荐|六月“顶流”《梦华录》，好看在哪里？](https://mp.weixin.qq.com/s/AnIv0RoInA0I3lhO391urA)
+* [西安外国语大学图书馆 | 西安外国语大学第十一届图书文化节图书文化系列活动（五）| 《梦华录》文化出圈 诗词之美 畅想畅读第11期](https://mp.weixin.qq.com/s/qo61onRAJmN9V9RFcNOw8w)
 
 ### 博物馆
 * [香港商报网 | 来深博看《东京梦华录》吧！此时，脑海里是否立刻浮现@刘亦菲 和@陈晓 主演的#梦华录#呢？](https://m.weibo.cn/status/4796950727103816?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)
