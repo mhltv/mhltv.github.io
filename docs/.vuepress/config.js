@@ -261,6 +261,7 @@ module.exports = {
             "huayueyan",
             'guofeng',
             'zhucha',
+            'show',
             "culture",
             "travel",
             "business"
