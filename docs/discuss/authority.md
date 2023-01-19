@@ -2,7 +2,7 @@
 
 ![](/image/discuss/off-1.jpg)
 
-本文共收录 权威/官方媒体 `149`个，文章/微博/公众号条目`324`篇。(数量为手动统计，可能会有极小范围误差)
+本文共收录 权威/官方媒体 `152`个，文章/微博/公众号条目`327`篇。(数量为手动统计，可能会有极小范围误差)
 
 另，新华网，人民网，央视网等综合类新闻网站会经常转载其他媒体的文章，本文未全部标注转载情况。
 
@@ -45,6 +45,7 @@
 > 近年来，以《梦华录》为代表的古装剧集，用现代视听语言再现中华文化的音律之美、服饰之美、意蕴之美，让观众充分领略传统文化的魅力与活力；
 * [2022-12-19 | 人民日报海外版 | 展现网络视听新作为新气象（文艺创作谈）](http://ent.people.com.cn/n1/2022/1219/c1012-32589220.html) 注: 海外版等板块有纸媒，如有图片，会在`纸质刊物`板块收录。本文同时被`视听中国`微博转发。
 * [2022-12-27 | 以“现实”为底色的精品网剧可圈可点](http://views.ce.cn/view/ent/202212/27/t20221227_38311006.shtml): 中国经济网转载
+* [2023-01-12 | 北京频道 | 80余项新春主题活动 春节来丰台品五种年味儿](http://bj.people.com.cn/n2/2023/0112/c82838-40264186.html)
 
 
 ### 人民视频
@@ -192,9 +193,20 @@
 [Opinion | Looking for Mr. Right](https://mp.weixin.qq.com/s/kuNtLZpBq9q8gGf-m65HIg)
 
 
+### 中国网
+
+> The reason why stove-boiled tea is gaining such popularity, apart from its embodiment of traditional Chinese tea culture, is partly because of its portrayal in the costume television drama "A Dream of Splendor," which was broadcast last summer. The activity also encapsulates young people's pursuit of a sense of ritual, with their yearning for traditional tea culture and aspirations returning to the pastoral.
+* [2023-01-14 | ​The emerging tea culture craze of China's 'stove-boiled tea'](http://t.m.china.org.cn/convert/c_l1L5A1hM.html)
+
+
 
 ## 主流媒体
 
+
+### 新华社主办大陆新闻周刊《瞭望》
+
+> 在热播电视剧《梦华录》中，非遗茶百戏大放异彩，被无数观众赞为“比咖啡拉花还绝”；
+* [2023-01-18 | 精心守护文化遗产 10年来中国做了这些事儿](http://cul.china.com.cn/2023-01/18/content_42237796.htm): 文化中国转载
 
 ### 国家保密局 保密观
 

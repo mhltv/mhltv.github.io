@@ -1,7 +1,7 @@
 # 破圈讨论
 
 本文收录诸多媒体从各个角度对梦华录的讨论, 因讨论内容过多，部分媒体发布了多篇报道，也有报道会被多个媒体转载，本文只收录部分代表性内容。
-目前共计收录`37`个分类，`441`个条目。
+目前共计收录`37`个分类，`443`个条目。
 
 同时，《梦华录》也掀起了一股“宋朝热”，激发起无数观众对于那个文化鼎盛时期民俗百态的好奇与向往。读者可从本文中散落于不同行业的讨论文章中一窥全豹。
 
@@ -247,7 +247,7 @@
 * [阑夕 | 《梦华录》播出后，超点又被怀念了？](https://mp.weixin.qq.com/s/ipSEFijWU7ZPf3RqlMA1mg)
 * [文化产业评论 | 腾讯超前点播不死心，《梦华录》提供了新的打开方式](https://mp.weixin.qq.com/s/EmBlUxcB-kBuJDnfS7qTjA)
 * [运营派 | 《梦华录》赵盼儿茶坊爆火，这样的运营秘诀不得不学](http://mp.weixin.qq.com/s?__biz=MzA3MTM3OTA5Ng==&mid=2650462922&idx=1&sn=9955b5b98a828ad43b1e2a47bc8cf1a4&chksm=87200b3db057822b4d6666c51a05014637a2bd825d7a5ce99d2fe86da45add689aab6a73d40e&mpshare=1&scene=24&srcid=1003SW00F4ifqqAmo1uVymgf&sharer_sharetime=1664755296055&sharer_shareid=c98decfaccd594d2e0861568e577e1ff#rd)
-* [国酒地理 | 赵盼儿东京酒楼创业攻略](https://mp.weixin.qq.com/s/e4kuoXzFA0gsaLib11ev6w)`被中国国家地理转载`
+
 * [酒店圈儿 | 别白看《梦华录》，赵盼儿式酒店营销学着点](https://mp.weixin.qq.com/s/OdR3qcIr2LLBaXkBeClGKg)
 * [浮雪点茶品牌号 | 顾千帆没喝到的茶，我先喝到了](https://mp.weixin.qq.com/s/J3zY_bSe6WZzlMKHKivZKQ)
 * [CEO品牌观察 | 《梦华录》带热宋制汉服，这门生意却比电视精彩](https://mp.weixin.qq.com/s/jzyyazM0aodSN5VqovQiKw)
@@ -260,7 +260,7 @@
 * [和桥机构 | 我们聊聊《梦华录》爆火后的商业密码，看新一轮国潮商业热如何打造场景创新力！｜和桥](https://mp.weixin.qq.com/s/jysgwDF1qRK3Ujfy5_WzVA)
 * [@电商在线 | 【梦华录带火茶百戏 #影视剧茶文化可以拯救茶企们吗#？】](https://m.weibo.cn/1771650130/4778947173156826)
 * [AI财经社| 【颐和园探秘、敦煌房车，景区剧本杀火了】](https://m.weibo.cn/2389641745/4827727029602894)
-
+* [新养老时代 | 陪伴大学 | 《梦华录》宋朝破产姐妹花创业财富密码](https://mp.weixin.qq.com/s/1CJajpCAfq4BRRfRCOa-8Q)
 
 
 ## 金融
@@ -575,7 +575,7 @@
 * [材必实习校招 | 看了《梦华录》才知道：女性苦职场困境久矣！“人人皆是盼儿、三娘。”](https://mp.weixin.qq.com/s/lHGkbkjp-vTrDr6nsUWzJw)
 * [阅读推广人Grace | 《梦华录》给女孩上的11节创业课](https://mp.weixin.qq.com/s/C0sjgs5VkOxUB_U5fSuaeQ)
 * [金柚网 | 不藏了！《梦华录》的团队管理套路我们挖到了](https://mp.weixin.qq.com/s/7gUDeMZKiwd93VYrCiG7gQ)
-
+* [产品笔记 | 面试题：弹幕和评论，有什么不同？](https://mp.weixin.qq.com/s/dw2mPUh8m674-3I21Y0_Jg)
 
 ## 艺术
 
@@ -586,6 +586,7 @@
 * [茶贵人 |《梦华录》中的焚香艺术](https://mp.weixin.qq.com/s/rhHKl3XCbe9guc1SeIjanQ)
 * [茶贵人 |《梦华录》中的挂画艺术](https://mp.weixin.qq.com/s/KwN3xSjm_pEHiqpCyzXuWg)
 * [重彩绘画 | 带您解读《梦华录》里的《夜宴图》暗藏的玄机](https://mp.weixin.qq.com/s/4fh2CwenJ6rQ9RiwC4Ry5w)
+* [对联中国 | 从“赵盼儿风月救风尘”看元代的对联水平](https://mp.weixin.qq.com/s/DbrPfjO76kj3C-1-bXRJGA)
 
 
 ## 宗教

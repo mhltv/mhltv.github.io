@@ -71,6 +71,7 @@
 * [宁波通讯 | 解锁新场景 引领新消费 2022宁波旅游节开启“全民文旅盛宴”](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=NBTX202220043&uniplatform=NZKPT&v=AIjpfMDMGKVgrKeuXozpr2n9xWghqK-DHpfnzqUJqK2AKyZ70zMSM9f_jRF-Ks_a)
 * [青春期健康 | 《梦华录》中的宋代古画 名瓷与茶文化](https://wh.cnki.net/article/detail/QCQJ202220004?album=U)
 * [视听 | “提质增效”下电视剧行业发展新趋势——基于对2022年上半年全网电视剧的观察](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=SHIT202210001&uniplatform=NZKPT&v=ILOvR0LV6SNiWsqAnTL-knTWVYokt2l40IGNaiTIz2qfAQ_UWbHHKYpmvAwKadjM)
+* [视听 | 挪移与构建：宋朝古装剧空间叙事研究——以电视剧《梦华录》《知否》为例](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=SHIT202301015&uniplatform=NZKPT&v=J5GNbF7_w2x6Ll9-5rJBwlagjfcN6kze_COdAi8LGFT3_j_hdpvAvYTo2jNMJeLe)
 * [陶瓷 | 当代“宋潮影视剧”折射的俗世雅韵——以宋人的生活瓷器为例](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=TACI202209018&uniplatform=NZKPT&v=0Tm7DZnC3sVGjL5TdpwgvZttEqLh7T5THOeb0Zh-k3Zx-FpLu-u_I75cIGO9qcnw)
 * [杭州 | 不焦虑的宋人——宋画里的生活](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=HZDZ202215024&uniplatform=NZKPT&v=_k3x5JBwQQxH_DoZQIDXZCymTyYgYEY_z72H_BE-l1uVLBZumJuOTSdovRkX8s5Z)
 * [杭州 | 南宋临安酒肆茶楼兴盛的背后](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=HZDZ202216025&uniplatform=NZKPT&v=_k3x5JBwQQwhhQfPo4xbfHYKlEkYvoFalV6QGOxOeTj4d5e2kLab6RZaqb_QPK7Q)

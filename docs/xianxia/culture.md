@@ -38,7 +38,8 @@
 
 > 张巍老师的课程名称为: 《古装大女主剧的创作新思路—从《陆贞传奇》到《梦华录》》
 
-[编剧张巍、编剧张冀在“西湖编剧培训班”与您共话剧本创作](https://mp.weixin.qq.com/s/QvdRiLRrTy04I_kH0Ogo8Q)
+* [编剧张巍、编剧张冀在“西湖编剧培训班”与您共话剧本创作](https://mp.weixin.qq.com/s/QvdRiLRrTy04I_kH0Ogo8Q)
+* [杭州市电影电视家协会 | 如何创作叫好又叫座的剧本？这场文化沙龙给你答案~](https://mp.weixin.qq.com/s/T5RGfUNm2ZflEhcKcKG61w)
 
 
 
