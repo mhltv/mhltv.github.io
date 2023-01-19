@@ -12,7 +12,7 @@
 
 ## 福建税务
 
-![](/image/discuss/create/fujian.png)
+![](/image/discuss/create/fujian.jpg)
 
 链接: [福建税务 | 揭秘赵盼儿的扩张之路](https://mp.weixin.qq.com/s/C3jPL08sXlLMl8xxna1g3Q)
 
