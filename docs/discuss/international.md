@@ -22,6 +22,7 @@
 
 * [奢侈品行业分析：JING DAILY | ‘Stove-Boiled Tea’ — China’s Newest Way To Chillax](https://jingdaily.com/china-stove-boiled-tea-fall-winter-2022/)
 * [YAHOO FINANCE | The 35th Huading Awards Nominations Announced, "Medal of the Republic" Ranked First in the Satisfaction Survey, Tao Yin, Crystal Liu and Other Contenders for the Best Actress](https://finance.yahoo.com/news/35th-huading-awards-nominations-announced-203700541.html?guccounter=1): 《梦华录》华鼎奖相关。
+* [JING DAILY | What A Viral TV Drama Set In Yunnan Reveals About China’s Gen Z](https://jingdaily.com/rural-lifestyles-meet-yourself-cdrama-yunnan/): 此篇报道为刘亦菲继梦华录之后的新剧《去有风的地方》相关，文中提到了梦华录。
 
 
 ## 越南

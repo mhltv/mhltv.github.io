@@ -173,6 +173,7 @@ module.exports = {
             'meme',
             'flower',
             'activity',
+            'yuanxiao',
             'this-site',
             'support'
           ]
