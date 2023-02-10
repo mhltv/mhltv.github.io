@@ -47,6 +47,17 @@
 * [《梦华录》的成功离不开她们](https://yspapp.cn/pjG)
 * [光影中的国风之美(3:06-3:37分)](https://www.1905.com/video/play/1596200.shtml)
 
+
+### CCTV-8 《诗话元宵》
+
+2023.02.05元宵节节目。其中大量采用了《梦华录》中的画面。
+
+![](/image/discuss/tv/yuan-1.webp)
+![](/image/discuss/tv/yuan-2.webp)
+
+链接: [《星推荐》 20230205 诗话元宵](https://tv.cctv.com/2023/02/05/VIDEYO077YoUoeaIpAZMSIZV230205.shtml?srcfrom=baidualading&event2=bdtg_pc_hkafjzpq)
+
+
 ### CCTV-9《画里有话》第3集：文会图
 
 链接： [《梦华录》同款宋朝点茶，详细过程大公开！](https://yspapp.cn/1w5)
@@ -135,6 +146,17 @@
 ![](/image/discuss/cha/1whgbdst.png)
 
 * [《梦华录》刘亦菲点茶是如何做的？快跟主播攀攀一起学“点茶”吧！](https://mp.weixin.qq.com/s/Bo5Bgwg4HV6Aor2nHSL6wA)
+
+
+### 厦门电视 《海峡导报》
+
+![](/image/discuss/tv/xia-2.jpg)
+![](/image/discuss/tv/xia-1.jpg)
+
+梦华录仿妆及点茶活动。
+
+
+相关活动报道: [活动回顾 | 鹭岛汉服节·元夕之约圆满落幕！与采桑枝一起欢欢喜喜闹元宵！](https://mp.weixin.qq.com/s/4bz7wPWc4KPTXlyRxyN-dg)
 
 
 ## 财经节目

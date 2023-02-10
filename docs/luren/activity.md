@@ -123,4 +123,7 @@
 
 ## 元宵晚会
 
-筹备中
+2023年花月宴晚会活动。
+
+![](/image/lu/yuanxiao.jpg)
+![](/image/lu/yuan-invite.jpg)

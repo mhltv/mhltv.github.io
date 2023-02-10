@@ -5,15 +5,12 @@
 部分地方机构采用了比较有创意的报道方式，详情可见 [破圈/创意传播](/discuss/creative)。
 
 
-## 医药局
+## 药监局/卫健委
 
 注: 包括药品监管局以及医药局等。
 
 * [重庆药品监管 | 蜂蜜止血、猪肝治眼疾……《梦华录》里的中医方到底靠不靠谱？](https://mp.weixin.qq.com/s/sdbsJao64cKzVCq49_bo6w)
 * [广东中医药 | 赵盼儿的当归黄芪枸杞饮，岭南姑娘慎用](https://mp.weixin.qq.com/s/33LJjlg6EaWLB1VznnELMg)
-
-
-## 卫生局
 * [广州健康通 | 《梦华录》茶文化上热搜，中医话你知养生药茶的妙用~](https://mp.weixin.qq.com/s/WlYpdQwBTuJtQ89vUUF5lw)
 
 
