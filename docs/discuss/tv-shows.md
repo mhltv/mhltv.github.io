@@ -148,6 +148,17 @@
 * [《梦华录》刘亦菲点茶是如何做的？快跟主播攀攀一起学“点茶”吧！](https://mp.weixin.qq.com/s/Bo5Bgwg4HV6Aor2nHSL6wA)
 
 
+### 厦门电视 《海峡导报》
+
+![](/image/discuss/tv/xia-2.jpg)
+![](/image/discuss/tv/xia-1.jpg)
+
+梦华录仿妆及点茶活动。
+
+
+相关活动报道: [活动回顾 | 鹭岛汉服节·元夕之约圆满落幕！与采桑枝一起欢欢喜喜闹元宵！](https://mp.weixin.qq.com/s/4bz7wPWc4KPTXlyRxyN-dg)
+
+
 ## 财经节目
 
 
