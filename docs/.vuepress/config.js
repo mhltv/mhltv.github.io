@@ -85,6 +85,10 @@ module.exports = {
         link: '/data/',
       },
       {
+        text: '奖项',
+        link: '/award/',
+      },
+      {
         text: '主创',
         link: '/team/',
       },
@@ -120,6 +124,22 @@ module.exports = {
           ]
         }
       ],
+      '/award/': [
+        {
+          title: '奖项',
+          collapsable: true,
+          children: [
+            'gov',
+            'jinlianhua',
+            'all',
+            'tencent',
+            'weibo',
+            'bus',
+            'nomination',
+          ]
+
+        }
+      ],
       '/data/': [
         {
           title: '数据',
@@ -128,7 +148,6 @@ module.exports = {
             '',
             'official',
             'authority',
-            'awards',
             'important',
             'community',
             'business',
