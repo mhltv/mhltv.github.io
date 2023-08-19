@@ -19,4 +19,6 @@
 * [《梦华录》刘亦菲特辑](https://www.bilibili.com/video/BV1934y1j7tG/?spm_id_from=333.337.search-card.all.click&vd_source=087d424162639011a33e46dbbd019cfd)
 * [刘亦菲说赵盼儿的情感很复杂](https://www.bilibili.com/video/BV1RT411V7br/?spm_id_from=333.999.0.0&vd_source=087d424162639011a33e46dbbd019cfd)
 * [“其实我已经偷偷在改变了。”](https://www.bilibili.com/video/BV1gY411u73C?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c)
+> 每场戏都是重要的，每部戏也是。这些年对角色做前期思索、做案头工作，在剧组中碰撞出火花，是刘亦菲总愿分享的乐趣。她愿意深入、精进地去琢磨演技，去因即兴而点燃，会被角色的层次展开而带动，“演员最好的表达还是作品”。
+* [2023.9 ELLE 九月刊 | 刘亦菲：许天空以飞鸟](https://mp.weixin.qq.com/s/nS6Nr3MJ-oLcUIFWURcYdw)
 

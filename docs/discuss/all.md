@@ -1,7 +1,7 @@
 # 破圈讨论
 
 本文收录诸多媒体从各个角度对梦华录的讨论, 因讨论内容过多，部分媒体发布了多篇报道，也有报道会被多个媒体转载，本文只收录部分代表性内容。
-目前共计收录`37`个分类，`443`个条目。
+目前共计收录`37`个分类，`448`个条目。
 
 同时，《梦华录》也掀起了一股“宋朝热”，激发起无数观众对于那个文化鼎盛时期民俗百态的好奇与向往。读者可从本文中散落于不同行业的讨论文章中一窥全豹。
 
@@ -76,6 +76,7 @@
 * [柳州1号 | 复刻《梦华录》美食！好多柳州小姐姐在这玩“穿越”](https://fzapp.lzxinwenwang.com/app/template/amucsite/pad/index.html#/detail/623599?site1&continueFlag=eab1cb469449f676a1f0cb40d79f5e1a)
 * [舌尖上的土味 | 最近梦华录里的春水生很火](https://m.weibo.cn/7379369862/4828226905966356)
 * [小红书 | 湘窖酒馆](http://xhslink.com/4hzdil)
+* [大唐饮子 | 热播剧《梦华录》中的“紫苏饮子”火出了圈](https://mp.weixin.qq.com/s/QEWRVsw6-ADQG4hE-itcPA)
 
 
 ## 医药
@@ -163,6 +164,7 @@
 * [美物计 | 《梦华录》里的中国色，太美了！](https://mp.weixin.qq.com/s/3yVEYlAaviL5FOeTxns8Sg)
 * [念响新媒体 | 热播剧《梦华录》大火，再话古风国潮之美](https://mp.weixin.qq.com/s/0BGkc0hs69tQ07WwKq8_DA)
 * [FRANK富兰克浴室柜 | 梦华录 | 细腻柔雅，温暖治愈](https://mp.weixin.qq.com/s/YS_S310c1t4uskgJJ_-OtQ)
+* [甘肃学校体育美育 | 当《梦华录》遇见中国色彩！诉说独特文化魅力，感受传统审美情趣！](https://mp.weixin.qq.com/s/DtWBul8c3GoasuVV36zIlw)
 
 
 ## 服装
@@ -278,6 +280,7 @@
 * [雪球家族办公室 | 家族信托月报 | 成年人的爱情，从“谈钱”开始——假如《梦华录》的主角们设立家族信托](https://mp.weixin.qq.com/s/Wf_4FZkSUjvZSbp7SRA0bw)
 * [华兴证券 | 爆火的《梦华录》潜藏着这些金融知识：一贯值多少钱？飞钱是什么？](https://mp.weixin.qq.com/s/Gzs1FTBaupVK0j0bQvlw3Q)
 * [金融界 | 梦华录带火了哪些产业 天眼查显示我国现有3500家汉服相关企业](https://m.jrj.com.cn/madapter/finance/2022/06/15163436731248.shtml)
+* [中信信托 | 走进家族信托系列 | 《梦华录》里看信托关系](https://mp.weixin.qq.com/s/55pMxKEvFp2sQIQxXTUKLA)
 
 
 ## 女性
@@ -394,7 +397,7 @@
 * [游侠客 | 一天上9个热搜！《梦华录》高颜值取景地大赏，美得我一口气追了20集！](https://mp.weixin.qq.com/s/6fsYDs3W_9LizJr7YdD0VQ)
 * [稻草人旅行 | 全新路线武夷梦华！顶奢宋风酒店+《梦华录》同款“茶百戏”，最少只请1天假~](https://mp.weixin.qq.com/s/r1juc-4XaE0qP-Cz9cyE2w)
 * [成都SOLO | 原来《梦华录》同款茶室成都也有啊！](https://mp.weixin.qq.com/s/w9Zz9N-41TCSPkD3Bgw6pw)
-
+* [经纬度自驾游俱乐部 | 【定制活动】跟着《梦华录》，去追初夏的风](https://mp.weixin.qq.com/s/Zazhg9pPDan0bGgipuhTTw)
 
 ## 消防
 
@@ -587,7 +590,7 @@
 * [茶贵人 |《梦华录》中的挂画艺术](https://mp.weixin.qq.com/s/KwN3xSjm_pEHiqpCyzXuWg)
 * [重彩绘画 | 带您解读《梦华录》里的《夜宴图》暗藏的玄机](https://mp.weixin.qq.com/s/4fh2CwenJ6rQ9RiwC4Ry5w)
 * [对联中国 | 从“赵盼儿风月救风尘”看元代的对联水平](https://mp.weixin.qq.com/s/DbrPfjO76kj3C-1-bXRJGA)
-
+* [ 一支烛香薰香氛 | 《梦华录》里的中国香文化：第三集（犀牛角）](https://mp.weixin.qq.com/s/uVYR9iWquBwzdxCocu84uw)
 
 ## 宗教
 * [东台市泰山护国禅寺 | 娜娜原创纯素甜品 梦华录茶点之春水生（附7.4大牌位）](https://mp.weixin.qq.com/s/3CHx85ZiwbhoUDOt6va3uA)

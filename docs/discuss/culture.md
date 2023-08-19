@@ -61,6 +61,7 @@
 * [东南大学研究生 | 赵盼儿 vs 王东南，解暑方式大 pk!](https://mp.weixin.qq.com/s/of43VNjBAudy3OLiSdWC1g)
 * [武大汉教 | 《梦华录》里的中国文化和典故](https://mp.weixin.qq.com/s/dogdzF2jYuMzSYKI379oIQ)
 
+
 ### 出版社
 * [外研社 | 《梦华录》大火，人均“大女主”的宋朝女性都有哪些传奇经历？](https://mp.weixin.qq.com/s/x1J7UnXyFjZtvTH74E2aYA)
 * [北京大学出版社 | 《梦华录》的这一幕，真的只看了亿遍](https://mp.weixin.qq.com/s/xDhSH0gpZ1jV5w5Hwc2gWg)
@@ -222,6 +223,8 @@
 * [汉长安城未央宫 | 《梦华录》带火“点茶”！汉代茶文化你了解多少？](https://mp.weixin.qq.com/s/lfFzm_cAt0OGD_y4gKqzxQ)
 * [崑岫堂艺术馆  | 艺术情报站｜当《梦华录》遇见最美中国色](https://mp.weixin.qq.com/s/C0QWid-6D_jhLNvmV7uTxg)
 * [演艺大世界 | 艺起前行 | 演艺时光：《梦华录》看了很上头，赵盼儿喊你来看话剧版！](https://mp.weixin.qq.com/s/1POgs7D4ZKLC2l31y5ShYw)
+* [广东省华艺美术馆 | 艺术生活 |当茶人看《梦华录》时，我们看的是什么？](https://mp.weixin.qq.com/s/qEJuHbtGhnmHaaOzhucG6g)
+
 
 ## #梦华录的方式打开博物馆#
 
