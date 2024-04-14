@@ -135,7 +135,7 @@ module.exports = {
             'tencent',
             'weibo',
             'bus',
-            'nomination',
+            'nomination'
           ]
 
         }
@@ -153,7 +153,8 @@ module.exports = {
             'business',
             'other',
             '2022',
-            'channel'
+            'channel',
+            'long-tail'
           ]
         }
       ],
