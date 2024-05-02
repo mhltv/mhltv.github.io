@@ -501,6 +501,7 @@
 ### 中国知识产权报
 
 * [ 中国知识产权报 |《梦华录》热播，版权问题知多少？](https://mp.weixin.qq.com/s/920DvqVVixUdfKuG-OIu_A)
+* [2024-04-16  中国知识产权报 | 某电视剧女主发型、妆容涉嫌抄袭《梦华录》中人物形象？业内人士怎么看？](https://mp.weixin.qq.com/s/XjZNrGV83adMnn2pBJ7Gug)
 
 ### 科技日报
 * [咖啡拉花，又是古人玩剩下的！《梦华录》里的这一幕，学问非常大……](https://mp.weixin.qq.com/s/Fya8T9OGEN2SLgAqhFo5mg)

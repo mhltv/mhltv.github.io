@@ -115,6 +115,12 @@
 * [莞尔手作ing | 绕线手艺人 | 【绕线重工手作】来，上一首明妃曲~](https://www.bilibili.com/video/BV1pt4y1h7ut/?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c)
 
 
+## 美食复原
+注: 之前未单独设置此子类，可能有部分剪辑放在了[剪辑](/re-creation/editing)里。
+
+* [爆款宋朝茶果子 · 春水生，现代也能做！ 品《梦华录》琉璃果子，梦回江南茶楼](https://www.bilibili.com/video/BV1bD421n7Hm/)
+
+
 ## 其他
 
 * [周KayK | 有手就可｜梦华录 改造古风小扇子挂件](https://www.bilibili.com/video/BV1or4y177Ku/?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c)
