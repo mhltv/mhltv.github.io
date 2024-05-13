@@ -170,6 +170,9 @@
 * [2022-12-22 | More high-quality Chinese TV dramas see success around the world](https://www.globaltimes.cn/page/202212/1282428.shtml)
 * [2022-12-29 | Knowing from the screen: Intl markets keen on good Chinese stories: GT survey on Chinese film and television’s overseas audience](https://www.globaltimes.cn/page/202212/1282935.shtml)
 
+> According to the China Culture Center in Budapest, young Hungarian people love Chinese dramas and fantasy series like A Dream of Splendor starring Chinese actress Liu Yifei, with some fan groups proactively creating Hungarian subtitles for these shows. They like wearing traditional Chinese clothing and cosplaying figures in the popular Chinese video game Genshin Impact.
+* [2024-05-09 | Culture enhances understanding between people: cultural center](https://www.globaltimes.cn/page/202405/1311985.shtml)
+
 
 ### 国家知识产权局（国际版）
 
