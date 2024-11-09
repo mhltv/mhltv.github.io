@@ -129,7 +129,8 @@ module.exports = {
           title: '奖项',
           collapsable: true,
           children: [
-            'gov',
+              'gov',
+	      'jinying',
             'jinlianhua',
             'all',
             'tencent',
