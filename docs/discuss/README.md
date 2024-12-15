@@ -8,7 +8,6 @@
 
 `图中显而易见的是，在角色上，刘亦菲携赵盼儿，神仙姐姐的词频可谓是印证了那句“刘亦菲是梦华录成功的关键！”`
 
-
 ![](/image/discuss/education/chuquantu20.jpg)
 
 画手: [爱海鲜的粥](https://www.douban.com/people/223983129/)

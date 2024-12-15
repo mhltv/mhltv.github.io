@@ -4,7 +4,6 @@
 
 ### 导演评价
 
-
 > 刘亦菲的表现带给了杨阳足够多的惊喜。最初她通过《花木兰》看到刘亦菲的张力，第一次见面聊天的时候，能够清晰地感知到她平静如水的表面下流动的力量，她对“颠覆”有着强烈的渴望，从未把人设和包袱放在心上，对赵盼儿的理解也绝不停留在浮皮潦草的境地，这些都与杨阳不谋而合。
 
 > 杨阳还记得那次分手的时候，她和刘亦菲有过一个拥抱。在那个瞬间，她的心底升起强烈的保护欲：“我要用我的爱去帮助她完成这个角色。不管遇到什么样的困难，我们都要一起去面对。”
@@ -21,7 +20,6 @@
 
 以上摘自 [VOGUE | 《梦华录》的背后，导演杨阳：制造爆款享受孤独](https://mp.weixin.qq.com/s/ibYCabQMCujgIzczoTcupw)
 
-
 ### 编剧评价
 
 > 我看亦菲的电视剧还是在十几年前，她的少女时代，那个时候的她还有点婴儿肥，很少女的样子。
@@ -34,8 +32,6 @@
 
 以上摘自 [《梦华录》编剧张巍：一个女孩要走过千山万水才能成为一个女人](https://cn.ceibs.edu/emba/student-view/21585)
 
-
-
 ### 演员评价
 
 * [梦华录幕后花絮：陈晓谈第一次合作刘亦菲感受](https://www.bilibili.com/video/BV1tT41157Ak/?spm_id_from=333.788.recommend_more_video.1&vd_source=087d424162639011a33e46dbbd019cfd)
@@ -46,7 +42,6 @@
 * [brown弟:菲姐的眼睛像小鹿，忽闪忽闪的，很独特[刘亦菲]](https://www.bilibili.com/video/BV1CS4y177oL/?spm_id_from=333.788.recommend_more_video.-1&vd_source=087d424162639011a33e46dbbd019cfd)
 * [徐海乔说拍完《梦华录》更粉刘亦菲了](https://www.bilibili.com/video/BV1gL4y1w7yD/?spm_id_from=333.788.recommend_more_video.17&vd_source=087d424162639011a33e46dbbd019cfd)
 * [胡宇轩《梦华录》演何四：和刘亦菲对戏容易忘词儿，也容易出彩](https://m.bjnews.com.cn/detail/1655367764168021.html)
-
 
 ## 业内评价
 
@@ -69,28 +64,24 @@
 
 > 我说：“同意。”
 
-
 ## 观众评价
 
 完整看过剧的观众的反馈相对来说更加直接和客观一些,言之有物，不容易流于空泛和刻板印象。
 
-* [14集刘亦菲这里对暧昧期的演技，从此在我眼里封神 ](https://www.douban.com/group/topic/268248681/?_i=4958469Rn8heGv)
-* [赵盼儿有很多专属小动作 ](https://www.douban.com/group/topic/268622747/?_i=4958101Rn8heGv)
-* [赵盼儿顾千帆仪态分析，古风古韵不是自然流露，而是演员们演技好，源自强大的肢体控制力 ](https://www.douban.com/group/topic/269438382/?_i=4957853Rn8heGv,4958039Rn8heGv)
+* [14集刘亦菲这里对暧昧期的演技，从此在我眼里封神](https://www.douban.com/group/topic/268248681/?_i=4958469Rn8heGv)
+* [赵盼儿有很多专属小动作](https://www.douban.com/group/topic/268622747/?_i=4958101Rn8heGv)
+* [赵盼儿顾千帆仪态分析，古风古韵不是自然流露，而是演员们演技好，源自强大的肢体控制力](https://www.douban.com/group/topic/269438382/?_i=4957853Rn8heGv,4958039Rn8heGv)
 * [赵盼儿活了！刘亦菲你是什么神仙啊](https://movie.douban.com/review/14434105/)
-* [梦华录高光太多，但是我最喜欢这一段。 ](https://www.douban.com/group/topic/275082973/?_i=64957047359f7e0,4959361QjT7x08&dt_platform=wechat_friends&dt_dapp=1)
+* [梦华录高光太多，但是我最喜欢这一段。](https://www.douban.com/group/topic/275082973/?_i=64957047359f7e0,4959361QjT7x08&dt_platform=wechat_friends&dt_dapp=1)
 * [视频 | 只谈表演 |《梦华录》里刘亦菲的表演什么水平？](https://www.bilibili.com/video/BV1Gg411X7gC/?spm_id_from=333.999.0.0)
 * [视频 | 只谈表演 | 《梦华录》刘亦菲一段表演里最多能有几层？](https://www.bilibili.com/video/BV1vU4y1Q76w/?spm_id_from=333.999.0.0)
 * [视频 |《梦华录》花瓣吻后盼儿跑回船舱的4层解读](https://www.bilibili.com/video/BV1ht4y1h7gn/?spm_id_from=333.788&vd_source=087d424162639011a33e46dbbd019cfd)
-
-
 
 ## 海外评价
 
 节选了部分在`YOUTUBE`平台上的对刘亦菲在剧中表现的高赞评论:
 
 > Love this drama and Liu Yifei! She’s an amazing actress! This drama is based on an ancient Chinese story/drama/play from Guan Hanqing that depicts the struggle of women (the script of “A Dream of Splendor “ is original), especially the life of women that worked in the music/performance industry at that time. This drama not only has beautiful love story but also the mutual help among women. It also contains a lot of beautiful Chinese cultural elements.
-
 
 > Waiting for episode 7… this drama is sooo good so far. Main leads are impressive. Female lead she’s so beautiful, elegant and I love her voice so much! Loving the supporting actors too
 

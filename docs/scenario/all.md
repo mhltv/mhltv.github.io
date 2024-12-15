@@ -3,7 +3,6 @@
 
 按集分析剧中隐藏的细节和伏笔，以不同的视角带你详细解读梦华录~
 
-
 ## 打工人三肉 从制作角度解析
 
 ![](/image/juqing/all-1.jpg)
@@ -36,7 +35,6 @@
 * [【梦华录】30集赵盼儿人物解析](https://b23.tv/Fj43em9)
 * [【梦华录】31集赵盼儿人物解析](https://b23.tv/Fj6sU9k)
 
-
 ## Claudia灰灰 盘点剧中的暗示与伏笔
 
 ![](/image/juqing/all-2.jpg)
@@ -64,8 +62,8 @@
 * [下架重传| 第33,34集](https://b23.tv/cLNyqdW)
 * [《梦华录》细节丨盘点剧中的暗示与伏笔（第37-40集）](https://b23.tv/zXN6lrZ)
 
-
 ## 朱迪Jodie_《梦华录》解读
+
 * [深度解读《梦华录》“一生要强”的赵姐人物成长（含大结局解析）](https://www.bilibili.com/video/BV18t4y147uR/?is_story_h5=false&p=1&share_from=ugc&share_medium=android&share_plat=android&share_session_id=aed9aeda-c0be-4211-9cde-95f8c3c2a18b&share_source=COPY&share_tag=s_i&timestamp=1667750123&unique_k=G3WBNwB&vd_source=087d424162639011a33e46dbbd019cfd)
 * [《梦华录》宋引章人物解读/女性角色关系解读](https://www.bilibili.com/video/BV1kY4y1J7uR/?spm_id_from=333.788&vd_source=087d424162639011a33e46dbbd019cfd)
 * [《梦华录》花瓣吻后盼儿跑回船舱的4层解读](https://www.bilibili.com/video/BV1ht4y1h7gn/?spm_id_from=333.788&vd_source=087d424162639011a33e46dbbd019cfd)
@@ -83,8 +81,7 @@
 * [【演员看梦华录最终篇】一场东京花月宴，一段仲夏繁华梦。](https://b23.tv/QP9MAbZ)
 * [梦华录隐藏剧情大揭秘！刘亦菲看了都要一键三连！](https://b23.tv/wL1xcJw)
 
-
 ## 其他
 
 * [豆瓣讨论 | 说说跟引章比试琵琶的素娘，这场戏同样是她的高光](https://www.douban.com/group/topic/278102764/?_i=67746307fe35d68,9085357mnyZKKV&dt_platform=wechat_friends&dt_dapp=1)
-* [豆瓣讨论 | 谷雨前升王的那场病，堪称剧情的神来之笔 ](https://www.douban.com/group/topic/272172876/?_i=68173514142fd2c,9085702mnyZKKV&dt_platform=wechat_friends&dt_dapp=1)
+* [豆瓣讨论 | 谷雨前升王的那场病，堪称剧情的神来之笔](https://www.douban.com/group/topic/272172876/?_i=68173514142fd2c,9085702mnyZKKV&dt_platform=wechat_friends&dt_dapp=1)

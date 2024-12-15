@@ -9,6 +9,7 @@
 ### 皇城司、半遮面、王记铁铺位置
 
 ![](/image/kepu/map.webp)
+
 * [关于梦华录东京地图的探讨](https://www.douban.com/group/topic/279766730/?start=0&post=ok#last&_i=1251012Rn8heGv): 上图也出于此篇。
 * [从宋代东京地图上看，皇城司离马行街的半遮面有多近呢](https://www.douban.com/group/topic/268558915/?_i=6335649W54s0f1)
 * [王记铁铺不在盼儿家茶坊对面](https://www.douban.com/group/topic/268403849/?_i=6413709W54s0f1)

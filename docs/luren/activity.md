@@ -1,22 +1,17 @@
 # 团建活动
 
-
 部分活动主办账号:
 
 [录家村永安楼](https://space.bilibili.com/2011135605?spm_id_from=333.337.0.0)
-
-
 
 ## 统一头像
 
 ![](/image/lu/tuan-1.webp)
 ![](/image/lu/tuan-2.webp)
 
-
 ## 生活分享
 
 学历，宠物，美食，等等...
-
 
 ## 梦华录平行时空：东京一夜游
 
@@ -28,11 +23,7 @@
 
 > 请以《梦华录》为世界蓝本，展开想象，进行创作，参加我们的夜游会吧
 
-
 链接: [豆瓣话题](https://www.douban.com/gallery/topic/3343421/?dt_platform=wechat_friends&dt_dapp=1)
-
-
-
 
 ## 腾讯会议追剧
 
@@ -40,9 +31,10 @@
 
 ![](/image/lu/lu.jpg)
 
-
 ## 中秋花月宴
+
 ![](/image/lu/zhongqiu.jpg)
+
 ### 筹备团队
 
 赞助人：苏苏、时无、zzz、Rita、七个月了
@@ -53,7 +45,7 @@
 
 文案组：当然是录录子、万万
 
-剪辑组：翊小我 
+剪辑组：翊小我
 
 游戏组：翊小我、爱海鲜的粥、梦君君君君、琪仔、神经蛙
 
@@ -69,32 +61,26 @@
 
 特别感谢：字母站多位录人
 
-
 ### 海报截图
 
 ![](/image/lu/zq-1.webp)
 ![](/image/lu/zq-2.webp)
 ![](/image/lu/zq-3.webp)
 
-
 ### 数据来源
 
-1. [（开奖名单）您有一封中秋花月笺待接收 ](https://www.douban.com/group/topic/274662825/?_i=4589105Rn8heGv)
+1. [（开奖名单）您有一封中秋花月笺待接收](https://www.douban.com/group/topic/274662825/?_i=4589105Rn8heGv)
 2. [中秋花月宴物料汇总贴（回放/配音/题目）](https://www.douban.com/group/topic/274744209/?type=rec#sep&_i=4592909Rn8heGv)
-
 
 ## 三行情诗大赛
 
 ![](/image/lu/poet.webp)
 
-
-
 ## 小黄花种植活动
 
 ![](/image/lu/flow.jpg)
 
-链接: [豆瓣讨论 | 梦华录《小黄花种植活动》来啦+抽周边 ](https://www.douban.com/group/topic/276486341/?_i=65714974bea9330,5720766OBxYktj&dt_platform=wechat_friends&dt_dapp=1)
-
+链接: [豆瓣讨论 | 梦华录《小黄花种植活动》来啦+抽周边](https://www.douban.com/group/topic/276486341/?_i=65714974bea9330,5720766OBxYktj&dt_platform=wechat_friends&dt_dapp=1)
 
 ## 年度汉字影评大赛
 
@@ -106,11 +92,9 @@
 
 ![](/image/lu/luma.jpg)
 
-
 从剧播出之后，录人就没有停止过各种形式的创作，不管是插画，段子，表情包还是成语。或安利，或反讽。北京卫视上星之后，《梦华录》又引起了广泛的讨论，一批新的成语“应运而生”
 
 链接: [限量成语共建活动：一些好玩儿的梦华录成语等你提名](https://www.douban.com/group/topic/279282573/?_i=9630999Rn8heGv,9631098Rn8heGv)
-
 
 ## 酷云曲线作画
 
@@ -118,8 +102,7 @@
 
 ![](/image/lu/lines.webp)
 
-链接: [🔥上星限定新活动🔥:酷云曲线作画👏🏻👏🏻👏🏻（多图） 录人们来看👀 ](https://www.douban.com/group/topic/279282248/?author=1#sep&_i=9631244Rn8heGv)
-
+链接: [🔥上星限定新活动🔥:酷云曲线作画👏🏻👏🏻👏🏻（多图） 录人们来看👀](https://www.douban.com/group/topic/279282248/?author=1#sep&_i=9631244Rn8heGv)
 
 ## 元宵晚会
 

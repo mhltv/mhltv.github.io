@@ -1,14 +1,13 @@
 # 外国媒体
 
-
 ![](/image/discuss/haiwai.jpg)
 
-注: 
+注:
+
 1. Vogue 特意提到了以 [Mulan](https://movies.disney.com/mulan-2020) 知名的刘亦菲。
 2. 本文倾向于收录主流媒体报道而非娱乐媒体。
 
 ## 英文报道
-
 
 * [全球顶级时尚媒体：Vogue Business | Menghualu and the ‘new Chinese chic’ trending style](https://www.voguebusiness.com/consumers/menghualu-and-the-new-chinese-chic-trending-style)
 * [奢侈品行业分析：JING DAILY | Is Hit C-Drama ‘A Dream of Splendor’ Brands’ Golden Ticket?](https://jingdaily.com/cdrama-dream-of-splendor-collab-heytea-nayuki/)
@@ -24,7 +23,6 @@
 * [YAHOO FINANCE | The 35th Huading Awards Nominations Announced, "Medal of the Republic" Ranked First in the Satisfaction Survey, Tao Yin, Crystal Liu and Other Contenders for the Best Actress](https://finance.yahoo.com/news/35th-huading-awards-nominations-announced-203700541.html?guccounter=1): 《梦华录》华鼎奖相关。
 * [JING DAILY | What A Viral TV Drama Set In Yunnan Reveals About China’s Gen Z](https://jingdaily.com/rural-lifestyles-meet-yourself-cdrama-yunnan/): 此篇报道为刘亦菲继梦华录之后的新剧《去有风的地方》相关，文中提到了梦华录。
 
-
 ## 越南
 
 * ["Mộng hoa lục"](https://daibieunhandan.vn/van-hoa/mong-hoa-luc-i293274/) 注: 此媒体为 `《人民代表报》`, 由越南国会办公室主管。
@@ -34,11 +32,13 @@
 
 ## 新加坡
 
-* [THE STRAITSTIMES | Binge-worthy: A Dream Of Splendor is a slow-burn romance done well ](https://www.straitstimes.com/life/entertainment/binge-worthy-a-dream-of-splendor-is-a-slow-burn-romance-done-well)
+* [THE STRAITSTIMES | Binge-worthy: A Dream Of Splendor is a slow-burn romance done well](https://www.straitstimes.com/life/entertainment/binge-worthy-a-dream-of-splendor-is-a-slow-burn-romance-done-well)
 * [联合早报 | 今年最强古偶之争 梦华录凭什么提前锁定出道位？](https://www.zaobao.com.sg/wencui/social/story20220612-1282152): 转载自北京青年报
 * [联合早报 | 三女卖酒卖艺战胜命运](https://www.zaobao.com.sg/entertainment/story20220615-1283131)
+
 > Chinese-American actress Liu Yifei was also a winner at the Macau International TV Festival held on the same day.
 > The 35-year-old won Best Actress for her role as Zhao Pan’er, a shrewd businesswoman who runs a teahouse, in the Chinese period series A Dream Of Splendor.
+
 * [THE STRAITSTIMES |  China’s Zhang Ziyi wins Best Director and Best Actress at Macau movie festival](https://www.straitstimes.com/life/entertainment/china-s-zhang-ziyi-wins-best-director-and-best-actress-at-macau-movie-festival): 金莲花奖相关报道
 
 ## 日本
@@ -54,29 +54,30 @@
 注: 介绍中也提到了以《木兰》知名的刘亦菲
 
 * [日本Wowow电台引进梦华录 | 2022-11-15](https://www.wowow.co.jp/release/006560)
+
 > 　また、近年は中国の伝統文化を取り入れた「国潮」ファッションがはやっている。かつては中国も欧米ブランド信仰が強かったが、国産ブランドの品質が向上したことと、経済成長により「生まれた時から豊か」な若者は自国の文化に誇りを感じている。コーヒーやコーラーからお茶を好むようになったのも、「国潮」スタイルの一環と言える。今年の夏に大ヒットした時代劇ドラマ『夢華録（英題：A Dream of Splendor）』で、ヒロインが優雅に茶を入れる姿が人気となったのも大きい。街角では、コスプレのような古風な衣装「漢服」をまとって七輪でお茶をたしなむ若者たちもいる。
 
 * [法新社日本 AFP BB News | 中国の若者がハマる「七輪を囲んでお茶」](https://www.afpbb.com/articles/-/3444123): 原载于`东方新报`，日本雅虎新闻转载。
 
-
 ## 泰国
+
 * [bangkokbiznews | “สามบุปผาลิขิตฝัน” การกลับมาของ “หลิวอี้เฟย”](https://www.bangkokbiznews.com/lifestyle/1009476)
 * [trueID | รีวิว สามบุปผาลิขิตฝัน A Dream of Splendor ซีรีส์จีนย้อนยุค โรแมนติกดราม่า](https://entertainment.trueid.net/detail/a6e9LwrgNwW6)
 * [trueID | 5 เหตุผลไม่ควรพลาด สามบุปผาลิขิตฝัน A Dream of Splendor หลิวอี้เฟย 💕 เฉินเสี่ยว ซีรีส์พลังหญิงเพื่อผู้หญิง](https://entertainment.trueid.net/detail/Q59EqxdjMBm5)
 * [teenee | ประกาศข่าวดีครั้งใหญ่ของ หลิวอี้เฟย คุ้มค่ากับการคัมแบ็ครอบ16ปี](https://entertain.teenee.com/chinese_star/258998.html): 金莲花奖相关
 
-
 ## 韩国
-
 
 * [韩国中华TV买入台网双播](https://zhtv.cjenm.com/ko/menghualu/)
 * [SOOMPI | Heart-Fluttering Romance & Friendships: 6 Reasons To Watch C-Drama “A Dream Of Splendor”](https://www.soompi.com/article/1535836wpp/heart-fluttering-romance-friendships-6-reasons-to-watch-c-drama-a-dream-of-splendor)
 
+## 印度尼西亚
 
-##  印度尼西亚
 * [9 Drama dan Film China Liu Yifei yang Comeback di A Dream of Splendor](https://www.idntimes.com/hype/entertainment/nurfifi-arliani/film-china-liu-yifei-c1c2)
 * [Drama Liu Yifei dan Chen Xiao ‘A Dream Of Splendor’ Cetak Rating Tinggi di Douban](https://overseasidol.com/drama-liu-yifei-dan-chen-xiao-a-dream-of-splendor-cetak-rating-tinggi-di-douban/)
+
 > 近期大热的古装剧集《梦华录》里的宋韵古风随处可见，小楫轻舟、轻罗小扇、焚香点茶，当然也少不了古建筑的身影。这样古韵满满的绝美建筑在岭南的“最美古村”——上岳古村也能找到。
+
 * [国际日报 | 【大美广东】清远上岳古村：锅耳如云 古韵永存](https://guojiribao.com/?p=191886)
 
 ## 马来西亚
@@ -89,17 +90,17 @@
 
 ![](/image/discuss/media/xz-1.webp)
 ![](/image/discuss/media/xz.webp)
+
 * [The Star | China’s Zhang Ziyi wins Best Director and Best Actress at Macau movie festival](https://www.thestar.com.my/lifestyle/entertainment/2022/12/23/chinas-zhang-ziyi-wins-best-director-and-best-actress-at-macau-movie-festival)
 : 与新加坡 《海峡时报》为相同内容。
 
 ## 土耳其
 
 >  赵盼儿的角色由刘亦菲饰演。她曾出演过多部大制作作品：和成龙一起主演的《The Forbidden Kindom》（中文：功夫之王）到迪士尼电影： “花木兰”。《梦华录》标志着刘亦菲自2006年播出的电视剧《神雕侠侣》之后，时隔16年重返电视荧屏。
+
 * [土耳其媒体RHA AJANS | Song kadınlarına odaklanan “Bir İhtişam Rüyası” büyük ilgi çekiyor](https://rhaajans.com/haber/11403268/song-kadinlarina-odaklanan-bir-ihtisam-ruyasi-buyuk-ilgi-cekiyor)
 
-
 * [hibya、gaphaberleri等媒体转载](https://www.gaphaberleri.com/mobil/haber/93504/song-kadinlarina-odaklanan-bir-ihtisam-ruyasi-buyuk-ilgi-cekiyor.html)
-
 
 ## 柬埔寨
 

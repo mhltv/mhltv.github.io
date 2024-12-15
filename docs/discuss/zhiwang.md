@@ -1,12 +1,9 @@
 
-
 # 知网收录
 
 ![](/image/discuss/zhiwang.jpg)
 
-
 ## 报纸
-
 
 ### 中央级
 
@@ -21,6 +18,7 @@
 * [新华每日电讯 | 在茶汤上“拉花”的人](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCND&dbname=CCNDLAST2022&filename=XHMR202207200064&uniplatform=NZKPT&v=cLSvlw6wIdh-nlOdbb6jD5TAsU5J06nS_mveOkgoBllYcVMdB3YWixJ71LnWreOV8S4t0LKslVI%3d)
 
 ### 地方级
+
 * [新华日报 | 《东京梦华录》，千年前的风雅颂](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCND&dbname=CCNDLAST2022&filename=XHRB202206240120&uniplatform=NZKPT&v=-enmLwiNR_EGfiOMKUQ2snS-6tKKUANA3gzN13xUdSh86vRhO4Vr5WgCY9VnAqYeGWGfMVyVpEM%3d)
 * [文汇报 | 跳出单一“大女主”套路，“她故事”打开新空间](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCND&dbname=CCNDLAST2022&filename=WEHU202207090050&uniplatform=NZKPT&v=3OB6zC0XtNf9kMRoY0-MG9AKRsjZDBH86FbZlTkNZ7qJ3fZsXTo4-jLSQih_htlLescOYGCz90s%3d)
 * [济南日报 | 旅游搭上影视车还需变“流量”为“留量”](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCND&dbname=CCNDTEMP&filename=JNRB202207050041&uniplatform=NZKPT&v=7i9ySHTiHwRGlOK3akCAWptb8py3CUFPwTWx0Xx5h0jdi3LueH-PZxz2cLxTELyzCyXIno2Sgd0%3d)
@@ -40,9 +38,10 @@
 * [衢州日报 | 宋代点茶：一盏茶韵飘千年](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCND&dbname=CCNDTEMP&filename=QZBR202207110030&uniplatform=NZKPT&v=6iRGImZLxcJObAnQ7rYtjsubhNKYjT0H5D7zMxU8DjpnmjykqnVOqMencWj5G7C69Z_bBQZSoEU%3d)
 * [四川日报 | 非遗借影视出圈 下功夫才能双赢](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCND&dbname=CCNDLAST2022&filename=SCRB202206170091&uniplatform=NZKPT&v=jxymxVqd5pZfFd6-kkocid27RaAdGJtynMKzy0F-TS8F2o_Twz0eRZCCSirO-4fldXRAo6DE3MI%3d)
 
-
 ## 期刊
+
 本文主要收录与《梦华录》有较强关联的期刊论文，以及由《梦华录》引发的非遗/宋代/点茶等讨论。其他论文可前往知网查看。
+
 * [【北大核心/CSSCI/AMI】理论月刊 | 中国非物质文化遗产的数字化场景与构建路径](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=LLYK202210011&uniplatform=NZKPT&v=O9ANs_wW_p11k29DqRqtY8BJpMmAxb2p3OV3bew8NsKulrH1kSV9FfhmBgIwB8uT)
 * [【北大核心/CSSCI/AMI】中国电视 | 作为互动仪式的“集体欢腾”：电视剧观众的线上情感展演](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=ZGDD202211009&uniplatform=NZKPT&v=jVRtGL7wzPAF2vQ8CXkMXg0nhU-RtDeafwYbl4JBBmHUCuylJtmTDmrQLhe7LhgP)
 * [【CSSCI】当代电视 | 从境遇到境界：《梦华录》的美学品悟](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=DDDS202212004&uniplatform=NZKPT&v=zMze_1oqDdvOILpwC3taqJ7FeNF6xDShZUJgKhattk5lT0-kacnApxYcv_gAr1yX)
@@ -84,11 +83,12 @@
 * [中国质量万里行 | 《梦华录》追剧党一边付费一边吐槽](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=ZLWL202207040&uniplatform=NZKPT&v=aNuGoTbfxTh6GmypQ7GPOZ28lKDfjr9Zd4n1e6OU7FF_yW6eTo-hvAXfUn6ebVt0)
 * [光彩 | “古偶剧”何以区别于“历史剧”？](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=GCXX202208045&uniplatform=NZKPT&v=rX66p_NeToiP1ssO_4erZOKZjOR_VCL75ubNd7aPX_OUK389SbgUNahmykDDFmQa)
 
-
 ## 知网文化
+>
 > 知网文化是中国知网出品的精品文化出版传播平台，平台集成化网络出版、系统化深度整合大众精品期刊、图书、工具书、报纸、音频、视频、图片、文章等优质文化知识资源，以“鼓舞人、培育人、塑造人”为宗旨，为读者提供纯净、高品质文化知识资源的阅读、欣赏、学习与交流空间。
 
 注: 知网本身也会收录知网文化里的内容，本文尽量保证不重复收录。
+
 * [作家天地 | 从《救风尘》到《梦华录》——浅谈赵盼儿人物形象的今与昔](https://wh.cnki.net/article/detail/ZJTD202228012?album=V)
 * [作家天地 | 影视作品的优秀传统文化解读——以《梦华录》为例](https://wh.cnki.net/article/detail/ZJTD202229045?album=V)
 * [音乐爱好者 | 漫谈电视剧《梦华录》中的唐宋音乐二三事](https://wh.cnki.net/article/detail/YYAH202208006?album=V)
@@ -99,9 +99,6 @@
 * [尚舞 | Girl's Power 她的力量](https://wh.cnki.net/article/detail/SAWU202213002?album=V)
 * [音乐爱好者 | 当传统昆曲邂逅西方室内乐 故事故人，弦音寻梦](https://wh.cnki.net/article/detail/YYAH202209002?album=V)
 * [食品界 | 茶味新风尚能否带热市场](https://wh.cnki.net/article/detail/SPJI202209017?album=T)
-
-
-
 
 ## 其他论文
 

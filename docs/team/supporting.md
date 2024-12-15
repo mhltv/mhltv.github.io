@@ -44,7 +44,6 @@
 * [BRTV文艺频道 | 还记得《琅琊榜》的穆青吗？《梦华录》他简直“胖”若两人](https://mp.weixin.qq.com/s/syPAmboQ57hdRPXh2duEMA)
 * [HB@健康与美容 | 张晓谦对每个角色每部戏保持负责任的态度，稳扎稳打的同时拓展着维度。](https://weibo.com/1841671207/LzasDr3UF)
 
-
 ### 陈廉(管云鹏)
 
 ![](/image/team/zhuchuang/guanyunpeng.jpg)
@@ -146,7 +145,6 @@
 
 [开心西瓜 | 靠主角无法获胜，《梦华录》配角倒也出彩，成国栋曲线发展事业](https://mp.weixin.qq.com/s/hQobaTXTRl8Ncm_0uvxoLg)
 
-
 ### 秀州知州许永（陈旭明） & 群演榜眼（常超禹） & 派角色蒋攀（郭鹏）
 
 ![](/image/team/zhuchuang/zhizhou.jpg)
@@ -157,9 +155,8 @@
 
 ![](/image/team/zhuchuang/yanjizuicha.jpg)
 
-* [红星独家｜我们采访了《梦华录》“演技最差的人”他说：我是专业的 ](https://www.sohu.com/a/556848381_116237)
+* [红星独家｜我们采访了《梦华录》“演技最差的人”他说：我是专业的](https://www.sohu.com/a/556848381_116237)
 * [娱理 | 《梦华录》演技最差的人，背后还有这样的群演心事](https://mp.weixin.qq.com/s/ICdzmHbfNXHrg9dT6r41GA)
-
 
 ## 商务活动
 
@@ -177,7 +174,7 @@
 
 ### 管云鹏（陈廉）
 
-* [开封网视频 | #追梦华录趣开封城# ](https://m.weibo.cn/status/4782023191301818)
+* [开封网视频 | #追梦华录趣开封城#](https://m.weibo.cn/status/4782023191301818)
 * [线下 | 长沙大悦城 202207](https://m.weibo.cn/2117726305/4791835769703182)
 * [拍摄 | 《大话西游2免费版》二十周年资料片《骑开得胜》](https://m.weibo.cn/2117726305/4796622402228461)
 * [采访拍摄 | 时尚芭莎七夕 | 金九杂志内页202208](https://m.weibo.cn/2117726305/4798723546682727)
@@ -270,7 +267,6 @@
 ### 群演状元（王菁飞）
 
 ![](/image/team/zhuchuang/zhuangyuan.jpg)
-
 
 ### 张怀公（饰崔内侍）
 
@@ -378,6 +374,6 @@
 * [林允 管云鹏 | 《不完美受害人》主演](https://m.weibo.cn/status/4813947582286509)`张翔（周舍）、李圣佳（brown弟弟）、刘珂君（圣人）参演`
 * [加奈那 | 《仙剑六》](https://m.weibo.cn/5537809644/4825289425684067)
 * [加奈那 | 《神隐》](https://weibo.com/7797359861/MiD9oF57b?refer_flag=1001030103_)
-* [胡宇轩 | 《偷偷藏不住》 ](https://m.weibo.cn/2016483877/4816104114095740)
+* [胡宇轩 | 《偷偷藏不住》](https://m.weibo.cn/2016483877/4816104114095740)
 * [代旭 | 《手术直播间》| 男主](https://weibo.com/5406006781/Mj6rNdYKG?refer_flag=1001030103_)
 * [嘉泽 | 《夜城赋》女主](https://yule.sohu.com/a/622152480_790164?scm=1103.plate:624:0.0.1_1.0)

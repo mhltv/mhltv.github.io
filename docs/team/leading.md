@@ -1,16 +1,15 @@
 # 主演相关
 
-
 ## 赵盼儿(刘亦菲)
 
 请参考: [刘亦菲](/cc/reports.html)
 
-
 ![](/image/team/cat.jpg)
 
-
 ## 顾千帆(陈晓)
+
 ![](/image/team/zhuchuang/guqianfan.jpg)
+
 ### 报道
 
 * [新京报 | 陈晓：做个“被动”的演员丨人物](https://m.bjnews.com.cn/detail/1662620192169449.html)
@@ -26,9 +25,8 @@
 * [杂志封面 | 时装LOFFICIEL金九](https://m.weibo.cn/1232221900/4815456675826769)
 * [杂志 | 《环球人物杂志》艺界版块对话演员陈晓](https://m.weibo.cn/1647688972/4814259285920580)
 
-
-
 ## 孙三娘(柳岩)
+
 ![](/image/team/zhuchuang/sanniang.jpg)
 
 ### 采访
@@ -48,7 +46,7 @@
 * [抱走吧大明星20220617  | 柳岩：和刘亦菲对戏常走神 若是男生一定喜欢她](https://weibo.com/3885352271/Ly6SUlGEJ)
 * [华西都市报采访20220620 | 厨娘孙三娘的人物塑造、@柳岩 个人对演技的看法](https://weibo.com/5164994330/Lz2Yk0xdV)
 * [骨朵网络影视采访20220621 | 剧中的孙三娘让观众看到了柳岩不同以往的一面。](https://weibo.com/3840084769/LyLx44Gse)
-* [超级星饭团APP专访20220622 | #柳岩 剧红人一定会红# ](https://weibo.com/5590124843/LySue2CbE)
+* [超级星饭团APP专访20220622 | #柳岩 剧红人一定会红#](https://weibo.com/5590124843/LySue2CbE)
 * [1905电影网独家专访20220624 | 剧情](https://weibo.com/1635270132/LzbUAjIc9)
 * [文娱春秋采访20220624](https://new.qq.com/rain/a/20220624A07YR500)
 * [视相Variety0627| 专访演员 柳岩](https://m.weibo.cn/status/4785073889215469?sourceType=weixin&from=10CA095060&wm=9006_2001&featurecode=newtitle)
@@ -58,7 +56,6 @@
 * [新周刊20220719 | 柳岩豁出去了](https://mp.weixin.qq.com/s/V_DKUi8QYpjIcK6JLpmf_w)
 * [优酷酷梗社区20220723 | 有着演员歌手主持人三重身份的全能型女艺人](https://weibo.com/7724941726/LDEwwvlTQ)
 * [她刊明星深度访谈节目《另起一行》20220921 | 风波之后，柳岩决定“性感到老”](https://mp.weixin.qq.com/s/GAkAJaX4mPWqQu4AN-S-qQ)
-
 
 ### 公众号文章
 
@@ -81,13 +78,13 @@
 * [综艺 | 东方卫视+芒果TV《打卡吧！吃货团第二季 》 | 第3期：吃货团深入成都市井 杨迪柳岩接头孤勇者！](https://www.mgtv.com/b/463931/17256662.html)
 * [综艺 | 腾讯视频《怎么办脱口秀专场》](https://m.weibo.cn/status/4806109266710562)
 * [综艺 | 优酷视频《相遇的夏天》](https://m.weibo.cn/7283265620/4808921736548573)
-* [综艺 | 《甜蜜的任务》 | 20220703期柳岩爆“梦华三姐妹”相处状态 ](https://m.mgtv.com/b/419406/16848838.html)
+* [综艺 | 《甜蜜的任务》 | 20220703期柳岩爆“梦华三姐妹”相处状态](https://m.mgtv.com/b/419406/16848838.html)
 * [浙江卫视 | 霜降视频拍摄](https://m.weibo.cn/1288369910/4827647341494350)
-* [综艺 | Hi足球少年 ](https://weibo.com/1644461042/McqnS6G4x)
+* [综艺 | Hi足球少年](https://weibo.com/1644461042/McqnS6G4x)
 * [晚会 | 2023河南春晚](https://weibo.com/1644461042/MnF5rvNQk?refer_flag=1001030103_)
 
-
 ## 宋引章(林允)
+
 ![](/image/team/zhuchuang/yinzhang.jpg)
 
 ### 报道
@@ -95,7 +92,9 @@
 * [韩火火 | 林允 | 做一个从未做过的美梦](https://mp.weixin.qq.com/s/D7twxBQNFuwJE55XxwkeZQ)
 * [瑞丽服饰美容 | 林允丨一路前行，步履轻快](https://mp.weixin.qq.com/s/-8arRbkPv0syu1ap4Ei85w)
 * [SEASONmagazine | 挥杆的快乐，被林允拿捏了！](https://mp.weixin.qq.com/s/NRRacuoqyPniJNR9Fc-xoQ)
+
 > 对于林允来说，《梦华录》是她可贵的学习机会。“这部剧是和杨阳导演合作的，杨阳导演给了我特别多指导和帮助，让我学习到了很多。宋引章是一个成长型的人物，从一开始的恋爱脑，一路成长，最后也可以独当一面，这也让很多看这个剧的年轻女孩儿在这个角色身上找到了共鸣，和宋引章一起成长。”
+
 * [北京青年周刊 | 林允：与自己和解](https://mp.weixin.qq.com/s/T7Ml1GhwvxbJzc8I_COzBQ)
 
 ### 商务
@@ -103,8 +102,12 @@
 * [美颜相机 x 林允 | 同款宋引章妆容](https://m.weibo.cn/2934128200/4783461695750195)
 * [amiparis | 新品Voulez-Vous包](https://weibo.com/6568401638/MjznP8KbG?pagetype=profilefeed)
 * [节目 | 浙江卫视谁是鼎厨](https://weibo.com/7520469728/MjQWsAlFv)
+
 > 2022年，我们惊喜地看到她不断向上的元气，自信挺拔的姿态，和日渐增强的气场。她和角色一起沉淀，诠释了《光阴里的故事》的年代感，驾驭了《梦华录》的悲情起伏；她在社交平台的镜头里展露轻松和真实，享受当下的自在。
+
 * [2022凤凰网时尚盛典 | 年度时尚艺人 林允](https://weibo.com/2162418640/MkuVHrWRT)
+
 > 今年我的幸福关键词是梦华录宋引章，每个人都可以做更强大的自己
+
 * [#江苏卫视跨年#](https://weibo.com/2646681810/MlcdysXcH)
 * [2023河南卫视春晚](https://weibo.com/2646681810/MnECSBD1s)

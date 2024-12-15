@@ -29,8 +29,8 @@
 * [维基百科 | 谿山行旅图](https://zh.wikipedia.org/wiki/%E8%B0%BF%E5%B1%B1%E8%A1%8C%E6%97%85%E5%9C%96)
 * [艺谈 | 解讀范寬《谿山行旅圖》密碼（上）](https://artium.co/zh-hant/node/23)
 
-
 ## 莲池水禽图
+
 剧中盼儿在钱塘的茶铺和在东京的永安楼都挂有此画
 
 ![](/image/kepu/paint/lcsq.jpg)
@@ -62,17 +62,16 @@
 
 材质: 绢本设色
 
-
 > 该画作现藏于辽宁省博物馆，是一幅绢本工笔重彩，纵46厘米，横180厘米。描绘的是五位贵妇与一名侍女在春暖花开的时节，游园赏花的情景。当时的唐朝，经济、政治、文化都得到高速的发展，宫廷中更是一派祥和富丽的景象。因此，画家选用朱砂色作为《簪花仕女图》的主色调，并点缀石绿，蛤粉等矿物色。这些性质稳定的矿物色使画作历经千年仍保持它的绚丽华贵。在画中，几位仕女蛾眉如烟，云鬓高耸，佩戴精巧首饰，身着单薄轻柔的帛衣，举止端庄文雅，各具风采。该画虽名为游园赏景图，却并未呈现完整的园林景色，仅点缀有花，石，犬，鹤，可以看出画家笔意在人不在景。
 
 摘自: [知乎专栏 | 唐《簪花仕女图》高清赏析](https://zhuanlan.zhihu.com/p/57219555)
 
 延申阅读:
+
 * [Google艺术与文化 | 簪花仕女图](https://artsandculture.google.com/asset/%E7%B0%AA%E8%8A%B1%E4%BB%95%E5%A5%B3%E5%9B%BE/sgEnDl0cAnX9GQ?hl=zh-CN)
 * [维基百科 | 簪花仕女图](https://zh.wikipedia.org/zh-cn/%E7%B0%AA%E8%8A%B1%E4%BB%95%E5%A5%B3%E5%9C%96)
 * [新民周刊 |《簪花仕女图》—— 唐代宫廷贵妇图鉴](https://m.xinminweekly.com.cn/content/12685.html)
 * [知网论文 | 关于《簪花仕女图》年代争论综述](https://www.cnki.com.cn/Article/CJFDTOTAL-SHUH200403009.htm)
-
 
 ## 捣练图
 
@@ -95,12 +94,11 @@
 摘自: [Google艺术与文化 | 捣练图](https://artsandculture.google.com/asset/court-ladies-preparing-newly-woven-silk-zhang-xuan/FgHUyRfjbIIXAg?hl=zh-cn)
 
 延伸阅读:
+
 * [书格 | 捣练图](https://www.shuge.org/ebook/dao-lian-tu/)
 * [故宫历史网 | 《捣练图》赏析](https://www.gugong.net/wenhua/30903.html)
 * [新浪收藏 | 《捣练图》暗藏的两道玄机](http://collection.sina.com.cn/dfz/henan/sh/2016-11-12/doc-ifxxsmif2857480.shtml)
 * [国图空间 | 张萱《捣练图》](http://www.nlc.cn/newgtkj/shjs/201204/t20120409_61026.htm)
-
-
 
 ## 千里江山图
 
@@ -122,4 +120,4 @@
 
 延伸阅读:
 
-* [ 健一艺评 | 只此青绿许少年·舞剧《只此青绿》剧评](https://mp.weixin.qq.com/s/_zlOtjPpQzBLBo8CFh7qCw)
+* [健一艺评 | 只此青绿许少年·舞剧《只此青绿》剧评](https://mp.weixin.qq.com/s/_zlOtjPpQzBLBo8CFh7qCw)

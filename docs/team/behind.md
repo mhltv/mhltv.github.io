@@ -13,15 +13,13 @@
 * [中欧商业评论 | 编剧张巍：从杜拉拉到赵盼儿，一个女性经历的成长](https://mp.weixin.qq.com/s/BejeSMPNqicD52fpQvlZUg)
 * [编剧帮 | 编剧张巍人物专访：唯以真情著梦华（2377期)](https://mp.weixin.qq.com/s/2Iz7BG6e5zj7wYKnubavpg)
 
-
 ## 导演杨阳
 
 * [北京青年报 | 爆款剧《梦华录》导演接受专访 杨阳：只拍有良心的剧](https://5g.dahe.cn/news/202206201044718#top)
 * [澎湃新闻 | 专访｜《梦华录》导演杨阳：想为大城市打拼女孩们拍一部剧](https://m.thepaper.cn/kuaibao_detail.jsp?contid=18842849&from=kuaibao)
 * [最人物 | 《梦华录》背后，一个「小声」的女导演](https://i.ifeng.com/c/8HdgAFvCDHS)
 * [中国传媒大学校友会 | 校友作品推介｜中传校友主创《梦华录》正在热播，美学古韵与审美新潮的结合](https://mp.weixin.qq.com/s/qDmnhmQ8Hch5zTQdi8AHFw)
-* [ 谈心社 | 对话《梦华录》导演杨阳：想给观众呈现能共情的作品](https://mp.weixin.qq.com/s/MyKL8Wg3JoH7JLUY5TH-tA)
-
+* [谈心社 | 对话《梦华录》导演杨阳：想给观众呈现能共情的作品](https://mp.weixin.qq.com/s/MyKL8Wg3JoH7JLUY5TH-tA)
 
 ### 《坚持》
 
@@ -30,7 +28,6 @@
 ![](/image/team/jianchi.jpg)
 
 [图片来源](https://m.weibo.cn/7444009370/4831453542357509)
-
 
 ### MadameFigaro
 
@@ -44,7 +41,6 @@
 
 采访: [杨阳：灯不倾灭](https://www.thepaper.cn/newsDetail_forward_21192934)
 
-
 ## 妆造黄薇
 
 * [娱刺儿 | 揭秘《梦华录》美学 | 独家对话造型师](https://mp.weixin.qq.com/s/WCu2RL01TUJL4HGvcXgmdQ)
@@ -57,9 +53,8 @@
 2022年11月15日，茶百戏传承人章志峰发文称：
 
 > 梦华录火爆茶百戏受到联合国粮农专家关注
-> 
+>
 >联合国粮农组织农业文化遗产（ GIAHS ）科学委员会委员、农业文化遗产科学咨询小组副主席李先德研究员亲临中华茶百戏研究院考察茶百戏。茶百戏传承人章志峰介绍并展示茶百戏，茶百戏清水幻变图案的灵魂一直倍受各界关注。
-
 
 [小红书 | 茶百戏](http://xhslink.com/aoadil)
 

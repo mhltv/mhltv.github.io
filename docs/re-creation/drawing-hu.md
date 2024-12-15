@@ -4,17 +4,14 @@
 
 无脸人像画，神韵极佳。《梦华录》实体书附增部分插画。
 
-
 所谓伊人，在水一方
 ![](/image/erchuang/piant/hu/22-min.jpg)
-
 
 盈盈一水间，脉脉不得语
 ![](/image/erchuang/piant/hu/18-min.jpg)
 
 念去去，千里烟波，暮霭沉沉楚天阔
 ![](/image/erchuang/piant/hu/2-min.jpg)
-
 
 天街小雨润如酥，草色遥看近却无
 ![](/image/erchuang/piant/hu/12-min.jpg)
@@ -34,7 +31,6 @@
 只愿君心似我心
 ![](/image/erchuang/piant/hu/13-min.jpg)
 
-
 帐里鸾凤喜合双，围红倚翠烂芬芳
 ![](/image/erchuang/piant/hu/17-min.jpg)
 
@@ -45,25 +41,11 @@
 起舞弄清影，何似在人间
 ![](/image/erchuang/piant/hu/8-min.jpg)
 
-
 事了拂衣去，深藏身与名
 ![](/image/erchuang/piant/hu/10-min.jpg)
 
-
-
 飘飘乎如遗世独立，羽化而登仙
 ![](/image/erchuang/piant/hu/5-min.jpg)
-
-
-
-
-
-
-
-
-
-
-
 
 部分诗词参考:
 

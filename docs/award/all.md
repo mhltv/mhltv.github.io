@@ -1,8 +1,5 @@
 # 各类奖项
 
-
-
-
 ## 华鼎奖
 
 2022年12月16日，第35届华语百强电视剧华鼎奖提名名单发布，《梦华录》获以下提名:
@@ -15,7 +12,6 @@
 
 共计5个提名，其中主榜单3个。
 
-
 其中，刘亦菲是今年唯一一位凭借古装角色提名主类别奖项的女星！
 
 最终，柳岩摘得 `华语古装题材电视剧最佳女演员奖`。张志炜，闫立严，吴卓谦，蒋谧，郑巍摘得`华语百强电视剧最佳制片人奖`。
@@ -25,14 +21,11 @@
 ![](/image/data/awards/hd-liuyan.webp)
 ![](/image/data/awards/hd-zhipian.webp)
 
+报道:
 
-报道: 
 * [第35届华鼎奖提名名单揭晓，《功勋》满意度调查第一，殷桃刘亦菲等角逐视后](http://news.yule.com.cn/html/202212/344939.html)
 * [第35届华鼎奖获奖名单揭晓 《人世间》获5项大奖](http://ent.enorth.com.cn/system/2022/12/30/053495386.shtml)
 * [BUSINESS WIRE | "A Lifelong Journey" Swept Five Awards at the 35th Huading Awards, Yong Hou Got the Best Actor and Tao Yin Received the Best Actress](https://finance.yahoo.com/news/lifelong-journey-swept-five-awards-144100929.html)
-
-
-
 
 ## 中国大学生电视节
 
@@ -40,11 +33,9 @@
 
 > 26日晚，为期3天的第十一届中国大学生电视节举行了闭幕晚会。作为当晚的重头戏，晚会现场进行了本届电视节优秀作品的赏析推荐，共展示推荐了电视剧、纪录片、综艺节目、公益广告、动画片等共55部“大学生赏析推荐作品”。其中，《风吹半夏》《梦华录》等15部作品入选大学生赏析推荐作品电视剧类...
 
-
 ![](/image/data/awards/dxs.jpg)
 
 报道: [55部作品入选第十一届中国大学生电视节“大学生赏析推荐作品”](https://baijiahao.baidu.com/s?id=1761446526053959963&wfr=spider&for=pc)
-
 
 ## 新号角第一届电视剧导演之夜
 
@@ -53,7 +44,6 @@
 ![](/image/data/awards/yang.jpg)
 
 报道: [微博 | 优酷](https://weibo.com/1642904381/Ms6FCoIcG?refer_flag=1001030103_)
-
 
 ## 第三届新时代国际电视节斑彩螺奖
 
@@ -65,11 +55,9 @@
 
 报道: [第三届新时代国际电视节斑彩螺奖揭晓](https://www.chinanews.com/cul/2023/04-03/9271832.shtml)
 
-
 ## CEIS2023 金河豚荣誉推选
 
 梦华录获金河豚年度剧集奖。杨阳导演荣获金河豚年度导演奖。编剧张巍老师获得金河豚年度编剧。
-
 
 ![](/image/data/awards/yl-m.webp)
 
@@ -77,9 +65,7 @@
 
 ![](/image/data/awards/hetun2.jpg)
 
-
 [首届北京文化产业投融资论坛暨 CEIS2023 定档！金河豚，完整入围发布！](http://www.myzaker.com/article/63a317978e9f095ef17a9232)
-
 
 ## 环球影视文化传播高峰论坛
 

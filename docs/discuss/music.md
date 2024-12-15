@@ -1,5 +1,4 @@
 
-
 # 音乐出圈
 
 《梦华录》播出后，ost《不惜时光》除翻唱、乐器演奏版外，各种编舞层出不穷，相关编舞作品在`中国舞蹈排行榜第43期获得热门舞蹈作品第2名`；
@@ -8,11 +7,9 @@
 
 ![](/image/discuss/mhlost.jpg)
 
-
 ## 原创古曲《凉州大遍》
 
-
-### 简介 
+### 简介
 
 ![](/image/discuss/liangzhou.jpg)
 
@@ -23,9 +20,11 @@
 ### 媒体报道
 
 * [文汇报 | 宋引章惊艳四座的《凉州大遍》为何曲？在追剧中探寻民乐之美](https://mp.weixin.qq.com/s/o5nk-wcRO6RrFEHRa2n7WA):`被光明网转载`
+
 > 《文汇报》于1938年1月25日在上海创刊，是中共上海市委领导下的大型综合性日报，以知识分子为主要读者对象，立足上海，面向全国。
 
 * [每日商报 | 艳惊四座！《梦华录》一曲《凉州》封神！大宋流行音乐多动听？杭州琵琶高手来演绎→](https://mp.weixin.qq.com/s/0tcKswvY8GOkuWJenwwoTQ)
+
 > 探访浙江省音乐家协会琵琶专业委员会常务理事王艺蓉,她向记者解释，唐宋时期，琵琶主要是横抱或斜抱的，梦华录里宋引章也是以横抱琵琶的形象出现。
 
 * [今日古琴 | 古琴版《凉州大遍》李沾：倾盖如故，白头如新！](https://mp.weixin.qq.com/s/uJfDEMsKl8-O7Q6npn3oPQ)
@@ -81,8 +80,8 @@
 * [另外一番风味！梦华录之《凉州大遍》中阮版](https://b23.tv/MMvWS19)
 
 ### 筚篥版
-* [【梦华录/凉州大遍】国家队来了！没有感情，全是技巧！](https://b23.tv/QzGiuhC)
 
+* [【梦华录/凉州大遍】国家队来了！没有感情，全是技巧！](https://b23.tv/QzGiuhC)
 
 ### 竹笛版
 
@@ -97,7 +96,6 @@
 
 * [【古琴X梦华录】高燃！《凉州大遍》，沈如琢听了都得退避三舍](https://b23.tv/lKLuexG)
 * [【古琴】《凉州大遍》 ——“凉州大遍最豪嘈”姗姗来迟的瞎弹版本]( https://b23.tv/TX36gHq)
-
 
 ### 小提琴版
 
@@ -170,9 +168,7 @@
 
 * [【敦煌舞X凉州大遍】今天爱上了“四碗枇杷”](https://b23.tv/MtqaweX)
 
-
 ## 原创古曲《明妃曲》
-
 
 ### 简介
 
@@ -256,9 +252,7 @@
 
 * [穿越400多年前的团圆宴｜明代中秋食谱。明代人如何过中秋？](https://v.douyin.com/jEpjamh/)
 
-
 ## 原创古曲 《西凉州》
-
 
 ### 简介
 
@@ -295,9 +289,7 @@
 
 * [光遇｜梦华录《西凉州》琵琶演奏](https://b23.tv/rsFDimt)
 
-
 ## 原创古曲 《春莺啭》
-
 
 《教坊记》载:
 
@@ -305,13 +297,11 @@
 
 剧中 `宋引章`在`林三司`面前故意弹错的即为同名古曲.
 
-
 ### 古筝版
+
 [【梦华录】引章终于支愣起来了！！！来一段古筝的《春莺啭》](https://www.bilibili.com/video/BV1Pv4y1u7fD/?spm_id_from=333.337.search-card.all.click&vd_source=087d424162639011a33e46dbbd019cfd)
 
-
 ## 纯音乐bgm 香云楼对望
-
 
 ### 钢琴版
 
@@ -341,21 +331,17 @@
 
 * [梦华录 <香云楼>](https://b23.tv/qm0iNXN)
 
-
 ## 歌曲《不惜时光》 原唱：张靓颖
-
 
 ### CCTV-15 播放《不惜时光》
 
 链接：[CCTV15播了《不惜时光》]( https://b23.tv/SSLUH6I)
-
 
 ### 江苏卫视2023跨年晚会
 
 > “星辰为你荡漾，风月为你痴狂”@张靓颖 倾情献唱《不惜时光》，歌声温柔坚定，曲调悠扬婉转,，诉说着漫漫情思。爱之至也，山海不可阻，岁月不可摧，时过境迁后辗转回首，故人仍在原地，故心从未相忘，此后红尘作伴，细水流长。
 
 [微博综艺 | #张靓颖再唱梦华录#](https://weibo.com/2110705772/Mmbtt1FH6)
-
 
 ### 朵云·星座音乐会（巨蟹座专场）——Old Fashion老上海风趴
 
@@ -399,7 +385,7 @@
 
 链接：[顾盼生辉【梦华录】不惜时光｜琵琶X古筝](https://b23.tv/SrT54Nx)
 
-#### 【埙】版 
+#### 【埙】版
 
 链接：[《不惜时光》电视剧梦华录主题曲，一定要听结尾的高音哦！](https://b23.tv/L7qyCsJ)
 
@@ -410,6 +396,7 @@
 #### 古筝版
 
 链接：
+
 * [玉面小嫣然改编《梦华录》主题曲《不惜时光》星辰为你荡漾，风月为你痴狂！](https://b23.tv/VWZFuAz)
 * [古筝《不惜时光》“星辰为你荡漾，风月为你痴狂，谁为你不惜时光](https://b23.tv/4ydiDyc)：`加拿大街头演奏版`
 
@@ -437,7 +424,8 @@
 
 《不惜时光》的舞蹈演绎非常之多，本文只收录部分。
 
-#### 古典舞编舞 
+#### 古典舞编舞
+
 * [【宾大中国舞社】《梦华录-不惜时光》翻跳](https://www.bilibili.com/video/BV1XD4y1x7W8/?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c): 普林斯顿中秋晚会演出
 * [手如柔荑，肤如凝脂 原来这就是清冷美人 【紫颜】【不惜时光 原创编舞】](https://www.bilibili.com/video/BV1KY4y1M7Ei/?is_story_h5=false&p=1&share_from=ugc&share_medium=android&share_plat=android&share_session_id=c3c002b3-02bd-406a-9df4-eefe7970778a&share_source=WEIXIN&share_tag=s_i&timestamp=1665920205&unique_k=IyRDyok&vd_source=b26625da23e4e975626bfc502c6ed382)
 * [-良辰美景与君同 最是迷人半遮面 - 【梦华录-不惜时光】【原创编舞】](https://www.bilibili.com/video/BV1o3411w7U1/?is_story_h5=false&p=1&share_from=ugc&share_medium=android&share_plat=android&share_session_id=29f6e673-c13f-4d9d-b610-3e797a88e563&share_source=WEIXIN&share_tag=s_i&timestamp=1665920230&unique_k=LgL2MfP&vd_source=b26625da23e4e975626bfc502c6ed382)
@@ -456,11 +444,11 @@
 * [舞 徒 原 创 剧 目《不惜时光》](https://b23.tv/5DkRUSJ)
 * [学习强国 | 项城融媒号 | 舞蹈《梦华录》](https://article.xuexi.cn/articles/index.html?art_id=3448824997403101964&t=1668480940457&showmenu=false&study_style_id=video_default&source=share&share_to=copylink&item_id=3448824997403101964&ref_read_id=fc6cebdf-9196-4faf-85c4-5dabb730b598_1672410286874)
 
-#### 阿根廷探戈版 
+#### 阿根廷探戈版
 
 链接：[U Tango - 《梦华录》不记过往，只遵当时本心 | 阿根廷探戈](https://b23.tv/4doo7mJ)
 
-#### 中国舞蹈排行榜 
+#### 中国舞蹈排行榜
 
 链接:[中国舞蹈排行榜|第43期：热门舞蹈作品第2名《不惜时光》](https://www.bilibili.com/video/BV15S4y1p72r/?is_story_h5=false&p=1&share_from=ugc&share_medium=android&share_plat=android&share_session_id=19953a1c-8a92-4f5a-bbad-fcc9b610135f&share_source=WEIXIN&share_tag=s_i&timestamp=1665920296&unique_k=w5es5ZX&vd_source=b26625da23e4e975626bfc502c6ed382)
 
@@ -476,9 +464,7 @@
 
 链接：[【宁愿】大梦一场，会让你想起花瓣雨吗～《梦华录》不惜时光](https://b23.tv/80jtyzR)
 
-
 ## 歌曲《梦华》 原唱：刘宇宁
-
 
 ### 敖定雯 芭蕾版
 
@@ -505,6 +491,7 @@
 * [【古筝】纯筝翻奏《梦华》——梦华录片头曲（附谱）](https://b23.tv/JtUv303)
 
 ### 琵琶版
+
 * [冬至 | 琵琶版《梦华》](http://xhslink.com/blxtbl)
 
 ### 长笛版
@@ -516,9 +503,7 @@
 
 * [【小沛弹扬琴的作品】扬琴演绎 # 梦华录 片头曲《# 梦华》](https://v.douyin.com/MAuQvBv/)
 
-
 ## 歌曲《红杏枝头春意闹》 原唱：银临
-
 
 ### 简介
 
@@ -533,20 +518,8 @@
 
 * [【翻唱】《梦华录》插曲《红杏枝头春意闹》交作业！谁不爱看神仙姐姐谈恋爱呢！](https://b23.tv/vKJilCf)
 
-
 ## 杭州青年合唱团 原创新作《梦华》
-
 
 > 灵感源自刘亦菲主演的《梦华录》
 
 * [杭州青年合唱团 《梦华》](https://m.weibo.cn/6249140991/4795063475112823)
-
-
-
-
-
-
-
-
-
-

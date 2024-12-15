@@ -4,9 +4,6 @@
 
 台词相关的书法二创作品请见: [二创/书法](/re-creation/calligraphy)
 
-
-
-
 ## 富贵迷人眼
 
 ![](/image/discuss/lines/dj-2.jpg)
@@ -14,12 +11,10 @@
 ![](/image/discuss/lines/dj-4.jpg)
 ![](/image/discuss/lines/dj-1.jpg)
 
-
-
-
 部分讨论/引用截取:
+
 * [@江苏影视频道 | 富贵迷人眼，情深不堪许。](https://weibo.com/1924697567/MdrdDDi8T)
-* [微博视频 | 都市频道 | #东京梦华录中的巨幅石壁画被发现# ](https://m.weibo.cn/status/4818705173450077?sourceType=weixin&from=10C9595060&wm=9006_2001&featurecode=newtitle)
+* [微博视频 | 都市频道 | #东京梦华录中的巨幅石壁画被发现#](https://m.weibo.cn/status/4818705173450077?sourceType=weixin&from=10C9595060&wm=9006_2001&featurecode=newtitle)
 * [MINGR明牌珠宝 | 宝萃珍华｜东“金”真是富贵迷人眼](https://mp.weixin.qq.com/s/HU7-2AtdysTI6WpthF_knw)
 * [柏屋舞蹈 | “富贵迷人眼的东京”《梦华录》里，比刘亦菲更好看的，是北宋美学](https://mp.weixin.qq.com/s/fjVUdqHvRSlwZ3DtqKnVPA)
 * [游汴梁 | “东京真是富贵迷人眼” 快来跟随《梦华录》一起赏开封之美吧](https://mp.weixin.qq.com/s/N2QFxXYKrnv9QdzbNDudKg)
@@ -35,7 +30,6 @@
 
 ![](/image/discuss/lines/xy-2.jpg)
 
-
 因讨论非常之多，本文只收录部分文章:
 
 * [瑞丽服饰美容 | 各位刘亦菲，竟然有人说你是“乡野村妇”！](https://mp.weixin.qq.com/s/4UD7pGnEtT6c8S4e9-UzNA)
@@ -44,15 +38,10 @@
 * [新浪时尚 | “乡野村妇”赵盼儿杀疯啦！](https://mp.weixin.qq.com/s/L6BHg3innjWqK0l6zRKlWw)
 * [乡村复兴论坛 | 做梦都想成为“乡野村妇”：](https://mp.weixin.qq.com/s/ZQdkG6ejPlsR4l76mUNsXg)
 
-
-
-
-
 ## 倾盖如故，白头如新
 
 ![](/image/discuss/lines/qg.jpg)
 ![](/image/discuss/lines/bt.jpg)
-
 
 讨论较多，截取部分:
 
@@ -64,8 +53,8 @@
 * [孔夫子读书 | 《梦华录》：白头如新，倾盖如故](https://mp.weixin.qq.com/s/yg0Ew2fgQXQiQjbSHbN64g)
 * [亚平宁的风 | 古人曰：“ 白头如新，倾盖如故。”](https://mp.weixin.qq.com/s/QRYNiBH9Kkl6DQzjL7Q7_g)
 
-
 ## 女子贵自立
+
 剧中赵盼儿台词，完整语句为 `女子贵自立，一旦想要依靠别人，就有了弱点。`
 
 ![](/image/discuss/lines/zili.jpg)
@@ -78,7 +67,6 @@
 * [微博 | 咪咕放映厅 | #清醒大女主发言](https://share.api.weibo.cn/share/344615265,4829616928197735.html?weibo_id=4829616928197735)
 * [有书 | 有福气的女人，身上有这4个特征，发现一个，就要恭喜了](https://mp.weixin.qq.com/s/KkDYV85leYZwpMPQxDF5IQ)
 
-
 剧外，赵盼儿的扮演者刘亦菲在采访中也多次说到自己对女性的一些看法，其中有类似的 `女性独立则天地宽`的表述，在剧外广为认知，与剧中台词也有异曲同工之妙。
 
 * [视频 | 刘亦菲关于女性的访谈：最重要的就是独立和梦想](https://www.bilibili.com/video/BV1Ru411D7mN/?share_source=copy_web&vd_source=f736773e8cd672da4192a42087bfe36c)
@@ -89,9 +77,7 @@
 * [中青网文娱：这世上的人就像是三娘做的一口酥一样，表面上看起来都差不多，可是里面有上千层，只有亲自尝过了，才知道里面是什么滋味。](https://m.weibo.cn/status/4803951705195028)
 * [央视网文娱：无论是身在钱塘山畔、还是身在江边里，只要茶汤香凝悠远，便自然会有赏茶之人。](https://m.weibo.cn/status/4787795245928945)
 
-
 ## 何四相关
-
 
 ### 何四在人间
 
@@ -102,7 +88,6 @@
 ## 雷司公相关
 
 ![](/image/discuss/lines/lsg.jpg)
-
 
 ## 萧谓相关
 

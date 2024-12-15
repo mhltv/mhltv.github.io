@@ -4,7 +4,6 @@
 
 ## 央视节目
 
-
 ### CCTV-2 《是真的吗》
 
 链接： [《梦华录》中的紫苏饮可开胃降暑吗？](https://b23.tv/n1iFV1j)
@@ -13,17 +12,14 @@
 
 [津门水街宋代文化畅游活动](https://weibo.com/6266927357/Nf1ofiNVN?refer_flag=1001030103_)
 
-
 ### CCTV-3 《一馔前年》
 
 ![](/image/discuss/tv/cctv3.jpg)
 ![](/image/discuss/tv/cctv3-1.jpg)
 
-
- 
 ### CCTV-4 《传奇中国节·中秋节》特别节目
 
-> 河南开封：梦回大宋过中秋   
+> 河南开封：梦回大宋过中秋
 
 > 主持人讲到：“今年火遍全网的《梦华录》里呈现的宋朝茶点文化令人垂涎，那么宋人吃什么样的月饼呢，那我们就来看看他们的风雅日常......（从两小时34分开始）
 
@@ -38,6 +34,7 @@
 ### CCTV-6 《中国电影报道》
 
 链接：
+
 * [象山影视城打造大宋奇妙夜](https://m.weibo.cn/status/4803909639997113?wm=3333_2001&from=10C6093010&sourcetype=weixin&featurecode=newtitle&refer_uri_app=douban%3A%2F%2Fdouban.com%2Fgroup%2Ftopic%2F273196336%3Fgroup_id%3D732888%26user_id%3D181258063%26refer%3Ddouban%253A%252F%252Fdouban.com%252Fgroup%252F732888%252Fsearch)
 * [配角也能放光芒 张晓谦《梦华录》用心诠释迂腐杜夫子](https://www.1905.com/video/play/1582440.shtml)
 
@@ -48,9 +45,9 @@
 ### CCTV-6《1905电影网》
 
 链接：
+
 * [《梦华录》的成功离不开她们](https://yspapp.cn/pjG)
 * [光影中的国风之美(3:06-3:37分)](https://www.1905.com/video/play/1596200.shtml)
-
 
 ### CCTV-8 《诗话元宵》
 
@@ -61,7 +58,6 @@
 
 链接: [《星推荐》 20230205 诗话元宵](https://tv.cctv.com/2023/02/05/VIDEYO077YoUoeaIpAZMSIZV230205.shtml?srcfrom=baidualading&event2=bdtg_pc_hkafjzpq)
 
-
 ### CCTV-9《画里有话》第3集：文会图
 
 链接： [《梦华录》同款宋朝点茶，详细过程大公开！](https://yspapp.cn/1w5)
@@ -69,12 +65,11 @@
 ### CCTV-15 《影视留声机》
 
 链接：
+
 * [《不惜时光》-张靓颖](https://video.weibo.com/show?fid=1034:4793466690142249)
 * [《梦华》-刘宇宁](https://tv.cctv.com/2022/07/10/VIDE0a9mUgM0INtEaTrKI5Pt220710.shtml):`指路约55:50处`
 
-
 ## 卫视及地方台
-
 
 ### 浙江卫视 《今日评说》
 
@@ -141,7 +136,7 @@
 
 链接: [第五百一十四期丨走进汉服小课堂，探索褙子的秘密](https://m.weibo.cn/6413529273/4826195277119845)
 
-### 武汉广播电视台 
+### 武汉广播电视台
 
 * [主播舜泽：拯救“剧荒”的古装剧](https://weibo.com/1774215272/LyKhE8tGn)
 
@@ -151,7 +146,6 @@
 
 * [《梦华录》刘亦菲点茶是如何做的？快跟主播攀攀一起学“点茶”吧！](https://mp.weixin.qq.com/s/Bo5Bgwg4HV6Aor2nHSL6wA)
 
-
 ### 厦门电视 《海峡导报》
 
 ![](/image/discuss/tv/xia-2.jpg)
@@ -159,20 +153,15 @@
 
 梦华录仿妆及点茶活动。
 
-
 相关活动报道: [活动回顾 | 鹭岛汉服节·元夕之约圆满落幕！与采桑枝一起欢欢喜喜闹元宵！](https://mp.weixin.qq.com/s/4bz7wPWc4KPTXlyRxyN-dg)
 
-
 ## 财经节目
-
 
 ### 《王冠红人馆》20220618
 
 链接: [旅游、糕点、汉服……《梦华录》带火了多少个产业？](https://yspapp.cn/pjE)
 
-
 ## 纪录片
-
 
 ### CCTV纪录
 
@@ -186,13 +175,12 @@
 
 链接： [梦华录同款宋韵茶歇](https://mhudong.cztv.com/264301#/detail?id=62898)
 
-
-## 广播节目 
-
+## 广播节目
 
 ### 中央人民广播电台 央广文艺之声《文化聊吧》
 
 链接：
+
 * [从《东京梦华录》与《赵盼儿风月救风尘》看宋代市民文化”（共五集）](https://weibo.com/1453987563/LBABtsaUl)
 * [第一集](https://ytweb.radio.cn/share/albumPlay?correlateId=1852211&columnId=15682083075190&appUuid=57647dc5-dceb-4253-8dc6-40411dabdcc2)
 * [第二集](https://ytweb.radio.cn/share/albumPlay?correlateId=1853642&columnId=15682083075190&appUuid=57647dc5-dceb-4253-8dc6-40411dabdcc2)
@@ -204,22 +192,19 @@
 
 链接： [《运河之上》带您走进《梦华录》，品味宋朝生活的别样精彩](https://weibo.com/1747728084/LAT9NrK0D)
 
-
 ## 系列剧
-
 
 ### 杭州电视台综合频道《夜宴上塘》系列剧
 
 链接：
+
 * [第一回](https://m.weibo.cn/1727386613/4815844557982620)
 * [第二回](https://m.weibo.cn/1727386613/4816824400612651)
 * [第三回](https://m.weibo.cn/1727386613/4817970250910511)
 
-
 ## 科普视频
 
-
-### 腾讯视频 《赵冬梅讲宋史》 
+### 腾讯视频 《赵冬梅讲宋史》
 
 链接： [赵冬梅讲《梦华录》背后的宋史细节](https://m.v.qq.com/x/m/play?vid=f3340hkc2if&cid=mzc00200oiy8g7q&url_from=share&second_share=0&share_from=copy)
 
@@ -238,6 +223,7 @@
 ### 江南派FM
 
 链接：
+
 * [江南派FM对话古代音乐专家赵维平，走进宋引章同款琵琶。](https://weibo.com/1941349302/LyhD6fzM0)
 * [你愿意活在梦华录中吗](https://weibo.com/1941349302/Lx2LnlTNn)
 
@@ -246,9 +232,7 @@
 * [第04集：从《梦华录》谈刘亦菲宋代花魁装](https://v.qq.com/x/cover/mzc002002v8pevv/s3360odk0bo.html)
 `更新至第6集，其中04、05、06集为梦华录相关`
 
-
 ## 综艺节目
-
 
 ### 腾讯视频 《跃上高阶职场》第4期下
 
@@ -289,7 +273,7 @@
 
 链接： [第四期：柳岩讲刘亦菲片场摔倒趣事](https://m.v.qq.com/x/m/play?vid=j0043hbfdyj&cid=mzc0020055dn33d&url_from=share&second_share=0&share_from=copy)
 
-###  东方卫视+芒果TV 《打卡吧！吃货团第二季》
+### 东方卫视+芒果TV 《打卡吧！吃货团第二季》
 
 > 杨迪：“来，我们点那个《梦华录》”
 
@@ -316,9 +300,7 @@
 
 链接：[柳岩微博： 足球前身源于中国的蹴鞠，古代蹴鞠除了有各种不同的名称还有多样的趣味玩法](https://weibo.com/1644461042/McqnS6G4x?refer_flag=1001030103_)
 
-
 ## 探访纪实节目
-
 
 ### 东南卫视&海峡卫视&人民视频 联合出品的大型青春榜样人物探访纪实节目《信仰的力量》
 
@@ -327,7 +309,6 @@
 ![](/image/discuss/xydll.jpg)
 
 链接： [《信仰的力量 第二季》 第1集 探寻深海，捍卫中国能源钥匙](https://b23.tv/ep675067)：`视频指路，第一集大概十分的位置`
-
 
 ## 招商银行app直播
 

@@ -6,7 +6,6 @@
 
 ![](/image/discuss/education/gongkao.jpg)
 
-
 ## 教资
 
 > 教资科一文化素养题，文思豆腐
@@ -19,7 +18,6 @@
 > 用民法打开梦华录
 ![](/image/discuss/education/fakao.jpg)
 
-
 ## 语文
 
 ![](/image/discuss/education/jilei.jpg)
@@ -29,11 +27,9 @@
 2023年北京市丰台区高三期末统考多文本阅读:
 ![](/image/discuss/education/yuwen-2.webp)
 
-
 ## 历史
 
 ![](/image/discuss/education/his.jpg)
-
 
 ## 英语
 
@@ -45,8 +41,6 @@
 
 > 浙江省十校联盟2022年10月政治试题卷
 ![](/image/discuss/education/zhengzhi.png)
-
-
 
 ## 考点总结
 
@@ -72,9 +66,6 @@
 > 翻译硕士MTI
 
 ![](/image/discuss/education/kaoyankaodian.jpg)
-
-
-
 
 ## 其他
 
