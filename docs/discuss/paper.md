@@ -26,6 +26,16 @@
 * [21世纪英文报 | 年底了，这个盘点你一定要读！](https://mp.weixin.qq.com/s/pN7iSOohYflAx_SFq6A_5A)
 * [100 个热词了解新时代中国 中文版/ 英文版/中英版](https://shop43272614.m.youzan.com/wscgoods/detail/2g0clrasdw8hq74)
 
+
+### 《影视项目运作案例研究》
+
+> 本书为上海交大教材
+![](/image/discuss/books/book-case-cover-1.jpg)
+![](/image/discuss/books/book-case-2.jpg)
+![](/image/discuss/books/book-case-3.jpg)
+
+
+
 ### 《笔墨当随时代》
 
 > 本书分为上、下两册，选编了“浙江宣传”微信公众号自2022年5月30日上线以来至9月6日成立百日期间推出的202篇原创文章，内容原汁原味，涵盖理论洞见、传统文化、媒体锐评等多个领域，全面生动呈现了“浙江宣传”微信公众号的文章风格。此外，同步推出音频书和电子书，满足读者不同的阅读需求。
