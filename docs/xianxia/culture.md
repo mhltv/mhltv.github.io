@@ -15,6 +15,8 @@
 * [中国新闻网 | 新古典国风歌剧《梦华录》在上海首演](https://www.chinanews.com.cn/cul/2025/03-28/10390847.shtml)
 * [澎湃 | 《梦华录》化身新古典国风歌剧，书写闪光“她力量”](https://www.thepaper.cn/newsDetail_forward_29629303)
 * [文汇报 | 以国风古韵激活原创歌剧新生机 新古典国风歌剧《梦华录》明年三月在沪上演](https://www.xinhuanet.com/ent/20241213/a5d96bef3b2447c5b26b9585d6f4fdaf/c.html)
+* [新民艺评 | 江雁：国风不古板，歌剧更亲民——从《梦华录》看歌剧的柔性转身](https://mp.weixin.qq.com/s/hy76XeNH0qTz-lag7hQsgg?scene=1)
+* [复旦校报 | 首期美育实践联袂新古典国风歌剧《梦华录》](https://news.fudan.edu.cn/2025/0413/c3282a144954/page.htm)
 
 ## 非遗
 
