@@ -100,7 +100,9 @@
 
 ### 解放日报
 
-[《梦华录》：古偶应作绝句诗](https://www.jfdaily.com/staticsg/res/html/journal/detail.html?date=2022-06-16&id=334964&page=06)
+* [《梦华录》：古偶应作绝句诗](https://www.jfdaily.com/staticsg/res/html/journal/detail.html?date=2022-06-16&id=334964&page=06)
+* [2025-04 | 优质影视IP变身歌剧　不让观众“站在雾里看走马灯”](https://www.shobserver.com/journal/article/share?id=431958)
+
 
 ### 工人日报
 
