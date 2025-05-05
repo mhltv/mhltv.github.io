@@ -146,6 +146,15 @@
 ![](/image/xianxi/sichuandiancha.jpg)
 [链接](https://mp.weixin.qq.com/s/_Ew0kyVSz_BoKfUlpMcFTA)
 
+
+### 13. 2025上海 "无由茶会"
+![](/image/xianxi/2025-diancha-sh.jpg)
+
+> 5月1日至5月5日，浦东新区金海路18号天物空间化身为文化艺术殿堂，一场“无由茶会”在此举行，歌剧《梦华录》艺术指导、上海市非物质文化遗产代表性项目“茶艺”传承人曾红，与全国43位茶艺师一起，以茶为媒，为市民游客打造可品、可赏、可游的“生活版《梦华录》”。
+
+[上观新闻 | 年轻人小长假里跟着《梦华录》茶艺师学习宋代风雅](https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=904093)
+
+
 ## 旅游景点
 
 ### 广东：遇见西关版《梦华录》
