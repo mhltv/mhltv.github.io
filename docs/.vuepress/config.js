@@ -303,7 +303,7 @@ module.exports = {
     'reading-progress',
     '@vuepress/active-header-links',
     ['sitemap', {
-      hostname: 'https://mhlyf.cc'
+      hostname: 'https://mhltv.github.io'
     }]
   ]
 }
