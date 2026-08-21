@@ -1,0 +1,23 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticleLayout from '../layouts/ArticleLayout.astro';
+import { sections } from '../config';
+import { toSlug, titleOf, sectionBySlug } from '../lib/content';
+
+export async function getStaticPaths() {
+  const docs = await getCollection('docs');
+  return docs.map((entry) => {
+    const slug = toSlug(entry.id);
+    return { params: { slug }, props: { entry } };
+  });
+}
+
+const { entry } = Astro.props;
+const slug = toSlug(entry.id);
+const section = sectionBySlug(slug, sections);
+const { Content } = await render(entry);
+const title = titleOf(entry.body, section?.navTitle ?? '梦华录');
+---
+<ArticleLayout entry={entry} section={section} title={title}>
+  <Content />
+</ArticleLayout>

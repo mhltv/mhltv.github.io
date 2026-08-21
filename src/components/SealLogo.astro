@@ -1,0 +1,21 @@
+---
+interface Props {
+  size?: number;
+  className?: string;
+  chars?: string;
+}
+const { size = 46, className = '', chars = '梦华录' } = Astro.props;
+const list = chars.split('').slice(0, 3);
+---
+<span
+  class={`seal ${className}`}
+  style={`width:${size}px;height:${size}px;font-size:${Math.round(size * 0.32)}px`}
+  aria-hidden="true"
+>
+  <span class="grid grid-cols-2 place-items-center leading-none" style="letter-spacing:0.02em">
+    <span>{list[0]}</span>
+    <span>{list[1]}</span>
+    <span>{list[2]}</span>
+    <span style="font-size:0.45em;opacity:0.85">·</span>
+  </span>
+</span>

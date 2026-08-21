@@ -1,0 +1,86 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Sidebar from '../components/Sidebar.astro';
+import type { Section } from '../config';
+import type { CollectionEntry } from 'astro:content';
+import { buildTitleMap, hrefFor } from '../lib/content';
+
+interface Props {
+  entry: CollectionEntry<'docs'>;
+  section?: Section;
+  title: string;
+}
+
+const { entry, section, title } = Astro.props;
+
+let prev: { href: string; title: string } | undefined;
+let next: { href: string; title: string } | undefined;
+
+if (section) {
+  const titleMap = await buildTitleMap();
+  const order = section.children.map((c) =>
+    (c === '' ? `${section.folder}/readme` : `${section.folder}/${c}`).toLowerCase()
+  );
+  const idx = order.indexOf(entry.id.toLowerCase());
+  if (idx > 0) {
+    const prevChild = section.children[idx - 1];
+    const prevId = prevChild === '' ? `${section.folder}/readme` : `${section.folder}/${prevChild}`;
+    prev = { href: hrefFor(section.folder, prevChild), title: titleMap.get(prevId.toLowerCase()) ?? prevChild };
+  }
+  if (idx >= 0 && idx < order.length - 1) {
+    const nextChild = section.children[idx + 1];
+    const nextId = nextChild === '' ? `${section.folder}/readme` : `${section.folder}/${nextChild}`;
+    next = { href: hrefFor(section.folder, nextChild), title: titleMap.get(nextId.toLowerCase()) ?? nextChild };
+  }
+}
+---
+<BaseLayout title={title}>
+  <div class="mx-auto flex max-w-7xl gap-8 px-4 sm:px-6">
+    <Sidebar section={section} activeSlug={entry.id} />
+
+    <main class="min-w-0 flex-1 py-8">
+      <nav class="mb-5 flex items-center gap-2 text-sm text-ink-faint">
+        <a href="/" class="transition-colors hover:text-cinnabar">首页</a>
+        <span>/</span>
+        {section ? (
+          <a href={`/${section.folder}/`} class="transition-colors hover:text-cinnabar">
+            {section.navTitle}
+          </a>
+        ) : (
+          <span>梦华录</span>
+        )}
+      </nav>
+
+      <article class="prose">
+        <slot />
+      </article>
+
+      {prev || next ? (
+        <div class="mt-12 grid grid-cols-2 gap-4 border-t border-paper-deep pt-6">
+          {prev ? (
+            <a
+              href={prev.href}
+              class="block rounded-lg border border-paper-deep bg-paper-card p-4 transition-colors hover:border-gold"
+            >
+              <div class="text-xs text-ink-faint">← 上一篇</div>
+              <div class="mt-1 text-[15px] font-bold text-ink">{prev.title}</div>
+            </a>
+          ) : (
+            <span />
+          )}
+          {next ? (
+            <a
+              href={next.href}
+              class="block rounded-lg border border-paper-deep bg-paper-card p-4 text-right transition-colors hover:border-gold"
+            >
+              <div class="text-xs text-ink-faint">下一篇 →</div>
+              <div class="mt-1 text-[15px] font-bold text-ink">{next.title}</div>
+            </a>
+          ) : (
+            <span />
+          )}
+        </div>
+      ) : null}
+    </main>
+  </div>
+</BaseLayout>

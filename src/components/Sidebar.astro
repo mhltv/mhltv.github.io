@@ -1,0 +1,51 @@
+---
+import type { Section } from '../config';
+import { buildTitleMap, hrefFor } from '../lib/content';
+
+interface Props {
+  section?: Section;
+  activeSlug: string;
+}
+
+const { section, activeSlug } = Astro.props;
+const titleMap = await buildTitleMap();
+
+function isActive(folder: string, child: string) {
+  const target = child === '' ? `${folder}/readme` : `${folder}/${child}`;
+  return activeSlug.toLowerCase() === target.toLowerCase();
+}
+---
+{
+  section && (
+    <aside class="hidden w-56 shrink-0 py-8 lg:block">
+      <nav class="sticky top-24 max-h-[calc(100vh-7rem)] overflow-y-auto pr-2">
+        <div class="mb-4 flex items-center gap-2">
+          <span class="seal" style="width: 22px; height: 22px; font-size: 11px">录</span>
+          <h2 class="font-kai text-lg font-bold tracking-widest text-ink">{section.sidebarTitle}</h2>
+        </div>
+        <ul class="space-y-0.5 border-l border-paper-deep">
+          {section.children.map((child) => {
+            const id = child === '' ? `${section.folder}/readme` : `${section.folder}/${child}`;
+            const title = titleMap.get(id.toLowerCase()) ?? (child === '' ? section.sidebarTitle : child);
+            const active = isActive(section.folder, child);
+            return (
+              <li>
+                <a
+                  href={hrefFor(section.folder, child)}
+                  class:list={[
+                    '-ml-px block border-l-2 py-1 pl-3 text-[15px] transition-colors',
+                    active
+                      ? 'border-cinnabar font-bold text-cinnabar'
+                      : 'border-transparent text-ink-soft hover:border-gold hover:text-ink',
+                  ]}
+                >
+                  {title}
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+      </nav>
+    </aside>
+  )
+}

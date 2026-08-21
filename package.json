@@ -1,29 +1,22 @@
 {
   "name": "mhltv",
-  "version": "0.0.1",
-  "description": "wiki for menghualu",
-  "main": "index.js",
-  "authors": {
-    "name": "Hang",
-    "email": "hang.yan@hotmail.com"
-  },
-  "repository": "git@github.com:mhltv/mhltv.github.io.git/mhltv",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "关于刘亦菲与《梦华录》的一切, 防止岁月史书",
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
-  },
-  "license": "MIT",
-  "devDependencies": {
-    "@vuepress/plugin-active-header-links": "^1.9.7",
-    "@vuepress/plugin-back-to-top": "^1.9.7",
-    "vuepress": "^1.5.3",
-    "vuepress-plugin-baidu-autopush": "^1.0.1"
+    "dev": "astro dev",
+    "build": "astro build && pagefind --site dist",
+    "preview": "astro preview",
+    "astro": "astro"
   },
   "dependencies": {
-    "vuepress-plugin-reading-progress": "^1.0.10",
-    "vuepress-plugin-sitemap": "^2.3.1",
-    "vuepress-theme-book": "^0.0.9"
+    "@astrojs/markdown-remark": "^7.2.4",
+    "@astrojs/sitemap": "^3.7.3",
+    "@tailwindcss/vite": "^4.3.3",
+    "astro": "^7.2.4",
+    "pagefind": "^1.5.2",
+    "sharp": "^0.35.3",
+    "tailwindcss": "^4.3.3"
   }
 }

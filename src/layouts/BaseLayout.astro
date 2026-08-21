@@ -1,0 +1,70 @@
+---
+import '../styles/global.css';
+import { siteInfo } from '../config';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import ReadingProgress from '../components/ReadingProgress.astro';
+import BackToTop from '../components/BackToTop.astro';
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+}
+
+const { title, description, image } = Astro.props;
+const pageTitle = title ? `${title} · ${siteInfo.title}` : siteInfo.title;
+const pageDesc = description ?? siteInfo.description;
+const pageImage = image ?? siteInfo.heroImage;
+const ogUrl = new URL(pageImage, Astro.site);
+---
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={pageDesc} />
+    <meta name="keywords" content={siteInfo.keywords} />
+    <meta name="baidu-site-verification" content="code-zD3j0sQS0X" />
+    <meta name="google-site-verification" content="81ucDeKwQIKLDEPiLA9RbPvuOoGKEY2ORcjK-7NBOkA" />
+    <meta name="theme-color" content="#a63a2b" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={pageDesc} />
+    <meta property="og:image" content={ogUrl} />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="icon" href="/favicon.ico" />
+    <script is:inline>
+      var _hmt = _hmt || [];
+      (function () {
+        var hm = document.createElement('script');
+        hm.src = 'https://hm.baidu.com/hm.js?108a67e589574ed7c77e2710083413dc';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(hm, s);
+      })();
+    </script>
+    <script is:inline>
+      (function () {
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+          bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        } else {
+          bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(bp, s);
+      })();
+    </script>
+  </head>
+  <body>
+    <ReadingProgress />
+    <Header />
+    <slot />
+    <Footer />
+    <BackToTop />
+  </body>
+</html>

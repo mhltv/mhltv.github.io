@@ -1,0 +1,18 @@
+---
+---
+<div id="reading-progress" class="fixed inset-x-0 top-0 z-50 h-0.5 bg-transparent">
+  <div class="h-full bg-cinnabar" style="width: 0%"></div>
+</div>
+
+<script>
+  const bar = document.querySelector('#reading-progress > div') as HTMLElement | null;
+  function update() {
+    if (!bar) return;
+    const h = document.documentElement.scrollHeight - window.innerHeight;
+    const p = h > 0 ? (window.scrollY / h) * 100 : 0;
+    bar.style.width = p + '%';
+  }
+  window.addEventListener('scroll', update, { passive: true });
+  window.addEventListener('resize', update);
+  update();
+</script>

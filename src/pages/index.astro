@@ -1,0 +1,111 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SealLogo from '../components/SealLogo.astro';
+import { sections, siteInfo } from '../config';
+import { getCollection } from 'astro:content';
+
+const docs = await getCollection('docs');
+const counts = new Map<string, number>();
+for (const d of docs) {
+  const sec = d.id.split('/')[0];
+  counts.set(sec, (counts.get(sec) ?? 0) + 1);
+}
+---
+<BaseLayout>
+  <main>
+    <section class="relative overflow-hidden">
+      <div
+        class="pointer-events-none absolute inset-0 opacity-25"
+        style="background: radial-gradient(ellipse at 15% 0%, #b08d4f 0%, transparent 50%), radial-gradient(ellipse at 90% 100%, #a63a2b 0%, transparent 45%)"
+      ></div>
+
+      <div class="relative mx-auto grid max-w-7xl items-center gap-12 px-4 py-16 sm:px-6 lg:grid-cols-2 lg:py-20">
+        <div class="text-center lg:text-left">
+          <div class="mb-7 flex items-center justify-center gap-4 lg:justify-start">
+            <SealLogo size={62} />
+            <div class="text-left">
+              <h1 class="font-kai text-4xl font-bold tracking-[0.2em] text-ink">梦华录</h1>
+              <p class="mt-1.5 text-xs tracking-[0.3em] text-ink-faint">A DREAM OF SPLENDOR · 2022</p>
+            </div>
+          </div>
+
+          <p class="font-kai text-xl text-cinnabar">「{siteInfo.tagline}」</p>
+          <p class="mx-auto mt-5 max-w-xl text-[15px] leading-relaxed text-ink-soft lg:mx-0">
+            关于刘亦菲与《梦华录》的一切，防止岁月史书。从剧情、科普到数据与奖项，记录一部好剧留下的所有痕迹。
+          </p>
+
+          <div class="mt-9 flex flex-wrap justify-center gap-4 lg:justify-start">
+            <a
+              href="/discuss/"
+              class="rounded border-2 border-cinnabar bg-cinnabar px-9 py-2.5 tracking-widest text-paper-card transition-colors hover:bg-cinnabar-light"
+            >
+              进入 →
+            </a>
+            <a
+              href="/award/"
+              class="rounded border-2 border-ink-soft/30 px-9 py-2.5 tracking-widest text-ink-soft transition-colors hover:border-cinnabar hover:text-cinnabar"
+            >
+              获奖荣誉
+            </a>
+          </div>
+        </div>
+
+        <div class="relative mx-auto w-full max-w-md">
+          <div class="absolute -inset-3 rounded-lg border border-gold/50"></div>
+          <div class="absolute -inset-3 rounded-lg border border-cinnabar/20" style="transform: translate(6px, 6px)"></div>
+          <img
+            src={siteInfo.heroImage}
+            alt="《梦华录》官方海报"
+            class="relative w-full rounded-md shadow-xl"
+            loading="eager"
+          />
+        </div>
+      </div>
+
+      <div class="huwen"></div>
+    </section>
+
+    <section class="mx-auto max-w-7xl px-4 py-14 sm:px-6">
+      <h2 class="mb-8 flex items-center gap-3 font-kai text-2xl font-bold tracking-widest text-ink">
+        <span class="seal" style="width: 26px; height: 26px; font-size: 12px">荣</span>
+        荣耀时刻
+      </h2>
+      <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        {siteInfo.features.map((f) => (
+          <div class="rounded-lg border border-paper-deep bg-paper-card p-5 shadow-sm transition-shadow hover:shadow-md">
+            <div class="mb-2 flex items-center gap-2">
+              <span class="h-2 w-2 rounded-full bg-cinnabar"></span>
+              <h3 class="font-bold text-ink">{f.title}</h3>
+            </div>
+            <p class="text-sm leading-relaxed text-ink-soft">{f.details}</p>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section class="mx-auto max-w-7xl px-4 pb-16 sm:px-6">
+      <h2 class="mb-8 flex items-center gap-3 font-kai text-2xl font-bold tracking-widest text-ink">
+        <span class="seal" style="width: 26px; height: 26px; font-size: 12px">目</span>
+        栏目一览
+      </h2>
+      <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        {sections.map((s) => (
+          <a
+            href={`/${s.folder}/`}
+            class="group rounded-lg border border-paper-deep bg-paper-card p-5 shadow-sm transition-all hover:-translate-y-0.5 hover:border-gold hover:shadow-md"
+          >
+            <div class="flex items-center justify-between">
+              <h3 class="font-kai text-lg font-bold tracking-wider text-ink group-hover:text-cinnabar">
+                {s.navTitle}
+              </h3>
+              <span class="rounded-full bg-paper-deep px-2.5 py-0.5 text-xs text-ink-faint">
+                {counts.get(s.folder) ?? 0} 篇
+              </span>
+            </div>
+            <p class="mt-2 text-sm leading-relaxed text-ink-soft">{s.desc}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+  </main>
+</BaseLayout>

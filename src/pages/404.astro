@@ -1,0 +1,16 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="页面不存在">
+  <main class="mx-auto flex min-h-[55vh] max-w-xl flex-col items-center justify-center px-4 py-24 text-center">
+    <div class="seal mb-6" style="width: 76px; height: 76px; font-size: 24px">404</div>
+    <h1 class="font-kai text-2xl font-bold tracking-widest text-ink">此页已随风而去</h1>
+    <p class="mt-4 text-ink-soft">页面不存在或链接已经更新，不妨回到首页看看。</p>
+    <a
+      href="/"
+      class="mt-9 rounded border-2 border-cinnabar bg-cinnabar px-9 py-2.5 tracking-widest text-paper-card transition-colors hover:bg-cinnabar-light"
+    >
+      回到首页
+    </a>
+  </main>
+</BaseLayout>

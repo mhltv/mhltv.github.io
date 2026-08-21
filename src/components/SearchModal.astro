@@ -1,0 +1,102 @@
+---
+---
+<div id="search" class="relative">
+  <button
+    id="search-open"
+    class="flex items-center gap-2 rounded-full border border-paper-deep bg-paper-card px-4 py-1.5 text-sm text-ink-soft transition-colors hover:border-cinnabar hover:text-cinnabar"
+  >
+    <span class="text-base leading-none" aria-hidden="true">🔍</span>
+    <span>搜索</span>
+  </button>
+
+  <div id="search-modal" class="fixed inset-0 z-50 hidden" role="dialog" aria-modal="true">
+    <div class="absolute inset-0 bg-ink/40" data-search-close></div>
+    <div class="relative mx-auto mt-24 w-[92%] max-w-2xl overflow-hidden rounded-lg border border-paper-deep bg-paper-card shadow-2xl">
+      <div class="flex items-center gap-3 border-b border-paper-deep px-5 py-4">
+        <span class="text-ink-faint" aria-hidden="true">🔍</span>
+        <input
+          id="search-input"
+          type="text"
+          autocomplete="off"
+          placeholder="搜索栏目、话题、剧集相关内容…"
+          class="flex-1 bg-transparent text-ink outline-none placeholder:text-ink-faint"
+        />
+        <button class="text-ink-faint transition-colors hover:text-cinnabar" data-search-close aria-label="关闭">✕</button>
+      </div>
+      <div id="search-results" class="max-h-[60vh] overflow-y-auto p-2"></div>
+    </div>
+  </div>
+</div>
+
+<script is:inline type="module">
+  const openBtn = document.getElementById('search-open');
+  const modal = document.getElementById('search-modal');
+  const input = document.getElementById('search-input');
+  const results = document.getElementById('search-results');
+
+  let pagefind = null;
+  async function loadPagefind() {
+    if (pagefind) return pagefind;
+    try {
+      pagefind = await import('/pagefind/pagefind.js');
+    } catch (e) {
+      console.error('pagefind load failed', e);
+      pagefind = null;
+    }
+    return pagefind;
+  }
+
+  function openSearch() {
+    if (modal) modal.classList.remove('hidden');
+    if (input) input.focus();
+    void loadPagefind();
+  }
+  function closeSearch() {
+    if (modal) modal.classList.add('hidden');
+  }
+
+  if (openBtn) openBtn.addEventListener('click', openSearch);
+  document.querySelectorAll('[data-search-close]').forEach((el) => el.addEventListener('click', closeSearch));
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeSearch();
+  });
+
+  let timer;
+  if (input) {
+    input.addEventListener('input', () => {
+      window.clearTimeout(timer);
+      timer = window.setTimeout(async () => {
+        const q = input.value.trim();
+        if (!q) {
+          if (results) results.innerHTML = '';
+          return;
+        }
+        const pf = await loadPagefind();
+        if (!pf) {
+          if (results) {
+            results.innerHTML = '<p class="p-4 text-sm text-ink-faint">搜索尚未就绪，请稍后再试</p>';
+          }
+          return;
+        }
+        const res = await pf.search(q);
+        const list = (res && res.results ? res.results : []).slice(0, 12);
+        if (!list.length) {
+          if (results) results.innerHTML = '<p class="p-4 text-sm text-ink-faint">没有找到相关内容</p>';
+          return;
+        }
+        const html = [];
+        for (const r of list) {
+          const data = await r.data();
+          const title = (data.title || (data.meta && data.meta.title) || '').replace(/\s*·\s*梦华录$/, '');
+          html.push(
+            `<a href="${data.url}" class="block rounded-md p-3 transition-colors hover:bg-paper-deep">` +
+              `<div class="text-[15px] font-bold text-ink">${title}</div>` +
+              `<div class="mt-0.5 text-sm leading-relaxed text-ink-soft">${data.excerpt || ''}</div>` +
+              `</a>`
+          );
+        }
+        if (results) results.innerHTML = html.join('');
+      }, 250);
+    });
+  }
+</script>

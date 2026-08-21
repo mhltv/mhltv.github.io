@@ -1,4 +1,5 @@
 node_modules/
+dist/
+.astro/
+.zcode/
 .netlify/
-docs/.vuepress/secret.js
-docs/.vuepress/dist/
