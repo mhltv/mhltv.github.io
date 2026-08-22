@@ -14,8 +14,8 @@
   --color-gold: #b08d4f;
 
   /* 字体栈（不加载网页字体，性能优先） */
-  --font-song: "Noto Serif SC", "Source Han Serif SC", "Songti SC", "SimSun", "STSong", serif;
-  --font-kai: "Kaiti SC", "STKaiti", "KaiTi", serif;
+  --font-song: "Songti SC", "Noto Serif CJK SC", "Source Han Serif SC", "STSong", "SimSun", "宋体", serif;
+  --font-kai: "Kaiti SC", "STKaiti", "KaiTi", "楷体", serif;
   --font-fangsong: "FangSong", "仿宋", "STFangsong", serif;
 }
 
@@ -89,7 +89,7 @@
 
   .prose h1 {
     @apply text-cinnabar;
-    font-family: var(--font-kai);
+    font-family: var(--font-song);
     font-size: 2rem;
     font-weight: 700;
     padding-bottom: 0.5rem;
@@ -99,7 +99,7 @@
   }
 
   .prose h2 {
-    font-family: var(--font-kai);
+    font-family: var(--font-song);
     font-size: 1.5rem;
     font-weight: 700;
     margin: 2.25rem 0 1rem;
